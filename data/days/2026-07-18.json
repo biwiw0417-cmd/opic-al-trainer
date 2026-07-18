@@ -1,0 +1,261 @@
+{
+  "date": "2026-07-18",
+  "question": {
+    "english": "Let's start the interview now. Please tell me about yourself. Introduce yourself in detail, including your hobbies, your current job or study, and how you usually spend your free time.",
+    "korean": "이제 인터뷰를 시작하겠습니다. 본인에 대해 소개해 주세요. 취미, 현재 하고 있는 일이나 공부, 그리고 여가를 보통 어떻게 보내는지 등을 포함하여 자세히 이야기해 주세요.",
+    "combo_context": "오픽 시험의 시작을 알리는 1번 고정 문항인 자기소개입니다. AL을 목표로 한다면 단순히 이름, 나이, 직업을 나열하는 데 그치지 않고, 자신의 성격이나 최근의 관심사, 삶의 변화 등을 자연스러운 구어체로 풀어내어 첫인상부터 채점관의 귀를 사로잡아야 합니다."
+  },
+  "model_answer": {
+    "script": "Oh, hi Eva! It's so great to finally meet you. Let me tell you a bit about myself, but instead of just reading off my resume, I really want to share who I am as a person these days.\n\nTo be honest, I used to be a total workaholic, always focusing on my career. But recently, I've realized how important it is to strike a balance in life.\n\nYou see, a year ago, I felt completely stuck in a rut. I was working long hours, going back and forth between my office and home, and honestly, I was burning out. That was a huge wake-up call. Since then, I've started to gravitate towards active hobbies that help me recharge my batteries.\n\nCurrently, I work as a software engineer, which means I'm glued to my desk all day. To balance work and life, I make it a point to hit the gym at least three times a week. Sweating it out really clears my head. On weekends, I enjoy exploring quiet local cafes, sipping a nice warm latte, and just watching people go by.\n\nLooking back, making these small changes has completely transformed my mood. I feel much more energized now. So, yeah, that’s me in a nutshell—someone who is constantly trying to live a mindful, balanced life. Thanks for listening!",
+    "structure_note": "서론(에바와의 첫인사 및 형식적인 소개 탈피 선언) → MP(과거 워커홀릭에서 현재 워라밸을 추구하게 된 변화 제시) → 디테일 1(과거 매너리즘에 빠졌던 부정적 상태 극복기) → 디테일 2(현재 직업과 이를 극복하기 위한 주중 운동 및 주말 카페 취미 활동) → 감정/생각(생활 패턴 변화가 가져다준 긍정적 효과) → 마무리(본인의 가치관 요약 및 마무리 인사)",
+    "al_points": [
+      "단순 인적사항 나열이 아닌, 과거의 워커홀릭 상태('used to be a workaholic')와 현재의 워라밸 지향적 삶을 대비시키는 '시제 대조(Past-Present Contrast)' 기법을 완벽히 소화하여 AL 수준의 논리 전개를 보여줍니다.",
+      "'stuck in a rut', 'gravitate towards', 'recharge my batteries' 등 원어민이 일상에서 즐겨 쓰는 수준 높은 구어체 결합 표현(Collocation)을 문맥 속에 자연스럽게 녹여내어 풍부한 어휘력을 증명합니다.",
+      "문장 사이사이에 'To be honest', 'You see', 'Looking back'과 같은 자연스러운 담화 표지(Discourse Markers)를 리드미컬하게 활용하여 외워서 말하는 느낌을 완전히 지웠습니다."
+    ]
+  },
+  "vocab": [
+    {
+      "word": "gravitate towards",
+      "pos": "verb",
+      "meaning": "~에 끌리다, ~를 선호하다",
+      "example": "Since then, I've started to gravitate towards active hobbies that help me recharge my batteries.",
+      "collocation": "gravitate towards creative hobbies",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "hit the gym",
+      "pos": "verb",
+      "meaning": "운동하러 가다, 체육관에 가다",
+      "example": "To balance work and life, I make it a point to hit the gym at least three times a week.",
+      "collocation": "hit the gym after work",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "recharge my batteries",
+      "pos": "verb",
+      "meaning": "재충전하다, 휴식을 취하다",
+      "example": "Since then, I've started to gravitate towards active hobbies that help me recharge my batteries.",
+      "collocation": "take a weekend trip to recharge my batteries",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "stuck in a rut",
+      "pos": "adjective",
+      "meaning": "판에 박힌 생활을 하는, 매너리즘에 빠진",
+      "example": "You see, a year ago, I felt completely stuck in a rut.",
+      "collocation": "feel stuck in a rut at work",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "balance work and life",
+      "pos": "verb",
+      "meaning": "일과 삶의 균형을 맞추다, 워라밸을 유지하다",
+      "example": "To balance work and life, I make it a point to hit the gym at least three times a week.",
+      "collocation": "struggle to balance work and life",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "strike a balance",
+      "pos": "verb",
+      "meaning": "균형을 잡다, 절충하다",
+      "example": "But recently, I've realized how important it is to strike a balance in life.",
+      "collocation": "strike a balance between work and play",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "introverted by nature",
+      "pos": "adjective",
+      "meaning": "선천적으로 내향적인, 타고나기를 내성적인",
+      "example": "Although I am introverted by nature, I really enjoy meeting close friends for a chat.",
+      "collocation": "be introverted by nature but outgoing with friends",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "couch potato",
+      "pos": "noun",
+      "meaning": "소파에 누워 주말 내내 TV만 보는 게으른 사람",
+      "example": "I used to be a total couch potato on weekends, but now I try to stay active.",
+      "collocation": "turn into a couch potato",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "career-driven",
+      "pos": "adjective",
+      "meaning": "성공 지향적인, 커리어를 중시하는",
+      "example": "I used to be extremely career-driven, but now I value my personal happiness more.",
+      "collocation": "a career-driven professional",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "find solace in",
+      "pos": "verb",
+      "meaning": "~에서 위안을 얻다",
+      "example": "In times of stress, I often find solace in listening to classical music.",
+      "collocation": "find solace in nature",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "be drawn to",
+      "pos": "verb",
+      "meaning": "~에 마음이 끌리다, 매력을 느끼다",
+      "example": "Recently, I've been drawn to peaceful outdoor activities like hiking.",
+      "collocation": "be drawn to artistic pursuits",
+      "tier": "extend",
+      "linked_word": "gravitate towards"
+    },
+    {
+      "word": "wind down",
+      "pos": "verb",
+      "meaning": "긴장을 풀고 쉬다",
+      "example": "After a stressful day at the office, I need some time to wind down.",
+      "collocation": "wind down with a good book",
+      "tier": "extend",
+      "linked_word": "recharge my batteries"
+    },
+    {
+      "word": "in a monotonous routine",
+      "pos": "adjective",
+      "meaning": "단조로운 일상에 갇힌",
+      "example": "I felt like I was trapped in a monotonous routine with no excitement.",
+      "collocation": "escape from a monotonous routine",
+      "tier": "extend",
+      "linked_word": "stuck in a rut"
+    },
+    {
+      "word": "keep physically active",
+      "pos": "verb",
+      "meaning": "신체 활동을 유지하다, 활동적으로 지내다",
+      "example": "I try to keep physically active by running along the river every morning.",
+      "collocation": "keep physically active to stay healthy",
+      "tier": "extend",
+      "linked_word": "hit the gym"
+    },
+    {
+      "word": "find comfort in",
+      "pos": "verb",
+      "meaning": "~에서 편안함을 느끼다, 위안을 얻다",
+      "example": "I find comfort in spending quality time with my family on Sundays.",
+      "collocation": "find comfort in familiar places",
+      "tier": "extend",
+      "linked_word": "find solace in"
+    }
+  ],
+  "vocab_quiz": [
+    {
+      "type": "matching",
+      "question": "다음 중 'gravitate towards'의 올바른 한국어 뜻은 무엇일까요?",
+      "choices": [
+        "~에 끌리다, ~를 선호하다",
+        "~를 강하게 거부하다",
+        "~와 마찰을 빚다",
+        "~를 신속히 끝마치다"
+      ],
+      "answer_index": 0
+    },
+    {
+      "type": "matching",
+      "question": "다음 중 'stuck in a rut'의 올바른 한국어 뜻은 무엇일까요?",
+      "choices": [
+        "매우 화가 난 상태인",
+        "판에 박힌 생활을 하는, 매너리즘에 빠진",
+        "예상치 못한 행운을 만난",
+        "새로운 도전에 들뜬"
+      ],
+      "answer_index": 1
+    },
+    {
+      "type": "matching",
+      "question": "다음 중 'couch potato'가 묘사하는 사람의 성향으로 알맞은 것은 무엇일까요?",
+      "choices": [
+        "지나치게 건강을 챙겨 채식만 고집하는 사람",
+        "요리하는 것을 정말 좋아하는 사람",
+        "매우 사교적이어서 주말마다 모임을 주도하는 사람",
+        "소파에 누워 주말 내내 TV만 보는 게으른 사람"
+      ],
+      "answer_index": 3
+    },
+    {
+      "type": "blank",
+      "question": "문맥상 빈칸에 들어갈 가장 알맞은 표현을 고르세요.\n\"To ____ work and life, I make it a point to hit the gym at least three times a week.\"",
+      "choices": [
+        "ignore",
+        "balance",
+        "separate",
+        "refuse"
+      ],
+      "answer_index": 1
+    },
+    {
+      "type": "blank",
+      "question": "문맥상 빈칸에 들어갈 가장 알맞은 표현을 고르세요.\n\"But recently, I've realized how important it is to strike a ____ in life.\"",
+      "choices": [
+        "balance",
+        "deal",
+        "pose",
+        "match"
+      ],
+      "answer_index": 0
+    },
+    {
+      "type": "synonym",
+      "question": "스크립트 속 문장 '...activities that help me recharge my batteries'에서 'recharge my batteries' 대신 사용할 수 있는 표현은 무엇일까요?",
+      "choices": [
+        "wind down",
+        "work overtime",
+        "catch up",
+        "pass out"
+      ],
+      "answer_index": 0
+    },
+    {
+      "type": "synonym",
+      "question": "스크립트 속 문장 'I've started to gravitate towards active hobbies...'에서 'gravitate towards'와 바꾸어 쓸 수 있는 가장 자연스러운 표현은 무엇일까요?",
+      "choices": [
+        "be terrified of",
+        "be drawn to",
+        "get annoyed by",
+        "keep away from"
+      ],
+      "answer_index": 1
+    }
+  ],
+  "patterns": [
+    {
+      "pattern": "Instead of just -ing, I really want to...",
+      "meaning": "그냥 ~하는 대신에, 정말로 ~하고 싶다",
+      "usage_today": "Let me tell you a bit about myself, but instead of just reading off my resume, I really want to share who I am as a person these days.",
+      "extra_example": "Instead of just staying home, I really want to go out and enjoy the sunny weather today."
+    },
+    {
+      "pattern": "I make it a point to...",
+      "meaning": "반드시 ~하다, 항상 ~하려고 의식적으로 노력하다",
+      "usage_today": "To balance work and life, I make it a point to hit the gym at least three times a week.",
+      "extra_example": "I make it a point to call my parents once a week no matter how busy I am."
+    }
+  ],
+  "review_words": [],
+  "review_patterns": [],
+  "checklist": [
+    "오늘 배운 핵심 단어(Core) 중 최소 4개 이상을 활용해 말해 보았나요?",
+    "과거(매너리즘에 빠졌던 시절)와 현재(취미와 운동을 병행하는 일상)의 시제 대비가 흔들리지 않고 명확했나요?",
+    "단순 신상 정보 나열을 넘어, 왜 그런 라이프스타일 변화가 일어났는지 구체적인 디테일을 확장했나요?",
+    "변화된 일상이 스스로에게 준 긍정적인 감정이나 소회를 마지막에 덧붙였나요?",
+    "서론과 결론을 에바와 대화하듯 편안한 구어체 톤(Oh, hi Eva! / Thanks for listening!)으로 열고 닫았나요?",
+    "답변 도중 3초 이상의 침묵이나 어색한 멈춤 없이, 'To be honest', 'You see' 등의 필러를 넣어 매끄럽게 이어갔나요?"
+  ],
+  "type": "daily",
+  "unit": 1,
+  "unit_title": "AL의 기초 체력",
+  "topic": "자기소개 (AL 버전으로 재설계)"
+}

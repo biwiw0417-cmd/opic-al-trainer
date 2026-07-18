@@ -1,0 +1,322 @@
+[
+  {
+    "unit": 1,
+    "unit_title": "AL의 기초 체력",
+    "topic": "자기소개 (AL 버전으로 재설계)",
+    "completed": true,
+    "date": "2026-07-18",
+    "briefing_url": "archive/2026-07-18/"
+  },
+  {
+    "unit": 1,
+    "unit_title": "AL의 기초 체력",
+    "topic": "답변 구조 훈련: MP–디테일–감정–마무리",
+    "completed": false,
+    "date": null,
+    "briefing_url": null
+  },
+  {
+    "unit": 1,
+    "unit_title": "AL의 기초 체력",
+    "topic": "과거 시제 서사 컨트롤",
+    "completed": false,
+    "date": null,
+    "briefing_url": null
+  },
+  {
+    "unit": 1,
+    "unit_title": "AL의 기초 체력",
+    "topic": "디스코스 마커와 필러 활용",
+    "completed": false,
+    "date": null,
+    "briefing_url": null
+  },
+  {
+    "unit": 1,
+    "unit_title": "AL의 기초 체력",
+    "topic": "과거 vs 현재 비교 문장 만들기",
+    "completed": false,
+    "date": null,
+    "briefing_url": null
+  },
+  {
+    "unit": 2,
+    "unit_title": "설문주제 I — 집과 일상",
+    "topic": "집 묘사",
+    "completed": false,
+    "date": null,
+    "briefing_url": null
+  },
+  {
+    "unit": 2,
+    "unit_title": "설문주제 I — 집과 일상",
+    "topic": "집에서의 루틴",
+    "completed": false,
+    "date": null,
+    "briefing_url": null
+  },
+  {
+    "unit": 2,
+    "unit_title": "설문주제 I — 집과 일상",
+    "topic": "집에서 있었던 기억에 남는 일 (과거 서사)",
+    "completed": false,
+    "date": null,
+    "briefing_url": null
+  },
+  {
+    "unit": 2,
+    "unit_title": "설문주제 I — 집과 일상",
+    "topic": "우리 동네와 이웃",
+    "completed": false,
+    "date": null,
+    "briefing_url": null
+  },
+  {
+    "unit": 2,
+    "unit_title": "설문주제 I — 집과 일상",
+    "topic": "예전에 살던 집 vs 지금 집 (비교)",
+    "completed": false,
+    "date": null,
+    "briefing_url": null
+  },
+  {
+    "unit": 3,
+    "unit_title": "설문주제 II — 여가",
+    "topic": "영화 취향과 좋아하는 장르",
+    "completed": false,
+    "date": null,
+    "briefing_url": null
+  },
+  {
+    "unit": 3,
+    "unit_title": "설문주제 II — 여가",
+    "topic": "기억에 남는 영화 관람 경험",
+    "completed": false,
+    "date": null,
+    "briefing_url": null
+  },
+  {
+    "unit": 3,
+    "unit_title": "설문주제 II — 여가",
+    "topic": "음악 취향과 듣는 습관",
+    "completed": false,
+    "date": null,
+    "briefing_url": null
+  },
+  {
+    "unit": 3,
+    "unit_title": "설문주제 II — 여가",
+    "topic": "콘서트·공연 경험",
+    "completed": false,
+    "date": null,
+    "briefing_url": null
+  },
+  {
+    "unit": 3,
+    "unit_title": "설문주제 II — 여가",
+    "topic": "공원 산책과 야외 활동",
+    "completed": false,
+    "date": null,
+    "briefing_url": null
+  },
+  {
+    "unit": 4,
+    "unit_title": "설문주제 III — 여행",
+    "topic": "국내 여행 루틴",
+    "completed": false,
+    "date": null,
+    "briefing_url": null
+  },
+  {
+    "unit": 4,
+    "unit_title": "설문주제 III — 여행",
+    "topic": "기억에 남는 여행 (과거 서사)",
+    "completed": false,
+    "date": null,
+    "briefing_url": null
+  },
+  {
+    "unit": 4,
+    "unit_title": "설문주제 III — 여행",
+    "topic": "해외여행 경험",
+    "completed": false,
+    "date": null,
+    "briefing_url": null
+  },
+  {
+    "unit": 4,
+    "unit_title": "설문주제 III — 여행",
+    "topic": "여행 준비 과정",
+    "completed": false,
+    "date": null,
+    "briefing_url": null
+  },
+  {
+    "unit": 4,
+    "unit_title": "설문주제 III — 여행",
+    "topic": "여행 중 겪은 문제와 해결 (트러블 서사)",
+    "completed": false,
+    "date": null,
+    "briefing_url": null
+  },
+  {
+    "unit": 5,
+    "unit_title": "돌발주제 I",
+    "topic": "날씨와 계절",
+    "completed": false,
+    "date": null,
+    "briefing_url": null
+  },
+  {
+    "unit": 5,
+    "unit_title": "돌발주제 I",
+    "topic": "은행과 금융 업무",
+    "completed": false,
+    "date": null,
+    "briefing_url": null
+  },
+  {
+    "unit": 5,
+    "unit_title": "돌발주제 I",
+    "topic": "인터넷과 기술",
+    "completed": false,
+    "date": null,
+    "briefing_url": null
+  },
+  {
+    "unit": 5,
+    "unit_title": "돌발주제 I",
+    "topic": "재활용과 환경",
+    "completed": false,
+    "date": null,
+    "briefing_url": null
+  },
+  {
+    "unit": 5,
+    "unit_title": "돌발주제 I",
+    "topic": "교통수단",
+    "completed": false,
+    "date": null,
+    "briefing_url": null
+  },
+  {
+    "unit": 6,
+    "unit_title": "돌발주제 II",
+    "topic": "건강과 병원",
+    "completed": false,
+    "date": null,
+    "briefing_url": null
+  },
+  {
+    "unit": 6,
+    "unit_title": "돌발주제 II",
+    "topic": "약속 잡기와 지키기",
+    "completed": false,
+    "date": null,
+    "briefing_url": null
+  },
+  {
+    "unit": 6,
+    "unit_title": "돌발주제 II",
+    "topic": "명절과 모임",
+    "completed": false,
+    "date": null,
+    "briefing_url": null
+  },
+  {
+    "unit": 6,
+    "unit_title": "돌발주제 II",
+    "topic": "패션과 쇼핑",
+    "completed": false,
+    "date": null,
+    "briefing_url": null
+  },
+  {
+    "unit": 6,
+    "unit_title": "돌발주제 II",
+    "topic": "외식과 음식 문화",
+    "completed": false,
+    "date": null,
+    "briefing_url": null
+  },
+  {
+    "unit": 7,
+    "unit_title": "롤플레이 (11~13번 유형)",
+    "topic": "정보 요청 질문하기 (11번)",
+    "completed": false,
+    "date": null,
+    "briefing_url": null
+  },
+  {
+    "unit": 7,
+    "unit_title": "롤플레이 (11~13번 유형)",
+    "topic": "문제 상황 설명하고 대안 제시 (12번)",
+    "completed": false,
+    "date": null,
+    "briefing_url": null
+  },
+  {
+    "unit": 7,
+    "unit_title": "롤플레이 (11~13번 유형)",
+    "topic": "관련된 내 경험 말하기 (13번)",
+    "completed": false,
+    "date": null,
+    "briefing_url": null
+  },
+  {
+    "unit": 7,
+    "unit_title": "롤플레이 (11~13번 유형)",
+    "topic": "전화 상황 표현 총정리",
+    "completed": false,
+    "date": null,
+    "briefing_url": null
+  },
+  {
+    "unit": 7,
+    "unit_title": "롤플레이 (11~13번 유형)",
+    "topic": "롤플레이 콤보 통합 연습",
+    "completed": false,
+    "date": null,
+    "briefing_url": null
+  },
+  {
+    "unit": 8,
+    "unit_title": "고난도 마무리 (14~15번 + 실전)",
+    "topic": "과거와 현재의 변화 논하기",
+    "completed": false,
+    "date": null,
+    "briefing_url": null
+  },
+  {
+    "unit": 8,
+    "unit_title": "고난도 마무리 (14~15번 + 실전)",
+    "topic": "사회적 이슈에 의견 말하기",
+    "completed": false,
+    "date": null,
+    "briefing_url": null
+  },
+  {
+    "unit": 8,
+    "unit_title": "고난도 마무리 (14~15번 + 실전)",
+    "topic": "뉴스나 기사 내용 설명하기",
+    "completed": false,
+    "date": null,
+    "briefing_url": null
+  },
+  {
+    "unit": 8,
+    "unit_title": "고난도 마무리 (14~15번 + 실전)",
+    "topic": "예상 콤보 세트 실전 모의 1",
+    "completed": false,
+    "date": null,
+    "briefing_url": null
+  },
+  {
+    "unit": 8,
+    "unit_title": "고난도 마무리 (14~15번 + 실전)",
+    "topic": "예상 콤보 세트 실전 모의 2 + 최종 전략 점검",
+    "completed": false,
+    "date": null,
+    "briefing_url": null
+  }
+]

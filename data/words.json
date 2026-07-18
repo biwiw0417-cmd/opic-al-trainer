@@ -1,0 +1,167 @@
+[
+  {
+    "word": "gravitate towards",
+    "pos": "verb",
+    "meaning": "~에 끌리다, ~를 선호하다",
+    "example": "Since then, I've started to gravitate towards active hobbies that help me recharge my batteries.",
+    "collocation": "gravitate towards creative hobbies",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-07-18",
+    "topic": "자기소개 (AL 버전으로 재설계)"
+  },
+  {
+    "word": "hit the gym",
+    "pos": "verb",
+    "meaning": "운동하러 가다, 체육관에 가다",
+    "example": "To balance work and life, I make it a point to hit the gym at least three times a week.",
+    "collocation": "hit the gym after work",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-07-18",
+    "topic": "자기소개 (AL 버전으로 재설계)"
+  },
+  {
+    "word": "recharge my batteries",
+    "pos": "verb",
+    "meaning": "재충전하다, 휴식을 취하다",
+    "example": "Since then, I've started to gravitate towards active hobbies that help me recharge my batteries.",
+    "collocation": "take a weekend trip to recharge my batteries",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-07-18",
+    "topic": "자기소개 (AL 버전으로 재설계)"
+  },
+  {
+    "word": "stuck in a rut",
+    "pos": "adjective",
+    "meaning": "판에 박힌 생활을 하는, 매너리즘에 빠진",
+    "example": "You see, a year ago, I felt completely stuck in a rut.",
+    "collocation": "feel stuck in a rut at work",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-07-18",
+    "topic": "자기소개 (AL 버전으로 재설계)"
+  },
+  {
+    "word": "balance work and life",
+    "pos": "verb",
+    "meaning": "일과 삶의 균형을 맞추다, 워라밸을 유지하다",
+    "example": "To balance work and life, I make it a point to hit the gym at least three times a week.",
+    "collocation": "struggle to balance work and life",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-07-18",
+    "topic": "자기소개 (AL 버전으로 재설계)"
+  },
+  {
+    "word": "strike a balance",
+    "pos": "verb",
+    "meaning": "균형을 잡다, 절충하다",
+    "example": "But recently, I've realized how important it is to strike a balance in life.",
+    "collocation": "strike a balance between work and play",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-07-18",
+    "topic": "자기소개 (AL 버전으로 재설계)"
+  },
+  {
+    "word": "introverted by nature",
+    "pos": "adjective",
+    "meaning": "선천적으로 내향적인, 타고나기를 내성적인",
+    "example": "Although I am introverted by nature, I really enjoy meeting close friends for a chat.",
+    "collocation": "be introverted by nature but outgoing with friends",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-07-18",
+    "topic": "자기소개 (AL 버전으로 재설계)"
+  },
+  {
+    "word": "couch potato",
+    "pos": "noun",
+    "meaning": "소파에 누워 주말 내내 TV만 보는 게으른 사람",
+    "example": "I used to be a total couch potato on weekends, but now I try to stay active.",
+    "collocation": "turn into a couch potato",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-07-18",
+    "topic": "자기소개 (AL 버전으로 재설계)"
+  },
+  {
+    "word": "career-driven",
+    "pos": "adjective",
+    "meaning": "성공 지향적인, 커리어를 중시하는",
+    "example": "I used to be extremely career-driven, but now I value my personal happiness more.",
+    "collocation": "a career-driven professional",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-07-18",
+    "topic": "자기소개 (AL 버전으로 재설계)"
+  },
+  {
+    "word": "find solace in",
+    "pos": "verb",
+    "meaning": "~에서 위안을 얻다",
+    "example": "In times of stress, I often find solace in listening to classical music.",
+    "collocation": "find solace in nature",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-07-18",
+    "topic": "자기소개 (AL 버전으로 재설계)"
+  },
+  {
+    "word": "be drawn to",
+    "pos": "verb",
+    "meaning": "~에 마음이 끌리다, 매력을 느끼다",
+    "example": "Recently, I've been drawn to peaceful outdoor activities like hiking.",
+    "collocation": "be drawn to artistic pursuits",
+    "tier": "extend",
+    "linked_word": "gravitate towards",
+    "date": "2026-07-18",
+    "topic": "자기소개 (AL 버전으로 재설계)"
+  },
+  {
+    "word": "wind down",
+    "pos": "verb",
+    "meaning": "긴장을 풀고 쉬다",
+    "example": "After a stressful day at the office, I need some time to wind down.",
+    "collocation": "wind down with a good book",
+    "tier": "extend",
+    "linked_word": "recharge my batteries",
+    "date": "2026-07-18",
+    "topic": "자기소개 (AL 버전으로 재설계)"
+  },
+  {
+    "word": "in a monotonous routine",
+    "pos": "adjective",
+    "meaning": "단조로운 일상에 갇힌",
+    "example": "I felt like I was trapped in a monotonous routine with no excitement.",
+    "collocation": "escape from a monotonous routine",
+    "tier": "extend",
+    "linked_word": "stuck in a rut",
+    "date": "2026-07-18",
+    "topic": "자기소개 (AL 버전으로 재설계)"
+  },
+  {
+    "word": "keep physically active",
+    "pos": "verb",
+    "meaning": "신체 활동을 유지하다, 활동적으로 지내다",
+    "example": "I try to keep physically active by running along the river every morning.",
+    "collocation": "keep physically active to stay healthy",
+    "tier": "extend",
+    "linked_word": "hit the gym",
+    "date": "2026-07-18",
+    "topic": "자기소개 (AL 버전으로 재설계)"
+  },
+  {
+    "word": "find comfort in",
+    "pos": "verb",
+    "meaning": "~에서 편안함을 느끼다, 위안을 얻다",
+    "example": "I find comfort in spending quality time with my family on Sundays.",
+    "collocation": "find comfort in familiar places",
+    "tier": "extend",
+    "linked_word": "find solace in",
+    "date": "2026-07-18",
+    "topic": "자기소개 (AL 버전으로 재설계)"
+  }
+]

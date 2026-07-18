@@ -1,0 +1,495 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>2026-07-18 · OPIc AL 트레이너</title>
+<style>
+:root {
+  --bg: #ffffff; --fg: #1a1a1a; --muted: #6b7280; --card: #f8f9fa;
+  --line: #e5e7eb; --accent: #6366f1; --ok: #16a34a; --bad: #dc2626;
+}
+@media (prefers-color-scheme: dark) {
+  :root { --bg: #111318; --fg: #e8eaed; --muted: #9aa0a6; --card: #1c1f26; --line: #2c313a; }
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0; background: var(--bg); color: var(--fg);
+  font-family: -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", "Malgun Gothic", "Noto Sans KR", sans-serif;
+  font-size: 17px; line-height: 1.7;
+}
+main { max-width: 680px; margin: 0 auto; padding: 20px 18px 96px; }
+h1 { font-size: 1.35rem; line-height: 1.4; margin: 8px 0 4px; }
+h2 { font-size: 1.05rem; margin: 0 0 12px; display: flex; align-items: center; gap: 8px; }
+h2 .num {
+  background: var(--accent); color: #fff; border-radius: 8px;
+  width: 26px; height: 26px; display: inline-flex; align-items: center; justify-content: center;
+  font-size: .85rem; flex: none;
+}
+.date { color: var(--muted); font-size: .9rem; }
+.unit-badge {
+  display: inline-block; color: var(--accent); border: 1px solid var(--accent);
+  border-radius: 999px; padding: 1px 10px; font-size: .8rem; margin-bottom: 6px;
+}
+section { background: var(--card); border: 1px solid var(--line); border-radius: 14px; padding: 18px 16px; margin: 18px 0; }
+.en { font-family: Georgia, "Times New Roman", serif; }
+.q-en { font-size: 1.08rem; line-height: 1.65; }
+.btn {
+  display: inline-flex; align-items: center; justify-content: center; gap: 6px;
+  min-height: 44px; min-width: 44px; padding: 8px 16px; border-radius: 12px;
+  border: 1px solid var(--line); background: var(--bg); color: var(--fg);
+  font-size: .95rem; cursor: pointer; touch-action: manipulation;
+}
+.btn:active { transform: scale(.97); }
+.btn.primary { background: var(--accent); border-color: var(--accent); color: #fff; }
+.btn.small { min-height: 44px; padding: 6px 12px; font-size: .88rem; }
+.btn-row { display: flex; flex-wrap: wrap; gap: 8px; margin: 10px 0; }
+details { margin: 10px 0; }
+summary { cursor: pointer; color: var(--muted); font-size: .92rem; min-height: 44px; display: flex; align-items: center; }
+.hint { color: var(--muted); font-size: .88rem; }
+.timer { font-variant-numeric: tabular-nums; font-size: 2rem; font-weight: 700; letter-spacing: 1px; }
+.timer.warn { color: var(--bad); }
+.script p { margin: 0 0 1em; font-size: 1.02rem; }
+.al-point { border-left: 3px solid var(--accent); padding: 6px 12px; margin: 10px 0; background: var(--bg); border-radius: 0 10px 10px 0; font-size: .93rem; }
+.structure { background: var(--bg); border: 1px dashed var(--line); border-radius: 10px; padding: 10px 14px; font-size: .9rem; color: var(--muted); }
+/* 플래시카드 */
+.fc-wrap { perspective: 1000px; }
+.fc {
+  position: relative; width: 100%; min-height: 240px; cursor: pointer;
+  transform-style: preserve-3d; transition: transform .45s;
+}
+.fc.flipped { transform: rotateY(180deg); }
+.fc-face {
+  position: absolute; inset: 0; backface-visibility: hidden; -webkit-backface-visibility: hidden;
+  background: var(--bg); border: 1.5px solid var(--line); border-radius: 16px;
+  padding: 20px; display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center; gap: 8px;
+}
+.fc-back { transform: rotateY(180deg); }
+.fc-word { font-size: 1.5rem; font-weight: 700; }
+.fc-pos { color: var(--muted); font-size: .85rem; }
+.fc-meaning { font-size: 1.2rem; font-weight: 700; }
+.fc-ex { font-size: .92rem; color: var(--muted); }
+.tier { font-size: .75rem; border-radius: 999px; padding: 1px 10px; }
+.tier.core { background: var(--accent); color: #fff; }
+.tier.extend { border: 1px solid var(--accent); color: var(--accent); }
+.fc-progress { text-align: center; color: var(--muted); font-size: .88rem; margin-top: 8px; }
+/* 퀴즈 */
+.quiz-q { background: var(--bg); border: 1px solid var(--line); border-radius: 12px; padding: 14px; margin: 12px 0; }
+.quiz-q .qt { font-size: .95rem; margin-bottom: 10px; white-space: pre-line; }
+.choice {
+  display: block; width: 100%; text-align: left; margin: 6px 0; padding: 10px 14px; min-height: 44px;
+  border: 1px solid var(--line); border-radius: 10px; background: var(--card); color: var(--fg);
+  font-size: .92rem; cursor: pointer;
+}
+.choice.correct { border-color: var(--ok); background: color-mix(in srgb, var(--ok) 12%, var(--card)); }
+.choice.wrong { border-color: var(--bad); background: color-mix(in srgb, var(--bad) 12%, var(--card)); }
+.choice:disabled { cursor: default; opacity: .85; }
+.quiz-score { font-weight: 700; text-align: center; padding: 12px; }
+/* 패턴 */
+.pattern-card { background: var(--bg); border: 1px solid var(--line); border-radius: 12px; padding: 14px; margin: 12px 0; }
+.pattern-card .p-en { font-weight: 700; font-size: 1.02rem; }
+.pattern-card .p-line { font-size: .9rem; margin-top: 6px; }
+.label { display: inline-block; font-size: .75rem; color: var(--accent); border: 1px solid var(--accent); border-radius: 6px; padding: 0 6px; margin-right: 6px; }
+/* 체크리스트 */
+.check { display: flex; gap: 10px; align-items: flex-start; padding: 8px 0; font-size: .93rem; }
+.check input { width: 22px; height: 22px; margin-top: 3px; accent-color: var(--accent); flex: none; }
+audio { width: 100%; margin-top: 8px; }
+.note { font-size: .85rem; color: var(--muted); }
+/* 하단 내비게이션 */
+nav.bottom {
+  position: fixed; bottom: 0; left: 0; right: 0; background: var(--bg);
+  border-top: 1px solid var(--line); display: flex; z-index: 10;
+  padding-bottom: env(safe-area-inset-bottom);
+}
+nav.bottom a {
+  flex: 1; text-align: center; padding: 12px 0 10px; min-height: 48px;
+  color: var(--muted); text-decoration: none; font-size: .82rem;
+}
+nav.bottom a.active { color: var(--accent); font-weight: 700; }
+nav.bottom a span { display: block; font-size: 1.15rem; }
+</style>
+</head>
+<body>
+<main>
+
+<header>
+  <div class="date">2026-07-18</div>
+  <div class="unit-badge">Unit 1 · AL의 기초 체력</div>
+  <h1>자기소개 (AL 버전으로 재설계)</h1>
+  <p class="hint">오늘 훈련 약 30~35분 — 단어 학습이 절반입니다. 순서대로 진행하세요.</p>
+</header>
+
+<section>
+  <h2><span class="num">1</span>오늘의 질문</h2>
+  <p class="en q-en">Let&#x27;s start the interview now. Please tell me about yourself. Introduce yourself in detail, including your hobbies, your current job or study, and how you usually spend your free time.</p>
+  <div class="btn-row">
+    <button class="btn tts" data-say="Let&#x27;s start the interview now. Please tell me about yourself. Introduce yourself in detail, including your hobbies, your current job or study, and how you usually spend your free time.">🔊 질문 듣기</button>
+    <button class="btn tts" data-tts-stop>⏹ 정지</button>
+  </div>
+  <p class="note tts-note"></p>
+  <details><summary>🇰🇷 한국어 해석 보기</summary>
+    <p>이제 인터뷰를 시작하겠습니다. 본인에 대해 소개해 주세요. 취미, 현재 하고 있는 일이나 공부, 그리고 여가를 보통 어떻게 보내는지 등을 포함하여 자세히 이야기해 주세요.</p>
+    <p class="hint">💡 콤보 맥락: 오픽 시험의 시작을 알리는 1번 고정 문항인 자기소개입니다. AL을 목표로 한다면 단순히 이름, 나이, 직업을 나열하는 데 그치지 않고, 자신의 성격이나 최근의 관심사, 삶의 변화 등을 자연스러운 구어체로 풀어내어 첫인상부터 채점관의 귀를 사로잡아야 합니다.</p>
+  </details>
+  <hr style="border:none;border-top:1px solid var(--line)">
+  <p><b>먼저 스스로 답해보세요!</b> <span class="hint">모범답변을 보기 전에 1분 30초 동안 녹음해 보세요.</span></p>
+  
+    <div class="timer-box" data-sec="90">
+      <div class="timer">1:30</div>
+      <div class="btn-row">
+        <button class="btn primary t-start">▶ 시작</button>
+        <button class="btn t-reset">↺ 리셋</button>
+      </div>
+    </div>
+  
+    <div class="rec-box">
+      <div class="btn-row">
+        <button class="btn rec-btn">🎙️ 녹음 시작</button>
+        <a class="btn rec-dl" style="display:none">⬇ 파일 저장</a>
+      </div>
+      <div class="rec-status note">녹음은 이 기기에서만 재생·저장됩니다 (서버 업로드 없음).</div>
+      <audio class="rec-player" controls style="display:none"></audio>
+    </div>
+</section>
+
+<section>
+  <h2><span class="num">2</span>AL 모범답변 + 전략 해설</h2>
+  <details>
+    <summary>🔒 스스로 답한 후 열어보세요 — 탭해서 열기</summary>
+    <div class="btn-row">
+      <button class="btn tts" data-say="Oh, hi Eva! It&#x27;s so great to finally meet you. Let me tell you a bit about myself, but instead of just reading off my resume, I really want to share who I am as a person these days.  To be honest, I used to be a total workaholic, always focusing on my career. But recently, I&#x27;ve realized how important it is to strike a balance in life.  You see, a year ago, I felt completely stuck in a rut. I was working long hours, going back and forth between my office and home, and honestly, I was burning out. That was a huge wake-up call. Since then, I&#x27;ve started to gravitate towards active hobbies that help me recharge my batteries.  Currently, I work as a software engineer, which means I&#x27;m glued to my desk all day. To balance work and life, I make it a point to hit the gym at least three times a week. Sweating it out really clears my head. On weekends, I enjoy exploring quiet local cafes, sipping a nice warm latte, and just watching people go by.  Looking back, making these small changes has completely transformed my mood. I feel much more energized now. So, yeah, that’s me in a nutshell—someone who is constantly trying to live a mindful, balanced life. Thanks for listening!" data-rate="0.8">🐢 0.8x 재생</button>
+      <button class="btn tts" data-say="Oh, hi Eva! It&#x27;s so great to finally meet you. Let me tell you a bit about myself, but instead of just reading off my resume, I really want to share who I am as a person these days.  To be honest, I used to be a total workaholic, always focusing on my career. But recently, I&#x27;ve realized how important it is to strike a balance in life.  You see, a year ago, I felt completely stuck in a rut. I was working long hours, going back and forth between my office and home, and honestly, I was burning out. That was a huge wake-up call. Since then, I&#x27;ve started to gravitate towards active hobbies that help me recharge my batteries.  Currently, I work as a software engineer, which means I&#x27;m glued to my desk all day. To balance work and life, I make it a point to hit the gym at least three times a week. Sweating it out really clears my head. On weekends, I enjoy exploring quiet local cafes, sipping a nice warm latte, and just watching people go by.  Looking back, making these small changes has completely transformed my mood. I feel much more energized now. So, yeah, that’s me in a nutshell—someone who is constantly trying to live a mindful, balanced life. Thanks for listening!" data-rate="1.0">▶ 1.0x 재생</button>
+      <button class="btn tts" data-tts-stop>⏹ 정지</button>
+    </div>
+    <div class="script en"><p>Oh, hi Eva! It&#x27;s so great to finally meet you. Let me tell you a bit about myself, but instead of just reading off my resume, I really want to share who I am as a person these days.</p><p>To be honest, I used to be a total workaholic, always focusing on my career. But recently, I&#x27;ve realized how important it is to strike a balance in life.</p><p>You see, a year ago, I felt completely stuck in a rut. I was working long hours, going back and forth between my office and home, and honestly, I was burning out. That was a huge wake-up call. Since then, I&#x27;ve started to gravitate towards active hobbies that help me recharge my batteries.</p><p>Currently, I work as a software engineer, which means I&#x27;m glued to my desk all day. To balance work and life, I make it a point to hit the gym at least three times a week. Sweating it out really clears my head. On weekends, I enjoy exploring quiet local cafes, sipping a nice warm latte, and just watching people go by.</p><p>Looking back, making these small changes has completely transformed my mood. I feel much more energized now. So, yeah, that’s me in a nutshell—someone who is constantly trying to live a mindful, balanced life. Thanks for listening!</p></div>
+    <div class="structure">🧭 <b>답변 뼈대</b><br>서론(에바와의 첫인사 및 형식적인 소개 탈피 선언) → MP(과거 워커홀릭에서 현재 워라밸을 추구하게 된 변화 제시) → 디테일 1(과거 매너리즘에 빠졌던 부정적 상태 극복기) → 디테일 2(현재 직업과 이를 극복하기 위한 주중 운동 및 주말 카페 취미 활동) → 감정/생각(생활 패턴 변화가 가져다준 긍정적 효과) → 마무리(본인의 가치관 요약 및 마무리 인사)</div>
+    <h3 style="font-size:.98rem">이 답변이 AL인 이유 3가지</h3>
+    <div class="al-point">✨ 단순 인적사항 나열이 아닌, 과거의 워커홀릭 상태(&#x27;used to be a workaholic&#x27;)와 현재의 워라밸 지향적 삶을 대비시키는 &#x27;시제 대조(Past-Present Contrast)&#x27; 기법을 완벽히 소화하여 AL 수준의 논리 전개를 보여줍니다.</div><div class="al-point">✨ &#x27;stuck in a rut&#x27;, &#x27;gravitate towards&#x27;, &#x27;recharge my batteries&#x27; 등 원어민이 일상에서 즐겨 쓰는 수준 높은 구어체 결합 표현(Collocation)을 문맥 속에 자연스럽게 녹여내어 풍부한 어휘력을 증명합니다.</div><div class="al-point">✨ 문장 사이사이에 &#x27;To be honest&#x27;, &#x27;You see&#x27;, &#x27;Looking back&#x27;과 같은 자연스러운 담화 표지(Discourse Markers)를 리드미컬하게 활용하여 외워서 말하는 느낌을 완전히 지웠습니다.</div>
+  </details>
+</section>
+
+<section>
+  <h2><span class="num">3</span>오늘의 단어 15 <span class="hint">(핵심 10 + 확장 5)</span></h2>
+  <p class="hint">카드를 탭하면 뜻이 뒤집혀 나옵니다. 확장 카드에는 어떤 핵심 단어의 대체어인지 표시됩니다.</p>
+  <div id="flashcards">
+    <div class="fc-wrap">
+      <div class="fc">
+        <div class="fc-face fc-front"></div>
+        <div class="fc-face fc-back"></div>
+      </div>
+    </div>
+    <div class="fc-progress"></div>
+    <div class="btn-row" style="justify-content:center">
+      <button class="btn fc-prev">◀ 이전</button>
+      <button class="btn primary fc-done">다 외웠어요 ✓</button>
+      <button class="btn fc-next">다음 ▶</button>
+    </div>
+  </div>
+  <hr style="border:none;border-top:1px solid var(--line);margin:18px 0">
+  <h3 style="font-size:.98rem">📝 미니 테스트 7문제 <span class="hint">(뜻 매칭 3 · 빈칸 2 · 교체어 2)</span></h3>
+  <button class="btn primary" id="vocab-quiz-start">테스트 시작</button>
+  <div id="vocab-quiz"></div>
+</section>
+
+<section>
+  <h2><span class="num">4</span>오늘의 패턴 2</h2>
+  
+    <div class="pattern-card">
+      <div class="p-en en">Instead of just -ing, I really want to...</div>
+      <div class="p-line">그냥 ~하는 대신에, 정말로 ~하고 싶다</div>
+      <div class="p-line"><span class="label">오늘 답변</span><span class="en">Let me tell you a bit about myself, but instead of just reading off my resume, I really want to share who I am as a person these days.</span></div>
+      <div class="p-line"><span class="label">응용</span><span class="en">Instead of just staying home, I really want to go out and enjoy the sunny weather today.</span></div>
+      <div class="btn-row"><button class="btn small tts" data-say="Let me tell you a bit about myself, but instead of just reading off my resume, I really want to share who I am as a person these days.">🔊 듣기</button></div>
+    </div>
+    <div class="pattern-card">
+      <div class="p-en en">I make it a point to...</div>
+      <div class="p-line">반드시 ~하다, 항상 ~하려고 의식적으로 노력하다</div>
+      <div class="p-line"><span class="label">오늘 답변</span><span class="en">To balance work and life, I make it a point to hit the gym at least three times a week.</span></div>
+      <div class="p-line"><span class="label">응용</span><span class="en">I make it a point to call my parents once a week no matter how busy I am.</span></div>
+      <div class="btn-row"><button class="btn small tts" data-say="To balance work and life, I make it a point to hit the gym at least three times a week.">🔊 듣기</button></div>
+    </div>
+</section>
+
+<section>
+  <h2><span class="num">5</span>복습 — 단어 중심 간격 반복</h2>
+  <p class="hint">어제 학습 기록이 없어 초스피드 테스트는 내일부터 시작됩니다.</p>
+  
+  
+</section>
+
+<section>
+  <h2><span class="num">6</span>스피킹 미션 + 셀프 체크</h2>
+  <p><b>미션:</b> 스크립트를 덮고 다시 1분 30초 녹음하세요 (2차 녹음).<br>
+  <span class="hint">조건: 오늘 배운 단어를 <b>4개 이상</b> 넣어 말하기 — 확장 단어를 쓰면 더 좋습니다!</span></p>
+  
+    <div class="timer-box" data-sec="90">
+      <div class="timer">1:30</div>
+      <div class="btn-row">
+        <button class="btn primary t-start">▶ 시작</button>
+        <button class="btn t-reset">↺ 리셋</button>
+      </div>
+    </div>
+  
+    <div class="rec-box">
+      <div class="btn-row">
+        <button class="btn rec-btn">🎙️ 녹음 시작</button>
+        <a class="btn rec-dl" style="display:none">⬇ 파일 저장</a>
+      </div>
+      <div class="rec-status note">녹음은 이 기기에서만 재생·저장됩니다 (서버 업로드 없음).</div>
+      <audio class="rec-player" controls style="display:none"></audio>
+    </div>
+  <h3 style="font-size:.98rem">✅ 셀프 체크리스트</h3>
+  <label class="check"><input type="checkbox"><span>오늘 배운 핵심 단어(Core) 중 최소 4개 이상을 활용해 말해 보았나요?</span></label><label class="check"><input type="checkbox"><span>과거(매너리즘에 빠졌던 시절)와 현재(취미와 운동을 병행하는 일상)의 시제 대비가 흔들리지 않고 명확했나요?</span></label><label class="check"><input type="checkbox"><span>단순 신상 정보 나열을 넘어, 왜 그런 라이프스타일 변화가 일어났는지 구체적인 디테일을 확장했나요?</span></label><label class="check"><input type="checkbox"><span>변화된 일상이 스스로에게 준 긍정적인 감정이나 소회를 마지막에 덧붙였나요?</span></label><label class="check"><input type="checkbox"><span>서론과 결론을 에바와 대화하듯 편안한 구어체 톤(Oh, hi Eva! / Thanks for listening!)으로 열고 닫았나요?</span></label><label class="check"><input type="checkbox"><span>답변 도중 3초 이상의 침묵이나 어색한 멈춤 없이, &#x27;To be honest&#x27;, &#x27;You see&#x27; 등의 필러를 넣어 매끄럽게 이어갔나요?</span></label>
+</section>
+<p style="text-align:center"><a class="btn" href="../../files/2026-07-18_OPIc훈련.docx">📄 Word 파일 다운로드</a></p>
+</main>
+<nav class="bottom">
+  <a href="../../index.html" class=""><span>🎙️</span>오늘</a>
+  <a href="../../vocab/" class=""><span>📚</span>단어장</a>
+  <a href="../../archive/" class="active"><span>🗂️</span>아카이브</a>
+  <a href="../../curriculum/" class=""><span>📈</span>진도</a>
+</nav>
+<script>
+var DAY = {"date": "2026-07-18", "question": {"english": "Let's start the interview now. Please tell me about yourself. Introduce yourself in detail, including your hobbies, your current job or study, and how you usually spend your free time.", "korean": "이제 인터뷰를 시작하겠습니다. 본인에 대해 소개해 주세요. 취미, 현재 하고 있는 일이나 공부, 그리고 여가를 보통 어떻게 보내는지 등을 포함하여 자세히 이야기해 주세요.", "combo_context": "오픽 시험의 시작을 알리는 1번 고정 문항인 자기소개입니다. AL을 목표로 한다면 단순히 이름, 나이, 직업을 나열하는 데 그치지 않고, 자신의 성격이나 최근의 관심사, 삶의 변화 등을 자연스러운 구어체로 풀어내어 첫인상부터 채점관의 귀를 사로잡아야 합니다."}, "model_answer": {"script": "Oh, hi Eva! It's so great to finally meet you. Let me tell you a bit about myself, but instead of just reading off my resume, I really want to share who I am as a person these days.\n\nTo be honest, I used to be a total workaholic, always focusing on my career. But recently, I've realized how important it is to strike a balance in life.\n\nYou see, a year ago, I felt completely stuck in a rut. I was working long hours, going back and forth between my office and home, and honestly, I was burning out. That was a huge wake-up call. Since then, I've started to gravitate towards active hobbies that help me recharge my batteries.\n\nCurrently, I work as a software engineer, which means I'm glued to my desk all day. To balance work and life, I make it a point to hit the gym at least three times a week. Sweating it out really clears my head. On weekends, I enjoy exploring quiet local cafes, sipping a nice warm latte, and just watching people go by.\n\nLooking back, making these small changes has completely transformed my mood. I feel much more energized now. So, yeah, that’s me in a nutshell—someone who is constantly trying to live a mindful, balanced life. Thanks for listening!", "structure_note": "서론(에바와의 첫인사 및 형식적인 소개 탈피 선언) → MP(과거 워커홀릭에서 현재 워라밸을 추구하게 된 변화 제시) → 디테일 1(과거 매너리즘에 빠졌던 부정적 상태 극복기) → 디테일 2(현재 직업과 이를 극복하기 위한 주중 운동 및 주말 카페 취미 활동) → 감정/생각(생활 패턴 변화가 가져다준 긍정적 효과) → 마무리(본인의 가치관 요약 및 마무리 인사)", "al_points": ["단순 인적사항 나열이 아닌, 과거의 워커홀릭 상태('used to be a workaholic')와 현재의 워라밸 지향적 삶을 대비시키는 '시제 대조(Past-Present Contrast)' 기법을 완벽히 소화하여 AL 수준의 논리 전개를 보여줍니다.", "'stuck in a rut', 'gravitate towards', 'recharge my batteries' 등 원어민이 일상에서 즐겨 쓰는 수준 높은 구어체 결합 표현(Collocation)을 문맥 속에 자연스럽게 녹여내어 풍부한 어휘력을 증명합니다.", "문장 사이사이에 'To be honest', 'You see', 'Looking back'과 같은 자연스러운 담화 표지(Discourse Markers)를 리드미컬하게 활용하여 외워서 말하는 느낌을 완전히 지웠습니다."]}, "vocab": [{"word": "gravitate towards", "pos": "verb", "meaning": "~에 끌리다, ~를 선호하다", "example": "Since then, I've started to gravitate towards active hobbies that help me recharge my batteries.", "collocation": "gravitate towards creative hobbies", "tier": "core", "linked_word": null}, {"word": "hit the gym", "pos": "verb", "meaning": "운동하러 가다, 체육관에 가다", "example": "To balance work and life, I make it a point to hit the gym at least three times a week.", "collocation": "hit the gym after work", "tier": "core", "linked_word": null}, {"word": "recharge my batteries", "pos": "verb", "meaning": "재충전하다, 휴식을 취하다", "example": "Since then, I've started to gravitate towards active hobbies that help me recharge my batteries.", "collocation": "take a weekend trip to recharge my batteries", "tier": "core", "linked_word": null}, {"word": "stuck in a rut", "pos": "adjective", "meaning": "판에 박힌 생활을 하는, 매너리즘에 빠진", "example": "You see, a year ago, I felt completely stuck in a rut.", "collocation": "feel stuck in a rut at work", "tier": "core", "linked_word": null}, {"word": "balance work and life", "pos": "verb", "meaning": "일과 삶의 균형을 맞추다, 워라밸을 유지하다", "example": "To balance work and life, I make it a point to hit the gym at least three times a week.", "collocation": "struggle to balance work and life", "tier": "core", "linked_word": null}, {"word": "strike a balance", "pos": "verb", "meaning": "균형을 잡다, 절충하다", "example": "But recently, I've realized how important it is to strike a balance in life.", "collocation": "strike a balance between work and play", "tier": "core", "linked_word": null}, {"word": "introverted by nature", "pos": "adjective", "meaning": "선천적으로 내향적인, 타고나기를 내성적인", "example": "Although I am introverted by nature, I really enjoy meeting close friends for a chat.", "collocation": "be introverted by nature but outgoing with friends", "tier": "core", "linked_word": null}, {"word": "couch potato", "pos": "noun", "meaning": "소파에 누워 주말 내내 TV만 보는 게으른 사람", "example": "I used to be a total couch potato on weekends, but now I try to stay active.", "collocation": "turn into a couch potato", "tier": "core", "linked_word": null}, {"word": "career-driven", "pos": "adjective", "meaning": "성공 지향적인, 커리어를 중시하는", "example": "I used to be extremely career-driven, but now I value my personal happiness more.", "collocation": "a career-driven professional", "tier": "core", "linked_word": null}, {"word": "find solace in", "pos": "verb", "meaning": "~에서 위안을 얻다", "example": "In times of stress, I often find solace in listening to classical music.", "collocation": "find solace in nature", "tier": "core", "linked_word": null}, {"word": "be drawn to", "pos": "verb", "meaning": "~에 마음이 끌리다, 매력을 느끼다", "example": "Recently, I've been drawn to peaceful outdoor activities like hiking.", "collocation": "be drawn to artistic pursuits", "tier": "extend", "linked_word": "gravitate towards"}, {"word": "wind down", "pos": "verb", "meaning": "긴장을 풀고 쉬다", "example": "After a stressful day at the office, I need some time to wind down.", "collocation": "wind down with a good book", "tier": "extend", "linked_word": "recharge my batteries"}, {"word": "in a monotonous routine", "pos": "adjective", "meaning": "단조로운 일상에 갇힌", "example": "I felt like I was trapped in a monotonous routine with no excitement.", "collocation": "escape from a monotonous routine", "tier": "extend", "linked_word": "stuck in a rut"}, {"word": "keep physically active", "pos": "verb", "meaning": "신체 활동을 유지하다, 활동적으로 지내다", "example": "I try to keep physically active by running along the river every morning.", "collocation": "keep physically active to stay healthy", "tier": "extend", "linked_word": "hit the gym"}, {"word": "find comfort in", "pos": "verb", "meaning": "~에서 편안함을 느끼다, 위안을 얻다", "example": "I find comfort in spending quality time with my family on Sundays.", "collocation": "find comfort in familiar places", "tier": "extend", "linked_word": "find solace in"}], "vocab_quiz": [{"type": "matching", "question": "다음 중 'gravitate towards'의 올바른 한국어 뜻은 무엇일까요?", "choices": ["~에 끌리다, ~를 선호하다", "~를 강하게 거부하다", "~와 마찰을 빚다", "~를 신속히 끝마치다"], "answer_index": 0}, {"type": "matching", "question": "다음 중 'stuck in a rut'의 올바른 한국어 뜻은 무엇일까요?", "choices": ["매우 화가 난 상태인", "판에 박힌 생활을 하는, 매너리즘에 빠진", "예상치 못한 행운을 만난", "새로운 도전에 들뜬"], "answer_index": 1}, {"type": "matching", "question": "다음 중 'couch potato'가 묘사하는 사람의 성향으로 알맞은 것은 무엇일까요?", "choices": ["지나치게 건강을 챙겨 채식만 고집하는 사람", "요리하는 것을 정말 좋아하는 사람", "매우 사교적이어서 주말마다 모임을 주도하는 사람", "소파에 누워 주말 내내 TV만 보는 게으른 사람"], "answer_index": 3}, {"type": "blank", "question": "문맥상 빈칸에 들어갈 가장 알맞은 표현을 고르세요.\n\"To ____ work and life, I make it a point to hit the gym at least three times a week.\"", "choices": ["ignore", "balance", "separate", "refuse"], "answer_index": 1}, {"type": "blank", "question": "문맥상 빈칸에 들어갈 가장 알맞은 표현을 고르세요.\n\"But recently, I've realized how important it is to strike a ____ in life.\"", "choices": ["balance", "deal", "pose", "match"], "answer_index": 0}, {"type": "synonym", "question": "스크립트 속 문장 '...activities that help me recharge my batteries'에서 'recharge my batteries' 대신 사용할 수 있는 표현은 무엇일까요?", "choices": ["wind down", "work overtime", "catch up", "pass out"], "answer_index": 0}, {"type": "synonym", "question": "스크립트 속 문장 'I've started to gravitate towards active hobbies...'에서 'gravitate towards'와 바꾸어 쓸 수 있는 가장 자연스러운 표현은 무엇일까요?", "choices": ["be terrified of", "be drawn to", "get annoyed by", "keep away from"], "answer_index": 1}], "patterns": [{"pattern": "Instead of just -ing, I really want to...", "meaning": "그냥 ~하는 대신에, 정말로 ~하고 싶다", "usage_today": "Let me tell you a bit about myself, but instead of just reading off my resume, I really want to share who I am as a person these days.", "extra_example": "Instead of just staying home, I really want to go out and enjoy the sunny weather today."}, {"pattern": "I make it a point to...", "meaning": "반드시 ~하다, 항상 ~하려고 의식적으로 노력하다", "usage_today": "To balance work and life, I make it a point to hit the gym at least three times a week.", "extra_example": "I make it a point to call my parents once a week no matter how busy I am."}], "review_words": [], "review_patterns": [], "checklist": ["오늘 배운 핵심 단어(Core) 중 최소 4개 이상을 활용해 말해 보았나요?", "과거(매너리즘에 빠졌던 시절)와 현재(취미와 운동을 병행하는 일상)의 시제 대비가 흔들리지 않고 명확했나요?", "단순 신상 정보 나열을 넘어, 왜 그런 라이프스타일 변화가 일어났는지 구체적인 디테일을 확장했나요?", "변화된 일상이 스스로에게 준 긍정적인 감정이나 소회를 마지막에 덧붙였나요?", "서론과 결론을 에바와 대화하듯 편안한 구어체 톤(Oh, hi Eva! / Thanks for listening!)으로 열고 닫았나요?", "답변 도중 3초 이상의 침묵이나 어색한 멈춤 없이, 'To be honest', 'You see' 등의 필러를 넣어 매끄럽게 이어갔나요?"], "type": "daily", "unit": 1, "unit_title": "AL의 기초 체력", "topic": "자기소개 (AL 버전으로 재설계)"};
+var YESTERDAY_WORDS = [];
+/* ============================ TTS (Web Speech API) */
+var ttsOK = ('speechSynthesis' in window);
+var voices = [];
+function refreshVoices(){ voices = speechSynthesis.getVoices(); }
+if (ttsOK) { refreshVoices(); speechSynthesis.onvoiceschanged = refreshVoices; }
+function enVoice(){
+  return voices.find(function(v){ return v.name.indexOf('Google US English') >= 0; })
+      || voices.find(function(v){ return v.lang === 'en-US'; })
+      || voices.find(function(v){ return v.lang && v.lang.indexOf('en') === 0; })
+      || null;
+}
+function speak(text, rate){
+  if (!ttsOK) return;
+  speechSynthesis.cancel();
+  var u = new SpeechSynthesisUtterance(text);
+  u.lang = 'en-US'; u.rate = rate || 1.0;
+  var v = enVoice(); if (v) u.voice = v;
+  speechSynthesis.speak(u);
+}
+if (!ttsOK) {
+  document.querySelectorAll('.tts').forEach(function(b){ b.style.display = 'none'; });
+  document.querySelectorAll('.tts-note').forEach(function(n){ n.textContent = '이 브라우저는 음성 재생(TTS)을 지원하지 않습니다.'; });
+}
+document.addEventListener('click', function(e){
+  var t = e.target.closest('[data-say]');
+  if (t) { e.stopPropagation(); speak(t.getAttribute('data-say'), parseFloat(t.getAttribute('data-rate') || '1')); }
+});
+document.querySelectorAll('[data-tts-stop]').forEach(function(b){
+  b.addEventListener('click', function(){ if (ttsOK) speechSynthesis.cancel(); });
+});
+/* ============================ 타이머 (90초 + 종료 비프) */
+function beep(){
+  try {
+    var ctx = new (window.AudioContext || window.webkitAudioContext)();
+    [0, 0.45].forEach(function(dt){
+      var o = ctx.createOscillator(), g = ctx.createGain();
+      o.connect(g); g.connect(ctx.destination);
+      o.frequency.value = 880; g.gain.value = 0.12;
+      o.start(ctx.currentTime + dt); o.stop(ctx.currentTime + dt + 0.3);
+    });
+  } catch (e) {}
+}
+function makeTimer(root, seconds){
+  var left = seconds, iv = null;
+  var disp = root.querySelector('.timer');
+  var startBtn = root.querySelector('.t-start'), resetBtn = root.querySelector('.t-reset');
+  function show(){
+    var m = Math.floor(left / 60), s = left % 60;
+    disp.textContent = m + ':' + (s < 10 ? '0' : '') + s;
+    disp.classList.toggle('warn', left <= 10);
+  }
+  function stop(){ if (iv) { clearInterval(iv); iv = null; } startBtn.textContent = '▶ 시작'; }
+  startBtn.addEventListener('click', function(){
+    if (iv) { stop(); return; }
+    startBtn.textContent = '⏸ 일시정지';
+    iv = setInterval(function(){
+      left--;
+      if (left <= 0) { left = 0; show(); stop(); beep(); disp.textContent = '⏰ 종료!'; return; }
+      show();
+    }, 1000);
+  });
+  resetBtn.addEventListener('click', function(){ stop(); left = seconds; show(); });
+  show();
+}
+document.querySelectorAll('.timer-box').forEach(function(el){ makeTimer(el, parseInt(el.getAttribute('data-sec') || '90', 10)); });
+/* ============================ 녹음 (MediaRecorder) */
+function makeRecorder(root){
+  var btn = root.querySelector('.rec-btn'), status = root.querySelector('.rec-status');
+  var player = root.querySelector('.rec-player'), dl = root.querySelector('.rec-dl');
+  var mr = null, chunks = [];
+  if (!navigator.mediaDevices || !window.MediaRecorder) {
+    btn.style.display = 'none'; status.textContent = '이 브라우저는 녹음을 지원하지 않습니다.'; return;
+  }
+  btn.addEventListener('click', function(){
+    if (mr && mr.state === 'recording') { mr.stop(); return; }
+    navigator.mediaDevices.getUserMedia({ audio: true }).then(function(stream){
+      chunks = [];
+      mr = new MediaRecorder(stream);
+      mr.ondataavailable = function(e){ chunks.push(e.data); };
+      mr.onstop = function(){
+        stream.getTracks().forEach(function(t){ t.stop(); });
+        var mime = (mr.mimeType && mr.mimeType.split(';')[0]) || 'audio/webm';
+        var ext = mime.indexOf('mp4') >= 0 ? 'm4a' : 'webm';   /* iOS Safari는 mp4로 녹음됨 */
+        var blob = new Blob(chunks, { type: mime });
+        var url = URL.createObjectURL(blob);
+        player.src = url; player.style.display = 'block';
+        dl.href = url; dl.download = (DAY.date || 'opic') + '_recording.' + ext; dl.style.display = 'inline-flex';
+        btn.textContent = '🎙️ 다시 녹음'; btn.classList.remove('primary');
+        status.textContent = '녹음 완료 — 아래에서 다시 들어보세요.';
+      };
+      mr.start();
+      btn.textContent = '⏹ 녹음 정지'; btn.classList.add('primary');
+      status.textContent = '녹음 중... (파일은 이 기기에만 저장됩니다)';
+    }).catch(function(){
+      status.textContent = '마이크 권한이 거부되었습니다. 브라우저 설정에서 마이크를 허용해 주세요.';
+    });
+  });
+}
+document.querySelectorAll('.rec-box').forEach(makeRecorder);
+/* ============================ 퀴즈 엔진 */
+function shuffle(a){
+  a = a.slice();
+  for (var i = a.length - 1; i > 0; i--) {
+    var j = Math.floor(Math.random() * (i + 1)), t = a[i]; a[i] = a[j]; a[j] = t;
+  }
+  return a;
+}
+function renderQuiz(root, questions, opts){
+  opts = opts || {};
+  root.innerHTML = '';
+  var answered = 0, correct = 0, done = false;
+  var timerEl = null, iv = null;
+  if (opts.timeLimit) {
+    timerEl = document.createElement('div');
+    timerEl.className = 'timer'; timerEl.style.textAlign = 'center';
+    root.appendChild(timerEl);
+    var left = opts.timeLimit;
+    var tick = function(){
+      var m = Math.floor(left / 60), s = left % 60;
+      timerEl.textContent = m + ':' + (s < 10 ? '0' : '') + s;
+      timerEl.classList.toggle('warn', left <= 15);
+      if (left <= 0) { clearInterval(iv); beep(); finish(true); }
+      left--;
+    };
+    tick(); iv = setInterval(tick, 1000);
+  }
+  var scoreEl = document.createElement('div');
+  function finish(timeout){
+    if (done) return; done = true;
+    if (iv) clearInterval(iv);
+    root.querySelectorAll('.choice').forEach(function(b){ b.disabled = true; });
+    scoreEl.className = 'quiz-score';
+    scoreEl.textContent = (timeout ? '⏰ 시간 종료! ' : '🎉 ') + questions.length + '문제 중 ' + correct + '개 정답';
+    root.appendChild(scoreEl);
+  }
+  questions.forEach(function(q, qi){
+    var box = document.createElement('div'); box.className = 'quiz-q';
+    var qt = document.createElement('div'); qt.className = 'qt';
+    qt.textContent = 'Q' + (qi + 1) + '. ' + q.question;
+    box.appendChild(qt);
+    q.choices.forEach(function(c, ci){
+      var b = document.createElement('button');
+      b.className = 'choice'; b.textContent = c;
+      b.addEventListener('click', function(){
+        if (b.disabled || done) return;
+        box.querySelectorAll('.choice').forEach(function(x){ x.disabled = true; });
+        if (ci === q.answer_index) { b.classList.add('correct'); correct++; }
+        else {
+          b.classList.add('wrong');
+          box.querySelectorAll('.choice')[q.answer_index].classList.add('correct');
+        }
+        answered++;
+        if (answered === questions.length) finish(false);
+      });
+      box.appendChild(b);
+    });
+    root.appendChild(box);
+  });
+}
+function matchingFrom(words, pool){
+  var meanings = (pool || words).map(function(w){ return w.meaning; });
+  return shuffle(words).map(function(w){
+    var others = shuffle(meanings.filter(function(m){ return m !== w.meaning; })).slice(0, 3);
+    var choices = shuffle([w.meaning].concat(others));
+    return { question: "'" + w.word + "'의 뜻은?", choices: choices, answer_index: choices.indexOf(w.meaning) };
+  });
+}
+/* ============================ 플래시카드 */
+(function(){
+  var wrap = document.getElementById('flashcards');
+  if (!wrap || !DAY.vocab) return;
+  var cards = DAY.vocab, i = 0, memorized = {};
+  var fc = wrap.querySelector('.fc'), front = wrap.querySelector('.fc-front'), back = wrap.querySelector('.fc-back');
+  var prog = wrap.querySelector('.fc-progress');
+  function render(){
+    var w = cards[i];
+    fc.classList.remove('flipped');
+    var tierHtml = w.tier === 'core'
+      ? '<span class="tier core">핵심</span>'
+      : '<span class="tier extend">확장 · ' + w.linked_word + ' 대신</span>';
+    front.innerHTML = tierHtml
+      + '<div class="fc-word en">' + w.word + '</div>'
+      + '<div class="fc-pos">' + w.pos + '</div>'
+      + '<button class="btn small tts" data-say="' + w.word.replace(/"/g, '&quot;') + '">🔊 발음</button>'
+      + '<div class="hint">탭하면 뜻이 나옵니다</div>';
+    back.innerHTML = '<div class="fc-meaning">' + w.meaning + '</div>'
+      + '<div class="fc-ex en">' + w.example + '</div>'
+      + '<div class="fc-ex">🧩 ' + w.collocation + '</div>';
+    var doneCnt = Object.keys(memorized).length;
+    prog.textContent = (i + 1) + ' / ' + cards.length + (doneCnt ? ' · 외운 단어 ' + doneCnt + '개' : '');
+    if (!ttsOK) front.querySelectorAll('.tts').forEach(function(b){ b.style.display = 'none'; });
+  }
+  fc.addEventListener('click', function(e){
+    if (e.target.closest('.tts')) return;
+    fc.classList.toggle('flipped');
+  });
+  function move(d){ i = (i + d + cards.length) % cards.length; render(); }
+  wrap.querySelector('.fc-prev').addEventListener('click', function(){ move(-1); });
+  wrap.querySelector('.fc-next').addEventListener('click', function(){ move(1); });
+  wrap.querySelector('.fc-done').addEventListener('click', function(){ memorized[i] = true; move(1); });
+  var sx = null;
+  fc.addEventListener('touchstart', function(e){ sx = e.touches[0].clientX; }, { passive: true });
+  fc.addEventListener('touchend', function(e){
+    if (sx === null) return;
+    var dx = e.changedTouches[0].clientX - sx;
+    if (Math.abs(dx) > 45) move(dx < 0 ? 1 : -1);
+    sx = null;
+  }, { passive: true });
+  render();
+})();
+/* ============================ 오늘의 미니 테스트 7문제 */
+(function(){
+  var root = document.getElementById('vocab-quiz');
+  if (!root || !DAY.vocab_quiz) return;
+  document.getElementById('vocab-quiz-start').addEventListener('click', function(){
+    this.style.display = 'none';
+    renderQuiz(root, DAY.vocab_quiz);
+  });
+})();
+/* ============================ 어제 단어 초스피드 테스트 (90초) */
+(function(){
+  var root = document.getElementById('speed-quiz');
+  if (!root || !YESTERDAY_WORDS.length) return;
+  document.getElementById('speed-quiz-start').addEventListener('click', function(){
+    this.style.display = 'none';
+    renderQuiz(root, matchingFrom(YESTERDAY_WORDS), { timeLimit: 90 });
+  });
+})();
+/* ============================ 주말 종합 테스트 (30문제) */
+(function(){
+  var root = document.getElementById('weekly-quiz');
+  if (!root || !DAY.weekly_words) return;
+  document.getElementById('weekly-quiz-start').addEventListener('click', function(){
+    this.style.display = 'none';
+    renderQuiz(root, matchingFrom(DAY.weekly_words, DAY.all_week_words));
+  });
+})();
+
+</script>
+</body>
+</html>
