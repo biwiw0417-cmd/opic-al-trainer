@@ -328,5 +328,170 @@
     "linked_word": "clear my head",
     "date": "2026-07-19",
     "topic": "답변 구조 훈련: MP–디테일–감정–마무리"
+  },
+  {
+    "word": "embark on",
+    "pos": "verb phrase",
+    "meaning": "~에 착수하다, (여행을) 시작하다",
+    "example": "I embarked on a road trip along the coast, looking forward to some beautiful ocean views.",
+    "collocation": "embark on a journey",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-07-20",
+    "topic": "과거 시제 서사 컨트롤"
+  },
+  {
+    "word": "out of service",
+    "pos": "adjective phrase",
+    "meaning": "고장 난, 가동되지 않는",
+    "example": "But suddenly, my rental car started making this weird noise... It was completely out of service.",
+    "collocation": "temporarily out of service",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-07-20",
+    "topic": "과거 시제 서사 컨트롤"
+  },
+  {
+    "word": "come to a screeching halt",
+    "pos": "idiom",
+    "meaning": "갑자기 멈추다, 돌연 중단되다",
+    "example": "Honestly, everything was perfect until my plans came to a screeching halt.",
+    "collocation": "bring something to a screeching halt",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-07-20",
+    "topic": "과거 시제 서사 컨트롤"
+  },
+  {
+    "word": "make matters worse",
+    "pos": "idiom",
+    "meaning": "설상가상으로, 일을 더 악화시키다",
+    "example": "To make matters worse, it started pouring rain, and I was in the middle of nowhere.",
+    "collocation": "to make matters worse",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-07-20",
+    "topic": "과거 시제 서사 컨트롤"
+  },
+  {
+    "word": "keep my composure",
+    "pos": "collocation",
+    "meaning": "평정심을 유지하다, 침착하다",
+    "example": "I felt this sudden wave of panic, but I knew I had to keep my composure.",
+    "collocation": "struggle to keep my composure",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-07-20",
+    "topic": "과거 시제 서사 컨트롤"
+  },
+  {
+    "word": "blessing in disguise",
+    "pos": "idiom",
+    "meaning": "전화위복, 뜻밖의 좋은 결과",
+    "example": "Looking back, that breakdown was actually a blessing in disguise.",
+    "collocation": "turn out to be a blessing in disguise",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-07-20",
+    "topic": "과거 시제 서사 컨트롤"
+  },
+  {
+    "word": "scenic route",
+    "pos": "noun phrase",
+    "meaning": "경치가 좋은 길",
+    "example": "Whenever I travel to the countryside, I always prefer taking the scenic route.",
+    "collocation": "take the scenic route",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-07-20",
+    "topic": "과거 시제 서사 컨트롤"
+  },
+  {
+    "word": "hit a snag",
+    "pos": "idiom",
+    "meaning": "예상치 못한 문제에 부딪히다",
+    "example": "Our travel plans hit a snag when we missed the connecting flight.",
+    "collocation": "hit a temporary snag",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-07-20",
+    "topic": "과거 시제 서사 컨트롤"
+  },
+  {
+    "word": "travel light",
+    "pos": "verb phrase",
+    "meaning": "짐을 가볍게 하여 여행하다",
+    "example": "I always try to travel light because carrying heavy bags is just exhausting.",
+    "collocation": "prefer to travel light",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-07-20",
+    "topic": "과거 시제 서사 컨트롤"
+  },
+  {
+    "word": "get stranded",
+    "pos": "verb phrase",
+    "meaning": "오도 가도 못하게 되다, 고립되다",
+    "example": "If you don't check the train schedule, you might get stranded at the station overnight.",
+    "collocation": "get stranded in the middle of nowhere",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-07-20",
+    "topic": "과거 시제 서사 컨트롤"
+  },
+  {
+    "word": "set out on",
+    "pos": "verb phrase",
+    "meaning": "~을 출발하다, 시작하다",
+    "example": "We set out on our hike early in the morning before the sun got too hot.",
+    "collocation": "set out on an adventure",
+    "tier": "extend",
+    "linked_word": "embark on",
+    "date": "2026-07-20",
+    "topic": "과거 시제 서사 컨트롤"
+  },
+  {
+    "word": "malfunctioning",
+    "pos": "adjective",
+    "meaning": "제대로 작동하지 않는, 고장 난",
+    "example": "I had to call tech support because my laptop was malfunctioning during the meeting.",
+    "collocation": "a malfunctioning device",
+    "tier": "extend",
+    "linked_word": "out of service",
+    "date": "2026-07-20",
+    "topic": "과거 시제 서사 컨트롤"
+  },
+  {
+    "word": "aggravate the situation",
+    "pos": "verb phrase",
+    "meaning": "상황을 악화시키다",
+    "example": "Complaining about the delay will only aggravate the situation; let's just find a solution.",
+    "collocation": "further aggravate the situation",
+    "tier": "extend",
+    "linked_word": "make matters worse",
+    "date": "2026-07-20",
+    "topic": "과거 시제 서사 컨트롤"
+  },
+  {
+    "word": "keep a cool head",
+    "pos": "idiom",
+    "meaning": "침착함을 유지하다",
+    "example": "It is crucial to keep a cool head when dealing with angry customers.",
+    "collocation": "manage to keep a cool head",
+    "tier": "extend",
+    "linked_word": "keep my composure",
+    "date": "2026-07-20",
+    "topic": "과거 시제 서사 컨트롤"
+  },
+  {
+    "word": "silver lining",
+    "pos": "noun phrase",
+    "meaning": "(불행 속의) 한 가닥 희망, 불행 중 다행",
+    "example": "Losing my job was tough, but the silver lining was that I finally had time to write my book.",
+    "collocation": "find a silver lining",
+    "tier": "extend",
+    "linked_word": "blessing in disguise",
+    "date": "2026-07-20",
+    "topic": "과거 시제 서사 컨트롤"
   }
 ]

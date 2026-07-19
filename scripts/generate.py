@@ -304,6 +304,13 @@ def build_weekend(today: datetime, words: list) -> dict | None:
 def main() -> None:
     today = today_kst()
     date_str = today.strftime("%Y-%m-%d")
+
+    # 같은 날 재실행 방지: 이미 오늘 콘텐츠가 있으면 진도를 더 나가지 않고 종료
+    # (재시도 크론·수동 실행이 안전해짐)
+    if (DATA / "days" / f"{date_str}.json").exists():
+        print(f"[generate] {date_str} 콘텐츠가 이미 있습니다. 생성을 건너뜁니다.")
+        return
+
     words = load_json(DATA / "words.json")
     patterns = load_json(DATA / "patterns.json")
     curriculum = load_json(DATA / "curriculum.json")

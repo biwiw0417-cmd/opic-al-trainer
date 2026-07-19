@@ -2,9 +2,10 @@ name: daily-training
 
 on:
   schedule:
-    # UTC 22:00 = 한국시간(KST) 아침 07:00
-    # 시간을 바꾸려면 아래 cron을 수정하세요. 예) KST 06:00 → "0 21 * * *"
-    - cron: "0 22 * * *"
+    # GitHub 크론은 정시를 보장하지 않고 특히 정각(0분)은 혼잡해 몇 시간 밀릴 수 있음.
+    # → 새벽에 미리 생성 + 아침에 재시도 (같은 날 중복 실행은 generate.py가 알아서 건너뜀)
+    - cron: "37 20 * * *"   # UTC 20:37 = KST 05:37 (본 실행)
+    - cron: "37 22 * * *"   # UTC 22:37 = KST 07:37 (앞 실행이 밀렸을 때 재시도)
   workflow_dispatch: {}   # Actions 탭에서 수동 실행 가능
 
 permissions:

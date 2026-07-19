@@ -38,5 +38,25 @@
     "unit": 1,
     "unit_title": "AL의 기초 체력",
     "topic": "답변 구조 훈련: MP–디테일–감정–마무리"
+  },
+  {
+    "pattern": "everything was perfect until...",
+    "meaning": "모든 것이 완벽했다, ~하기 전까지는",
+    "usage_today": "Honestly, everything was perfect until my plans came to a screeching halt.",
+    "extra_example": "Everything was perfect until I realized I had left my passport at home.",
+    "date": "2026-07-20",
+    "unit": 1,
+    "unit_title": "AL의 기초 체력",
+    "topic": "과거 시제 서사 컨트롤"
+  },
+  {
+    "pattern": "Looking back, [something] was actually...",
+    "meaning": "돌이켜보면, ~은 실제로 ~였다",
+    "usage_today": "Looking back, that breakdown was actually a blessing in disguise.",
+    "extra_example": "Looking back, failing that interview was actually a great opportunity to redirect my career.",
+    "date": "2026-07-20",
+    "unit": 1,
+    "unit_title": "AL의 기초 체력",
+    "topic": "과거 시제 서사 컨트롤"
   }
 ]
