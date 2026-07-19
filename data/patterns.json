@@ -18,5 +18,25 @@
     "unit": 1,
     "unit_title": "AL의 기초 체력",
     "topic": "자기소개 (AL 버전으로 재설계)"
+  },
+  {
+    "pattern": "I was desperate to [verb], so I decided to...",
+    "meaning": "간절히 ~하고 싶어서, 결국 ~하기로 했다",
+    "usage_today": "I was feeling incredibly burnt out and desperate to escape the daily grind, so I decided to head out to a local historic neighborhood without any concrete plans.",
+    "extra_example": "I was desperate to clear my head, so I decided to go for a drive late at night.",
+    "date": "2026-07-19",
+    "unit": 1,
+    "unit_title": "AL의 기초 체력",
+    "topic": "답변 구조 훈련: MP–디테일–감정–마무리"
+  },
+  {
+    "pattern": "It made me realize that...",
+    "meaning": "~라는 것을 깨닫게 해주었다",
+    "usage_today": "It made me realize that the best memories are often the unexpected ones.",
+    "extra_example": "Living alone made me realize that doing chores takes a lot of time and effort.",
+    "date": "2026-07-19",
+    "unit": 1,
+    "unit_title": "AL의 기초 체력",
+    "topic": "답변 구조 훈련: MP–디테일–감정–마무리"
   }
 ]

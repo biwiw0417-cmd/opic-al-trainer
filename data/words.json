@@ -163,5 +163,170 @@
     "linked_word": "find solace in",
     "date": "2026-07-18",
     "topic": "자기소개 (AL 버전으로 재설계)"
+  },
+  {
+    "word": "escape the daily grind",
+    "pos": "verb phrase",
+    "meaning": "일상의 지루한 틀에서 벗어나다",
+    "example": "I was feeling incredibly burnt out and desperate to escape the daily grind, so I decided to head out to a local historic neighborhood.",
+    "collocation": "escape the daily grind of life",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-07-19",
+    "topic": "답변 구조 훈련: MP–디테일–감정–마무리"
+  },
+  {
+    "word": "take a stroll",
+    "pos": "verb phrase",
+    "meaning": "한가롭게 산책하다",
+    "example": "Normally, I'd just stay home, but that day, I wanted to take a stroll and explore.",
+    "collocation": "take a stroll along the beach",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-07-19",
+    "topic": "답변 구조 훈련: MP–디테일–감정–마무리"
+  },
+  {
+    "word": "out of the blue",
+    "pos": "idiom",
+    "meaning": "갑자기, 느닷없이",
+    "example": "While walking around, out of the blue, it started to drizzle.",
+    "collocation": "happen out of the blue",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-07-19",
+    "topic": "답변 구조 훈련: MP–디테일–감정–마무리"
+  },
+  {
+    "word": "lose track of time",
+    "pos": "verb phrase",
+    "meaning": "시간 가는 줄 모르다",
+    "example": "The thing is, I was so into it that I completely lost track of time.",
+    "collocation": "easily lose track of time",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-07-19",
+    "topic": "답변 구조 훈련: MP–디테일–감정–마무리"
+  },
+  {
+    "word": "soak up the atmosphere",
+    "pos": "verb phrase",
+    "meaning": "분위기를 만끽하다, 흠뻑 느끼다",
+    "example": "I sat there for hours, just soaking up the atmosphere.",
+    "collocation": "soak up the lively atmosphere",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-07-19",
+    "topic": "답변 구조 훈련: MP–디테일–감정–마무리"
+  },
+  {
+    "word": "leave a lasting impression",
+    "pos": "verb phrase",
+    "meaning": "깊은 인상을 남기다",
+    "example": "Honestly, that simple, unplanned afternoon left a lasting impression on me.",
+    "collocation": "leave a lasting impression on someone",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-07-19",
+    "topic": "답변 구조 훈련: MP–디테일–감정–마무리"
+  },
+  {
+    "word": "kill time",
+    "pos": "verb phrase",
+    "meaning": "시간을 때우다",
+    "example": "I had an hour before my friend arrived, so I decided to kill time by browsing a nearby bookstore.",
+    "collocation": "kill time waiting for a flight",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-07-19",
+    "topic": "답변 구조 훈련: MP–디테일–감정–마무리"
+  },
+  {
+    "word": "indulge in",
+    "pos": "verb phrase",
+    "meaning": "~에 푹 빠지다, 탐닉하다",
+    "example": "On weekends, I love to indulge in my favorite hobbies without worrying about work.",
+    "collocation": "indulge in a hobby",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-07-19",
+    "topic": "답변 구조 훈련: MP–디테일–감정–마무리"
+  },
+  {
+    "word": "clear my head",
+    "pos": "verb phrase",
+    "meaning": "머리를 식히다, 생각을 정리하다",
+    "example": "Going for a run in the evening always helps me clear my head after a stressful day.",
+    "collocation": "clear my head of negative thoughts",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-07-19",
+    "topic": "답변 구조 훈련: MP–디테일–감정–마무리"
+  },
+  {
+    "word": "go with the flow",
+    "pos": "verb phrase",
+    "meaning": "흐름에 몸을 맡기다, 대세를 따르다",
+    "example": "I didn't make a strict itinerary for the trip; I just wanted to go with the flow.",
+    "collocation": "just go with the flow",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-07-19",
+    "topic": "답변 구조 훈련: MP–디테일–감정–마무리"
+  },
+  {
+    "word": "be completely absorbed in",
+    "pos": "adjective phrase",
+    "meaning": "~에 완전히 몰두하다, 빠져 있다",
+    "example": "I was completely absorbed in the movie and didn't hear my phone ringing.",
+    "collocation": "be completely absorbed in a book",
+    "tier": "extend",
+    "linked_word": "lose track of time",
+    "date": "2026-07-19",
+    "topic": "답변 구조 훈련: MP–디테일–감정–마무리"
+  },
+  {
+    "word": "break free from the monotony",
+    "pos": "verb phrase",
+    "meaning": "단조로운 일상에서 벗어나다",
+    "example": "I booked a weekend trip to Jeju Island to break free from the monotony of office life.",
+    "collocation": "break free from the monotony of daily life",
+    "tier": "extend",
+    "linked_word": "escape the daily grind",
+    "date": "2026-07-19",
+    "topic": "답변 구조 훈련: MP–디테일–감정–마무리"
+  },
+  {
+    "word": "go for a leisurely walk",
+    "pos": "verb phrase",
+    "meaning": "여유롭게 산책을 하다",
+    "example": "Instead of staying indoors, I decided to go for a leisurely walk in the park.",
+    "collocation": "go for a leisurely walk after dinner",
+    "tier": "extend",
+    "linked_word": "take a stroll",
+    "date": "2026-07-19",
+    "topic": "답변 구조 훈련: MP–디테일–감정–마무리"
+  },
+  {
+    "word": "take in the vibes",
+    "pos": "verb phrase",
+    "meaning": "분위기를 느끼다/흡수하다",
+    "example": "We sat at an outdoor cafe in Paris, simply taking in the vibes of the city.",
+    "collocation": "take in the local vibes",
+    "tier": "extend",
+    "linked_word": "soak up the atmosphere",
+    "date": "2026-07-19",
+    "topic": "답변 구조 훈련: MP–디테일–감정–마무리"
+  },
+  {
+    "word": "get some peace of mind",
+    "pos": "verb phrase",
+    "meaning": "마음의 평온을 얻다",
+    "example": "Meditation is a great way to escape the stress and get some peace of mind.",
+    "collocation": "get some peace of mind after work",
+    "tier": "extend",
+    "linked_word": "clear my head",
+    "date": "2026-07-19",
+    "topic": "답변 구조 훈련: MP–디테일–감정–마무리"
   }
 ]
