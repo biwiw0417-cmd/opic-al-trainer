@@ -1,0 +1,289 @@
+{
+  "date": "2026-07-21",
+  "question": {
+    "english": "Technology is everywhere, but sometimes it fails us. Tell me about a time when you experienced a technology issue, such as an internet outage or a broken phone. What happened, and how did you handle it?",
+    "korean": "기술은 어디에나 있지만 때로는 우리를 실망시키기도 합니다. 인터넷 중단이나 스마트폰 고장 등 기술적인 문제를 겪었던 경험에 대해 이야기해 주세요. 어떤 일이 있었고 어떻게 대처하셨나요?",
+    "combo_context": "기기/기술 관련 콤보 질문 중 '과거에 겪은 기기 오작동 및 문제 해결 경험'을 묻는 3단계 질문입니다. 자연스러운 구어체 필러와 디스코스 마커를 사용해 상황을 생생하게 묘사하는 것이 핵심입니다."
+  },
+  "model_answer": {
+    "script": "To be completely honest with you, I used to be someone who was constantly glued to the screen, you know? But last summer, I had this major wake-up call when my phone suddenly had a breakdown. It just went pitch black and wouldn't turn on at all.\n\nAt first, I immediately felt a sense of dread. I mean, we rely on our phones for literally everything nowadays—navigation, payments, and communication. Suddenly, I felt completely cut off from the world. It was like, \"Oh my god, what am I supposed to do now?\"\n\nBut, looking back, the thing is, it turned out to be an eye-opening experience. Since I couldn't use my phone, I had to basically go cold turkey on social media for three whole days until it got repaired.\n\nAt first, it was incredibly frustrating. But as I came to terms with my situation, I started noticing things around me. I actually read a physical book, talked to my family face-to-face, and enjoyed the quietness. It really hit me that I didn't need to be online 24/7. It was the perfect accidental break from screens.\n\nNow, I try to consciously unplug. It really changed how I view my relationship with technology.",
+    "structure_note": "서론: To be completely honest with you~ (폰이 고장 났던 경험 소개) -> MP: At first, I immediately felt~ (당시 느꼈던 당혹감과 세상과의 단절감) -> 디테일 확장: But, looking back~ (폰 없이 3일간 강제로 소셜 미디어를 끊어야 했던 상황) -> 감정/생각: At first, it was~ (불안함에서 점차 여유를 찾고 깨달음을 얻은 과정) -> 마무리: Now, I try to~ (현재까지 이어지는 행동의 변화 및 교훈)",
+    "al_points": [
+      "구어체 필러인 'you know?', 'I mean', 'the thing is' 등을 문맥에 맞게 적재적소에 배치하여 자연스럽게 말을 이어가는 원어민스러운 흐름을 보여줍니다.",
+      "과거 시제(had, felt, couldn't, started)를 흔들림 없이 유지하면서 과거 행동과 깨달음을 효과적으로 서사했습니다.",
+      "감정을 나타내는 생생한 구어적 표현('felt a sense of dread', 'go cold turkey')을 사용해 상황의 극적인 면을 강조해 가산점을 유도합니다."
+    ]
+  },
+  "vocab": [
+    {
+      "word": "be glued to the screen",
+      "pos": "idiom",
+      "meaning": "화면에서 눈을 떼지 못하다, 화면을 계속 들여다보다",
+      "example": "To be completely honest with you, I used to be someone who was constantly glued to the screen, you know?",
+      "collocation": "be glued to the screen all day",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "have a breakdown",
+      "pos": "idiom",
+      "meaning": "고장 나다, (기계 등이) 멈추다",
+      "example": "But last summer, I had this major wake-up call when my phone suddenly had a breakdown.",
+      "collocation": "have a sudden breakdown",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "feel a sense of dread",
+      "pos": "idiom",
+      "meaning": "극심한 공포를 느끼다, 조마조마하고 불안해지다",
+      "example": "At first, I immediately felt a sense of dread.",
+      "collocation": "feel a deep sense of dread",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "cut off from the world",
+      "pos": "phrase",
+      "meaning": "세상과 단절된",
+      "example": "Suddenly, I felt completely cut off from the world.",
+      "collocation": "feel completely cut off from the world",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "eye-opening experience",
+      "pos": "noun phrase",
+      "meaning": "눈이 번쩍 뜨이는 경험, 새로운 깨달음을 주는 경험",
+      "example": "But, looking back, the thing is, it turned out to be an eye-opening experience.",
+      "collocation": "a truly eye-opening experience",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "go cold turkey",
+      "pos": "idiom",
+      "meaning": "(나쁜 습관 등을) 단번에 완전히 끊다",
+      "example": "I had to basically go cold turkey on social media for three whole days until it got repaired.",
+      "collocation": "go cold turkey on something",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "come to terms with",
+      "pos": "idiom",
+      "meaning": "(받아들이기 힘든 현실을) 받아들이다, 타협하다",
+      "example": "But as I came to terms with my situation, I started noticing things around me.",
+      "collocation": "come to terms with reality",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "run out of juice",
+      "pos": "idiom",
+      "meaning": "(배터리 등의) 에너지가 다 떨어지다",
+      "example": "My laptop ran out of juice right in the middle of the online interview.",
+      "collocation": "run out of juice completely",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "digital detox",
+      "pos": "noun",
+      "meaning": "디지털 단식, 디지털 디톡스",
+      "example": "I highly recommend trying a digital detox over the weekend to clear your head.",
+      "collocation": "do a digital detox",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "tech-savvy",
+      "pos": "adjective",
+      "meaning": "기술을 잘 아는, 기기를 잘 다루는",
+      "example": "Even though I'm quite tech-savvy, I had no idea how to fix my broken tablet.",
+      "collocation": "a tech-savvy generation",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "stare blankly at",
+      "pos": "verb phrase",
+      "meaning": "멍하니 응시하다",
+      "example": "Instead of working, he would just stare blankly at the computer screen.",
+      "collocation": "stare blankly at the wall",
+      "tier": "extend",
+      "linked_word": "be glued to the screen"
+    },
+    {
+      "word": "go haywire",
+      "pos": "idiom",
+      "meaning": "오작동하다, 통제 불능이 되다",
+      "example": "The GPS went haywire and led us deep into the mountains.",
+      "collocation": "make the system go haywire",
+      "tier": "extend",
+      "linked_word": "have a breakdown"
+    },
+    {
+      "word": "have butterflies in my stomach",
+      "pos": "idiom",
+      "meaning": "초조하다, 두근거리다, 조마조마하다",
+      "example": "I had butterflies in my stomach right before my presentation started.",
+      "collocation": "always have butterflies in my stomach",
+      "tier": "extend",
+      "linked_word": "feel a sense of dread"
+    },
+    {
+      "word": "unplug from technology",
+      "pos": "verb phrase",
+      "meaning": "기기 사용을 중단하다, 기술로부터 멀어지다",
+      "example": "It's healthy to unplug from technology at least once a week.",
+      "collocation": "unplug from technology for a day",
+      "tier": "extend",
+      "linked_word": "digital detox"
+    },
+    {
+      "word": "technophobe",
+      "pos": "noun",
+      "meaning": "기계치, 새로운 기술을 두려워하는 사람",
+      "example": "My grandfather is a total technophobe and refuses to use a smartphone.",
+      "collocation": "be a self-proclaimed technophobe",
+      "tier": "extend",
+      "linked_word": "tech-savvy"
+    }
+  ],
+  "vocab_quiz": [
+    {
+      "type": "matching",
+      "question": "다음 중 '(나쁜 습관 등을) 단번에 완전히 끊다'라는 뜻을 가진 표현은 무엇인가요?",
+      "choices": [
+        "go cold turkey",
+        "come to terms with",
+        "feel a sense of dread",
+        "run out of juice"
+      ],
+      "answer_index": 0
+    },
+    {
+      "type": "matching",
+      "question": "다음 중 '기계치, 기술 공포증이 있는 사람'을 뜻하는 단어는 무엇인가요?",
+      "choices": [
+        "technophobe",
+        "tech-savvy",
+        "digital detox",
+        "breakdown"
+      ],
+      "answer_index": 0
+    },
+    {
+      "type": "matching",
+      "question": "다음 중 '기기가 통제 불능이 되거나 오작동하다'를 의미하는 표현은 무엇인가요?",
+      "choices": [
+        "go haywire",
+        "run out of juice",
+        "stare blankly at",
+        "go cold turkey"
+      ],
+      "answer_index": 0
+    },
+    {
+      "type": "blank",
+      "question": "빈칸에 알맞은 표현을 고르세요: \"To be completely honest with you, I used to be someone who was constantly ________, looking at social media all day.\"",
+      "choices": [
+        "glued to the screen",
+        "cut off from the world",
+        "going cold turkey",
+        "unplugged from technology"
+      ],
+      "answer_index": 0
+    },
+    {
+      "type": "blank",
+      "question": "빈칸에 알맞은 표현을 고르세요: \"When the power went out during the storm, I immediately felt a ________ because I couldn't charge my phone.\"",
+      "choices": [
+        "sense of dread",
+        "tech-savvy",
+        "digital detox",
+        "quick fix"
+      ],
+      "answer_index": 0
+    },
+    {
+      "type": "synonym",
+      "question": "다음 문장의 'had a breakdown'을 자연스럽게 대체할 수 있는 표현은 무엇인가요? \"My phone suddenly had a breakdown.\"",
+      "choices": [
+        "went haywire",
+        "went cold turkey",
+        "unplugged from technology",
+        "ran out of juice"
+      ],
+      "answer_index": 0
+    },
+    {
+      "type": "synonym",
+      "question": "다음 문장의 'digital detox'와 가장 유사한 의미를 가진 표현은 무엇인가요? \"I really needed a digital detox last week.\"",
+      "choices": [
+        "time to unplug from technology",
+        "tech-savvy adjustment",
+        "sense of dread",
+        "sudden breakdown"
+      ],
+      "answer_index": 0
+    }
+  ],
+  "patterns": [
+    {
+      "pattern": "To be completely honest with you, [clause]",
+      "meaning": "솔직히 말씀드리면, ~",
+      "usage_today": "To be completely honest with you, I used to be someone who was constantly glued to the screen, you know?",
+      "extra_example": "To be completely honest with you, I didn't like the food at that restaurant at first."
+    },
+    {
+      "pattern": "It really hit me that [clause]",
+      "meaning": "비로소 ~라는 생각이 강하게 들었다/깨달았다",
+      "usage_today": "It really hit me that I didn't need to be online 24/7.",
+      "extra_example": "It really hit me that life is too short to worry about small things."
+    }
+  ],
+  "review_words": [
+    {
+      "word": "gravitate towards",
+      "learned_date": "2026-07-18",
+      "new_example": "When I am stressed by technology, I tend to gravitate towards spending time in nature."
+    },
+    {
+      "word": "hit the gym",
+      "learned_date": "2026-07-18",
+      "new_example": "Instead of staring at my phone on a Sunday afternoon, I decided to hit the gym."
+    },
+    {
+      "word": "recharge my batteries",
+      "learned_date": "2026-07-18",
+      "new_example": "Unplugging from social media is actually the best way for me to recharge my batteries."
+    },
+    {
+      "word": "stuck in a rut",
+      "learned_date": "2026-07-18",
+      "new_example": "I felt stuck in a rut when I realized I was spending four hours a day looking at short-form videos."
+    }
+  ],
+  "review_patterns": [
+    {
+      "pattern": "Instead of just -ing, I really want to...",
+      "learned_date": "2026-07-18",
+      "new_example": "Instead of just complaining about my broken phone, I really want to find a creative way to spend my offline time.",
+      "mini_mission": "이 패턴과 오늘 배운 단어 'digital detox'를 함께 사용해 문장을 말해 보세요. (예시 답변: \"Instead of just lying on the bed all Sunday, I really want to try a digital detox to clear my mind.\")"
+    }
+  ],
+  "checklist": [
+    "오늘 배운 핵심 단어(glued to the screen, had a breakdown 등)를 최소 4개 이상 실제 스크립트 답변에 녹여 말했는가?",
+    "과거 고장 난 상황을 설명할 때 과거 시제(felt, was, couldn't 등)를 정확하게 유지했는가?",
+    "메인 포인트(MP)를 말한 뒤, 어떤 일들이 벌어졌는지 세부 디테일을 2개 이상 상세히 묘사했는가?",
+    "갑작스러운 기기 고장 당시에 느꼈던 감정이나 생각을 실감 나게 말했는가?",
+    "결론부에서 교훈이나 현재 변화된 습관을 언급하며 답변을 완성도 있게 마무리했는가?",
+    "의도치 않은 긴 침묵 없이 디스코스 마커나 필러(you know, I mean, the thing is)를 사용해 매끄럽게 발화했는가?"
+  ],
+  "type": "daily",
+  "unit": 1,
+  "unit_title": "AL의 기초 체력",
+  "topic": "디스코스 마커와 필러 활용"
+}

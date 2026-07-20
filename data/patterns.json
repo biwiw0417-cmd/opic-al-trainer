@@ -58,5 +58,25 @@
     "unit": 1,
     "unit_title": "AL의 기초 체력",
     "topic": "과거 시제 서사 컨트롤"
+  },
+  {
+    "pattern": "To be completely honest with you, [clause]",
+    "meaning": "솔직히 말씀드리면, ~",
+    "usage_today": "To be completely honest with you, I used to be someone who was constantly glued to the screen, you know?",
+    "extra_example": "To be completely honest with you, I didn't like the food at that restaurant at first.",
+    "date": "2026-07-21",
+    "unit": 1,
+    "unit_title": "AL의 기초 체력",
+    "topic": "디스코스 마커와 필러 활용"
+  },
+  {
+    "pattern": "It really hit me that [clause]",
+    "meaning": "비로소 ~라는 생각이 강하게 들었다/깨달았다",
+    "usage_today": "It really hit me that I didn't need to be online 24/7.",
+    "extra_example": "It really hit me that life is too short to worry about small things.",
+    "date": "2026-07-21",
+    "unit": 1,
+    "unit_title": "AL의 기초 체력",
+    "topic": "디스코스 마커와 필러 활용"
   }
 ]

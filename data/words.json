@@ -493,5 +493,170 @@
     "linked_word": "blessing in disguise",
     "date": "2026-07-20",
     "topic": "과거 시제 서사 컨트롤"
+  },
+  {
+    "word": "be glued to the screen",
+    "pos": "idiom",
+    "meaning": "화면에서 눈을 떼지 못하다, 화면을 계속 들여다보다",
+    "example": "To be completely honest with you, I used to be someone who was constantly glued to the screen, you know?",
+    "collocation": "be glued to the screen all day",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-07-21",
+    "topic": "디스코스 마커와 필러 활용"
+  },
+  {
+    "word": "have a breakdown",
+    "pos": "idiom",
+    "meaning": "고장 나다, (기계 등이) 멈추다",
+    "example": "But last summer, I had this major wake-up call when my phone suddenly had a breakdown.",
+    "collocation": "have a sudden breakdown",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-07-21",
+    "topic": "디스코스 마커와 필러 활용"
+  },
+  {
+    "word": "feel a sense of dread",
+    "pos": "idiom",
+    "meaning": "극심한 공포를 느끼다, 조마조마하고 불안해지다",
+    "example": "At first, I immediately felt a sense of dread.",
+    "collocation": "feel a deep sense of dread",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-07-21",
+    "topic": "디스코스 마커와 필러 활용"
+  },
+  {
+    "word": "cut off from the world",
+    "pos": "phrase",
+    "meaning": "세상과 단절된",
+    "example": "Suddenly, I felt completely cut off from the world.",
+    "collocation": "feel completely cut off from the world",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-07-21",
+    "topic": "디스코스 마커와 필러 활용"
+  },
+  {
+    "word": "eye-opening experience",
+    "pos": "noun phrase",
+    "meaning": "눈이 번쩍 뜨이는 경험, 새로운 깨달음을 주는 경험",
+    "example": "But, looking back, the thing is, it turned out to be an eye-opening experience.",
+    "collocation": "a truly eye-opening experience",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-07-21",
+    "topic": "디스코스 마커와 필러 활용"
+  },
+  {
+    "word": "go cold turkey",
+    "pos": "idiom",
+    "meaning": "(나쁜 습관 등을) 단번에 완전히 끊다",
+    "example": "I had to basically go cold turkey on social media for three whole days until it got repaired.",
+    "collocation": "go cold turkey on something",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-07-21",
+    "topic": "디스코스 마커와 필러 활용"
+  },
+  {
+    "word": "come to terms with",
+    "pos": "idiom",
+    "meaning": "(받아들이기 힘든 현실을) 받아들이다, 타협하다",
+    "example": "But as I came to terms with my situation, I started noticing things around me.",
+    "collocation": "come to terms with reality",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-07-21",
+    "topic": "디스코스 마커와 필러 활용"
+  },
+  {
+    "word": "run out of juice",
+    "pos": "idiom",
+    "meaning": "(배터리 등의) 에너지가 다 떨어지다",
+    "example": "My laptop ran out of juice right in the middle of the online interview.",
+    "collocation": "run out of juice completely",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-07-21",
+    "topic": "디스코스 마커와 필러 활용"
+  },
+  {
+    "word": "digital detox",
+    "pos": "noun",
+    "meaning": "디지털 단식, 디지털 디톡스",
+    "example": "I highly recommend trying a digital detox over the weekend to clear your head.",
+    "collocation": "do a digital detox",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-07-21",
+    "topic": "디스코스 마커와 필러 활용"
+  },
+  {
+    "word": "tech-savvy",
+    "pos": "adjective",
+    "meaning": "기술을 잘 아는, 기기를 잘 다루는",
+    "example": "Even though I'm quite tech-savvy, I had no idea how to fix my broken tablet.",
+    "collocation": "a tech-savvy generation",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-07-21",
+    "topic": "디스코스 마커와 필러 활용"
+  },
+  {
+    "word": "stare blankly at",
+    "pos": "verb phrase",
+    "meaning": "멍하니 응시하다",
+    "example": "Instead of working, he would just stare blankly at the computer screen.",
+    "collocation": "stare blankly at the wall",
+    "tier": "extend",
+    "linked_word": "be glued to the screen",
+    "date": "2026-07-21",
+    "topic": "디스코스 마커와 필러 활용"
+  },
+  {
+    "word": "go haywire",
+    "pos": "idiom",
+    "meaning": "오작동하다, 통제 불능이 되다",
+    "example": "The GPS went haywire and led us deep into the mountains.",
+    "collocation": "make the system go haywire",
+    "tier": "extend",
+    "linked_word": "have a breakdown",
+    "date": "2026-07-21",
+    "topic": "디스코스 마커와 필러 활용"
+  },
+  {
+    "word": "have butterflies in my stomach",
+    "pos": "idiom",
+    "meaning": "초조하다, 두근거리다, 조마조마하다",
+    "example": "I had butterflies in my stomach right before my presentation started.",
+    "collocation": "always have butterflies in my stomach",
+    "tier": "extend",
+    "linked_word": "feel a sense of dread",
+    "date": "2026-07-21",
+    "topic": "디스코스 마커와 필러 활용"
+  },
+  {
+    "word": "unplug from technology",
+    "pos": "verb phrase",
+    "meaning": "기기 사용을 중단하다, 기술로부터 멀어지다",
+    "example": "It's healthy to unplug from technology at least once a week.",
+    "collocation": "unplug from technology for a day",
+    "tier": "extend",
+    "linked_word": "digital detox",
+    "date": "2026-07-21",
+    "topic": "디스코스 마커와 필러 활용"
+  },
+  {
+    "word": "technophobe",
+    "pos": "noun",
+    "meaning": "기계치, 새로운 기술을 두려워하는 사람",
+    "example": "My grandfather is a total technophobe and refuses to use a smartphone.",
+    "collocation": "be a self-proclaimed technophobe",
+    "tier": "extend",
+    "linked_word": "tech-savvy",
+    "date": "2026-07-21",
+    "topic": "디스코스 마커와 필러 활용"
   }
 ]
