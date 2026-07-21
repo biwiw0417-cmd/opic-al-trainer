@@ -658,5 +658,170 @@
     "linked_word": "tech-savvy",
     "date": "2026-07-21",
     "topic": "디스코스 마커와 필러 활용"
+  },
+  {
+    "word": "search high and low",
+    "pos": "verb phrase",
+    "meaning": "샅샅이 뒤지다, 구석구석 찾다",
+    "example": "I had to search high and low at local music shops just to find a specific album.",
+    "collocation": "search high and low for",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-07-22",
+    "topic": "과거 vs 현재 비교 문장 만들기"
+  },
+  {
+    "word": "physical format",
+    "pos": "noun phrase",
+    "meaning": "실물 형태 (CD, LP 등)",
+    "example": "Back in high school, I used to buy physical formats like CDs and cassette tapes.",
+    "collocation": "buy in physical format",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-07-22",
+    "topic": "과거 vs 현재 비교 문장 만들기"
+  },
+  {
+    "word": "take up space",
+    "pos": "verb phrase",
+    "meaning": "공간을 차지하다",
+    "example": "Those old CD cases used to take up space on my bedroom shelves.",
+    "collocation": "take up too much space",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-07-22",
+    "topic": "과거 vs 현재 비교 문장 만들기"
+  },
+  {
+    "word": "dust off",
+    "pos": "phrasal verb",
+    "meaning": "~의 먼지를 털어내다, 오래된 것을 다시 꺼내다",
+    "example": "Occasionally, I still dust off my old player just to feel nostalgic.",
+    "collocation": "dust off an old CD",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-07-22",
+    "topic": "과거 vs 현재 비교 문장 만들기"
+  },
+  {
+    "word": "digital streaming platform",
+    "pos": "noun phrase",
+    "meaning": "디지털 스트리밍 플랫폼",
+    "example": "Everything has completely shifted to digital streaming platforms.",
+    "collocation": "subscribe to a digital streaming platform",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-07-22",
+    "topic": "과거 vs 현재 비교 문장 만들기"
+  },
+  {
+    "word": "instant access",
+    "pos": "noun phrase",
+    "meaning": "즉각적인 접근/이용",
+    "example": "I have instant access to millions of tracks anywhere, anytime.",
+    "collocation": "have instant access to",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-07-22",
+    "topic": "과거 vs 현재 비교 문장 만들기"
+  },
+  {
+    "word": "curate a playlist",
+    "pos": "verb phrase",
+    "meaning": "플레이리스트를 구성하다/엄선하다",
+    "example": "I usually curate a playlist tailored to my daily routine.",
+    "collocation": "curate a playlist for work",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-07-22",
+    "topic": "과거 vs 현재 비교 문장 만들기"
+  },
+  {
+    "word": "on-the-go",
+    "pos": "adjective / adverb",
+    "meaning": "이동 중에, 분주히",
+    "example": "I can listen to my favorite albums on-the-go using wireless earbuds.",
+    "collocation": "listen to music on-the-go",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-07-22",
+    "topic": "과거 vs 현재 비교 문장 만들기"
+  },
+  {
+    "word": "personalized recommendation",
+    "pos": "noun phrase",
+    "meaning": "개인 맞춤형 추천",
+    "example": "Personalized recommendations help me discover brand-new music effortlessly.",
+    "collocation": "receive personalized recommendations",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-07-22",
+    "topic": "과거 vs 현재 비교 문장 만들기"
+  },
+  {
+    "word": "music library",
+    "pos": "noun phrase",
+    "meaning": "음악 보관함, 라이브러리",
+    "example": "Having my entire music library in my pocket is just incredible.",
+    "collocation": "build a music library",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-07-22",
+    "topic": "과거 vs 현재 비교 문장 만들기"
+  },
+  {
+    "word": "track down",
+    "pos": "phrasal verb",
+    "meaning": "~을 추적하여 찾아내다",
+    "example": "It took me hours to track down that rare album online.",
+    "collocation": "track down a rare album",
+    "tier": "extend",
+    "linked_word": "search high and low",
+    "date": "2026-07-22",
+    "topic": "과거 vs 현재 비교 문장 만들기"
+  },
+  {
+    "word": "clutter up",
+    "pos": "phrasal verb",
+    "meaning": "~을 어지럽히다, 공간을 많이 차지하다",
+    "example": "Unused gadget boxes clutter up my entire desk.",
+    "collocation": "clutter up the room",
+    "tier": "extend",
+    "linked_word": "take up space",
+    "date": "2026-07-22",
+    "topic": "과거 vs 현재 비교 문장 만들기"
+  },
+  {
+    "word": "seamless access",
+    "pos": "noun phrase",
+    "meaning": "매끄러운/막힘없는 접근",
+    "example": "High-speed internet provides seamless access to streaming media.",
+    "collocation": "provide seamless access",
+    "tier": "extend",
+    "linked_word": "instant access",
+    "date": "2026-07-22",
+    "topic": "과거 vs 현재 비교 문장 만들기"
+  },
+  {
+    "word": "tailor-made suggestion",
+    "pos": "noun phrase",
+    "meaning": "맞춤형 제안/추천",
+    "example": "The app gives tailor-made suggestions based on my listening history.",
+    "collocation": "get tailor-made suggestions",
+    "tier": "extend",
+    "linked_word": "personalized recommendation",
+    "date": "2026-07-22",
+    "topic": "과거 vs 현재 비교 문장 만들기"
+  },
+  {
+    "word": "digital music archive",
+    "pos": "noun phrase",
+    "meaning": "디지털 음악 저장소",
+    "example": "I backed up all my old tracks into a digital music archive.",
+    "collocation": "access a digital music archive",
+    "tier": "extend",
+    "linked_word": "music library",
+    "date": "2026-07-22",
+    "topic": "과거 vs 현재 비교 문장 만들기"
   }
 ]

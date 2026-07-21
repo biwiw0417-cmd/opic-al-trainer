@@ -1,0 +1,289 @@
+{
+  "date": "2026-07-22",
+  "question": {
+    "english": "You indicated in the survey that you enjoy listening to music. How has the way you listen to music changed compared to the past? Please describe the differences in detail.",
+    "korean": "설문조사에서 음악 감상을 좋아한다고 하셨는데요. 과거와 비교해서 음악을 듣는 방식이 어떻게 변했나요? 차이점을 자세히 말씀해 주세요.",
+    "combo_context": "음악 관련 콤보 질문 중 과거와 현재의 차이점을 대조하여 설명하도록 요구하는 비교 문항입니다."
+  },
+  "model_answer": {
+    "script": "Well, looking back, the way I listen to music has changed drastically over the years.\n\nBack in high school, I used to buy physical formats like CDs and cassette tapes. I distinctly remember having to search high and low at local music shops just to find a specific album. Those CDs would take up space on my shelves, but collecting them was a huge part of my life. Occasionally, I still dust off my old player just to feel nostalgic.\n\nFast forward to today, everything has completely shifted to digital streaming platforms. I no longer need physical space because I have instant access to millions of tracks anywhere, anytime. Instead of listening to a full album from start to finish, I usually curate a playlist tailored to my daily routine and enjoy it on-the-go. What's even cooler is that personalized recommendations help me discover brand-new music effortlessly.\n\nHaving my entire music library in my pocket is just incredible compared to the old days. While I sometimes miss the physical touch of CDs, the convenience of modern streaming is definitely unbeatable.",
+    "structure_note": "[서론] 과거와 현재 음악 감상 방식의 거대한 변화 언급 → [과거 MP & 디테일] 학창 시절 CD 구매, 샅샅이 뒤지던 추억 및 공간 차지 (search high and low, take up space, dust off) → [현재 MP & 디테일] 디지털 스트리밍으로 전환, 즉각적 접근 및 이동 중 맞춤 플레이리스트 감상 (digital streaming platform, instant access, curate a playlist, on-the-go, personalized recommendation) → [감정 및 비교] 과거 추억 대비 현재의 압도적 편리함 감상 → [마무리] 주머니 속 음악 보관함(music library)에 대한 만족감으로 마무리",
+    "al_points": [
+      "과거 시제(used to buy, remembered having to)와 현재 완결형/현재 시제(has shifted, no longer need)를 명확한 대조 디스코스 마커(Back in..., Fast forward to today...)와 함께 교차하여 시제 조절 능력을 보여줍니다.",
+      "단순히 '음악을 스트리밍한다'고 하지 않고 'curate a playlist', 'personalized recommendation', 'instant access' 등 구체적인 세부 상황을 나타내는 고급 동사구/명사구를 활용했습니다.",
+      "문장과 문장을 부드럽게 잇는 디스코스 마커('Well, looking back', 'Fast forward to today', 'What's even cooler is that')를 자연스럽게 구사했습니다."
+    ]
+  },
+  "vocab": [
+    {
+      "word": "search high and low",
+      "pos": "verb phrase",
+      "meaning": "샅샅이 뒤지다, 구석구석 찾다",
+      "example": "I had to search high and low at local music shops just to find a specific album.",
+      "collocation": "search high and low for",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "physical format",
+      "pos": "noun phrase",
+      "meaning": "실물 형태 (CD, LP 등)",
+      "example": "Back in high school, I used to buy physical formats like CDs and cassette tapes.",
+      "collocation": "buy in physical format",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "take up space",
+      "pos": "verb phrase",
+      "meaning": "공간을 차지하다",
+      "example": "Those old CD cases used to take up space on my bedroom shelves.",
+      "collocation": "take up too much space",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "dust off",
+      "pos": "phrasal verb",
+      "meaning": "~의 먼지를 털어내다, 오래된 것을 다시 꺼내다",
+      "example": "Occasionally, I still dust off my old player just to feel nostalgic.",
+      "collocation": "dust off an old CD",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "digital streaming platform",
+      "pos": "noun phrase",
+      "meaning": "디지털 스트리밍 플랫폼",
+      "example": "Everything has completely shifted to digital streaming platforms.",
+      "collocation": "subscribe to a digital streaming platform",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "instant access",
+      "pos": "noun phrase",
+      "meaning": "즉각적인 접근/이용",
+      "example": "I have instant access to millions of tracks anywhere, anytime.",
+      "collocation": "have instant access to",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "curate a playlist",
+      "pos": "verb phrase",
+      "meaning": "플레이리스트를 구성하다/엄선하다",
+      "example": "I usually curate a playlist tailored to my daily routine.",
+      "collocation": "curate a playlist for work",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "on-the-go",
+      "pos": "adjective / adverb",
+      "meaning": "이동 중에, 분주히",
+      "example": "I can listen to my favorite albums on-the-go using wireless earbuds.",
+      "collocation": "listen to music on-the-go",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "personalized recommendation",
+      "pos": "noun phrase",
+      "meaning": "개인 맞춤형 추천",
+      "example": "Personalized recommendations help me discover brand-new music effortlessly.",
+      "collocation": "receive personalized recommendations",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "music library",
+      "pos": "noun phrase",
+      "meaning": "음악 보관함, 라이브러리",
+      "example": "Having my entire music library in my pocket is just incredible.",
+      "collocation": "build a music library",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "track down",
+      "pos": "phrasal verb",
+      "meaning": "~을 추적하여 찾아내다",
+      "example": "It took me hours to track down that rare album online.",
+      "collocation": "track down a rare album",
+      "tier": "extend",
+      "linked_word": "search high and low"
+    },
+    {
+      "word": "clutter up",
+      "pos": "phrasal verb",
+      "meaning": "~을 어지럽히다, 공간을 많이 차지하다",
+      "example": "Unused gadget boxes clutter up my entire desk.",
+      "collocation": "clutter up the room",
+      "tier": "extend",
+      "linked_word": "take up space"
+    },
+    {
+      "word": "seamless access",
+      "pos": "noun phrase",
+      "meaning": "매끄러운/막힘없는 접근",
+      "example": "High-speed internet provides seamless access to streaming media.",
+      "collocation": "provide seamless access",
+      "tier": "extend",
+      "linked_word": "instant access"
+    },
+    {
+      "word": "tailor-made suggestion",
+      "pos": "noun phrase",
+      "meaning": "맞춤형 제안/추천",
+      "example": "The app gives tailor-made suggestions based on my listening history.",
+      "collocation": "get tailor-made suggestions",
+      "tier": "extend",
+      "linked_word": "personalized recommendation"
+    },
+    {
+      "word": "digital music archive",
+      "pos": "noun phrase",
+      "meaning": "디지털 음악 저장소",
+      "example": "I backed up all my old tracks into a digital music archive.",
+      "collocation": "access a digital music archive",
+      "tier": "extend",
+      "linked_word": "music library"
+    }
+  ],
+  "vocab_quiz": [
+    {
+      "type": "matching",
+      "question": "다음 단어/표현의 올바른 한국어 뜻을 고르세요: 'search high and low'",
+      "choices": [
+        "높은 곳만 쳐다보다",
+        "샅샅이 뒤지다",
+        "가격을 비교하다",
+        "음악을 골라 듣다"
+      ],
+      "answer_index": 1
+    },
+    {
+      "type": "matching",
+      "question": "다음 단어/표현의 올바른 한국어 뜻을 고르세요: 'curate a playlist'",
+      "choices": [
+        "플레이리스트를 삭제하다",
+        "음악 방송을 진행하다",
+        "플레이리스트를 구성하다",
+        "노래 가사를 외우다"
+      ],
+      "answer_index": 2
+    },
+    {
+      "type": "matching",
+      "question": "다음 단어/표현의 올바른 한국어 뜻을 고르세요: 'dust off'",
+      "choices": [
+        "먼지를 털어내다/오래된 것을 꺼내다",
+        "깨끗하게 씻어 말리다",
+        "중고로 팔아버리다",
+        "구석에 치워두다"
+      ],
+      "answer_index": 0
+    },
+    {
+      "type": "blank",
+      "question": "문장의 빈칸에 들어갈 가장 적절한 단어를 고르세요: 'Streaming apps give us ____ access to millions of songs.'",
+      "choices": [
+        "instant",
+        "physical",
+        "monotonous",
+        "malfunctioning"
+      ],
+      "answer_index": 0
+    },
+    {
+      "type": "blank",
+      "question": "문장의 빈칸에 들어갈 가장 적절한 단어를 고르세요: 'I love listening to energetic tracks when I am ____.'",
+      "choices": [
+        "out of service",
+        "on-the-go",
+        "stuck in a rut",
+        "couch potato"
+      ],
+      "answer_index": 1
+    },
+    {
+      "type": "synonym",
+      "question": "밑줄 친 부분과 뜻이 가장 가까운 표현을 고르세요: 'I had to <u>search high and low</u> at music shops to find that CD.'",
+      "choices": [
+        "track down",
+        "clutter up",
+        "dust off",
+        "take up space"
+      ],
+      "answer_index": 0
+    },
+    {
+      "type": "synonym",
+      "question": "밑줄 친 부분과 뜻이 가장 가까운 표현을 고르세요: 'Algorithms offer <u>personalized recommendations</u> based on user tastes.'",
+      "choices": [
+        "seamless access",
+        "physical formats",
+        "tailor-made suggestions",
+        "digital music archives"
+      ],
+      "answer_index": 2
+    }
+  ],
+  "patterns": [
+    {
+      "pattern": "Back in [time period], I used to [verb], but fast forward to today, [clause].",
+      "meaning": "~ 시절에는 ~하곤 했지만, 오늘날로 빠르게 넘어와보면 ~이다.",
+      "usage_today": "Back in high school, I used to buy physical formats, but fast forward to today, everything has completely shifted to digital streaming platforms.",
+      "extra_example": "Back in college, I used to work out at the outdoor park, but fast forward to today, I prefer hitting a local indoor gym."
+    },
+    {
+      "pattern": "What's even cooler is that [clause].",
+      "meaning": "더 멋진/좋은 점은 ~라는 것이다.",
+      "usage_today": "What's even cooler is that personalized recommendations help me discover brand-new music effortlessly.",
+      "extra_example": "What's even cooler is that the app membership offers unlimited access to audiobooks as well."
+    }
+  ],
+  "review_words": [
+    {
+      "word": "escape the daily grind",
+      "learned_date": "2026-07-19",
+      "new_example": "I put on my headphones and turn on my favorite songs to escape the daily grind during my evening commute."
+    },
+    {
+      "word": "take a stroll",
+      "learned_date": "2026-07-19",
+      "new_example": "On weekends, I love to take a stroll around the neighborhood while listening to relaxing indie music."
+    },
+    {
+      "word": "out of the blue",
+      "learned_date": "2026-07-19",
+      "new_example": "Out of the blue, my favorite band announced a world tour and released a surprise single."
+    },
+    {
+      "word": "lose track of time",
+      "learned_date": "2026-07-19",
+      "new_example": "When I start exploring new streaming algorithms, I often lose track of time."
+    }
+  ],
+  "review_patterns": [
+    {
+      "pattern": "I was desperate to [verb], so I decided to...",
+      "learned_date": "2026-07-19",
+      "new_example": "I was desperate to clear my head after a hectic week, so I decided to take a short trip to the beach.",
+      "mini_mission": "이 패턴과 오늘 배운 단어 'curate a playlist'를 함께 써서 한 문장 말해보세요: 'I was desperate to boost my energy during workouts, so I decided to curate a playlist of fast-tempo songs.'"
+    }
+  ],
+  "checklist": [
+    "오늘 배운 핵심 단어(core/extend)를 4개 이상 활용했는가?",
+    "과거 시제(used to, had to)와 현재 시제의 대비가 자연스러운가?",
+    "Main Point 이후 구체적인 과거/현재의 차이점 디테일을 확장했는가?",
+    "옛 추억에 대한 그리움이나 현재의 편리함 등 감정/생각을 언급했는가?",
+    "결론부에서 전체 답변을 다잡는 마무리 문장을 말했는가?",
+    "어색한 정적 없이 자연스러운 디스코스 마커를 사용했는가?"
+  ],
+  "type": "daily",
+  "unit": 1,
+  "unit_title": "AL의 기초 체력",
+  "topic": "과거 vs 현재 비교 문장 만들기"
+}

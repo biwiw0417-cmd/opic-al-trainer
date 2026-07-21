@@ -78,5 +78,25 @@
     "unit": 1,
     "unit_title": "AL의 기초 체력",
     "topic": "디스코스 마커와 필러 활용"
+  },
+  {
+    "pattern": "Back in [time period], I used to [verb], but fast forward to today, [clause].",
+    "meaning": "~ 시절에는 ~하곤 했지만, 오늘날로 빠르게 넘어와보면 ~이다.",
+    "usage_today": "Back in high school, I used to buy physical formats, but fast forward to today, everything has completely shifted to digital streaming platforms.",
+    "extra_example": "Back in college, I used to work out at the outdoor park, but fast forward to today, I prefer hitting a local indoor gym.",
+    "date": "2026-07-22",
+    "unit": 1,
+    "unit_title": "AL의 기초 체력",
+    "topic": "과거 vs 현재 비교 문장 만들기"
+  },
+  {
+    "pattern": "What's even cooler is that [clause].",
+    "meaning": "더 멋진/좋은 점은 ~라는 것이다.",
+    "usage_today": "What's even cooler is that personalized recommendations help me discover brand-new music effortlessly.",
+    "extra_example": "What's even cooler is that the app membership offers unlimited access to audiobooks as well.",
+    "date": "2026-07-22",
+    "unit": 1,
+    "unit_title": "AL의 기초 체력",
+    "topic": "과거 vs 현재 비교 문장 만들기"
   }
 ]
