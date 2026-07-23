@@ -43,9 +43,9 @@
     "unit": 2,
     "unit_title": "설문주제 I — 집과 일상",
     "topic": "집 묘사",
-    "completed": false,
-    "date": null,
-    "briefing_url": null
+    "completed": true,
+    "date": "2026-07-23",
+    "briefing_url": "archive/2026-07-23/"
   },
   {
     "unit": 2,

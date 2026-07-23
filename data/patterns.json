@@ -98,5 +98,25 @@
     "unit": 1,
     "unit_title": "AL의 기초 체력",
     "topic": "과거 vs 현재 비교 문장 만들기"
+  },
+  {
+    "pattern": "If I had to pick my absolute favorite [noun], it would definitely be...",
+    "meaning": "제가 가장 좋아하는 [명사]를 단 하나 골라야 한다면, 단연 ~일 것입니다.",
+    "usage_today": "If I had to pick my absolute favorite spot, it would definitely be my living room.",
+    "extra_example": "If I had to pick my absolute favorite dish, it would definitely be my mother's home-cooked pasta.",
+    "date": "2026-07-23",
+    "unit": 2,
+    "unit_title": "설문주제 I — 집과 일상",
+    "topic": "집 묘사"
+  },
+  {
+    "pattern": "Taking the time to [verb] has been immensely satisfying.",
+    "meaning": "시간과 노력을 들여 ~한 것은 매우 만족스러운 경험이었습니다.",
+    "usage_today": "But taking the time to turn it into a space that feels cozy and inviting has been immensely satisfying.",
+    "extra_example": "Taking the time to organize my daily schedule and workspace has been immensely satisfying.",
+    "date": "2026-07-23",
+    "unit": 2,
+    "unit_title": "설문주제 I — 집과 일상",
+    "topic": "집 묘사"
   }
 ]

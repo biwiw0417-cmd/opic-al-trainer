@@ -823,5 +823,170 @@
     "linked_word": "music library",
     "date": "2026-07-22",
     "topic": "과거 vs 현재 비교 문장 만들기"
+  },
+  {
+    "word": "feel cozy and inviting",
+    "pos": "phrase",
+    "meaning": "포근하고 아늑한 느낌을 주다",
+    "example": "Turning it into a space that feels cozy and inviting has been immensely satisfying.",
+    "collocation": "feel cozy and inviting to guests",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-07-23",
+    "topic": "집 묘사"
+  },
+  {
+    "word": "floor-to-ceiling windows",
+    "pos": "noun phrase",
+    "meaning": "바닥부터 천장까지 이어진 통유리창",
+    "example": "The highlight of this room is the floor-to-ceiling windows that let in sunlight.",
+    "collocation": "large floor-to-ceiling windows",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-07-23",
+    "topic": "집 묘사"
+  },
+  {
+    "word": "ample natural light",
+    "pos": "noun phrase",
+    "meaning": "풍부한 채광, 충분한 자연광",
+    "example": "The living room receives ample natural light throughout the day.",
+    "collocation": "receive ample natural light",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-07-23",
+    "topic": "집 묘사"
+  },
+  {
+    "word": "create a warm ambiance",
+    "pos": "phrase",
+    "meaning": "따뜻하고 아늑한 분위기를 연출하다",
+    "example": "The soft lighting helps to create a warm ambiance in the living room.",
+    "collocation": "create a warm ambiance with lighting",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-07-23",
+    "topic": "집 묘사"
+  },
+  {
+    "word": "serve as a focal point",
+    "pos": "phrase",
+    "meaning": "중심점 역할을 하다, 시선을 사로잡다",
+    "example": "I placed a soft velvet sofa that serves as a focal point in the room.",
+    "collocation": "serve as a main focal point",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-07-23",
+    "topic": "집 묘사"
+  },
+  {
+    "word": "maximize space efficiency",
+    "pos": "phrase",
+    "meaning": "공간 활용도를 극대화하다",
+    "example": "By picking low-profile furniture, I was able to maximize space efficiency.",
+    "collocation": "maximize space efficiency in small rooms",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-07-23",
+    "topic": "집 묘사"
+  },
+  {
+    "word": "fully furnished apartment",
+    "pos": "noun phrase",
+    "meaning": "풀옵션 아파트",
+    "example": "When I was a student, I used to live in a fully furnished apartment near campus.",
+    "collocation": "move into a fully furnished apartment",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-07-23",
+    "topic": "집 묘사"
+  },
+  {
+    "word": "open-concept layout",
+    "pos": "noun phrase",
+    "meaning": "개방형 구조, 탁 트인 구조",
+    "example": "Overall, my home has a modern open-concept layout.",
+    "collocation": "spacious open-concept layout",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-07-23",
+    "topic": "집 묘사"
+  },
+  {
+    "word": "tastefully decorated",
+    "pos": "adjective phrase",
+    "meaning": "세련되게/고상하게 꾸며진",
+    "example": "My friend's new apartment is very tastefully decorated with modern art pieces.",
+    "collocation": "tastefully decorated living space",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-07-23",
+    "topic": "집 묘사"
+  },
+  {
+    "word": "multi-functional space",
+    "pos": "noun phrase",
+    "meaning": "다목적 공간",
+    "example": "I transformed my spare room into a multi-functional space for work and relaxation.",
+    "collocation": "design a multi-functional space",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-07-23",
+    "topic": "집 묘사"
+  },
+  {
+    "word": "exude a cozy vibe",
+    "pos": "phrase",
+    "meaning": "포근한 분위기를 풍기다",
+    "example": "The warm yellow lights and soft rugs exude a cozy vibe throughout the room.",
+    "collocation": "exude a cozy vibe instantly",
+    "tier": "extend",
+    "linked_word": "feel cozy and inviting",
+    "date": "2026-07-23",
+    "topic": "집 묘사"
+  },
+  {
+    "word": "wall-to-wall windows",
+    "pos": "noun phrase",
+    "meaning": "벽면 전체를 채운 창문",
+    "example": "The balcony room features wall-to-wall windows that offer a great city view.",
+    "collocation": "install wall-to-wall windows",
+    "tier": "extend",
+    "linked_word": "floor-to-ceiling windows",
+    "date": "2026-07-23",
+    "topic": "집 묘사"
+  },
+  {
+    "word": "plenty of sunlight",
+    "pos": "noun phrase",
+    "meaning": "풍부한 햇살",
+    "example": "My balcony gets plenty of sunlight, so my house plants grow really well.",
+    "collocation": "soak in plenty of sunlight",
+    "tier": "extend",
+    "linked_word": "ample natural light",
+    "date": "2026-07-23",
+    "topic": "집 묘사"
+  },
+  {
+    "word": "craft a welcoming mood",
+    "pos": "phrase",
+    "meaning": "환영하는 듯한 따뜻한 분위기를 만들다",
+    "example": "Adding scented candles helps craft a welcoming mood for visitors.",
+    "collocation": "craft a welcoming mood effortlessly",
+    "tier": "extend",
+    "linked_word": "create a warm ambiance",
+    "date": "2026-07-23",
+    "topic": "집 묘사"
+  },
+  {
+    "word": "versatile area",
+    "pos": "noun phrase",
+    "meaning": "다양하게 활용 가능한 공간",
+    "example": "The kitchen island serves as a versatile area for dining and quick meetings.",
+    "collocation": "create a versatile area",
+    "tier": "extend",
+    "linked_word": "multi-functional space",
+    "date": "2026-07-23",
+    "topic": "집 묘사"
   }
 ]
