@@ -118,5 +118,25 @@
     "unit": 2,
     "unit_title": "설문주제 I — 집과 일상",
     "topic": "집 묘사"
+  },
+  {
+    "pattern": "I try my best to [verb] to keep [something] [adjective].",
+    "meaning": "~를 ..한 상태로 유지하기 위해 ~하려고 최선을 다한다.",
+    "usage_today": "Nowadays I try my best to stick to a routine to keep my life organized.",
+    "extra_example": "I try my best to exercise three times a week to keep my body healthy.",
+    "date": "2026-07-24",
+    "unit": 2,
+    "unit_title": "설문주제 I — 집과 일상",
+    "topic": "집에서의 루틴"
+  },
+  {
+    "pattern": "The first thing I do is [verb/noun], and then I...",
+    "meaning": "내가 가장 먼저 하는 일은 ~이고, 그러고 나서 ~한다.",
+    "usage_today": "The first thing I do is head straight to the bathroom to freshen up and wash my face.",
+    "extra_example": "The first thing I do when I arrive at the office is open my laptop and check my emails.",
+    "date": "2026-07-24",
+    "unit": 2,
+    "unit_title": "설문주제 I — 집과 일상",
+    "topic": "집에서의 루틴"
   }
 ]
