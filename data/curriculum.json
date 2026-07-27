@@ -59,9 +59,9 @@
     "unit": 2,
     "unit_title": "설문주제 I — 집과 일상",
     "topic": "집에서 있었던 기억에 남는 일 (과거 서사)",
-    "completed": false,
-    "date": null,
-    "briefing_url": null
+    "completed": true,
+    "date": "2026-07-27",
+    "briefing_url": "archive/2026-07-27/"
   },
   {
     "unit": 2,

@@ -1153,5 +1153,170 @@
     "linked_word": "decompress after work",
     "date": "2026-07-24",
     "topic": "집에서의 루틴"
+  },
+  {
+    "word": "pipe burst",
+    "pos": "n. phr.",
+    "meaning": "수도관 파열",
+    "example": "I was shocked to see that a pipe burst under the sink!",
+    "collocation": "cause a pipe burst",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-07-27",
+    "topic": "집에서 있었던 기억에 남는 일 (과거 서사)"
+  },
+  {
+    "word": "gush out",
+    "pos": "v. phr.",
+    "meaning": "세차게 쏟아져 나오다",
+    "example": "Water was literally gushing out everywhere and spreading onto the floor.",
+    "collocation": "gush out rapidly",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-07-27",
+    "topic": "집에서 있었던 기억에 남는 일 (과거 서사)"
+  },
+  {
+    "word": "spring a leak",
+    "pos": "v. phr.",
+    "meaning": "누수가 생기다, 물이 새다",
+    "example": "The old pipe had sprung a leak due to the freezing temperatures.",
+    "collocation": "suddenly spring a leak",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-07-27",
+    "topic": "집에서 있었던 기억에 남는 일 (과거 서사)"
+  },
+  {
+    "word": "mop up",
+    "pos": "v. phr.",
+    "meaning": "(대걸레나 수건으로) 닦아내다",
+    "example": "I grabbed every towel I could find and started to mop up the mess.",
+    "collocation": "mop up the water",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-07-27",
+    "topic": "집에서 있었던 기억에 남는 일 (과거 서사)"
+  },
+  {
+    "word": "call in a professional",
+    "pos": "v. phr.",
+    "meaning": "전문가를 부르다",
+    "example": "After managing the flood, I had to call in a professional to fix it.",
+    "collocation": "call in a professional plumber",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-07-27",
+    "topic": "집에서 있었던 기억에 남는 일 (과거 서사)"
+  },
+  {
+    "word": "ruined my day",
+    "pos": "v. phr.",
+    "meaning": "하루를 망치다",
+    "example": "Even though the whole ordeal completely ruined my day, I felt relieved.",
+    "collocation": "totally ruined my day",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-07-27",
+    "topic": "집에서 있었던 기억에 남는 일 (과거 서사)"
+  },
+  {
+    "word": "plumbing issue",
+    "pos": "n. phr.",
+    "meaning": "배관 문제",
+    "example": "Ignoring a minor plumbing issue can lead to serious home damage.",
+    "collocation": "fix a plumbing issue",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-07-27",
+    "topic": "집에서 있었던 기억에 남는 일 (과거 서사)"
+  },
+  {
+    "word": "water damage",
+    "pos": "n. phr.",
+    "meaning": "침수 피해, 물 손상",
+    "example": "We acted fast to avoid expensive water damage to the wooden floor.",
+    "collocation": "prevent water damage",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-07-27",
+    "topic": "집에서 있었던 기억에 남는 일 (과거 서사)"
+  },
+  {
+    "word": "emergency repair",
+    "pos": "n. phr.",
+    "meaning": "긴급 수리",
+    "example": "The plumber carried out an emergency repair on the broken pipe.",
+    "collocation": "request an emergency repair",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-07-27",
+    "topic": "집에서 있었던 기억에 남는 일 (과거 서사)"
+  },
+  {
+    "word": "take swift action",
+    "pos": "v. phr.",
+    "meaning": "신속하게 조치를 취하다",
+    "example": "When a pipe breaks, you must take swift action to turn off the main valve.",
+    "collocation": "take swift action immediately",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-07-27",
+    "topic": "집에서 있었던 기억에 남는 일 (과거 서사)"
+  },
+  {
+    "word": "pipe rupture",
+    "pos": "n. phr.",
+    "meaning": "배관 파열 (유의어)",
+    "example": "The cold freeze resulted in a severe pipe rupture in the basement.",
+    "collocation": "sudden pipe rupture",
+    "tier": "extend",
+    "linked_word": "pipe burst",
+    "date": "2026-07-27",
+    "topic": "집에서 있었던 기억에 남는 일 (과거 서사)"
+  },
+  {
+    "word": "pour forth",
+    "pos": "v. phr.",
+    "meaning": "매우 세차게 쏟아져 나오다 (유의어)",
+    "example": "Gallons of water began to pour forth from the cracked wall.",
+    "collocation": "pour forth incessantly",
+    "tier": "extend",
+    "linked_word": "gush out",
+    "date": "2026-07-27",
+    "topic": "집에서 있었던 기억에 남는 일 (과거 서사)"
+  },
+  {
+    "word": "develop a seep",
+    "pos": "v. phr.",
+    "meaning": "물이 조금씩 새기 시작하다 (연관어)",
+    "example": "The bathroom ceiling started to develop a seep after heavy rain.",
+    "collocation": "develop a small seep",
+    "tier": "extend",
+    "linked_word": "spring a leak",
+    "date": "2026-07-27",
+    "topic": "집에서 있었던 기억에 남는 일 (과거 서사)"
+  },
+  {
+    "word": "wipe down",
+    "pos": "v. phr.",
+    "meaning": "(천 등으로 물기를) 닦아내다 (유의어)",
+    "example": "I used dry cloths to wipe down all the wet kitchen counters.",
+    "collocation": "wipe down the surfaces",
+    "tier": "extend",
+    "linked_word": "mop up",
+    "date": "2026-07-27",
+    "topic": "집에서 있었던 기억에 남는 일 (과거 서사)"
+  },
+  {
+    "word": "act promptly",
+    "pos": "v. phr.",
+    "meaning": "지체 없이 즉각 행동하다 (유의어)",
+    "example": "You need to act promptly when dealing with household emergencies.",
+    "collocation": "act promptly to resolve",
+    "tier": "extend",
+    "linked_word": "take swift action",
+    "date": "2026-07-27",
+    "topic": "집에서 있었던 기억에 남는 일 (과거 서사)"
   }
 ]

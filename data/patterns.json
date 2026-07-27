@@ -138,5 +138,25 @@
     "unit": 2,
     "unit_title": "설문주제 I — 집과 일상",
     "topic": "집에서의 루틴"
+  },
+  {
+    "pattern": "All of a sudden, I heard [sound/clause] coming from [location].",
+    "meaning": "갑자기 ~에서 ..하는 소리가 들렸다.",
+    "usage_today": "All of a sudden, I heard this strange gushing sound coming from the bathroom.",
+    "extra_example": "All of a sudden, I heard a loud screeching noise coming from the kitchen.",
+    "date": "2026-07-27",
+    "unit": 2,
+    "unit_title": "설문주제 I — 집과 일상",
+    "topic": "집에서 있었던 기억에 남는 일 (과거 서사)"
+  },
+  {
+    "pattern": "Even though [clause], I felt relieved that [clause].",
+    "meaning": "비록 ~했지만, ..해서 다행이라고 안도했다.",
+    "usage_today": "Even though the whole ordeal completely ruined my day, I felt relieved that I prevented major structural damage.",
+    "extra_example": "Even though the flight was delayed for hours, I felt relieved that we landed safely.",
+    "date": "2026-07-27",
+    "unit": 2,
+    "unit_title": "설문주제 I — 집과 일상",
+    "topic": "집에서 있었던 기억에 남는 일 (과거 서사)"
   }
 ]
