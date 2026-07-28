@@ -1318,5 +1318,170 @@
     "linked_word": "take swift action",
     "date": "2026-07-27",
     "topic": "집에서 있었던 기억에 남는 일 (과거 서사)"
+  },
+  {
+    "word": "strike up a conversation",
+    "pos": "phrase",
+    "meaning": "이야기를 트다, 대화를 시작하다",
+    "example": "While picking up the items, we managed to break the ice and strike up a conversation.",
+    "collocation": "strike up a conversation with a stranger",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-07-28",
+    "topic": "우리 동네와 이웃"
+  },
+  {
+    "word": "tight-knit community",
+    "pos": "noun phrase",
+    "meaning": "유대감이 강한 지역사회, 끈끈한 공동체",
+    "example": "That simple interaction made me realize that we can still build a tight-knit community.",
+    "collocation": "foster a tight-knit community",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-07-28",
+    "topic": "우리 동네와 이웃"
+  },
+  {
+    "word": "keep an eye on",
+    "pos": "phrase",
+    "meaning": "유심히 지켜보다, 돌봐주다",
+    "example": "She mentioned that she always tried to keep an eye on her neighbors.",
+    "collocation": "keep an eye on the house",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-07-28",
+    "topic": "우리 동네와 이웃"
+  },
+  {
+    "word": "lend a helping hand",
+    "pos": "phrase",
+    "meaning": "도움의 손길을 내밀다, 도와주다",
+    "example": "Instead of walking past, she immediately came over to lend a helping hand.",
+    "collocation": "lend a helping hand to neighbors",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-07-28",
+    "topic": "우리 동네와 이웃"
+  },
+  {
+    "word": "feel isolated",
+    "pos": "phrase",
+    "meaning": "외로움을 느끼다, 고립감을 느끼다",
+    "example": "I used to feel pretty isolated in my apartment complex.",
+    "collocation": "feel isolated in a big city",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-07-28",
+    "topic": "우리 동네와 이웃"
+  },
+  {
+    "word": "break the ice",
+    "pos": "phrase",
+    "meaning": "어색한 분위기를 깨다",
+    "example": "While picking up the items, we managed to break the ice quickly.",
+    "collocation": "break the ice with humor",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-07-28",
+    "topic": "우리 동네와 이웃"
+  },
+  {
+    "word": "neighborhood watch",
+    "pos": "noun phrase",
+    "meaning": "자율 방범대, 이웃 감시 활동",
+    "example": "Active neighborhood watch programs help keep local streets safe.",
+    "collocation": "join a neighborhood watch",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-07-28",
+    "topic": "우리 동네와 이웃"
+  },
+  {
+    "word": "live in close proximity",
+    "pos": "phrase",
+    "meaning": "가까이 이웃하여 살다, 인접해 살다",
+    "example": "It's nice knowing that someone living in close proximity has my back.",
+    "collocation": "live in close proximity to work",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-07-28",
+    "topic": "우리 동네와 이웃"
+  },
+  {
+    "word": "foster good relations",
+    "pos": "phrase",
+    "meaning": "좋은 관계를 증진하다, 도모하다",
+    "example": "Greeting your neighbors every morning helps foster good relations.",
+    "collocation": "foster good relations with neighbors",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-07-28",
+    "topic": "우리 동네와 이웃"
+  },
+  {
+    "word": "borrow a cup of sugar",
+    "pos": "phrase",
+    "meaning": "이웃에게 소소하게 도움/물건을 청하다",
+    "example": "In the past, people frequently knocked on doors to borrow a cup of sugar.",
+    "collocation": "ask to borrow a cup of sugar",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-07-28",
+    "topic": "우리 동네와 이웃"
+  },
+  {
+    "word": "initiate a chat",
+    "pos": "phrase",
+    "meaning": "대화를 시작하다",
+    "example": "My neighbor often smiles and tries to initiate a chat in the hallway.",
+    "collocation": "initiate a chat casually",
+    "tier": "extend",
+    "linked_word": "strike up a conversation",
+    "date": "2026-07-28",
+    "topic": "우리 동네와 이웃"
+  },
+  {
+    "word": "close-knit neighborhood",
+    "pos": "noun phrase",
+    "meaning": "친밀하고 우애 깊은 동네",
+    "example": "Growing up in a close-knit neighborhood made me value human connections.",
+    "collocation": "reside in a close-knit neighborhood",
+    "tier": "extend",
+    "linked_word": "tight-knit community",
+    "date": "2026-07-28",
+    "topic": "우리 동네와 이웃"
+  },
+  {
+    "word": "offer assistance",
+    "pos": "phrase",
+    "meaning": "도움을 제공하다",
+    "example": "She didn't hesitate to offer assistance when she saw my heavy luggage.",
+    "collocation": "offer assistance gladly",
+    "tier": "extend",
+    "linked_word": "lend a helping hand",
+    "date": "2026-07-28",
+    "topic": "우리 동네와 이웃"
+  },
+  {
+    "word": "feel alienated",
+    "pos": "phrase",
+    "meaning": "소외감을 느끼다",
+    "example": "Without friendly neighbors, newcomers often feel alienated in a new building.",
+    "collocation": "feel alienated from society",
+    "tier": "extend",
+    "linked_word": "feel isolated",
+    "date": "2026-07-28",
+    "topic": "우리 동네와 이웃"
+  },
+  {
+    "word": "reside nearby",
+    "pos": "phrase",
+    "meaning": "근처에 거주하다",
+    "example": "It is comforting to know that reliable friends reside nearby.",
+    "collocation": "reside nearby the station",
+    "tier": "extend",
+    "linked_word": "live in close proximity",
+    "date": "2026-07-28",
+    "topic": "우리 동네와 이웃"
   }
 ]

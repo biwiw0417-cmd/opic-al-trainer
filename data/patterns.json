@@ -158,5 +158,25 @@
     "unit": 2,
     "unit_title": "설문주제 I — 집과 일상",
     "topic": "집에서 있었던 기억에 남는 일 (과거 서사)"
+  },
+  {
+    "pattern": "Instead of [verb-ing], [subject] [verb]...",
+    "meaning": "~하는 대신에, [주어]는 [동사]했다",
+    "usage_today": "Instead of walking past, she immediately came over to lend a helping hand.",
+    "extra_example": "Instead of ordering takeout, my family decided to cook a healthy meal together.",
+    "date": "2026-07-28",
+    "unit": 2,
+    "unit_title": "설문주제 I — 집과 일상",
+    "topic": "우리 동네와 이웃"
+  },
+  {
+    "pattern": "It's nice knowing that [clause]...",
+    "meaning": "[절]이라는 사실을 알고 있으니 안심이 된다 / 기분이 좋다",
+    "usage_today": "It's nice knowing that someone living in close proximity has my back.",
+    "extra_example": "It's nice knowing that I have supportive colleagues at work when things get tough.",
+    "date": "2026-07-28",
+    "unit": 2,
+    "unit_title": "설문주제 I — 집과 일상",
+    "topic": "우리 동네와 이웃"
   }
 ]
