@@ -1483,5 +1483,170 @@
     "linked_word": "live in close proximity",
     "date": "2026-07-28",
     "topic": "우리 동네와 이웃"
+  },
+  {
+    "word": "cramped studio apartment",
+    "pos": "noun phrase",
+    "meaning": "비좁은 원룸 아파트",
+    "example": "A few years back, I used to live in a cramped studio apartment near my workplace.",
+    "collocation": "live in a cramped studio apartment",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-07-29",
+    "topic": "예전에 살던 집 vs 지금 집 (비교)"
+  },
+  {
+    "word": "move into a spacious home",
+    "pos": "verb phrase",
+    "meaning": "넓은 집으로 이사하다",
+    "example": "Last year, I finally saved up enough to move into a spacious home on the outskirts of the city.",
+    "collocation": "move into a spacious home on the outskirts",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-07-29",
+    "topic": "예전에 살던 집 vs 지금 집 (비교)"
+  },
+  {
+    "word": "lack storage space",
+    "pos": "verb phrase",
+    "meaning": "수납 공간이 부족하다",
+    "example": "The main issue in my previous apartment was that it severely lacked storage space.",
+    "collocation": "severely lack storage space",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-07-29",
+    "topic": "예전에 살던 집 vs 지금 집 (비교)"
+  },
+  {
+    "word": "feel a world of difference",
+    "pos": "verb phrase",
+    "meaning": "천지차이를 느끼다, 현격한 차이를 느끼다",
+    "example": "Honestly, I feel a world of difference between the two places.",
+    "collocation": "feel a world of difference between two places",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-07-29",
+    "topic": "예전에 살던 집 vs 지금 집 (비교)"
+  },
+  {
+    "word": "boast modern amenities",
+    "pos": "verb phrase",
+    "meaning": "최신 편의시설을 자랑하다/갖추고 있다",
+    "example": "My new apartment boasts modern amenities, like a smart thermostat and a built-in dishwasher.",
+    "collocation": "boast modern amenities and facilities",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-07-29",
+    "topic": "예전에 살던 집 vs 지금 집 (비교)"
+  },
+  {
+    "word": "offer a panoramic view",
+    "pos": "verb phrase",
+    "meaning": "파노라마 전경/한눈에 트인 전망을 제공하다",
+    "example": "On top of that, it offers a panoramic view of the city skyline right from my living room window.",
+    "collocation": "offer a panoramic view of the city",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-07-29",
+    "topic": "예전에 살던 집 vs 지금 집 (비교)"
+  },
+  {
+    "word": "residential area",
+    "pos": "noun phrase",
+    "meaning": "주거 지역",
+    "example": "My current place is located in a quiet residential area far from heavy traffic.",
+    "collocation": "quiet residential area",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-07-29",
+    "topic": "예전에 살던 집 vs 지금 집 (비교)"
+  },
+  {
+    "word": "real estate market",
+    "pos": "noun phrase",
+    "meaning": "부동산 시장",
+    "example": "Finding an affordable place was tough because the real estate market was so crazy.",
+    "collocation": "competitive real estate market",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-07-29",
+    "topic": "예전에 살던 집 vs 지금 집 (비교)"
+  },
+  {
+    "word": "high-rise apartment complex",
+    "pos": "noun phrase",
+    "meaning": "고층 아파트 단지",
+    "example": "I moved from a small villa to a newly built high-rise apartment complex.",
+    "collocation": "newly built high-rise apartment complex",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-07-29",
+    "topic": "예전에 살던 집 vs 지금 집 (비교)"
+  },
+  {
+    "word": "monthly utility bills",
+    "pos": "noun phrase",
+    "meaning": "월별 공과금",
+    "example": "Even though the place is larger, my monthly utility bills are surprisingly reasonable.",
+    "collocation": "pay monthly utility bills",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-07-29",
+    "topic": "예전에 살던 집 vs 지금 집 (비교)"
+  },
+  {
+    "word": "poky studio flat",
+    "pos": "noun phrase",
+    "meaning": "좁아터진 원룸",
+    "example": "I got tired of living in a poky studio flat where I couldn't even put a decent desk.",
+    "collocation": "live in a poky studio flat",
+    "tier": "extend",
+    "linked_word": "cramped studio apartment",
+    "date": "2026-07-29",
+    "topic": "예전에 살던 집 vs 지금 집 (비교)"
+  },
+  {
+    "word": "relocate to a roomy house",
+    "pos": "verb phrase",
+    "meaning": "널찍한 집으로 이전/이사하다",
+    "example": "We decided to relocate to a roomy house after having our second child.",
+    "collocation": "relocate to a roomy house in the suburbs",
+    "tier": "extend",
+    "linked_word": "move into a spacious home",
+    "date": "2026-07-29",
+    "topic": "예전에 살던 집 vs 지금 집 (비교)"
+  },
+  {
+    "word": "short on storage capacity",
+    "pos": "adjective phrase",
+    "meaning": "수납 용량이 부족한",
+    "example": "The old kitchen was short on storage capacity, so pots and pans were left on the counter.",
+    "collocation": "be short on storage capacity",
+    "tier": "extend",
+    "linked_word": "lack storage space",
+    "date": "2026-07-29",
+    "topic": "예전에 살던 집 vs 지금 집 (비교)"
+  },
+  {
+    "word": "notice a night-and-day contrast",
+    "pos": "verb phrase",
+    "meaning": "극명한/확연한 차이를 감지하다",
+    "example": "You will notice a night-and-day contrast in noise levels between the two neighborhoods.",
+    "collocation": "notice a night-and-day contrast between before and after",
+    "tier": "extend",
+    "linked_word": "feel a world of difference",
+    "date": "2026-07-29",
+    "topic": "예전에 살던 집 vs 지금 집 (비교)"
+  },
+  {
+    "word": "equipped with up-to-date facilities",
+    "pos": "adjective phrase",
+    "meaning": "최신식 시설을 갖춘",
+    "example": "The new complex is equipped with up-to-date facilities like a modern gym and security system.",
+    "collocation": "fully equipped with up-to-date facilities",
+    "tier": "extend",
+    "linked_word": "boast modern amenities",
+    "date": "2026-07-29",
+    "topic": "예전에 살던 집 vs 지금 집 (비교)"
   }
 ]

@@ -1,0 +1,282 @@
+{
+  "date": "2026-07-29",
+  "question": {
+    "english": "I'd like to know about the differences between the house you lived in past and the house you live in now. How has your living environment changed over time?",
+    "korean": "당신이 예전에 살던 집과 현재 살고 있는 집의 차이점에 대해 알고 싶습니다. 시간이 지남에 따라 주거 환경이 어떻게 변했나요?",
+    "combo_context": "집과 일상 관련 3연속 콤보 질문 중 두 번째 문항입니다. 앞서 현재 살고 있는 집에 대한 묘사를 마친 뒤, 과거 거주 공간과의 구체적인 비교(시제 대조 및 환경 변화)를 요구하는 AL 핵심 평가 문항입니다."
+  },
+  "model_answer": {
+    "script": "You know, thinking about how my living situation has changed over the years is actually pretty interesting.\n\nA few years back, I used to live in a cramped studio apartment near my workplace. It was convenient, sure, but the main issue was that it severely lacked storage space. Boxes were piled up everywhere, and I barely had room to stretch out after a long work day.\n\nHowever, last year, I finally saved up enough to move into a spacious home on the outskirts of the city. Honestly, I feel a world of difference between the two places. My new apartment boasts modern amenities, like a smart thermostat and a built-in dishwasher, which make daily life so much easier. On top of that, it offers a panoramic view of the city skyline right from my living room window.\n\nLooking back, living in that tiny studio taught me to appreciate having personal space. Moving to my current home was definitely one of the best choices I've made because my daily stress levels have dropped significantly.\n\nSo yeah, that is basically how my living environment has transformed over time.",
+    "structure_note": "서론(주거 변화 회상) → MP(과거 원룸 vs 현재 넓은 집 대조) → 과거 디테일(수납공간 부족, 답답함) → 현재 디테일(최신 시설, 탁 트인 전망) → 감정/생각(개인 공간의 소중함, 스트레스 감소) → 마무리(요약)",
+    "al_points": [
+      "과거 시제(used to live, severely lacked)와 현재 시제(boasts, offers)를 명확하게 대조하며 우수한 시제 조절 능력을 보여줍니다.",
+      "'cramped studio apartment'와 'spacious home', 'lacked storage space'와 'panoramic view' 등 입체적이고 대비되는 어휘를 활용해 전달력을 높였습니다.",
+      "'Honestly, I feel a world of difference between...'과 같은 고득점 디스코스 마커와 자연스러운 표현으로 답변의 유창성을 극대화했습니다."
+    ]
+  },
+  "vocab": [
+    {
+      "word": "cramped studio apartment",
+      "pos": "noun phrase",
+      "meaning": "비좁은 원룸 아파트",
+      "example": "A few years back, I used to live in a cramped studio apartment near my workplace.",
+      "collocation": "live in a cramped studio apartment",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "move into a spacious home",
+      "pos": "verb phrase",
+      "meaning": "넓은 집으로 이사하다",
+      "example": "Last year, I finally saved up enough to move into a spacious home on the outskirts of the city.",
+      "collocation": "move into a spacious home on the outskirts",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "lack storage space",
+      "pos": "verb phrase",
+      "meaning": "수납 공간이 부족하다",
+      "example": "The main issue in my previous apartment was that it severely lacked storage space.",
+      "collocation": "severely lack storage space",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "feel a world of difference",
+      "pos": "verb phrase",
+      "meaning": "천지차이를 느끼다, 현격한 차이를 느끼다",
+      "example": "Honestly, I feel a world of difference between the two places.",
+      "collocation": "feel a world of difference between two places",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "boast modern amenities",
+      "pos": "verb phrase",
+      "meaning": "최신 편의시설을 자랑하다/갖추고 있다",
+      "example": "My new apartment boasts modern amenities, like a smart thermostat and a built-in dishwasher.",
+      "collocation": "boast modern amenities and facilities",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "offer a panoramic view",
+      "pos": "verb phrase",
+      "meaning": "파노라마 전경/한눈에 트인 전망을 제공하다",
+      "example": "On top of that, it offers a panoramic view of the city skyline right from my living room window.",
+      "collocation": "offer a panoramic view of the city",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "residential area",
+      "pos": "noun phrase",
+      "meaning": "주거 지역",
+      "example": "My current place is located in a quiet residential area far from heavy traffic.",
+      "collocation": "quiet residential area",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "real estate market",
+      "pos": "noun phrase",
+      "meaning": "부동산 시장",
+      "example": "Finding an affordable place was tough because the real estate market was so crazy.",
+      "collocation": "competitive real estate market",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "high-rise apartment complex",
+      "pos": "noun phrase",
+      "meaning": "고층 아파트 단지",
+      "example": "I moved from a small villa to a newly built high-rise apartment complex.",
+      "collocation": "newly built high-rise apartment complex",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "monthly utility bills",
+      "pos": "noun phrase",
+      "meaning": "월별 공과금",
+      "example": "Even though the place is larger, my monthly utility bills are surprisingly reasonable.",
+      "collocation": "pay monthly utility bills",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "poky studio flat",
+      "pos": "noun phrase",
+      "meaning": "좁아터진 원룸",
+      "example": "I got tired of living in a poky studio flat where I couldn't even put a decent desk.",
+      "collocation": "live in a poky studio flat",
+      "tier": "extend",
+      "linked_word": "cramped studio apartment"
+    },
+    {
+      "word": "relocate to a roomy house",
+      "pos": "verb phrase",
+      "meaning": "널찍한 집으로 이전/이사하다",
+      "example": "We decided to relocate to a roomy house after having our second child.",
+      "collocation": "relocate to a roomy house in the suburbs",
+      "tier": "extend",
+      "linked_word": "move into a spacious home"
+    },
+    {
+      "word": "short on storage capacity",
+      "pos": "adjective phrase",
+      "meaning": "수납 용량이 부족한",
+      "example": "The old kitchen was short on storage capacity, so pots and pans were left on the counter.",
+      "collocation": "be short on storage capacity",
+      "tier": "extend",
+      "linked_word": "lack storage space"
+    },
+    {
+      "word": "notice a night-and-day contrast",
+      "pos": "verb phrase",
+      "meaning": "극명한/확연한 차이를 감지하다",
+      "example": "You will notice a night-and-day contrast in noise levels between the two neighborhoods.",
+      "collocation": "notice a night-and-day contrast between before and after",
+      "tier": "extend",
+      "linked_word": "feel a world of difference"
+    },
+    {
+      "word": "equipped with up-to-date facilities",
+      "pos": "adjective phrase",
+      "meaning": "최신식 시설을 갖춘",
+      "example": "The new complex is equipped with up-to-date facilities like a modern gym and security system.",
+      "collocation": "fully equipped with up-to-date facilities",
+      "tier": "extend",
+      "linked_word": "boast modern amenities"
+    }
+  ],
+  "vocab_quiz": [
+    {
+      "type": "matching",
+      "question": "다음 단어 표현의 올바른 한국어 뜻을 고르세요: cramped studio apartment",
+      "choices": [
+        "비좁은 원룸 아파트",
+        "탁 트인 고층 아파트",
+        "풀옵션 오피스텔",
+        "조용한 주택가 빌라"
+      ],
+      "answer_index": 0
+    },
+    {
+      "type": "matching",
+      "question": "다음 단어 표현의 올바른 한국어 뜻을 고르세요: boast modern amenities",
+      "choices": [
+        "오래된 가전제품을 수리하다",
+        "최신 편의시설을 갖추고 있다/자랑하다",
+        "인테리어 비용을 절감하다",
+        "수납 공간을 대폭 확장하다"
+      ],
+      "answer_index": 1
+    },
+    {
+      "type": "matching",
+      "question": "다음 단어 표현의 올바른 한국어 뜻을 고르세요: residential area",
+      "choices": [
+        "상업 중심지",
+        "공장 밀집 지역",
+        "주거 지역",
+        "재개발 구역"
+      ],
+      "answer_index": 2
+    },
+    {
+      "type": "blank",
+      "question": "문맥상 빈칸에 들어갈 알맞은 단어를 고르세요:\n'The main issue in my previous apartment was that it severely ____ storage space.'",
+      "choices": [
+        "boasted",
+        "lacked",
+        "expanded",
+        "renovated"
+      ],
+      "answer_index": 1
+    },
+    {
+      "type": "blank",
+      "question": "문맥상 빈칸에 들어갈 알맞은 단어를 고르세요:\n'My new apartment offers a ____ view of the city skyline right from my living room window.'",
+      "choices": [
+        "cramped",
+        "monotonous",
+        "panoramic",
+        "isolated"
+      ],
+      "answer_index": 2
+    },
+    {
+      "type": "synonym",
+      "question": "스크립트의 'cramped studio apartment' 대신 바꿀 수 있는 알맞은 유의어 표현은?",
+      "choices": [
+        "high-rise apartment complex",
+        "poky studio flat",
+        "residential area",
+        "roomy house"
+      ],
+      "answer_index": 1
+    },
+    {
+      "type": "synonym",
+      "question": "스크립트의 'boast modern amenities' 대신 바꿀 수 있는 알맞은 유의어 표현은?",
+      "choices": [
+        "equipped with up-to-date facilities",
+        "short on storage capacity",
+        "notice a night-and-day contrast",
+        "relocate to a roomy house"
+      ],
+      "answer_index": 0
+    }
+  ],
+  "patterns": [
+    {
+      "pattern": "Honestly, I feel a world of difference between [A] and [B].",
+      "meaning": "솔직히 [A]와 [B] 사이에 천지차이가 느껴집니다.",
+      "usage_today": "Honestly, I feel a world of difference between the two places.",
+      "extra_example": "Honestly, I feel a world of difference between working from home and commuting to the office."
+    },
+    {
+      "pattern": "Moving to [place/action] was definitely one of the best choices I've made because [clause].",
+      "meaning": "[장소/행동]으로 옮긴/행한 것은 [이유] 때문에 단연 내가 내린 최고의 선택 중 하나였습니다.",
+      "usage_today": "Moving to my current home was definitely one of the best choices I've made because my daily stress levels have dropped significantly.",
+      "extra_example": "Moving to this quiet neighborhood was definitely one of the best choices I've made because I can get a full night's sleep every night."
+    }
+  ],
+  "review_words": [
+    {
+      "word": "search high and low",
+      "learned_date": "2026-07-22",
+      "new_example": "When I was packing to move to my new house, I had to search high and low for my old lease contract."
+    },
+    {
+      "word": "physical format",
+      "learned_date": "2026-07-22",
+      "new_example": "In my previous tiny studio, keeping tax documents in physical format took up way too much closet space."
+    },
+    {
+      "word": "take up space",
+      "learned_date": "2026-07-22",
+      "new_example": "My old sofa used to take up too much space in the small living room, making the whole apartment feel suffocating."
+    },
+    {
+      "word": "dust off",
+      "learned_date": "2026-07-22",
+      "new_example": "After moving into the new apartment, I finally got to dust off my favorite home decor items that had been stored away."
+    }
+  ],
+  "review_patterns": [],
+  "checklist": [
+    "오늘 핵심/확장 단어를 4개 이상 활용하여 말했는가?",
+    "과거 시제(used to live, lacked)와 현재 시제(boasts, offers)의 전환이 정교하게 이루어졌는가?",
+    "Main Point 이후 예전 집과 현재 집의 구체적인 특징 디테일을 2개 이상 확장했는가?",
+    "주거 환경 변화에 따른 자신의 감정 및 생각을 명확히 표현했는가?",
+    "자연스러운 마무리 문장으로 답변을 깔끔하게 완성했는가?",
+    "어색한 정적 없이 디스코스 마커(You know, Honestly, Looking back)를 쓰며 유창하게 연결했는가?"
+  ],
+  "type": "daily",
+  "unit": 2,
+  "unit_title": "설문주제 I — 집과 일상",
+  "topic": "예전에 살던 집 vs 지금 집 (비교)"
+}

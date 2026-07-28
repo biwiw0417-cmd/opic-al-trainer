@@ -178,5 +178,25 @@
     "unit": 2,
     "unit_title": "설문주제 I — 집과 일상",
     "topic": "우리 동네와 이웃"
+  },
+  {
+    "pattern": "Honestly, I feel a world of difference between [A] and [B].",
+    "meaning": "솔직히 [A]와 [B] 사이에 천지차이가 느껴집니다.",
+    "usage_today": "Honestly, I feel a world of difference between the two places.",
+    "extra_example": "Honestly, I feel a world of difference between working from home and commuting to the office.",
+    "date": "2026-07-29",
+    "unit": 2,
+    "unit_title": "설문주제 I — 집과 일상",
+    "topic": "예전에 살던 집 vs 지금 집 (비교)"
+  },
+  {
+    "pattern": "Moving to [place/action] was definitely one of the best choices I've made because [clause].",
+    "meaning": "[장소/행동]으로 옮긴/행한 것은 [이유] 때문에 단연 내가 내린 최고의 선택 중 하나였습니다.",
+    "usage_today": "Moving to my current home was definitely one of the best choices I've made because my daily stress levels have dropped significantly.",
+    "extra_example": "Moving to this quiet neighborhood was definitely one of the best choices I've made because I can get a full night's sleep every night.",
+    "date": "2026-07-29",
+    "unit": 2,
+    "unit_title": "설문주제 I — 집과 일상",
+    "topic": "예전에 살던 집 vs 지금 집 (비교)"
   }
 ]

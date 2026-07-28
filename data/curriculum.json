@@ -75,9 +75,9 @@
     "unit": 2,
     "unit_title": "설문주제 I — 집과 일상",
     "topic": "예전에 살던 집 vs 지금 집 (비교)",
-    "completed": false,
-    "date": null,
-    "briefing_url": null
+    "completed": true,
+    "date": "2026-07-29",
+    "briefing_url": "archive/2026-07-29/"
   },
   {
     "unit": 3,
