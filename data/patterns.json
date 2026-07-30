@@ -198,5 +198,25 @@
     "unit": 2,
     "unit_title": "설문주제 I — 집과 일상",
     "topic": "예전에 살던 집 vs 지금 집 (비교)"
+  },
+  {
+    "pattern": "What I love most about [noun/gerund] is [noun/clause].",
+    "meaning": "~에 대해 내가 가장 좋아하는 점은 ..이다.",
+    "usage_today": "What I love most about his films is the unpredictable plot twist at every turn.",
+    "extra_example": "What I love most about living in the city is having access to public transportation.",
+    "date": "2026-07-30",
+    "unit": 3,
+    "unit_title": "설문주제 II — 여가",
+    "topic": "영화 취향과 좋아하는 장르"
+  },
+  {
+    "pattern": "His/Her [noun] lingers in your mind long after [clause].",
+    "meaning": "그/그녀의 ~는 ..한 뒤에도 오랫동안 마음에 맴돈다.",
+    "usage_today": "His films, like Inception or Interstellar, feature a thought-provoking storyline that lingers in your mind long after the credits roll.",
+    "extra_example": "Her soothing voice lingers in your mind long after the concert ends.",
+    "date": "2026-07-30",
+    "unit": 3,
+    "unit_title": "설문주제 II — 여가",
+    "topic": "영화 취향과 좋아하는 장르"
   }
 ]

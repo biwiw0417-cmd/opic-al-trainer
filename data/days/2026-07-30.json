@@ -1,0 +1,309 @@
+{
+  "date": "2026-07-30",
+  "question": {
+    "english": "You indicated in the survey that you like going to the movies. What kind of movies do you like to watch, and who is your favorite actor or director? Why do you prefer those kinds of movies?",
+    "korean": "당신은 설문조사에서 영화보기를 좋아한다고 하셨습니다. 어떤 종류의 영화를 보는 것을 좋아하시며, 가장 좋아하는 배우나 감독은 누구인가요? 왜 그러한 장르의 영화를 선호하시나요?",
+    "combo_context": "영화 관련 3연속 콤보 질문 중 첫 번째 문항으로, 좋아하는 영화 장르와 감독/배우, 그리고 선호하는 이유를 묻는 기본적인 선호도 파악 질문입니다."
+  },
+  "model_answer": {
+    "script": "Well, if I had to choose my favorite movie genre, I'd say I'm huge on sci-fi thrillers. Whenever I get some free time, I love diving into movies that combine complex futuristic concepts with suspenseful storytelling.\n\nActually, back in the day, I used to enjoy lighthearted comedies. But recently, my movie taste has shifted completely toward movies that really make you think. Christopher Nolan is a visionary director who immediately comes to mind. His films, like Inception or Interstellar, feature a thought-provoking storyline that lingers in your mind long after the credits roll.\n\nWhat I love most about his films is the unpredictable plot twist at every turn. You know, you can never really guess what's going to happen next, which totally keeps me on the edge of my seat from start to finish. Watching them in a dark theater with Dolby surround sound creates such an immersive experience that I totally forget about reality for two hours.\n\nSo yeah, looking back, I realize I value depth and suspense far more than simple entertainment. That's pretty much why sci-fi thrillers remain my top pick these days.",
+    "structure_note": "서론: 선호하는 영화 장르(SF 스릴러) 소개 → MP: 과거 희극 위주에서 최근 생각하게 만드는 영화로 취향 변화 및 선호하는 감독(크리스토퍼 놀란) 언급 → 디테일 확장: 감독의 예측 불가능한 반전과 극장 관람에서의 몰입감 있는 경험 묘사 → 감정/생각 및 마무리: 단순 오락성보다 몰입감과 깊이를 선호함을 요약하며 마무리",
+    "al_points": [
+      "과거와 현재의 취향 비교(used to enjoy ~ recently shifted) 및 'lingers in your mind long after the credits roll'과 같은 수준 높은 감상 표현을 자연스럽게 활용했습니다.",
+      "유연한 디스코스 마커(Well, Actually, You know, So yeah, looking back)를 효과적으로 배치하여 끊김 없이 깔끔한 흐름을 유지합니다.",
+      "비전 있는 감독(visionary director), 반전(plot twist), 몰입형 경험(immersive experience) 등 주제 맞춤형 콜로케이션을 매끄럽게 사용하여 고득점을 유도합니다."
+    ]
+  },
+  "vocab": [
+    {
+      "word": "sci-fi thriller",
+      "pos": "n.",
+      "meaning": "SF 스릴러 영화",
+      "example": "I am a huge fan of watching an intense sci-fi thriller on the big screen.",
+      "collocation": "intense sci-fi thriller",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "plot twist",
+      "pos": "n.",
+      "meaning": "줄거리 반전",
+      "example": "What I love most about his films is the unpredictable plot twist at every turn.",
+      "collocation": "unpredictable plot twist",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "keep me on the edge of my seat",
+      "pos": "expr.",
+      "meaning": "손에 땀을 쥐게 만들다",
+      "example": "The constant suspense keeps me on the edge of my seat from start to finish.",
+      "collocation": "keep viewers on the edge of their seats",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "thought-provoking storyline",
+      "pos": "n.",
+      "meaning": "생각을 하게 만드는 줄거리",
+      "example": "His films feature a thought-provoking storyline that lingers in your mind long after the credits roll.",
+      "collocation": "deliver a thought-provoking storyline",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "visionary director",
+      "pos": "n.",
+      "meaning": "독창적이고 선구적인 감독",
+      "example": "Christopher Nolan is a visionary director who immediately comes to mind.",
+      "collocation": "acclaimed visionary director",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "immersive experience",
+      "pos": "n.",
+      "meaning": "몰입감 넘치는 경험",
+      "example": "Watching them in a dark theater creates such an immersive experience.",
+      "collocation": "provide an immersive experience",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "binge-watch movies",
+      "pos": "v.",
+      "meaning": "영화들을 연속으로 몰아보다",
+      "example": "On rainy weekends, I love to binge-watch movies all day long.",
+      "collocation": "binge-watch movies over the weekend",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "cinematic masterpiece",
+      "pos": "n.",
+      "meaning": "영화적 명작",
+      "example": "Interstellar is widely regarded as a modern cinematic masterpiece.",
+      "collocation": "produce a cinematic masterpiece",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "stellar performance",
+      "pos": "n.",
+      "meaning": "뛰어난 연기력",
+      "example": "The lead actor delivered a stellar performance that earned him several awards.",
+      "collocation": "deliver a stellar performance",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "mind-bending visual effects",
+      "pos": "n.",
+      "meaning": "경이롭고 화려한 시각 효과",
+      "example": "The movie boasts mind-bending visual effects that blow everyone away.",
+      "collocation": "boast mind-bending visual effects",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "mind-boggling turn of events",
+      "pos": "n.",
+      "meaning": "기이하고 놀라운 전개",
+      "example": "The movie ended with a mind-boggling turn of events that no one expected.",
+      "collocation": "a mind-boggling turn of events",
+      "tier": "extend",
+      "linked_word": "plot twist"
+    },
+    {
+      "word": "hold my attention",
+      "pos": "expr.",
+      "meaning": "주의나 관심을 집중시키다",
+      "example": "The fast-paced dialogue really held my attention throughout the entire film.",
+      "collocation": "hold someone's attention",
+      "tier": "extend",
+      "linked_word": "keep me on the edge of my seat"
+    },
+    {
+      "word": "captivating movie",
+      "pos": "n.",
+      "meaning": "마음을 사로잡는 영화",
+      "example": "It was such a captivating movie that time seemed to fly by.",
+      "collocation": "a truly captivating movie",
+      "tier": "extend",
+      "linked_word": "immersive experience"
+    },
+    {
+      "word": "innovative filmmaker",
+      "pos": "n.",
+      "meaning": "혁신적인 영화 연출가",
+      "example": "He is recognized as an innovative filmmaker who pushes the boundaries of cinema.",
+      "collocation": "a highly innovative filmmaker",
+      "tier": "extend",
+      "linked_word": "visionary director"
+    },
+    {
+      "word": "deep and meaningful narrative",
+      "pos": "n.",
+      "meaning": "깊이 있고 의미 있는 서사",
+      "example": "I prefer movies with a deep and meaningful narrative over simple action films.",
+      "collocation": "offer a deep and meaningful narrative",
+      "tier": "extend",
+      "linked_word": "thought-provoking storyline"
+    }
+  ],
+  "vocab_quiz": [
+    {
+      "type": "matching",
+      "question": "다음 중 'plot twist'의 올바른 한국어 뜻은?",
+      "choices": [
+        "줄거리 반전",
+        "영화 상영관",
+        "등장인물 설정",
+        "화려한 조명"
+      ],
+      "answer_index": 0
+    },
+    {
+      "type": "matching",
+      "question": "다음 중 'visionary director'의 올바른 한국어 뜻은?",
+      "choices": [
+        "신인 배우",
+        "선구적이고 독창적인 감독",
+        "영화 제작 총괄 매니저",
+        "유명 영화 평론가"
+      ],
+      "answer_index": 1
+    },
+    {
+      "type": "matching",
+      "question": "다음 중 'immersive experience'의 올바른 한국어 뜻은?",
+      "choices": [
+        "단순한 오락거리",
+        "야외 관람 경험",
+        "몰입감 넘치는 경험",
+        "장시간 이동 시간"
+      ],
+      "answer_index": 2
+    },
+    {
+      "type": "blank",
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요: His films feature a ____ storyline that lingers in your mind long after the credits roll.",
+      "choices": [
+        "thought-provoking",
+        "monotonous",
+        "malfunctioning",
+        "cozy"
+      ],
+      "answer_index": 0
+    },
+    {
+      "type": "blank",
+      "question": "빈칸에 들어갈 가장 적절한 단어를 고르세요: The constant suspense keeps me on the ____ of my seat from start to finish.",
+      "choices": [
+        "back",
+        "edge",
+        "top",
+        "front"
+      ],
+      "answer_index": 1
+    },
+    {
+      "type": "synonym",
+      "question": "스크립트에 나온 'visionary director' 대신 바꿔 쓸 수 있는 가장 자연스러운 표현은?",
+      "choices": [
+        "couch potato",
+        "technophobe",
+        "early riser",
+        "innovative filmmaker"
+      ],
+      "answer_index": 3
+    },
+    {
+      "type": "synonym",
+      "question": "스크립트에 나온 'plot twist' 대신 바꿔 쓸 수 있는 가장 자연스러운 유의 표현은?",
+      "choices": [
+        "mind-boggling turn of events",
+        "digital detox",
+        "scenic route",
+        "bedtime ritual"
+      ],
+      "answer_index": 0
+    }
+  ],
+  "patterns": [
+    {
+      "pattern": "What I love most about [noun/gerund] is [noun/clause].",
+      "meaning": "~에 대해 내가 가장 좋아하는 점은 ..이다.",
+      "usage_today": "What I love most about his films is the unpredictable plot twist at every turn.",
+      "extra_example": "What I love most about living in the city is having access to public transportation."
+    },
+    {
+      "pattern": "His/Her [noun] lingers in your mind long after [clause].",
+      "meaning": "그/그녀의 ~는 ..한 뒤에도 오랫동안 마음에 맴돈다.",
+      "usage_today": "His films, like Inception or Interstellar, feature a thought-provoking storyline that lingers in your mind long after the credits roll.",
+      "extra_example": "Her soothing voice lingers in your mind long after the concert ends."
+    }
+  ],
+  "review_words": [
+    {
+      "word": "pipe burst",
+      "learned_date": "2026-07-27",
+      "new_example": "I was in the middle of watching a thriller movie at home when a pipe burst in the bathroom."
+    },
+    {
+      "word": "gush out",
+      "learned_date": "2026-07-27",
+      "new_example": "Water started to gush out from under the sink right during the climax of the film."
+    },
+    {
+      "word": "spring a leak",
+      "learned_date": "2026-07-27",
+      "new_example": "The ceiling in the local cinema began to spring a leak, so they had to pause the movie."
+    },
+    {
+      "word": "mop up",
+      "learned_date": "2026-07-27",
+      "new_example": "I had to mop up the spilled soda on the theater floor before the movie started."
+    },
+    {
+      "word": "feel cozy and inviting",
+      "learned_date": "2026-07-23",
+      "new_example": "The small indie cinema near my house feels cozy and inviting with its soft armchairs."
+    },
+    {
+      "word": "floor-to-ceiling windows",
+      "learned_date": "2026-07-23",
+      "new_example": "The theater lobby had floor-to-ceiling windows that offered a nice city view before the show."
+    },
+    {
+      "word": "ample natural light",
+      "learned_date": "2026-07-23",
+      "new_example": "The multiplex lobby gets ample natural light during daytime screenings."
+    },
+    {
+      "word": "create a warm ambiance",
+      "learned_date": "2026-07-23",
+      "new_example": "Dim lighting in the cinema cafe helps create a warm ambiance while waiting for the film."
+    }
+  ],
+  "review_patterns": [
+    {
+      "pattern": "All of a sudden, I heard [sound/clause] coming from [location].",
+      "learned_date": "2026-07-27",
+      "new_example": "All of a sudden, I heard a loud gasp coming from the audience during the intense scene.",
+      "mini_mission": "이 패턴과 오늘 배운 단어 'plot twist'를 함께 써서 한 문장 말해보세요: All of a sudden, I heard loud murmurs coming from the audience when the unbelievable plot twist happened."
+    }
+  ],
+  "checklist": [
+    "오늘 단어를 4개 이상 썼다",
+    "과거 시제가 흔들리지 않았다",
+    "MP 후 디테일을 2개 이상 확장했다",
+    "감정이나 생각을 말했다",
+    "마무리 문장을 했다",
+    "필러 없이 침묵 3초 이상이 없었다"
+  ],
+  "type": "daily",
+  "unit": 3,
+  "unit_title": "설문주제 II — 여가",
+  "topic": "영화 취향과 좋아하는 장르"
+}

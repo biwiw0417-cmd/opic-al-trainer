@@ -1648,5 +1648,170 @@
     "linked_word": "boast modern amenities",
     "date": "2026-07-29",
     "topic": "예전에 살던 집 vs 지금 집 (비교)"
+  },
+  {
+    "word": "sci-fi thriller",
+    "pos": "n.",
+    "meaning": "SF 스릴러 영화",
+    "example": "I am a huge fan of watching an intense sci-fi thriller on the big screen.",
+    "collocation": "intense sci-fi thriller",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-07-30",
+    "topic": "영화 취향과 좋아하는 장르"
+  },
+  {
+    "word": "plot twist",
+    "pos": "n.",
+    "meaning": "줄거리 반전",
+    "example": "What I love most about his films is the unpredictable plot twist at every turn.",
+    "collocation": "unpredictable plot twist",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-07-30",
+    "topic": "영화 취향과 좋아하는 장르"
+  },
+  {
+    "word": "keep me on the edge of my seat",
+    "pos": "expr.",
+    "meaning": "손에 땀을 쥐게 만들다",
+    "example": "The constant suspense keeps me on the edge of my seat from start to finish.",
+    "collocation": "keep viewers on the edge of their seats",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-07-30",
+    "topic": "영화 취향과 좋아하는 장르"
+  },
+  {
+    "word": "thought-provoking storyline",
+    "pos": "n.",
+    "meaning": "생각을 하게 만드는 줄거리",
+    "example": "His films feature a thought-provoking storyline that lingers in your mind long after the credits roll.",
+    "collocation": "deliver a thought-provoking storyline",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-07-30",
+    "topic": "영화 취향과 좋아하는 장르"
+  },
+  {
+    "word": "visionary director",
+    "pos": "n.",
+    "meaning": "독창적이고 선구적인 감독",
+    "example": "Christopher Nolan is a visionary director who immediately comes to mind.",
+    "collocation": "acclaimed visionary director",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-07-30",
+    "topic": "영화 취향과 좋아하는 장르"
+  },
+  {
+    "word": "immersive experience",
+    "pos": "n.",
+    "meaning": "몰입감 넘치는 경험",
+    "example": "Watching them in a dark theater creates such an immersive experience.",
+    "collocation": "provide an immersive experience",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-07-30",
+    "topic": "영화 취향과 좋아하는 장르"
+  },
+  {
+    "word": "binge-watch movies",
+    "pos": "v.",
+    "meaning": "영화들을 연속으로 몰아보다",
+    "example": "On rainy weekends, I love to binge-watch movies all day long.",
+    "collocation": "binge-watch movies over the weekend",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-07-30",
+    "topic": "영화 취향과 좋아하는 장르"
+  },
+  {
+    "word": "cinematic masterpiece",
+    "pos": "n.",
+    "meaning": "영화적 명작",
+    "example": "Interstellar is widely regarded as a modern cinematic masterpiece.",
+    "collocation": "produce a cinematic masterpiece",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-07-30",
+    "topic": "영화 취향과 좋아하는 장르"
+  },
+  {
+    "word": "stellar performance",
+    "pos": "n.",
+    "meaning": "뛰어난 연기력",
+    "example": "The lead actor delivered a stellar performance that earned him several awards.",
+    "collocation": "deliver a stellar performance",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-07-30",
+    "topic": "영화 취향과 좋아하는 장르"
+  },
+  {
+    "word": "mind-bending visual effects",
+    "pos": "n.",
+    "meaning": "경이롭고 화려한 시각 효과",
+    "example": "The movie boasts mind-bending visual effects that blow everyone away.",
+    "collocation": "boast mind-bending visual effects",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-07-30",
+    "topic": "영화 취향과 좋아하는 장르"
+  },
+  {
+    "word": "mind-boggling turn of events",
+    "pos": "n.",
+    "meaning": "기이하고 놀라운 전개",
+    "example": "The movie ended with a mind-boggling turn of events that no one expected.",
+    "collocation": "a mind-boggling turn of events",
+    "tier": "extend",
+    "linked_word": "plot twist",
+    "date": "2026-07-30",
+    "topic": "영화 취향과 좋아하는 장르"
+  },
+  {
+    "word": "hold my attention",
+    "pos": "expr.",
+    "meaning": "주의나 관심을 집중시키다",
+    "example": "The fast-paced dialogue really held my attention throughout the entire film.",
+    "collocation": "hold someone's attention",
+    "tier": "extend",
+    "linked_word": "keep me on the edge of my seat",
+    "date": "2026-07-30",
+    "topic": "영화 취향과 좋아하는 장르"
+  },
+  {
+    "word": "captivating movie",
+    "pos": "n.",
+    "meaning": "마음을 사로잡는 영화",
+    "example": "It was such a captivating movie that time seemed to fly by.",
+    "collocation": "a truly captivating movie",
+    "tier": "extend",
+    "linked_word": "immersive experience",
+    "date": "2026-07-30",
+    "topic": "영화 취향과 좋아하는 장르"
+  },
+  {
+    "word": "innovative filmmaker",
+    "pos": "n.",
+    "meaning": "혁신적인 영화 연출가",
+    "example": "He is recognized as an innovative filmmaker who pushes the boundaries of cinema.",
+    "collocation": "a highly innovative filmmaker",
+    "tier": "extend",
+    "linked_word": "visionary director",
+    "date": "2026-07-30",
+    "topic": "영화 취향과 좋아하는 장르"
+  },
+  {
+    "word": "deep and meaningful narrative",
+    "pos": "n.",
+    "meaning": "깊이 있고 의미 있는 서사",
+    "example": "I prefer movies with a deep and meaningful narrative over simple action films.",
+    "collocation": "offer a deep and meaningful narrative",
+    "tier": "extend",
+    "linked_word": "thought-provoking storyline",
+    "date": "2026-07-30",
+    "topic": "영화 취향과 좋아하는 장르"
   }
 ]
