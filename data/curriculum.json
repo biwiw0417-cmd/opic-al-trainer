@@ -91,9 +91,9 @@
     "unit": 3,
     "unit_title": "설문주제 II — 여가",
     "topic": "기억에 남는 영화 관람 경험",
-    "completed": false,
-    "date": null,
-    "briefing_url": null
+    "completed": true,
+    "date": "2026-07-31",
+    "briefing_url": "archive/2026-07-31/"
   },
   {
     "unit": 3,

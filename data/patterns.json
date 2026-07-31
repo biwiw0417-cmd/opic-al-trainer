@@ -218,5 +218,25 @@
     "unit": 3,
     "unit_title": "설문주제 II — 여가",
     "topic": "영화 취향과 좋아하는 장르"
+  },
+  {
+    "pattern": "Looking back, [gerund/clause] was something you just can't get from [noun/gerund].",
+    "meaning": "돌이켜보면, ~하는 것은 ~에서 결코 얻을 수 없는 것이었습니다.",
+    "usage_today": "Looking back, experiencing that shared collective energy was something you just can't get from streaming movies at home.",
+    "extra_example": "Looking back, working face-to-face with my teammates was something you just can't get from online zoom meetings.",
+    "date": "2026-07-31",
+    "unit": 3,
+    "unit_title": "설문주제 II — 여가",
+    "topic": "기억에 남는 영화 관람 경험"
+  },
+  {
+    "pattern": "[Subject] was a bit hectic at first, but [subject] set a really [adjective] mood for [event/time].",
+    "meaning": "처음에는 다소 어수선했지만, ~은/는 [행사/시간]에 정말 [형용사]한 분위기를 만들어 주었습니다.",
+    "usage_today": "It was a bit hectic at first, but we both chuckled out loud and cleaned it up together, which actually set a really friendly mood for the night.",
+    "extra_example": "The birthday party was a bit hectic at first, but playing background music set a really cozy mood for the rest of the evening.",
+    "date": "2026-07-31",
+    "unit": 3,
+    "unit_title": "설문주제 II — 여가",
+    "topic": "기억에 남는 영화 관람 경험"
   }
 ]

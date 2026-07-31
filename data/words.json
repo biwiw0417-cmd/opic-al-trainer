@@ -1813,5 +1813,170 @@
     "linked_word": "thought-provoking storyline",
     "date": "2026-07-30",
     "topic": "영화 취향과 좋아하는 장르"
+  },
+  {
+    "word": "packed to capacity",
+    "pos": "phr",
+    "meaning": "만석인, 가득 찬",
+    "example": "I managed to book in advance, but when I arrived, the theater was completely packed to capacity.",
+    "collocation": "be packed to capacity",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-07-31",
+    "topic": "기억에 남는 영화 관람 경험"
+  },
+  {
+    "word": "spill popcorn",
+    "pos": "phr",
+    "meaning": "팝콘을 쏟다",
+    "example": "The person sitting next to me accidentally spilled popcorn all over my lap.",
+    "collocation": "accidentally spill popcorn",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-07-31",
+    "topic": "기억에 남는 영화 관람 경험"
+  },
+  {
+    "word": "chuckle out loud",
+    "pos": "phr",
+    "meaning": "소리 내어 낄낄 웃다, 빵 터지다",
+    "example": "It was a bit hectic at first, but we both chuckled out loud and cleaned it up together.",
+    "collocation": "chuckle out loud in unison",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-07-31",
+    "topic": "기억에 남는 영화 관람 경험"
+  },
+  {
+    "word": "goosebumps all over",
+    "pos": "phr",
+    "meaning": "온몸에 돋는 닭살/소름",
+    "example": "At the epic climax, I literally got goosebumps all over.",
+    "collocation": "get goosebumps all over",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-07-31",
+    "topic": "기억에 남는 영화 관람 경험"
+  },
+  {
+    "word": "shared collective energy",
+    "pos": "phr",
+    "meaning": "함께 공유하는 집단적 열기/에너지",
+    "example": "Looking back, experiencing that shared collective energy was something you just can't get at home.",
+    "collocation": "feel the shared collective energy",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-07-31",
+    "topic": "기억에 남는 영화 관람 경험"
+  },
+  {
+    "word": "leave the theater",
+    "pos": "phr",
+    "meaning": "상영관/영화관을 나서다",
+    "example": "When I finally left the theater that night, I felt completely recharged.",
+    "collocation": "leave the theater with excitement",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-07-31",
+    "topic": "기억에 남는 영화 관람 경험"
+  },
+  {
+    "word": "book in advance",
+    "pos": "phr",
+    "meaning": "사전에 예매하다/예약하다",
+    "example": "It is always safer to book in advance when going to popular movies.",
+    "collocation": "book tickets in advance",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-07-31",
+    "topic": "기억에 남는 영화 관람 경험"
+  },
+  {
+    "word": "opening weekend",
+    "pos": "phr",
+    "meaning": "개봉 첫 주말",
+    "example": "It was during the opening weekend for a highly anticipated blockbuster.",
+    "collocation": "during the opening weekend",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-07-31",
+    "topic": "기억에 남는 영화 관람 경험"
+  },
+  {
+    "word": "state-of-the-art cinema",
+    "pos": "phr",
+    "meaning": "최첨단 영화관",
+    "example": "As the film played, the atmosphere in that state-of-the-art cinema was just unreal.",
+    "collocation": "a state-of-the-art cinema multiplex",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-07-31",
+    "topic": "기억에 남는 영화 관람 경험"
+  },
+  {
+    "word": "emotional roller coaster",
+    "pos": "phr",
+    "meaning": "감정의 롤러코스터, 극적인 감정 변화",
+    "example": "Watching that intense thriller felt like a total emotional roller coaster.",
+    "collocation": "be an emotional roller coaster",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-07-31",
+    "topic": "기억에 남는 영화 관람 경험"
+  },
+  {
+    "word": "jam-packed",
+    "pos": "adj",
+    "meaning": "빽빽히 찬, 초만원인",
+    "example": "The auditorium was jam-packed with eager fans on release day.",
+    "collocation": "be jam-packed with people",
+    "tier": "extend",
+    "linked_word": "packed to capacity",
+    "date": "2026-07-31",
+    "topic": "기억에 남는 영화 관람 경험"
+  },
+  {
+    "word": "burst into laughter",
+    "pos": "phr",
+    "meaning": "웃음을 터뜨리다",
+    "example": "The audience suddenly burst into laughter at the hilarious line.",
+    "collocation": "burst into laughter spontaneously",
+    "tier": "extend",
+    "linked_word": "chuckle out loud",
+    "date": "2026-07-31",
+    "topic": "기억에 남는 영화 관람 경험"
+  },
+  {
+    "word": "chills down my spine",
+    "pos": "phr",
+    "meaning": "등골이 오싹함, 강렬한 소름",
+    "example": "The haunting soundtrack gave me chills down my spine.",
+    "collocation": "send chills down my spine",
+    "tier": "extend",
+    "linked_word": "goosebumps all over",
+    "date": "2026-07-31",
+    "topic": "기억에 남는 영화 관람 경험"
+  },
+  {
+    "word": "reserve seats beforehand",
+    "pos": "phr",
+    "meaning": "좌석을 미리 예약하다",
+    "example": "I made sure to reserve seats beforehand to get good middle spots.",
+    "collocation": "reserve seats beforehand online",
+    "tier": "extend",
+    "linked_word": "book in advance",
+    "date": "2026-07-31",
+    "topic": "기억에 남는 영화 관람 경험"
+  },
+  {
+    "word": "cutting-edge movie theater",
+    "pos": "phr",
+    "meaning": "최첨단 상영관",
+    "example": "We watched the IMAX movie in a cutting-edge movie theater.",
+    "collocation": "visit a cutting-edge movie theater",
+    "tier": "extend",
+    "linked_word": "state-of-the-art cinema",
+    "date": "2026-07-31",
+    "topic": "기억에 남는 영화 관람 경험"
   }
 ]
