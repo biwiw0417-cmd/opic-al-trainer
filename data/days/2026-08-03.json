@@ -1,0 +1,309 @@
+{
+  "date": "2026-08-03",
+  "question": {
+    "english": "How have your music tastes or listening habits changed over time? What kind of music did you listen to in the past compared to now?",
+    "korean": "시간이 지나면서 당신의 음악 취향이나 듣는 습관이 어떻게 바뀌었나요? 과거에는 어떤 음악을 들었고 현재와 비교하면 어떻게 다른가요?",
+    "combo_context": "여가-음악 듣기 콤보 중 2번째 문항으로, 과거와 현재의 음악 취향 및 감상 습관의 변화를 시제 대비를 활용하여 비교 설명하는 능력을 평가합니다."
+  },
+  "model_answer": {
+    "script": "To be honest, my musical tastes have evolved quite a bit over the years. Back in my high school days, I used to blast music through my headphones whenever I was studying or commuting. Back then, I had a soft spot for energetic rock and hip-hop because those intense beats helped me vent stress. I loved to sing along to every single chorus without caring what anyone thought.\n\nHowever, as I started my corporate career, my daily routine became much more fast-paced and demanding. Naturally, my listening habits shifted dramatically. These days, I rarely listen to loud tracks. Instead, I prefer listening to soothing acoustic or jazz pieces while working or relaxing at home. The main reason is that soft melodies really help soothe my nerves after a long, exhausting day at work.\n\nThat being said, I still play songs with an upbeat rhythm when I need a quick boost during my workouts. What's truly fascinating is how certain old tracks can instantly evoke memories of my youth and make me feel nostalgic. Looking back, music has always been an essential part of my life, but its role has transformed from letting off steam to finding inner tranquility.",
+    "structure_note": "서론: 음악 취향의 전반적 변화 언급 → MP(과거): 학창 시절 강렬한 음악을 즐겨 듣던 습관 → 디테일(현재): 직장 생활 후 신경을 안정시키는 잔잔한 음악 선호 → 감정/생각: 운동 및 추억 회상 시 음악의 다양한 역할 → 마무리: 스트레스 해소에서 마음의 평화 찾기로 전환된 음악의 의의 정리",
+    "al_points": [
+      "used to blast(과거의 습관)와 nowadays prefer listening(현재의 선호)을 명확한 시제와 어휘 대비로 연결하여 시간의 흐름에 따른 변화를 논리적으로 전개했습니다.",
+      "To be honest, However, That being said, What's truly fascinating is 등 고득점용 담화 표지어(discourse markers)를 자연스럽게 세련된 문맥으로 배치했습니다.",
+      "단순히 '좋아한다'에 그치지 않고 soothe my nerves, evoke memories, vent stress 등 정서적 상태와 음악의 효과를 다채로운 덩어리 어휘로 구체화했습니다."
+    ]
+  },
+  "vocab": [
+    {
+      "word": "blast music",
+      "pos": "verb phrase",
+      "meaning": "음악을 크게 틀다",
+      "example": "Back in my high school days, I used to blast music through my headphones.",
+      "collocation": "blast music through speakers",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "have a soft spot for",
+      "pos": "verb phrase",
+      "meaning": "~을 특별히 좋아하다, ~에 마음이 약하다",
+      "example": "Back then, I had a soft spot for energetic rock and hip-hop.",
+      "collocation": "have a soft spot for acoustic songs",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "sing along to",
+      "pos": "verb phrase",
+      "meaning": "~을 따라 부르다",
+      "example": "I loved to sing along to every single chorus without caring what anyone thought.",
+      "collocation": "sing along to the lyrics",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "soothe my nerves",
+      "pos": "verb phrase",
+      "meaning": "신경을 가라앉히다, 마음을 안정시키다",
+      "example": "Soft melodies really help soothe my nerves after a long, exhausting day at work.",
+      "collocation": "soothe my frayed nerves",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "upbeat rhythm",
+      "pos": "noun phrase",
+      "meaning": "경쾌한 리듬, 신나는 박자",
+      "example": "I still play songs with an upbeat rhythm when I need a quick boost during my workouts.",
+      "collocation": "dance to an upbeat rhythm",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "evoke memories",
+      "pos": "verb phrase",
+      "meaning": "추억을 떠올리게 하다, 기억을 불러일으키다",
+      "example": "Certain old tracks can instantly evoke memories of my youth.",
+      "collocation": "evoke vivid memories of the past",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "catchy melody",
+      "pos": "noun phrase",
+      "meaning": "기억하기 쉬운 멜로디, 귓가에 맴도는 선율",
+      "example": "Pop songs usually feature a catchy melody that sticks in your head all day.",
+      "collocation": "hum a catchy melody",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "background noise",
+      "pos": "noun phrase",
+      "meaning": "배경 소음, 잔잔한 배경 음악/소리",
+      "example": "I often play classical music as background noise while reading books.",
+      "collocation": "pleasant background noise",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "tune out distraction",
+      "pos": "verb phrase",
+      "meaning": "방해 요소/소음을 차단하다, 신경을 끄다",
+      "example": "Wearing noise-canceling headphones helps me tune out distractions in a crowded cafe.",
+      "collocation": "tune out external distractions",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "resonate with me",
+      "pos": "verb phrase",
+      "meaning": "나에게 공감을 주다, 마음을 울리다",
+      "example": "The emotional lyrics of this ballad deeply resonate with me.",
+      "collocation": "deeply resonate with listeners",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "calm my anxiety",
+      "pos": "verb phrase",
+      "meaning": "불안감을 가라앉히다",
+      "example": "Listening to slow ambient sounds before going to sleep helps calm my anxiety.",
+      "collocation": "calm my anxiety effectively",
+      "tier": "extend",
+      "linked_word": "soothe my nerves"
+    },
+    {
+      "word": "lively beat",
+      "pos": "noun phrase",
+      "meaning": "활기찬 비트/박자",
+      "example": "The lively beat of the song instantly made everyone want to dance.",
+      "collocation": "move to a lively beat",
+      "tier": "extend",
+      "linked_word": "upbeat rhythm"
+    },
+    {
+      "word": "hum along with",
+      "pos": "verb phrase",
+      "meaning": "~을 콧노래로 웅얼거리며 따라 부르다",
+      "example": "I caught myself beginning to hum along with the tune playing on the radio.",
+      "collocation": "hum along with a favorite tune",
+      "tier": "extend",
+      "linked_word": "sing along to"
+    },
+    {
+      "word": "trigger memories",
+      "pos": "verb phrase",
+      "meaning": "기억을 자극하다/불러일으키다",
+      "example": "Hearing that specific song on the street triggered memories of my college trip.",
+      "collocation": "trigger fond memories",
+      "tier": "extend",
+      "linked_word": "evoke memories"
+    },
+    {
+      "word": "have a weakness for",
+      "pos": "verb phrase",
+      "meaning": "~에 사족을 못 쓰다, 아주 좋아하다",
+      "example": "I have a real weakness for live acoustic guitar performances.",
+      "collocation": "have a weakness for jazz classics",
+      "tier": "extend",
+      "linked_word": "have a soft spot for"
+    }
+  ],
+  "vocab_quiz": [
+    {
+      "type": "matching",
+      "question": "다음 중 'soothe my nerves'의 올바른 한국어 뜻은 무엇일까요?",
+      "choices": [
+        "목소리를 높여 노래 부르다",
+        "신경을 가라앉히다, 마음을 안정시키다",
+        "갑자기 옛 기억을 완전히 잊어버리다",
+        "음악을 매우 크게 틀어놓다"
+      ],
+      "answer_index": 1
+    },
+    {
+      "type": "matching",
+      "question": "다음 중 'evoke memories'의 올바른 한국어 뜻은 무엇일까요?",
+      "choices": [
+        "추억을 떠올리게 하다, 기억을 불러일으키다",
+        "새로운 음반을 대량으로 구입하다",
+        "공연 티켓을 미리 예약하다",
+        "노래 가사를 완벽하게 외우다"
+      ],
+      "answer_index": 0
+    },
+    {
+      "type": "matching",
+      "question": "다음 중 'have a soft spot for'의 올바른 한국어 뜻은 무엇일까요?",
+      "choices": [
+        "부드러운 장소에 앉아 쉬다",
+        "소리가 너무 작아 잘 들리지 않다",
+        "~을 특별히 좋아하다, ~에 마음이 약하다",
+        "음악 장르를 자주 바꾸다"
+      ],
+      "answer_index": 2
+    },
+    {
+      "type": "blank",
+      "question": "다음 빈칸에 들어갈 알맞은 단어 표현을 고르세요.\n'Back in my high school days, I used to ____ music through my headphones whenever I was studying.'",
+      "choices": [
+        "blast",
+        "mop up",
+        "gush out",
+        "spring"
+      ],
+      "answer_index": 0
+    },
+    {
+      "type": "blank",
+      "question": "다음 빈칸에 들어갈 알맞은 단어 표현을 고르세요.\n'That being said, I still play songs with an ____ rhythm when I need a quick boost during my workouts.'",
+      "choices": [
+        "out of service",
+        "upbeat",
+        "isolated",
+        "malfunctioning"
+      ],
+      "answer_index": 1
+    },
+    {
+      "type": "synonym",
+      "question": "모범답변 내 표현 'soothe my nerves' 대신 바꿔 쓸 수 있는 동의어로 가장 알맞은 것은 무엇일까요?",
+      "choices": [
+        "trigger memories",
+        "calm my anxiety",
+        "lively beat",
+        "hum along with"
+      ],
+      "answer_index": 1
+    },
+    {
+      "type": "synonym",
+      "question": "모범답변 내 표현 'evoke memories' 대신 바꿔 쓸 수 있는 동의어로 가장 알맞은 것은 무엇일까요?",
+      "choices": [
+        "trigger memories",
+        "have a weakness for",
+        "blast music",
+        "hum along with"
+      ],
+      "answer_index": 0
+    }
+  ],
+  "patterns": [
+    {
+      "pattern": "Back in my [period], I used to [verb] whenever I was [situation].",
+      "meaning": "[학창 시절/과거 시절]에는 [상황]일 때마다 [동사]하곤 했습니다.",
+      "usage_today": "Back in my high school days, I used to blast music through my headphones whenever I was studying or commuting.",
+      "extra_example": "Back in my college days, I used to drink extra espresso shots whenever I was preparing for midterms."
+    },
+    {
+      "pattern": "What's truly fascinating is how [clause] can instantly [verb]...",
+      "meaning": "정말 흥미로운 점은 [주어+동사]가 어떻게 즉각적으로 [동사]할 수 있는지입니다.",
+      "usage_today": "What's truly fascinating is how certain old tracks can instantly evoke memories of my youth and make me feel nostalgic.",
+      "extra_example": "What's truly fascinating is how a familiar scent can instantly bring back forgotten childhood moments."
+    }
+  ],
+  "review_words": [
+    {
+      "word": "packed to capacity",
+      "learned_date": "2026-07-31",
+      "new_example": "The concert hall was packed to capacity with excited fans waiting for the band to perform."
+    },
+    {
+      "word": "spill popcorn",
+      "learned_date": "2026-07-31",
+      "new_example": "I almost spilled popcorn on my lap when the music suddenly turned extremely loud in the venue."
+    },
+    {
+      "word": "chuckle out loud",
+      "learned_date": "2026-07-31",
+      "new_example": "Listening to the witty lyrics of that comedic indie song made me chuckle out loud on the bus."
+    },
+    {
+      "word": "goosebumps all over",
+      "learned_date": "2026-07-31",
+      "new_example": "When the lead vocalist hit that insanely high note during the live show, I got goosebumps all over."
+    },
+    {
+      "word": "pipe burst",
+      "learned_date": "2026-07-27",
+      "new_example": "I couldn't enjoy listening to my evening music playlist because a water pipe burst under the sink."
+    },
+    {
+      "word": "gush out",
+      "learned_date": "2026-07-27",
+      "new_example": "Water started to gush out of the wall right as I was putting on my wireless headphones."
+    },
+    {
+      "word": "spring a leak",
+      "learned_date": "2026-07-27",
+      "new_example": "My ceiling sprang a leak suddenly, forcing me to stop listening to music and check the roof."
+    },
+    {
+      "word": "mop up",
+      "learned_date": "2026-07-27",
+      "new_example": "I spent an hour mopping up the wet floor before I could finally sit down to play my favorite album."
+    }
+  ],
+  "review_patterns": [
+    {
+      "pattern": "Looking back, [gerund/clause] was something you just can't get from [noun/gerund].",
+      "learned_date": "2026-07-31",
+      "new_example": "Looking back, attending a live music festival was something you just can't get from digital streaming apps.",
+      "mini_mission": "'Looking back...' 패턴과 오늘 배운 핵심 표현 'soothe my nerves'를 결합해 한 문장으로 말해보세요. (예: Looking back, listening to soft jazz after work was something you just can't get from rock music to soothe my nerves.)"
+    }
+  ],
+  "checklist": [
+    "오늘의 핵심 단어(blast music, soothe my nerves 등)를 4개 이상 활용했는가?",
+    "과거(used to)와 현재(these days)의 음악 감상 습관 비교 시 시제 구분이 정확했는가?",
+    "메인 포인트(MP) 전달 이후 취향 변화의 이유를 디테일로 2개 이상 구체화했는가?",
+    "노래가 주는 감정(nostalgic, inner tranquility 등)과 생각을 감성적으로 묘사했는가?",
+    "마무리 문장으로 답변 전체를 깔끔하게 요약 정리했는가?",
+    "필러(you know, I mean 등)를 활용하여 침묵 3초 이상의 정적 없이 매끄럽게 발화했는가?"
+  ],
+  "type": "daily",
+  "unit": 3,
+  "unit_title": "설문주제 II — 여가",
+  "topic": "음악 취향과 듣는 습관"
+}

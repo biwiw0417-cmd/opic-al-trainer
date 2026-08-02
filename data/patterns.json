@@ -238,5 +238,25 @@
     "unit": 3,
     "unit_title": "설문주제 II — 여가",
     "topic": "기억에 남는 영화 관람 경험"
+  },
+  {
+    "pattern": "Back in my [period], I used to [verb] whenever I was [situation].",
+    "meaning": "[학창 시절/과거 시절]에는 [상황]일 때마다 [동사]하곤 했습니다.",
+    "usage_today": "Back in my high school days, I used to blast music through my headphones whenever I was studying or commuting.",
+    "extra_example": "Back in my college days, I used to drink extra espresso shots whenever I was preparing for midterms.",
+    "date": "2026-08-03",
+    "unit": 3,
+    "unit_title": "설문주제 II — 여가",
+    "topic": "음악 취향과 듣는 습관"
+  },
+  {
+    "pattern": "What's truly fascinating is how [clause] can instantly [verb]...",
+    "meaning": "정말 흥미로운 점은 [주어+동사]가 어떻게 즉각적으로 [동사]할 수 있는지입니다.",
+    "usage_today": "What's truly fascinating is how certain old tracks can instantly evoke memories of my youth and make me feel nostalgic.",
+    "extra_example": "What's truly fascinating is how a familiar scent can instantly bring back forgotten childhood moments.",
+    "date": "2026-08-03",
+    "unit": 3,
+    "unit_title": "설문주제 II — 여가",
+    "topic": "음악 취향과 듣는 습관"
   }
 ]

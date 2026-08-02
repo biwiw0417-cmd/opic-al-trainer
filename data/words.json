@@ -1978,5 +1978,170 @@
     "linked_word": "state-of-the-art cinema",
     "date": "2026-07-31",
     "topic": "기억에 남는 영화 관람 경험"
+  },
+  {
+    "word": "blast music",
+    "pos": "verb phrase",
+    "meaning": "음악을 크게 틀다",
+    "example": "Back in my high school days, I used to blast music through my headphones.",
+    "collocation": "blast music through speakers",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-03",
+    "topic": "음악 취향과 듣는 습관"
+  },
+  {
+    "word": "have a soft spot for",
+    "pos": "verb phrase",
+    "meaning": "~을 특별히 좋아하다, ~에 마음이 약하다",
+    "example": "Back then, I had a soft spot for energetic rock and hip-hop.",
+    "collocation": "have a soft spot for acoustic songs",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-03",
+    "topic": "음악 취향과 듣는 습관"
+  },
+  {
+    "word": "sing along to",
+    "pos": "verb phrase",
+    "meaning": "~을 따라 부르다",
+    "example": "I loved to sing along to every single chorus without caring what anyone thought.",
+    "collocation": "sing along to the lyrics",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-03",
+    "topic": "음악 취향과 듣는 습관"
+  },
+  {
+    "word": "soothe my nerves",
+    "pos": "verb phrase",
+    "meaning": "신경을 가라앉히다, 마음을 안정시키다",
+    "example": "Soft melodies really help soothe my nerves after a long, exhausting day at work.",
+    "collocation": "soothe my frayed nerves",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-03",
+    "topic": "음악 취향과 듣는 습관"
+  },
+  {
+    "word": "upbeat rhythm",
+    "pos": "noun phrase",
+    "meaning": "경쾌한 리듬, 신나는 박자",
+    "example": "I still play songs with an upbeat rhythm when I need a quick boost during my workouts.",
+    "collocation": "dance to an upbeat rhythm",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-03",
+    "topic": "음악 취향과 듣는 습관"
+  },
+  {
+    "word": "evoke memories",
+    "pos": "verb phrase",
+    "meaning": "추억을 떠올리게 하다, 기억을 불러일으키다",
+    "example": "Certain old tracks can instantly evoke memories of my youth.",
+    "collocation": "evoke vivid memories of the past",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-03",
+    "topic": "음악 취향과 듣는 습관"
+  },
+  {
+    "word": "catchy melody",
+    "pos": "noun phrase",
+    "meaning": "기억하기 쉬운 멜로디, 귓가에 맴도는 선율",
+    "example": "Pop songs usually feature a catchy melody that sticks in your head all day.",
+    "collocation": "hum a catchy melody",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-03",
+    "topic": "음악 취향과 듣는 습관"
+  },
+  {
+    "word": "background noise",
+    "pos": "noun phrase",
+    "meaning": "배경 소음, 잔잔한 배경 음악/소리",
+    "example": "I often play classical music as background noise while reading books.",
+    "collocation": "pleasant background noise",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-03",
+    "topic": "음악 취향과 듣는 습관"
+  },
+  {
+    "word": "tune out distraction",
+    "pos": "verb phrase",
+    "meaning": "방해 요소/소음을 차단하다, 신경을 끄다",
+    "example": "Wearing noise-canceling headphones helps me tune out distractions in a crowded cafe.",
+    "collocation": "tune out external distractions",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-03",
+    "topic": "음악 취향과 듣는 습관"
+  },
+  {
+    "word": "resonate with me",
+    "pos": "verb phrase",
+    "meaning": "나에게 공감을 주다, 마음을 울리다",
+    "example": "The emotional lyrics of this ballad deeply resonate with me.",
+    "collocation": "deeply resonate with listeners",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-03",
+    "topic": "음악 취향과 듣는 습관"
+  },
+  {
+    "word": "calm my anxiety",
+    "pos": "verb phrase",
+    "meaning": "불안감을 가라앉히다",
+    "example": "Listening to slow ambient sounds before going to sleep helps calm my anxiety.",
+    "collocation": "calm my anxiety effectively",
+    "tier": "extend",
+    "linked_word": "soothe my nerves",
+    "date": "2026-08-03",
+    "topic": "음악 취향과 듣는 습관"
+  },
+  {
+    "word": "lively beat",
+    "pos": "noun phrase",
+    "meaning": "활기찬 비트/박자",
+    "example": "The lively beat of the song instantly made everyone want to dance.",
+    "collocation": "move to a lively beat",
+    "tier": "extend",
+    "linked_word": "upbeat rhythm",
+    "date": "2026-08-03",
+    "topic": "음악 취향과 듣는 습관"
+  },
+  {
+    "word": "hum along with",
+    "pos": "verb phrase",
+    "meaning": "~을 콧노래로 웅얼거리며 따라 부르다",
+    "example": "I caught myself beginning to hum along with the tune playing on the radio.",
+    "collocation": "hum along with a favorite tune",
+    "tier": "extend",
+    "linked_word": "sing along to",
+    "date": "2026-08-03",
+    "topic": "음악 취향과 듣는 습관"
+  },
+  {
+    "word": "trigger memories",
+    "pos": "verb phrase",
+    "meaning": "기억을 자극하다/불러일으키다",
+    "example": "Hearing that specific song on the street triggered memories of my college trip.",
+    "collocation": "trigger fond memories",
+    "tier": "extend",
+    "linked_word": "evoke memories",
+    "date": "2026-08-03",
+    "topic": "음악 취향과 듣는 습관"
+  },
+  {
+    "word": "have a weakness for",
+    "pos": "verb phrase",
+    "meaning": "~에 사족을 못 쓰다, 아주 좋아하다",
+    "example": "I have a real weakness for live acoustic guitar performances.",
+    "collocation": "have a weakness for jazz classics",
+    "tier": "extend",
+    "linked_word": "have a soft spot for",
+    "date": "2026-08-03",
+    "topic": "음악 취향과 듣는 습관"
   }
 ]
