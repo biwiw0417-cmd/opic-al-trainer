@@ -107,9 +107,9 @@
     "unit": 3,
     "unit_title": "설문주제 II — 여가",
     "topic": "콘서트·공연 경험",
-    "completed": false,
-    "date": null,
-    "briefing_url": null
+    "completed": true,
+    "date": "2026-08-04",
+    "briefing_url": "archive/2026-08-04/"
   },
   {
     "unit": 3,

@@ -2143,5 +2143,170 @@
     "linked_word": "have a soft spot for",
     "date": "2026-08-03",
     "topic": "음악 취향과 듣는 습관"
+  },
+  {
+    "word": "snag a ticket",
+    "pos": "verb phrase",
+    "meaning": "(티켓을) 잡다, 겨우 구하다",
+    "example": "Honestly, it was super tough to snag a ticket because the event sold out almost instantly.",
+    "collocation": "snag a front-row ticket",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-04",
+    "topic": "콘서트·공연 경험"
+  },
+  {
+    "word": "lose oneself in the music",
+    "pos": "verb phrase",
+    "meaning": "음악에 몰입하다, 넋을 잃다",
+    "example": "I completely lost myself in the music and forgot about all my work stress.",
+    "collocation": "lose oneself in the performance",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-04",
+    "topic": "콘서트·공연 경험"
+  },
+  {
+    "word": "sing at the top of one's lungs",
+    "pos": "verb phrase",
+    "meaning": "목청껏 노래 부르다",
+    "example": "During their hit song, everybody started to sing at the top of their lungs.",
+    "collocation": "sing at the top of one's voice",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-04",
+    "topic": "콘서트·공연 경험"
+  },
+  {
+    "word": "deafening applause",
+    "pos": "noun phrase",
+    "meaning": "우레와 같은 (귀가 먹먹할 정도의) 박수갈채",
+    "example": "The concert ended with deafening applause that echoed long after the lights came on.",
+    "collocation": "receive deafening applause",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-04",
+    "topic": "콘서트·공연 경험"
+  },
+  {
+    "word": "electrifying atmosphere",
+    "pos": "noun phrase",
+    "meaning": "짜릿한/전율이 돋는 분위기",
+    "example": "The moment the main band walked onto the stage, the whole crowd erupted, creating an electrifying atmosphere.",
+    "collocation": "soak up the electrifying atmosphere",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-04",
+    "topic": "콘서트·공연 경험"
+  },
+  {
+    "word": "encore performance",
+    "pos": "noun phrase",
+    "meaning": "앙코르 공연",
+    "example": "The audience kept chanting until the band came back for an incredible encore performance.",
+    "collocation": "give an encore performance",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-04",
+    "topic": "콘서트·공연 경험"
+  },
+  {
+    "word": "front-row seat",
+    "pos": "noun phrase",
+    "meaning": "맨 앞줄 좌석",
+    "example": "If you want to see the lead singer's facial expressions, getting a front-row seat is a must.",
+    "collocation": "secure a front-row seat",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-04",
+    "topic": "콘서트·공연 경험"
+  },
+  {
+    "word": "headline act",
+    "pos": "noun phrase",
+    "meaning": "메인 출연진, 헤드라이너",
+    "example": "The headline act of the music festival didn't start until late in the evening.",
+    "collocation": "perform as a headline act",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-04",
+    "topic": "콘서트·공연 경험"
+  },
+  {
+    "word": "venue acoustics",
+    "pos": "noun phrase",
+    "meaning": "공연장의 음향 효과",
+    "example": "The venue acoustics were so fantastic that every single instrument sounded crisp and clear.",
+    "collocation": "excellent venue acoustics",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-04",
+    "topic": "콘서트·공연 경험"
+  },
+  {
+    "word": "scalped ticket",
+    "pos": "noun phrase",
+    "meaning": "암표, 프리미엄 티켓",
+    "example": "Buying a scalped ticket online can be risky because of potential fraud.",
+    "collocation": "avoid buying scalped tickets",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-04",
+    "topic": "콘서트·공연 경험"
+  },
+  {
+    "word": "score a ticket",
+    "pos": "verb phrase",
+    "meaning": "티켓을 손에 넣다, 구하다",
+    "example": "I was thrilled when I managed to score a ticket to the sold-out show.",
+    "collocation": "score a ticket online",
+    "tier": "extend",
+    "linked_word": "snag a ticket",
+    "date": "2026-08-04",
+    "topic": "콘서트·공연 경험"
+  },
+  {
+    "word": "be engrossed in the music",
+    "pos": "verb phrase",
+    "meaning": "음악에 깊이 빠져들다",
+    "example": "The audience was so engrossed in the music that nobody even looked at their phones.",
+    "collocation": "be fully engrossed in",
+    "tier": "extend",
+    "linked_word": "lose oneself in the music",
+    "date": "2026-08-04",
+    "topic": "콘서트·공연 경험"
+  },
+  {
+    "word": "thunderous applause",
+    "pos": "noun phrase",
+    "meaning": "천둥 같은 박수갈채",
+    "example": "The singer finished the high note and received thunderous applause from the crowd.",
+    "collocation": "draw thunderous applause",
+    "tier": "extend",
+    "linked_word": "deafening applause",
+    "date": "2026-08-04",
+    "topic": "콘서트·공연 경험"
+  },
+  {
+    "word": "hyped-up crowd",
+    "pos": "noun phrase",
+    "meaning": "매우 흥분한/열기 넘치는 관객",
+    "example": "The band's energetic entrance immediately fired up the hyped-up crowd.",
+    "collocation": "energize a hyped-up crowd",
+    "tier": "extend",
+    "linked_word": "electrifying atmosphere",
+    "date": "2026-08-04",
+    "topic": "콘서트·공연 경험"
+  },
+  {
+    "word": "curtain call",
+    "pos": "noun phrase",
+    "meaning": "커튼콜, 추가 무대 인사/공연",
+    "example": "After three curtain calls, the artist finally bowed and waved goodbye.",
+    "collocation": "take a curtain call",
+    "tier": "extend",
+    "linked_word": "encore performance",
+    "date": "2026-08-04",
+    "topic": "콘서트·공연 경험"
   }
 ]

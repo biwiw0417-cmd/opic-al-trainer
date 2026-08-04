@@ -258,5 +258,25 @@
     "unit": 3,
     "unit_title": "설문주제 II — 여가",
     "topic": "음악 취향과 듣는 습관"
+  },
+  {
+    "pattern": "In contrast to [verb-ing/noun], [subject] was on a whole different level.",
+    "meaning": "[동명사/명사]와는 대조적으로, [주어]는 차원이 완전히 달랐다.",
+    "usage_today": "In contrast to listening to recorded tracks at home on my phone, experiencing the live sound with thousands of screaming fans was on a whole different level.",
+    "extra_example": "In contrast to studying grammar alone with books, speaking directly with native speakers was on a whole different level.",
+    "date": "2026-08-04",
+    "unit": 3,
+    "unit_title": "설문주제 II — 여가",
+    "topic": "콘서트·공연 경험"
+  },
+  {
+    "pattern": "After [noun/gerund], [subject] kept [verb-ing] until [clause].",
+    "meaning": "[명사/동명사] 후에, [주어]는 [절]할 때까지 계속해서 [동사]했다.",
+    "usage_today": "After their final song, the audience kept chanting until the band came back for an incredible encore performance.",
+    "extra_example": "After the main meeting ended, the team kept brainstorming until they came up with a final solution.",
+    "date": "2026-08-04",
+    "unit": 3,
+    "unit_title": "설문주제 II — 여가",
+    "topic": "콘서트·공연 경험"
   }
 ]

@@ -1,0 +1,282 @@
+{
+  "date": "2026-08-04",
+  "question": {
+    "english": "I'd like to know about a memorable concert or live performance you attended in the past. Where was it, who did you go with, and what made that event so unforgettable?",
+    "korean": "과거에 갔던 기억에 남는 콘서트나 라이브 공연에 대해 이야기해 주세요. 어디에서, 누구와 함께 갔으며, 그 행사가 그토록 잊지 못할 추억이 된 이유는 무엇인가요?",
+    "combo_context": "여가-콘서트 콤보 질문 3문항 중 마지막 3번째 문항입니다. 앞선 질문에서 선호하는 공연 종류 및 공연 전후 루틴을 물어본 뒤, 이번 문항에서는 잊지 못할 실제 공연 경험 사례를 특정하여 구체적인 에피소드와 감정을 서술하도록 유도합니다."
+  },
+  "model_answer": {
+    "script": "Well, speaking of concerts, one live performance that really stands out in my memory happened last summer when I went to an outdoor music festival with my close friends.\n\nHonestly, it was super tough to snag a ticket because the event sold out almost instantly. Fortunately, after refreshing the browser page like crazy, we managed to secure our entry. When we arrived at the venue, the energy was unbelievable. The moment the main band walked onto the stage, the whole crowd erupted, creating an electrifying atmosphere that gave me chills from head to toe.\n\nDuring their hit song, everybody started to sing at the top of their lungs. I completely lost myself in the music and forgot about all my work stress. In contrast to listening to recorded tracks at home on my phone, experiencing the live sound with thousands of screaming fans was on a whole different level.\n\nAfter their final song, the audience kept chanting until the band came back for an incredible encore performance. The concert ended with deafening applause that echoed long after the lights came on.\n\nLooking back, it was genuinely one of the most exciting nights of my life. I still get excited whenever I hear that band on the radio.",
+    "structure_note": "서론: 가장 기억에 남는 지난여름 야외 음악 페스티벌 경험 언급\n→ MP: 티켓팅 성공 후 현장에서 느낀 강렬한 첫인상 및 분위기\n→ 디테일 확장: 목청껏 노래를 따라 부르며 몰입한 경험 및 집에서 음원으로 듣는 것(과거/현재)과의 대조\n→ 디테일 2 (감정/생각): 앙코르 공연과 우레와 같은 박수갈채 속에서의 감격\n→ 마무리: 돌아보았을 때 가치가 있었던 순간이자 여전히 소중한 추억으로 남았음을 강조하며 마무리",
+    "al_points": [
+      "과거 시제(happened, was, managed, erupted, lost 등)를 안정적으로 유지하면서, 집에서 음원을 들을 때와 라이브 현장의 대조(In contrast to listening to recorded tracks...)를 스무스하게 연결했습니다.",
+      "snag a ticket, electrifying atmosphere, lose oneself in the music 등 구어체 고득점 콜로케이션을 자연스러운 리듬으로 배치하여 어휘의 다채로움을 입증했습니다.",
+      "Honestly, Fortunately, Looking back 등 자연스러운 디스코스 마커(Discourse Markers)를 적극 활용하여 생생한 입체감과 화자의 실제 정서를 자연스럽게 전달했습니다."
+    ]
+  },
+  "vocab": [
+    {
+      "word": "snag a ticket",
+      "pos": "verb phrase",
+      "meaning": "(티켓을) 잡다, 겨우 구하다",
+      "example": "Honestly, it was super tough to snag a ticket because the event sold out almost instantly.",
+      "collocation": "snag a front-row ticket",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "lose oneself in the music",
+      "pos": "verb phrase",
+      "meaning": "음악에 몰입하다, 넋을 잃다",
+      "example": "I completely lost myself in the music and forgot about all my work stress.",
+      "collocation": "lose oneself in the performance",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "sing at the top of one's lungs",
+      "pos": "verb phrase",
+      "meaning": "목청껏 노래 부르다",
+      "example": "During their hit song, everybody started to sing at the top of their lungs.",
+      "collocation": "sing at the top of one's voice",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "deafening applause",
+      "pos": "noun phrase",
+      "meaning": "우레와 같은 (귀가 먹먹할 정도의) 박수갈채",
+      "example": "The concert ended with deafening applause that echoed long after the lights came on.",
+      "collocation": "receive deafening applause",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "electrifying atmosphere",
+      "pos": "noun phrase",
+      "meaning": "짜릿한/전율이 돋는 분위기",
+      "example": "The moment the main band walked onto the stage, the whole crowd erupted, creating an electrifying atmosphere.",
+      "collocation": "soak up the electrifying atmosphere",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "encore performance",
+      "pos": "noun phrase",
+      "meaning": "앙코르 공연",
+      "example": "The audience kept chanting until the band came back for an incredible encore performance.",
+      "collocation": "give an encore performance",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "front-row seat",
+      "pos": "noun phrase",
+      "meaning": "맨 앞줄 좌석",
+      "example": "If you want to see the lead singer's facial expressions, getting a front-row seat is a must.",
+      "collocation": "secure a front-row seat",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "headline act",
+      "pos": "noun phrase",
+      "meaning": "메인 출연진, 헤드라이너",
+      "example": "The headline act of the music festival didn't start until late in the evening.",
+      "collocation": "perform as a headline act",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "venue acoustics",
+      "pos": "noun phrase",
+      "meaning": "공연장의 음향 효과",
+      "example": "The venue acoustics were so fantastic that every single instrument sounded crisp and clear.",
+      "collocation": "excellent venue acoustics",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "scalped ticket",
+      "pos": "noun phrase",
+      "meaning": "암표, 프리미엄 티켓",
+      "example": "Buying a scalped ticket online can be risky because of potential fraud.",
+      "collocation": "avoid buying scalped tickets",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "score a ticket",
+      "pos": "verb phrase",
+      "meaning": "티켓을 손에 넣다, 구하다",
+      "example": "I was thrilled when I managed to score a ticket to the sold-out show.",
+      "collocation": "score a ticket online",
+      "tier": "extend",
+      "linked_word": "snag a ticket"
+    },
+    {
+      "word": "be engrossed in the music",
+      "pos": "verb phrase",
+      "meaning": "음악에 깊이 빠져들다",
+      "example": "The audience was so engrossed in the music that nobody even looked at their phones.",
+      "collocation": "be fully engrossed in",
+      "tier": "extend",
+      "linked_word": "lose oneself in the music"
+    },
+    {
+      "word": "thunderous applause",
+      "pos": "noun phrase",
+      "meaning": "천둥 같은 박수갈채",
+      "example": "The singer finished the high note and received thunderous applause from the crowd.",
+      "collocation": "draw thunderous applause",
+      "tier": "extend",
+      "linked_word": "deafening applause"
+    },
+    {
+      "word": "hyped-up crowd",
+      "pos": "noun phrase",
+      "meaning": "매우 흥분한/열기 넘치는 관객",
+      "example": "The band's energetic entrance immediately fired up the hyped-up crowd.",
+      "collocation": "energize a hyped-up crowd",
+      "tier": "extend",
+      "linked_word": "electrifying atmosphere"
+    },
+    {
+      "word": "curtain call",
+      "pos": "noun phrase",
+      "meaning": "커튼콜, 추가 무대 인사/공연",
+      "example": "After three curtain calls, the artist finally bowed and waved goodbye.",
+      "collocation": "take a curtain call",
+      "tier": "extend",
+      "linked_word": "encore performance"
+    }
+  ],
+  "vocab_quiz": [
+    {
+      "type": "matching",
+      "question": "다음 중 'snag a ticket'의 뜻으로 가장 적절한 것은?",
+      "choices": [
+        "티켓을 구하다 / 선점하다",
+        "티켓을 환불하다",
+        "현장에서 티켓을 검표하다",
+        "티켓 가격을 인하하다"
+      ],
+      "answer_index": 0
+    },
+    {
+      "type": "matching",
+      "question": "다음 중 'deafening applause'의 뜻으로 가장 적절한 것은?",
+      "choices": [
+        "조용한 박수 소리",
+        "우레와 같은 (귀가 먹먹할 정도의) 박수갈채",
+        "야유와 헛소리",
+        "연주 시작 전 정적"
+      ],
+      "answer_index": 1
+    },
+    {
+      "type": "matching",
+      "question": "다음 중 'encore performance'의 뜻으로 가장 적절한 것은?",
+      "choices": [
+        "리허설 무대",
+        "오프닝 공연",
+        "앙코르 공연",
+        "취소된 공연"
+      ],
+      "answer_index": 2
+    },
+    {
+      "type": "blank",
+      "question": "빈칸에 들어갈 가장 적절한 단어는?\n'During their hit song, everybody started to sing at the ____ of their lungs.'",
+      "choices": [
+        "bottom",
+        "top",
+        "front",
+        "middle"
+      ],
+      "answer_index": 1
+    },
+    {
+      "type": "blank",
+      "question": "빈칸에 들어갈 가장 적절한 단어는?\n'When the band walked onto the stage, the crowd erupted, creating an ____ atmosphere.'",
+      "choices": [
+        "electrifying",
+        "exhausting",
+        "alienated",
+        "out of service"
+      ],
+      "answer_index": 0
+    },
+    {
+      "type": "synonym",
+      "question": "다음 문장의 'snag a ticket' 대신 쓸 수 있는 바꿔 말하기(paraphrasing) 표현은?\n'Honestly, it was super tough to snag a ticket because the event sold out almost instantly.'",
+      "choices": [
+        "score a ticket",
+        "scalped ticket",
+        "front-row seat",
+        "curtain call"
+      ],
+      "answer_index": 0
+    },
+    {
+      "type": "synonym",
+      "question": "다음 문장의 'deafening applause' 대신 쓸 수 있는 바꿔 말하기(paraphrasing) 표현은?\n'The concert ended with deafening applause that echoed long after the lights came on.'",
+      "choices": [
+        "thunderous applause",
+        "hyped-up crowd",
+        "headline act",
+        "venue acoustics"
+      ],
+      "answer_index": 0
+    }
+  ],
+  "patterns": [
+    {
+      "pattern": "In contrast to [verb-ing/noun], [subject] was on a whole different level.",
+      "meaning": "[동명사/명사]와는 대조적으로, [주어]는 차원이 완전히 달랐다.",
+      "usage_today": "In contrast to listening to recorded tracks at home on my phone, experiencing the live sound with thousands of screaming fans was on a whole different level.",
+      "extra_example": "In contrast to studying grammar alone with books, speaking directly with native speakers was on a whole different level."
+    },
+    {
+      "pattern": "After [noun/gerund], [subject] kept [verb-ing] until [clause].",
+      "meaning": "[명사/동명사] 후에, [주어]는 [절]할 때까지 계속해서 [동사]했다.",
+      "usage_today": "After their final song, the audience kept chanting until the band came back for an incredible encore performance.",
+      "extra_example": "After the main meeting ended, the team kept brainstorming until they came up with a final solution."
+    }
+  ],
+  "review_words": [
+    {
+      "word": "strike up a conversation",
+      "learned_date": "2026-07-28",
+      "new_example": "While waiting in the long line for the concert entrance, I managed to strike up a conversation with another fan."
+    },
+    {
+      "word": "tight-knit community",
+      "learned_date": "2026-07-28",
+      "new_example": "Indie music fans at the festival felt like a tight-knit community sharing the exact same passion."
+    },
+    {
+      "word": "keep an eye on",
+      "learned_date": "2026-07-28",
+      "new_example": "I had to keep an eye on my personal belongings while dancing in the crowded concert hall."
+    },
+    {
+      "word": "lend a helping hand",
+      "learned_date": "2026-07-28",
+      "new_example": "When someone accidentally dropped their phone in the standing area, a fellow concertgoer was quick to lend a helping hand."
+    }
+  ],
+  "review_patterns": [],
+  "checklist": [
+    "오늘 단어(snag a ticket, electrifying atmosphere 등)를 4개 이상 썼다.",
+    "과거 시제(happened, was, managed, erupted 등)가 흔들리지 않았다.",
+    "MP 후 디테일을 2개 이상 확장했다.",
+    "라이브 현장에서 느낀 감정과 생각을 서술했다.",
+    "마무리 문장으로 답변을 깔끔하게 정리했다.",
+    "필러 없이 3초 이상 멈추는 구간이 없었다."
+  ],
+  "type": "daily",
+  "unit": 3,
+  "unit_title": "설문주제 II — 여가",
+  "topic": "콘서트·공연 경험"
+}
