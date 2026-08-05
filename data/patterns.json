@@ -278,5 +278,25 @@
     "unit": 3,
     "unit_title": "설문주제 II — 여가",
     "topic": "콘서트·공연 경험"
+  },
+  {
+    "pattern": "On a total whim, [subject] [verb-past]...",
+    "meaning": "완전히 즉흥적으로 ~했다.",
+    "usage_today": "On a total whim, we bought some light snacks and laid out a jacket on the grass, turning our simple walk into an unplanned picnic.",
+    "extra_example": "On a total whim, I booked a flight to Jeju Island for the weekend without planning anything.",
+    "date": "2026-08-05",
+    "unit": 3,
+    "unit_title": "설문주제 II — 여가",
+    "topic": "공원 산책과 야외 활동"
+  },
+  {
+    "pattern": "[Subject] felt completely [adjective/participle] by the time [clause].",
+    "meaning": "~할 때쯤에는 완전히 ~함을 느꼈다.",
+    "usage_today": "I felt recharged both mentally and physically by the time the sun set.",
+    "extra_example": "She felt completely exhausted by the time the three-hour presentation finally ended.",
+    "date": "2026-08-05",
+    "unit": 3,
+    "unit_title": "설문주제 II — 여가",
+    "topic": "공원 산책과 야외 활동"
   }
 ]

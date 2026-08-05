@@ -115,9 +115,9 @@
     "unit": 3,
     "unit_title": "설문주제 II — 여가",
     "topic": "공원 산책과 야외 활동",
-    "completed": false,
-    "date": null,
-    "briefing_url": null
+    "completed": true,
+    "date": "2026-08-05",
+    "briefing_url": "archive/2026-08-05/"
   },
   {
     "unit": 4,

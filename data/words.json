@@ -2308,5 +2308,170 @@
     "linked_word": "encore performance",
     "date": "2026-08-04",
     "topic": "콘서트·공연 경험"
+  },
+  {
+    "word": "catch fresh air",
+    "pos": "phrase",
+    "meaning": "신선한 공기를 마시다",
+    "example": "I decided to head over to a local park to catch fresh air and get away from it all.",
+    "collocation": "go outside to catch fresh air",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-05",
+    "topic": "공원 산책과 야외 활동"
+  },
+  {
+    "word": "catch up with friends",
+    "pos": "phrase",
+    "meaning": "친구들과 근황을 나누다",
+    "example": "We spent hours chatting and catching up with friends who happened to pass by.",
+    "collocation": "catch up with friends over coffee",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-05",
+    "topic": "공원 산책과 야외 활동"
+  },
+  {
+    "word": "soak up the sunshine",
+    "pos": "phrase",
+    "meaning": "햇살을 만끽하다, 볕을 쬐다",
+    "example": "We took a brisk walk while soaking up the sunshine.",
+    "collocation": "soak up the sunshine on a bench",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-05",
+    "topic": "공원 산책과 야외 활동"
+  },
+  {
+    "word": "unplanned picnic",
+    "pos": "noun phrase",
+    "meaning": "계획에 없던 소풍, 즉흥 피크닉",
+    "example": "We laid out a jacket on the grass, turning our simple walk into an unplanned picnic.",
+    "collocation": "have an unplanned picnic",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-05",
+    "topic": "공원 산책과 야외 활동"
+  },
+  {
+    "word": "sprout up",
+    "pos": "verb phrase",
+    "meaning": "갑자기 생겨나다, 솟아나다",
+    "example": "We noticed several food trucks sprout up near the open lawn.",
+    "collocation": "sprout up everywhere",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-05",
+    "topic": "공원 산책과 야외 활동"
+  },
+  {
+    "word": "feel recharged",
+    "pos": "phrase",
+    "meaning": "재충전되는 느낌을 받다",
+    "example": "I felt recharged both mentally and physically by the time the sun set.",
+    "collocation": "feel recharged after a break",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-05",
+    "topic": "공원 산책과 야외 활동"
+  },
+  {
+    "word": "lush green park",
+    "pos": "noun phrase",
+    "meaning": "푸르른 공원",
+    "example": "We strolled along a paved walking trail inside the lush green park.",
+    "collocation": "relax in a lush green park",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-05",
+    "topic": "공원 산책과 야외 활동"
+  },
+  {
+    "word": "paved walking trail",
+    "pos": "noun phrase",
+    "meaning": "잘 포장된 산책로",
+    "example": "The park features a scenic paved walking trail around the lake.",
+    "collocation": "follow the paved walking trail",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-05",
+    "topic": "공원 산책과 야외 활동"
+  },
+  {
+    "word": "brisk walk",
+    "pos": "noun phrase",
+    "meaning": "상쾌하게 빠른 걸음, 활기찬 산책",
+    "example": "A brisk walk in the morning always helps me start the day right.",
+    "collocation": "go for a brisk walk",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-05",
+    "topic": "공원 산책과 야외 활동"
+  },
+  {
+    "word": "get away from it all",
+    "pos": "phrase",
+    "meaning": "일상(복잡한 일)에서 벗어나다",
+    "example": "Going to the countryside is the best way to get away from it all.",
+    "collocation": "need to get away from it all",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-05",
+    "topic": "공원 산책과 야외 활동"
+  },
+  {
+    "word": "breathe in the cool air",
+    "pos": "phrase",
+    "meaning": "차가운 공기를 들이마시다",
+    "example": "I took a deep breath to breathe in the cool air during my morning walk.",
+    "collocation": "breathe in the cool air deeply",
+    "tier": "extend",
+    "linked_word": "catch fresh air",
+    "date": "2026-08-05",
+    "topic": "공원 산책과 야외 활동"
+  },
+  {
+    "word": "touch base with",
+    "pos": "verb phrase",
+    "meaning": "소식을 전하다, 연락을 취하다",
+    "example": "It was great to touch base with my old schoolmate at the park.",
+    "collocation": "touch base with old colleagues",
+    "tier": "extend",
+    "linked_word": "catch up with friends",
+    "date": "2026-08-05",
+    "topic": "공원 산책과 야외 활동"
+  },
+  {
+    "word": "bask in the sun",
+    "pos": "verb phrase",
+    "meaning": "햇볕을 쬐다",
+    "example": "Many visitors were lying on the grass to bask in the sun.",
+    "collocation": "bask in the sun for hours",
+    "tier": "extend",
+    "linked_word": "soak up the sunshine",
+    "date": "2026-08-05",
+    "topic": "공원 산책과 야외 활동"
+  },
+  {
+    "word": "spontaneous outing",
+    "pos": "noun phrase",
+    "meaning": "즉흥적인 나들이",
+    "example": "That spontaneous outing brought us so much unexpected joy.",
+    "collocation": "enjoy a spontaneous outing",
+    "tier": "extend",
+    "linked_word": "unplanned picnic",
+    "date": "2026-08-05",
+    "topic": "공원 산책과 야외 활동"
+  },
+  {
+    "word": "rejuvenated",
+    "pos": "adjective",
+    "meaning": "활력을 되찾은",
+    "example": "After spending the weekend in nature, I felt completely rejuvenated.",
+    "collocation": "feel fully rejuvenated",
+    "tier": "extend",
+    "linked_word": "feel recharged",
+    "date": "2026-08-05",
+    "topic": "공원 산책과 야외 활동"
   }
 ]
