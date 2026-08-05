@@ -2473,5 +2473,170 @@
     "linked_word": "feel recharged",
     "date": "2026-08-05",
     "topic": "공원 산책과 야외 활동"
+  },
+  {
+    "word": "book a stay",
+    "pos": "verb phrase",
+    "meaning": "숙소를 예약하다",
+    "example": "I book a stay right away to get the best deals.",
+    "collocation": "book a stay online",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-06",
+    "topic": "국내 여행 루틴"
+  },
+  {
+    "word": "double-check the itinerary",
+    "pos": "verb phrase",
+    "meaning": "일정을 재확인하다",
+    "example": "A few days before leaving, I double-check the itinerary to make sure everything is in order.",
+    "collocation": "double-check the flight itinerary",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-06",
+    "topic": "국내 여행 루틴"
+  },
+  {
+    "word": "pack light",
+    "pos": "verb phrase",
+    "meaning": "짐을 가볍게 싸다",
+    "example": "The most important rule for me is to pack light.",
+    "collocation": "always pack light",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-06",
+    "topic": "국내 여행 루틴"
+  },
+  {
+    "word": "hit the road",
+    "pos": "idiom",
+    "meaning": "출발하다, 길을 나서다",
+    "example": "On the day of the trip, I try to hit the road as early as possible to beat the traffic.",
+    "collocation": "ready to hit the road",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-06",
+    "topic": "국내 여행 루틴"
+  },
+  {
+    "word": "local delicacies",
+    "pos": "noun phrase",
+    "meaning": "지역 별미, 맛있는 현지 음식",
+    "example": "Once I arrive, the first thing I do is head out to find some local delicacies.",
+    "collocation": "sample local delicacies",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-06",
+    "topic": "국내 여행 루틴"
+  },
+  {
+    "word": "snap photos",
+    "pos": "verb phrase",
+    "meaning": "사진을 찍다",
+    "example": "I spend the rest of the day wandering around and snapping photos.",
+    "collocation": "snap photos of the scenery",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-06",
+    "topic": "국내 여행 루틴"
+  },
+  {
+    "word": "long weekend",
+    "pos": "noun phrase",
+    "meaning": "연휴 (금/월요일이 낀 주말)",
+    "example": "I usually plan my domestic trips during a long weekend.",
+    "collocation": "over the long weekend",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-06",
+    "topic": "국내 여행 루틴"
+  },
+  {
+    "word": "hidden gems",
+    "pos": "noun phrase",
+    "meaning": "숨겨진 명소",
+    "example": "I love browsing social media to find some hidden gems.",
+    "collocation": "discover hidden gems",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-06",
+    "topic": "국내 여행 루틴"
+  },
+  {
+    "word": "off the beaten path",
+    "pos": "idiom/adj",
+    "meaning": "사람들이 잘 안 가는 곳의, 평범하지 않은",
+    "example": "I prefer visiting places that are a bit off the beaten path.",
+    "collocation": "travel off the beaten path",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-06",
+    "topic": "국내 여행 루틴"
+  },
+  {
+    "word": "scenic view",
+    "pos": "noun phrase",
+    "meaning": "경치, 장관",
+    "example": "I was snapping photos of any scenic view I come across.",
+    "collocation": "enjoy a scenic view",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-06",
+    "topic": "국내 여행 루틴"
+  },
+  {
+    "word": "make a reservation",
+    "pos": "verb phrase",
+    "meaning": "예약하다",
+    "example": "It's better to make a reservation for famous restaurants in advance.",
+    "collocation": "make a reservation beforehand",
+    "tier": "extend",
+    "linked_word": "book a stay",
+    "date": "2026-08-06",
+    "topic": "국내 여행 루틴"
+  },
+  {
+    "word": "travel with minimal luggage",
+    "pos": "verb phrase",
+    "meaning": "최소한의 짐으로 여행하다",
+    "example": "I've learned to travel with minimal luggage to save energy.",
+    "collocation": "prefer to travel with minimal luggage",
+    "tier": "extend",
+    "linked_word": "pack light",
+    "date": "2026-08-06",
+    "topic": "국내 여행 루틴"
+  },
+  {
+    "word": "set off",
+    "pos": "phrasal verb",
+    "meaning": "출발하다",
+    "example": "We set off for Busan at the crack of dawn.",
+    "collocation": "set off on a journey",
+    "tier": "extend",
+    "linked_word": "hit the road",
+    "date": "2026-08-06",
+    "topic": "국내 여행 루틴"
+  },
+  {
+    "word": "regional specialties",
+    "pos": "noun phrase",
+    "meaning": "지역 특산물/음식",
+    "example": "Every province in Korea has its own unique regional specialties.",
+    "collocation": "tasty regional specialties",
+    "tier": "extend",
+    "linked_word": "local delicacies",
+    "date": "2026-08-06",
+    "topic": "국내 여행 루틴"
+  },
+  {
+    "word": "breathtaking scenery",
+    "pos": "noun phrase",
+    "meaning": "숨이 막히는 풍경",
+    "example": "The mountain peak offered some truly breathtaking scenery.",
+    "collocation": "admire the breathtaking scenery",
+    "tier": "extend",
+    "linked_word": "scenic view",
+    "date": "2026-08-06",
+    "topic": "국내 여행 루틴"
   }
 ]

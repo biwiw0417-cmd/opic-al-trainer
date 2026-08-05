@@ -123,9 +123,9 @@
     "unit": 4,
     "unit_title": "설문주제 III — 여행",
     "topic": "국내 여행 루틴",
-    "completed": false,
-    "date": null,
-    "briefing_url": null
+    "completed": true,
+    "date": "2026-08-06",
+    "briefing_url": "archive/2026-08-06/"
   },
   {
     "unit": 4,

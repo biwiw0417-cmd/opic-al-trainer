@@ -298,5 +298,25 @@
     "unit": 3,
     "unit_title": "설문주제 II — 여가",
     "topic": "공원 산책과 야외 활동"
+  },
+  {
+    "pattern": "I'm a firm believer in [gerund/noun] to ensure [clause].",
+    "meaning": "나는 ~하는 것이 ~을 보장한다고 굳게 믿습니다.",
+    "usage_today": "I'm a firm believer in double-checking the itinerary to ensure that my trip goes smoothly.",
+    "extra_example": "I'm a firm believer in getting enough sleep to ensure peak performance at work.",
+    "date": "2026-08-06",
+    "unit": 4,
+    "unit_title": "설문주제 III — 여행",
+    "topic": "국내 여행 루틴"
+  },
+  {
+    "pattern": "The best part about [gerund/noun] is the chance to [verb] without [noun/gerund].",
+    "meaning": "~하는 것의 가장 좋은 점은 ~없이 ~할 기회가 있다는 것입니다.",
+    "usage_today": "The best part about domestic travel is the chance to explore new places without any language barriers.",
+    "extra_example": "The best part about working from home is the chance to focus on tasks without any office distractions.",
+    "date": "2026-08-06",
+    "unit": 4,
+    "unit_title": "설문주제 III — 여행",
+    "topic": "국내 여행 루틴"
   }
 ]
