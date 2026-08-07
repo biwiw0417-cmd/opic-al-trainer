@@ -2638,5 +2638,170 @@
     "linked_word": "scenic view",
     "date": "2026-08-06",
     "topic": "국내 여행 루틴"
+  },
+  {
+    "word": "take a detour",
+    "pos": "verb phrase",
+    "meaning": "우회하다, 길을 돌아가다",
+    "example": "I ended up taking a detour because of a unexpected road closure.",
+    "collocation": "take a scenic detour",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-07",
+    "topic": "기억에 남는 여행 (과거 서사)"
+  },
+  {
+    "word": "stumble upon",
+    "pos": "verb phrase",
+    "meaning": "우연히 발견하다",
+    "example": "I stumbled upon this tiny, hidden cafe that wasn't even on the map.",
+    "collocation": "stumble upon a gem",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-07",
+    "topic": "기억에 남는 여행 (과거 서사)"
+  },
+  {
+    "word": "get the hang of",
+    "pos": "verb phrase",
+    "meaning": "요령을 터득하다, 익숙해지다",
+    "example": "I even got the hang of some local dialects while talking to the elders there.",
+    "collocation": "quickly get the hang of",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-07",
+    "topic": "기억에 남는 여행 (과거 서사)"
+  },
+  {
+    "word": "cherish the moment",
+    "pos": "verb phrase",
+    "meaning": "순간을 소중히 여기다",
+    "example": "I still cherish the moment I sat by the ocean with a cup of coffee.",
+    "collocation": "cherish the moment forever",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-07",
+    "topic": "기억에 남는 여행 (과거 서사)"
+  },
+  {
+    "word": "vibrant atmosphere",
+    "pos": "noun phrase",
+    "meaning": "활기찬 분위기",
+    "example": "The vibrant atmosphere of the village was just unforgettable.",
+    "collocation": "soak up the vibrant atmosphere",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-07",
+    "topic": "기억에 남는 여행 (과거 서사)"
+  },
+  {
+    "word": "hospitality",
+    "pos": "noun",
+    "meaning": "환대, 친절",
+    "example": "The incredible hospitality of the owner was just unforgettable.",
+    "collocation": "warm hospitality",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-07",
+    "topic": "기억에 남는 여행 (과거 서사)"
+  },
+  {
+    "word": "it turns out",
+    "pos": "phrase",
+    "meaning": "알고 보니, 결국 ~임이 드러나다",
+    "example": "It turns out it was a blessing in disguise.",
+    "collocation": "as it turns out",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-07",
+    "topic": "기억에 남는 여행 (과거 서사)"
+  },
+  {
+    "word": "take it all in",
+    "pos": "verb phrase",
+    "meaning": "(보고 듣는 것을) 충분히 감상하다, 즐기다",
+    "example": "We chatted for hours, and I just sat there to take it all in.",
+    "collocation": "pause to take it all in",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-07",
+    "topic": "기억에 남는 여행 (과거 서사)"
+  },
+  {
+    "word": "be short on time",
+    "pos": "adjective phrase",
+    "meaning": "시간이 부족하다",
+    "example": "At first, I was a bit frustrated because I was short on time.",
+    "collocation": "always be short on time",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-07",
+    "topic": "기억에 남는 여행 (과거 서사)"
+  },
+  {
+    "word": "long story short",
+    "pos": "idiom",
+    "meaning": "긴 얘기를 짧게 하자면, 결론적으로",
+    "example": "Long story short, that trip taught me a lot.",
+    "collocation": "to make a long story short",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-07",
+    "topic": "기억에 남는 여행 (과거 서사)"
+  },
+  {
+    "word": "come across",
+    "pos": "verb phrase",
+    "meaning": "우연히 마주치다/발견하다",
+    "example": "During my hike, I happened to come across an old temple.",
+    "collocation": "come across a problem",
+    "tier": "extend",
+    "linked_word": "stumble upon",
+    "date": "2026-08-07",
+    "topic": "기억에 남는 여행 (과거 서사)"
+  },
+  {
+    "word": "warm welcome",
+    "pos": "noun phrase",
+    "meaning": "따뜻한 환영/환대",
+    "example": "The locals gave us such a warm welcome when we arrived.",
+    "collocation": "receive a warm welcome",
+    "tier": "extend",
+    "linked_word": "hospitality",
+    "date": "2026-08-07",
+    "topic": "기억에 남는 여행 (과거 서사)"
+  },
+  {
+    "word": "lively vibe",
+    "pos": "noun phrase",
+    "meaning": "활기찬 분위기",
+    "example": "The market had such a lively vibe even late at night.",
+    "collocation": "create a lively vibe",
+    "tier": "extend",
+    "linked_word": "vibrant atmosphere",
+    "date": "2026-08-07",
+    "topic": "기억에 남는 여행 (과거 서사)"
+  },
+  {
+    "word": "get the knack of",
+    "pos": "verb phrase",
+    "meaning": "~의 요령을 터득하다",
+    "example": "It took some time, but I finally got the knack of surfing.",
+    "collocation": "have the knack of",
+    "tier": "extend",
+    "linked_word": "get the hang of",
+    "date": "2026-08-07",
+    "topic": "기억에 남는 여행 (과거 서사)"
+  },
+  {
+    "word": "treasure the memory",
+    "pos": "verb phrase",
+    "meaning": "추억을 소중히 간직하다",
+    "example": "I will treasure the memory of this trip for the rest of my life.",
+    "collocation": "treasure the memory of",
+    "tier": "extend",
+    "linked_word": "cherish the moment",
+    "date": "2026-08-07",
+    "topic": "기억에 남는 여행 (과거 서사)"
   }
 ]

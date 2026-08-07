@@ -131,9 +131,9 @@
     "unit": 4,
     "unit_title": "설문주제 III — 여행",
     "topic": "기억에 남는 여행 (과거 서사)",
-    "completed": false,
-    "date": null,
-    "briefing_url": null
+    "completed": true,
+    "date": "2026-08-07",
+    "briefing_url": "archive/2026-08-07/"
   },
   {
     "unit": 4,

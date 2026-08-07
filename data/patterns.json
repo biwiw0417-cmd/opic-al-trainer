@@ -318,5 +318,25 @@
     "unit": 4,
     "unit_title": "설문주제 III — 여행",
     "topic": "국내 여행 루틴"
+  },
+  {
+    "pattern": "I ended up [verb-ing] because of [noun].",
+    "meaning": "[명사] 때문에 결국 ~하게 되었다.",
+    "usage_today": "I ended up taking a detour because of a unexpected road closure.",
+    "extra_example": "I ended up staying home all day because of the heavy rain.",
+    "date": "2026-08-07",
+    "unit": 4,
+    "unit_title": "설문주제 III — 여행",
+    "topic": "기억에 남는 여행 (과거 서사)"
+  },
+  {
+    "pattern": "It turns out [clause], which was a blessing in disguise.",
+    "meaning": "알고 보니 [문장]이었는데, 그것은 전화위복이었다.",
+    "usage_today": "It turns out it was a blessing in disguise.",
+    "extra_example": "It turns out the flight was canceled, which was a blessing in disguise as I got to spend more time with my family.",
+    "date": "2026-08-07",
+    "unit": 4,
+    "unit_title": "설문주제 III — 여행",
+    "topic": "기억에 남는 여행 (과거 서사)"
   }
 ]
