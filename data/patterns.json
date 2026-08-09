@@ -338,5 +338,25 @@
     "unit": 4,
     "unit_title": "설문주제 III — 여행",
     "topic": "기억에 남는 여행 (과거 서사)"
+  },
+  {
+    "pattern": "On top of that, I faced [noun] because [clause].",
+    "meaning": "게다가 ~ 때문에 [명사]에 직면했습니다.",
+    "usage_today": "On top of that, I faced a bit of a language barrier because I couldn't speak fluent Japanese.",
+    "extra_example": "On top of that, I faced a major flight delay because of severe weather conditions.",
+    "date": "2026-08-10",
+    "unit": 4,
+    "unit_title": "설문주제 III — 여행",
+    "topic": "해외여행 경험"
+  },
+  {
+    "pattern": "In the past, I used to rely on [noun], but this time around, I decided to [verb].",
+    "meaning": "예전에는 [명사]에 의존하곤 했지만, 이번에는 ~하기로 결심했습니다.",
+    "usage_today": "In the past, I used to rely entirely on guided tour groups whenever I traveled abroad, but this time around, I decided to handle everything myself.",
+    "extra_example": "In the past, I used to rely on navigation apps, but this time around, I decided to explore the town freely without one.",
+    "date": "2026-08-10",
+    "unit": 4,
+    "unit_title": "설문주제 III — 여행",
+    "topic": "해외여행 경험"
   }
 ]

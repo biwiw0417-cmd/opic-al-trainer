@@ -2803,5 +2803,170 @@
     "linked_word": "cherish the moment",
     "date": "2026-08-07",
     "topic": "기억에 남는 여행 (과거 서사)"
+  },
+  {
+    "word": "broaden one's horizons",
+    "pos": "verb phrase",
+    "meaning": "지평을 넓히다, 견문을 넓히다",
+    "example": "I wanted to step out of my comfort zone and broaden my horizons.",
+    "collocation": "broaden one's horizons through travel",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-10",
+    "topic": "해외여행 경험"
+  },
+  {
+    "word": "jet lag",
+    "pos": "noun phrase",
+    "meaning": "시차 적응 증상, 피로",
+    "example": "When I first arrived in Tokyo, I suffered from severe jet lag.",
+    "collocation": "suffer from severe jet lag",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-10",
+    "topic": "해외여행 경험"
+  },
+  {
+    "word": "language barrier",
+    "pos": "noun phrase",
+    "meaning": "언어 장벽",
+    "example": "On top of that, I faced a bit of a language barrier because I couldn't speak fluent Japanese.",
+    "collocation": "overcome the language barrier",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-10",
+    "topic": "해외여행 경험"
+  },
+  {
+    "word": "sample local food",
+    "pos": "verb phrase",
+    "meaning": "현지 음식을 맛보다",
+    "example": "I used translation apps while trying to sample local food at small neighborhood eateries.",
+    "collocation": "sample local food at night markets",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-10",
+    "topic": "해외여행 경험"
+  },
+  {
+    "word": "wander around",
+    "pos": "verb phrase",
+    "meaning": "거닐다, 돌아다니다",
+    "example": "During the daytime, I would just wander around quiet backstreets, getting lost on purpose.",
+    "collocation": "wander around the city center",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-10",
+    "topic": "해외여행 경험"
+  },
+  {
+    "word": "immerse oneself in",
+    "pos": "verb phrase",
+    "meaning": "~에 몰입하다, 푹 빠지다",
+    "example": "I was able to immerse myself in the local culture and lifestyle.",
+    "collocation": "immerse oneself in local culture",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-10",
+    "topic": "해외여행 경험"
+  },
+  {
+    "word": "cultural immersion",
+    "pos": "noun phrase",
+    "meaning": "문화적 몰입, 현지 문화 체험",
+    "example": "Traveling solo allowed me to experience true cultural immersion.",
+    "collocation": "deep cultural immersion",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-10",
+    "topic": "해외여행 경험"
+  },
+  {
+    "word": "exchange currency",
+    "pos": "verb phrase",
+    "meaning": "환전하다",
+    "example": "Make sure to exchange currency before visiting small local shops.",
+    "collocation": "exchange currency at the airport",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-10",
+    "topic": "해외여행 경험"
+  },
+  {
+    "word": "picturesque alleyway",
+    "pos": "noun phrase",
+    "meaning": "그림 같은 골목길",
+    "example": "I really enjoyed walking down every picturesque alleyway in the town.",
+    "collocation": "stroll down a picturesque alleyway",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-10",
+    "topic": "해외여행 경험"
+  },
+  {
+    "word": "navigate public transit",
+    "pos": "verb phrase",
+    "meaning": "대중교통을 찾아서 이용하다",
+    "example": "It took a while to figure out how to navigate public transit in a foreign language.",
+    "collocation": "navigate public transit easily",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-10",
+    "topic": "해외여행 경험"
+  },
+  {
+    "word": "expand my mind",
+    "pos": "verb phrase",
+    "meaning": "시야/생각을 넓히다",
+    "example": "Traveling to new places always helps to expand my mind.",
+    "collocation": "expand my mind and perspectives",
+    "tier": "extend",
+    "linked_word": "broaden one's horizons",
+    "date": "2026-08-10",
+    "topic": "해외여행 경험"
+  },
+  {
+    "word": "communication gap",
+    "pos": "noun phrase",
+    "meaning": "소통의 격차, 언어 소통 차질",
+    "example": "Despite the communication gap, the locals were extremely helpful.",
+    "collocation": "bridge the communication gap",
+    "tier": "extend",
+    "linked_word": "language barrier",
+    "date": "2026-08-10",
+    "topic": "해외여행 경험"
+  },
+  {
+    "word": "try foreign dishes",
+    "pos": "verb phrase",
+    "meaning": "외국 요리를 시도해보다",
+    "example": "One of my favorite travel activities is to try foreign dishes.",
+    "collocation": "try foreign dishes at street stalls",
+    "tier": "extend",
+    "linked_word": "sample local food",
+    "date": "2026-08-10",
+    "topic": "해외여행 경험"
+  },
+  {
+    "word": "stroll through",
+    "pos": "verb phrase",
+    "meaning": "~을 천천히 거닐다",
+    "example": "We decided to stroll through the ancient downtown district.",
+    "collocation": "stroll through the historical streets",
+    "tier": "extend",
+    "linked_word": "wander around",
+    "date": "2026-08-10",
+    "topic": "해외여행 경험"
+  },
+  {
+    "word": "absorb local culture",
+    "pos": "verb phrase",
+    "meaning": "현지 문화를 흡수하다/체험하다",
+    "example": "Sitting at a cozy outdoor cafe is the best way to absorb local culture.",
+    "collocation": "absorb local culture naturally",
+    "tier": "extend",
+    "linked_word": "immerse oneself in",
+    "date": "2026-08-10",
+    "topic": "해외여행 경험"
   }
 ]
