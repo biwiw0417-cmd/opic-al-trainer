@@ -358,5 +358,25 @@
     "unit": 4,
     "unit_title": "설문주제 III — 여행",
     "topic": "해외여행 경험"
+  },
+  {
+    "pattern": "Once [clause/noun], I start to [verb] to ensure [clause].",
+    "meaning": "일단 ~하고 나면, ~을 확실히 하기 위해 ~하기 시작합니다.",
+    "usage_today": "Once the plan is set, I start to hunt for deals on flights and accommodations online.",
+    "extra_example": "Once the budget is fixed, I start to organize expense sheets to ensure we don't overspend.",
+    "date": "2026-08-11",
+    "unit": 4,
+    "unit_title": "설문주제 III — 여행",
+    "topic": "여행 준비 과정"
+  },
+  {
+    "pattern": "As soon as I [verb], I [verb] right away so [clause].",
+    "meaning": "~하자마자, ~가 되지 않도록 바로 ~합니다.",
+    "usage_today": "As soon as I find reasonable prices, I lock in a booking right away so prices don't jump up later.",
+    "extra_example": "As soon as I receive the invitation, I reply right away so the host can count me in.",
+    "date": "2026-08-11",
+    "unit": 4,
+    "unit_title": "설문주제 III — 여행",
+    "topic": "여행 준비 과정"
   }
 ]

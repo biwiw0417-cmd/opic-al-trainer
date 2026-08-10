@@ -2968,5 +2968,170 @@
     "linked_word": "immerse oneself in",
     "date": "2026-08-10",
     "topic": "해외여행 경험"
+  },
+  {
+    "word": "map out an itinerary",
+    "pos": "phrase",
+    "meaning": "여행 일정을 세부적으로 구상하다/짜다",
+    "example": "First off, a few weeks before leaving, I map out an itinerary to decide where I want to go.",
+    "collocation": "map out a detailed itinerary",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-11",
+    "topic": "여행 준비 과정"
+  },
+  {
+    "word": "hunt for deals",
+    "pos": "phrase",
+    "meaning": "특가나 최저가 상품을 찾아 다니다",
+    "example": "Once the plan is set, I start to hunt for deals on flights and accommodations online.",
+    "collocation": "hunt for cheap flight deals",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-11",
+    "topic": "여행 준비 과정"
+  },
+  {
+    "word": "lock in a booking",
+    "pos": "phrase",
+    "meaning": "예약을 확정짓다",
+    "example": "As soon as I find reasonable prices, I lock in a booking right away.",
+    "collocation": "lock in a hotel booking",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-11",
+    "topic": "여행 준비 과정"
+  },
+  {
+    "word": "pack the essentials",
+    "pos": "phrase",
+    "meaning": "필수품만 챙겨 짐을 싸다",
+    "example": "I try not to overpack, so I strictly pack the essentials like chargers and basic toiletries.",
+    "collocation": "pack the essentials tightly",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-11",
+    "topic": "여행 준비 과정"
+  },
+  {
+    "word": "smooth sailing",
+    "pos": "noun phrase",
+    "meaning": "일이 순조롭게 진행됨, 일사천리",
+    "example": "Most of the time, the whole preparation process is smooth sailing.",
+    "collocation": "expect smooth sailing",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-11",
+    "topic": "여행 준비 과정"
+  },
+  {
+    "word": "run into a minor hiccup",
+    "pos": "phrase",
+    "meaning": "소소한 차질이나 뜻밖의 문제에 부딪히다",
+    "example": "But actually, on my last trip to Osaka, I ran into a minor hiccup.",
+    "collocation": "run into a unexpected hiccup",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-11",
+    "topic": "여행 준비 과정"
+  },
+  {
+    "word": "check off items on a checklist",
+    "pos": "phrase",
+    "meaning": "점검 목록의 항목들을 하나씩 확인하며 지우다",
+    "example": "Before heading to the airport, I always check off items on a checklist to make sure I didn't forget anything.",
+    "collocation": "systematically check off items",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-11",
+    "topic": "여행 준비 과정"
+  },
+  {
+    "word": "secure travel insurance",
+    "pos": "phrase",
+    "meaning": "여행자 보험을 신청/가입해 두다",
+    "example": "It is crucial to secure travel insurance in case of medical emergencies abroad.",
+    "collocation": "secure comprehensive travel insurance",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-11",
+    "topic": "여행 준비 과정"
+  },
+  {
+    "word": "prepare valid documents",
+    "pos": "phrase",
+    "meaning": "유효한 서류(여권, 비자 등)를 준비하다",
+    "example": "You must prepare valid documents well before your international departure date.",
+    "collocation": "prepare valid identification documents",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-11",
+    "topic": "여행 준비 과정"
+  },
+  {
+    "word": "arrange airport transfers",
+    "pos": "phrase",
+    "meaning": "공항 이동 수단(픽업 서비스 등)을 수배하다",
+    "example": "I always arrange airport transfers in advance to avoid long taxi lines after landing.",
+    "collocation": "arrange private airport transfers",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-11",
+    "topic": "여행 준비 과정"
+  },
+  {
+    "word": "plan out a schedule",
+    "pos": "phrase",
+    "meaning": "일정을 세세하게 계획하다",
+    "example": "Before flying out, I prefer to plan out a schedule to make the most of my time.",
+    "collocation": "plan out a tight schedule",
+    "tier": "extend",
+    "linked_word": "map out an itinerary",
+    "date": "2026-08-11",
+    "topic": "여행 준비 과정"
+  },
+  {
+    "word": "scour for discounts",
+    "pos": "phrase",
+    "meaning": "할인혜택을 샅샅이 훑어보다",
+    "example": "I spend hours scouring for discounts on travel comparison websites.",
+    "collocation": "scour for special discounts",
+    "tier": "extend",
+    "linked_word": "hunt for deals",
+    "date": "2026-08-11",
+    "topic": "여행 준비 과정"
+  },
+  {
+    "word": "finalize a reservation",
+    "pos": "phrase",
+    "meaning": "예약을 마무리하다/확정하다",
+    "example": "I paid the deposit to finalize a reservation for our beachfront resort.",
+    "collocation": "finalize a room reservation",
+    "tier": "extend",
+    "linked_word": "lock in a booking",
+    "date": "2026-08-11",
+    "topic": "여행 준비 과정"
+  },
+  {
+    "word": "bring necessary belongings",
+    "pos": "phrase",
+    "meaning": "필요한 소지품을 준비해 가다",
+    "example": "To minimize luggage weight, I only bring necessary belongings.",
+    "collocation": "bring necessary personal belongings",
+    "tier": "extend",
+    "linked_word": "pack the essentials",
+    "date": "2026-08-11",
+    "topic": "여행 준비 과정"
+  },
+  {
+    "word": "face a slight bump in the road",
+    "pos": "phrase",
+    "meaning": "작은 걸림돌/난관에 봉착하다",
+    "example": "We faced a slight bump in the road when our flight got delayed by two hours.",
+    "collocation": "face a temporary bump in the road",
+    "tier": "extend",
+    "linked_word": "run into a minor hiccup",
+    "date": "2026-08-11",
+    "topic": "여행 준비 과정"
   }
 ]

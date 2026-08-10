@@ -1,0 +1,282 @@
+{
+  "date": "2026-08-11",
+  "question": {
+    "english": "You indicated in the survey that you like to go on trips. Can you walk me through your usual step-by-step process when preparing for a trip? Tell me everything you do from start to finish before leaving.",
+    "korean": "설문조사에서 여행을 다닌다고 하셨는데요. 여행을 떠나기 전 준비하시는 전반적인 과정에 대해 단계별로 자세히 말씀해 주세요. 출발하기 전까지 처음부터 끝까지 무엇을 하시는지 말해 주세요.",
+    "combo_context": "여행 주제 콤보 질문(3연속) 중 첫 번째 문항으로, 여행 전 수행하는 일련의 준비 루틴과 구체적인 과정을 시순에 따라 묻는 전형적인 난이도 6-6 개의 질문입니다."
+  },
+  "model_answer": {
+    "script": "Preparing for a trip is honestly half the fun for me, but it definitely requires a lot of planning.\n\nIn the past, I used to just wing it and pack my bags at the last minute. But these days, I have a systematic routine. First off, a few weeks before leaving, I map out an itinerary to decide where I want to go and what I want to see each day.\n\nOnce the plan is set, I start to hunt for deals on flights and accommodations online. Finding good rates gives me a huge sense of satisfaction. As soon as I find reasonable prices, I lock in a booking right away so prices don't jump up later.\n\nOn the day before departure, I focus on getting my gear together. I try not to overpack, so I strictly pack the essentials like chargers, basic toiletries, and proper clothing.\n\nMost of the time, the whole preparation process is smooth sailing. But actually, on my last trip to Osaka, I ran into a minor hiccup. I completely forgot to double-check my passport's expiration date until the night before. Thankfully, I had just enough time left on it, but looking back, it was a heart-stopping moment.\n\nOverall, thorough preparation makes my actual travel experience so much more stress-free and enjoyable.",
+    "structure_note": "서론: 여행 준비 과정에 대한 개인적 관점 제시 → MP: 과거의 대충 하던 습관 vs 현재의 체계적인 준비 루틴 대조 → 디테일 확장 1: 일정 계획 및 항공/숙소 할인 검색과 예약 확정 → 디테일 확장 2: 출발 전날의 효율적인 짐 싸기 과정 → 디테일 확장 3(과거 에피소드): 오사카 여행 시 여권 유효기간 때문에 겪었던 식은땀 나는 차질 경험 → 감정/느낌: 당시 느꼈던 가슴 졸임과 완벽한 준비의 중요성 → 마무리: 철저한 준비가 가져다주는 편안한 여행의 가치 언급.",
+    "al_points": [
+      "과거 시제 서사 및 시제 대조: 'In the past, I used to...'로 과거 습관을 언급한 뒤 현재 루틴으로 전환하고, 'on my last trip to Osaka, I ran into...' 구체적 과거 시점으로 매끄럽게 시제를 전환하여 유연한 시제 운용 능력을 보여줍니다.",
+      "디스코스 마커 및 시간 순서 연결어: 'First off', 'Once', 'As soon as', 'Most of the time', 'looking back' 등의 연결어를 자연스럽게 배치하여 단계별 준비 과정을 논리적이고 유기적으로 전달합니다.",
+      "구체적 감정 표현 및 생생한 묘사: 단순히 짐을 쌌다는 사실 전달에 그치지 않고 'a heart-stopping moment', 'gives me a huge sense of satisfaction' 등 구체적인 감정 상태를 표현하여 원어민다운 구어체 풍부함을 연출했습니다."
+    ]
+  },
+  "vocab": [
+    {
+      "word": "map out an itinerary",
+      "pos": "phrase",
+      "meaning": "여행 일정을 세부적으로 구상하다/짜다",
+      "example": "First off, a few weeks before leaving, I map out an itinerary to decide where I want to go.",
+      "collocation": "map out a detailed itinerary",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "hunt for deals",
+      "pos": "phrase",
+      "meaning": "특가나 최저가 상품을 찾아 다니다",
+      "example": "Once the plan is set, I start to hunt for deals on flights and accommodations online.",
+      "collocation": "hunt for cheap flight deals",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "lock in a booking",
+      "pos": "phrase",
+      "meaning": "예약을 확정짓다",
+      "example": "As soon as I find reasonable prices, I lock in a booking right away.",
+      "collocation": "lock in a hotel booking",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "pack the essentials",
+      "pos": "phrase",
+      "meaning": "필수품만 챙겨 짐을 싸다",
+      "example": "I try not to overpack, so I strictly pack the essentials like chargers and basic toiletries.",
+      "collocation": "pack the essentials tightly",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "smooth sailing",
+      "pos": "noun phrase",
+      "meaning": "일이 순조롭게 진행됨, 일사천리",
+      "example": "Most of the time, the whole preparation process is smooth sailing.",
+      "collocation": "expect smooth sailing",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "run into a minor hiccup",
+      "pos": "phrase",
+      "meaning": "소소한 차질이나 뜻밖의 문제에 부딪히다",
+      "example": "But actually, on my last trip to Osaka, I ran into a minor hiccup.",
+      "collocation": "run into a unexpected hiccup",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "check off items on a checklist",
+      "pos": "phrase",
+      "meaning": "점검 목록의 항목들을 하나씩 확인하며 지우다",
+      "example": "Before heading to the airport, I always check off items on a checklist to make sure I didn't forget anything.",
+      "collocation": "systematically check off items",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "secure travel insurance",
+      "pos": "phrase",
+      "meaning": "여행자 보험을 신청/가입해 두다",
+      "example": "It is crucial to secure travel insurance in case of medical emergencies abroad.",
+      "collocation": "secure comprehensive travel insurance",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "prepare valid documents",
+      "pos": "phrase",
+      "meaning": "유효한 서류(여권, 비자 등)를 준비하다",
+      "example": "You must prepare valid documents well before your international departure date.",
+      "collocation": "prepare valid identification documents",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "arrange airport transfers",
+      "pos": "phrase",
+      "meaning": "공항 이동 수단(픽업 서비스 등)을 수배하다",
+      "example": "I always arrange airport transfers in advance to avoid long taxi lines after landing.",
+      "collocation": "arrange private airport transfers",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "plan out a schedule",
+      "pos": "phrase",
+      "meaning": "일정을 세세하게 계획하다",
+      "example": "Before flying out, I prefer to plan out a schedule to make the most of my time.",
+      "collocation": "plan out a tight schedule",
+      "tier": "extend",
+      "linked_word": "map out an itinerary"
+    },
+    {
+      "word": "scour for discounts",
+      "pos": "phrase",
+      "meaning": "할인혜택을 샅샅이 훑어보다",
+      "example": "I spend hours scouring for discounts on travel comparison websites.",
+      "collocation": "scour for special discounts",
+      "tier": "extend",
+      "linked_word": "hunt for deals"
+    },
+    {
+      "word": "finalize a reservation",
+      "pos": "phrase",
+      "meaning": "예약을 마무리하다/확정하다",
+      "example": "I paid the deposit to finalize a reservation for our beachfront resort.",
+      "collocation": "finalize a room reservation",
+      "tier": "extend",
+      "linked_word": "lock in a booking"
+    },
+    {
+      "word": "bring necessary belongings",
+      "pos": "phrase",
+      "meaning": "필요한 소지품을 준비해 가다",
+      "example": "To minimize luggage weight, I only bring necessary belongings.",
+      "collocation": "bring necessary personal belongings",
+      "tier": "extend",
+      "linked_word": "pack the essentials"
+    },
+    {
+      "word": "face a slight bump in the road",
+      "pos": "phrase",
+      "meaning": "작은 걸림돌/난관에 봉착하다",
+      "example": "We faced a slight bump in the road when our flight got delayed by two hours.",
+      "collocation": "face a temporary bump in the road",
+      "tier": "extend",
+      "linked_word": "run into a minor hiccup"
+    }
+  ],
+  "vocab_quiz": [
+    {
+      "type": "matching",
+      "question": "다음 단어 표현의 한국어 의미로 가장 적절한 것은? [map out an itinerary]",
+      "choices": [
+        "여행 일정을 세부적으로 구상하다",
+        "여행지의 특산품을 구입하다",
+        "공항철도 티켓을 예매하다",
+        "현지 지도 앱의 사용법을 익히다"
+      ],
+      "answer_index": 0
+    },
+    {
+      "type": "matching",
+      "question": "다음 단어 표현의 한국어 의미로 가장 적절한 것은? [run into a minor hiccup]",
+      "choices": [
+        "오랫동안 기다리던 식당을 예약하다",
+        "소소한 차질이나 뜻밖의 문제에 부딪히다",
+        "여행 가방의 무게를 측정하다",
+        "목적지에 성공적으로 도착하다"
+      ],
+      "answer_index": 1
+    },
+    {
+      "type": "matching",
+      "question": "다음 단어 표현의 한국어 의미로 가장 적절한 것은? [lock in a booking]",
+      "choices": [
+        "숙소 예약을 취소하다",
+        "호텔 방 열쇠를 분실하다",
+        "예약을 확정짓다",
+        "여행 경비를 환전하다"
+      ],
+      "answer_index": 2
+    },
+    {
+      "type": "blank",
+      "question": "문맥상 빈칸에 들어갈 가장 적절한 단어를 고르세요: 'Once the plan is set, I start to ____ for deals on flights and accommodations online.'",
+      "choices": [
+        "hunt",
+        "race",
+        "chase",
+        "fight"
+      ],
+      "answer_index": 0
+    },
+    {
+      "type": "blank",
+      "question": "문맥상 빈칸에 들어갈 가장 적절한 단어를 고르세요: 'I try not to overpack, so I strictly pack the ____ like chargers and basic toiletries.'",
+      "choices": [
+        "essentials",
+        "luxuries",
+        "souvenirs",
+        "documents"
+      ],
+      "answer_index": 0
+    },
+    {
+      "type": "synonym",
+      "question": "스크립트의 'map out an itinerary' 표현을 대체하여 사용할 수 있는 유의어는 무엇인가요?",
+      "choices": [
+        "plan out a schedule",
+        "scour for discounts",
+        "finalize a reservation",
+        "bring necessary belongings"
+      ],
+      "answer_index": 0
+    },
+    {
+      "type": "synonym",
+      "question": "스크립트의 'lock in a booking' 표현을 대체하여 사용할 수 있는 유의어는 무엇인가요?",
+      "choices": [
+        "finalize a reservation",
+        "face a slight bump in the road",
+        "bring necessary belongings",
+        "scour for discounts"
+      ],
+      "answer_index": 0
+    }
+  ],
+  "patterns": [
+    {
+      "pattern": "Once [clause/noun], I start to [verb] to ensure [clause].",
+      "meaning": "일단 ~하고 나면, ~을 확실히 하기 위해 ~하기 시작합니다.",
+      "usage_today": "Once the plan is set, I start to hunt for deals on flights and accommodations online.",
+      "extra_example": "Once the budget is fixed, I start to organize expense sheets to ensure we don't overspend."
+    },
+    {
+      "pattern": "As soon as I [verb], I [verb] right away so [clause].",
+      "meaning": "~하자마자, ~가 되지 않도록 바로 ~합니다.",
+      "usage_today": "As soon as I find reasonable prices, I lock in a booking right away so prices don't jump up later.",
+      "extra_example": "As soon as I receive the invitation, I reply right away so the host can count me in."
+    }
+  ],
+  "review_words": [
+    {
+      "word": "snag a ticket",
+      "learned_date": "2026-08-04",
+      "new_example": "I was thrilled that I managed to snag a ticket for the popular train ride to Kyoto during peak season."
+    },
+    {
+      "word": "lose oneself in the music",
+      "learned_date": "2026-08-04",
+      "new_example": "While packing my luggage late at night, I like to lose myself in the music to enjoy the process."
+    },
+    {
+      "word": "sing at the top of one's lungs",
+      "learned_date": "2026-08-04",
+      "new_example": "On long road trips after completing all my preparations, I often sing at the top of my lungs in the car."
+    },
+    {
+      "word": "deafening applause",
+      "learned_date": "2026-08-04",
+      "new_example": "When our tour guide successfully solved our transport delay, he received deafening applause from all of us."
+    }
+  ],
+  "review_patterns": [],
+  "checklist": [
+    "오늘 배운 core/extend 단어 중 4개 이상을 실제 답변에 활용해 보았나요?",
+    "과거 에피소드(오사카 여행 여권 해프닝)를 전달할 때 과거 시제가 흔들리지 않고 명확했나요?",
+    "여행 준비 과정을 단계별(일정 짜기 → 최저가 검색 및 예약 → 짐 싸기)로 확장하여 디테일하게 말했나요?",
+    "여권 유효기간을 뒤늦게 깨달았을 때의 아찔했던 감정이나 생각을 솔직하게 표현했나요?",
+    "답변의 결론을 '철저한 준비의 이점'으로 자연스럽게 마무리했나요?",
+    "필러(you know, actually 등)를 적절히 사용하며 3초 이상의 긴 침묵 없이 부드럽게 이어갔나요?"
+  ],
+  "type": "daily",
+  "unit": 4,
+  "unit_title": "설문주제 III — 여행",
+  "topic": "여행 준비 과정"
+}
