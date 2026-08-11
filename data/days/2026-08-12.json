@@ -1,0 +1,282 @@
+{
+  "date": "2026-08-12",
+  "question": {
+    "english": "You mentioned in the survey that you enjoy traveling. Have you ever experienced an unexpected problem or crisis while on a trip? What was the problem, how did you handle it, and what was the ultimate outcome? Please tell me the whole story in detail.",
+    "korean": "설문조사에서 여행을 즐긴다고 하셨는데요. 여행 중에 예상치 못한 문제나 위기를 겪은 적이 있으신가요? 어떤 문제였고, 어떻게 해결했으며, 최종 결과는 어땠나요? 전체 이야기를 구체적으로 말씀해 주세요.",
+    "combo_context": "여행 주제 3연속 질문 중 3번째 문항입니다. 앞선 질문들(좋아하는 여행지, 여행 준비 과정)에 이어, 여행 중 발생한 돌발 악재와 해결 과정을 전달하는 과거 서사(Trouble Narrative)형 질문입니다."
+  },
+  "model_answer": {
+    "script": "You know, travel is full of surprises, but one particular trip to Europe a couple of years ago really tested my patience.\n\nThe thing is, I ended up having my luggage lost right after I had to miss a connection due to a flight delay. It felt like a total nightmare at first.\n\nLooking back, as soon as I landed in Paris without my bags, I had to deal with the mishap before panic took over. I immediately went to the airline desk to file a report with all my flight details. Luckily, the staff member was super helpful and used their system to trace my baggage to another transit hub. After a tense two-hour wait, they were able to clear up the confusion and told me my luggage would arrive at my hotel early the next morning.\n\nIn the past, I probably would have lost my mind over something like this. But this time, staying proactive paid off. To make up for the trouble, the airline even offered compensation in the form of travel vouchers and a complimentary dinner coupon.\n\nLooking back, while it was stressful at the moment, learning how to overcome that unexpected hurdle actually made me a much more confident traveler today.",
+    "structure_note": "서론: 유럽 여행 시 겪은 예상치 못한 시험대 소개\n→ MP: 비행기 지연으로 연결편을 놓치고 수하물까지 분실된 악재 제시\n→ 디테일: 공항 데스크 방문, 신고서 작성, 수하물 추적 및 다음 날 아침 수령 확정 과정 상세 묘사\n→ 감정/생각: 과거 대응방식과의 비교(과거엔 패닉 vs 현재는 능동 대처) 및 보상품 수령 시 감정\n→ 마무리: 돌발 상황 극복을 통해 더 숙련된 여행자로 성장했음을 정리",
+    "al_points": [
+      "과거 시제와 완료 가상법 표현(would have lost my mind)을 적재적소에 사용하여 시제 정확성과 AL 수준의 문법 다변성을 보여줍니다.",
+      "디스코스 마커(You know, The thing is, Looking back)를 자연스럽게 활용하여 구어체의 현장감을 잘 살려냈습니다.",
+      "과거 문제 상황(수하물 분실)과 이에 대한 구체적인 해결 행동(신고서 작성, 위치 추적)을 디테일하게 확장하여 논리적인 서사 구조를 완성했습니다."
+    ]
+  },
+  "vocab": [
+    {
+      "word": "miss a connection",
+      "pos": "verb phrase",
+      "meaning": "연결편을 놓치다",
+      "example": "I ended up having my luggage lost right after I had to miss a connection due to a flight delay.",
+      "collocation": "miss a connection due to delays",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "resolve an issue",
+      "pos": "verb phrase",
+      "meaning": "문제를 해결하다",
+      "example": "It took several hours for the airline staff to resolve an issue regarding lost baggage.",
+      "collocation": "resolve an issue promptly",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "file a report",
+      "pos": "verb phrase",
+      "meaning": "신고서를 작성·접수하다",
+      "example": "I immediately went to the airline desk to file a report with all my flight details.",
+      "collocation": "file a report at the counter",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "trace my baggage",
+      "pos": "verb phrase",
+      "meaning": "내 수하물의 위치를 추적하다",
+      "example": "The staff member used their system to trace my baggage to another transit hub.",
+      "collocation": "trace my baggage through the system",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "keep calm under pressure",
+      "pos": "verb phrase",
+      "meaning": "압박감 속에서도 침착함을 유지하다",
+      "example": "When travel plans go wrong, it is crucial to keep calm under pressure.",
+      "collocation": "keep calm under pressure during travel",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "deal with the mishap",
+      "pos": "verb phrase",
+      "meaning": "불상사/사고를 처리하다",
+      "example": "I had to deal with the mishap before panic took over.",
+      "collocation": "deal with the mishap effectively",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "contact customer support",
+      "pos": "verb phrase",
+      "meaning": "고객 지원팀에 문의하다",
+      "example": "If your room booking is cancelled without notice, contact customer support immediately.",
+      "collocation": "contact customer support right away",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "handle the emergency",
+      "pos": "verb phrase",
+      "meaning": "비상 상황에 대처하다",
+      "example": "Travelers should know basic phrases to handle the emergency in a foreign country.",
+      "collocation": "handle the emergency calmly",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "offer compensation",
+      "pos": "verb phrase",
+      "meaning": "보상을 제공하다",
+      "example": "To make up for the trouble, the airline even offered compensation in the form of travel vouchers.",
+      "collocation": "offer compensation for inconvenience",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "clear up the confusion",
+      "pos": "verb phrase",
+      "meaning": "혼란을 해소하다",
+      "example": "After a tense two-hour wait, they were able to clear up the confusion.",
+      "collocation": "clear up the confusion quickly",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "lose a connecting flight",
+      "pos": "verb phrase",
+      "meaning": "연결편 항공기를 놓치다",
+      "example": "Because the first departure was delayed, we were worried we might lose a connecting flight.",
+      "collocation": "lose a connecting flight in Europe",
+      "tier": "extend",
+      "linked_word": "miss a connection"
+    },
+    {
+      "word": "sort out a problem",
+      "pos": "verb phrase",
+      "meaning": "문제를 정리하다/해결하다",
+      "example": "The manager stepped in to sort out a problem with our reservation.",
+      "collocation": "sort out a problem peacefully",
+      "tier": "extend",
+      "linked_word": "resolve an issue"
+    },
+    {
+      "word": "submit a claim",
+      "pos": "verb phrase",
+      "meaning": "청구서나 신고서를 제출하다",
+      "example": "I had to submit a claim for the missing items before leaving the airport.",
+      "collocation": "submit a claim for lost luggage",
+      "tier": "extend",
+      "linked_word": "file a report"
+    },
+    {
+      "word": "cope with the setback",
+      "pos": "verb phrase",
+      "meaning": "차질에 대처하다",
+      "example": "Learning how to cope with the setback made the rest of the journey much smoother.",
+      "collocation": "cope with the setback during a trip",
+      "tier": "extend",
+      "linked_word": "deal with the mishap"
+    },
+    {
+      "word": "provide reimbursement",
+      "pos": "verb phrase",
+      "meaning": "환불이나 보상금을 지급하다",
+      "example": "The hotel agreed to provide reimbursement for our extra meal expenses.",
+      "collocation": "provide reimbursement for travel costs",
+      "tier": "extend",
+      "linked_word": "offer compensation"
+    }
+  ],
+  "vocab_quiz": [
+    {
+      "type": "matching",
+      "question": "다음 단어/표현의 올바른 한국어 뜻을 고르세요: 'deal with the mishap'",
+      "choices": [
+        "불상사나 사고를 처리하다",
+        "여행 가방을 새로 구매하다",
+        "항공권을 취소하다",
+        "고객 센터를 방문하다"
+      ],
+      "answer_index": 0
+    },
+    {
+      "type": "matching",
+      "question": "다음 단어/표현의 올바른 한국어 뜻을 고르세요: 'clear up the confusion'",
+      "choices": [
+        "일정을 변경하다",
+        "혼란이나 오해를 해소하다",
+        "비상 연락망을 구축하다",
+        "여행 경비를 계산하다"
+      ],
+      "answer_index": 1
+    },
+    {
+      "type": "matching",
+      "question": "다음 단어/표현의 올바른 한국어 뜻을 고르세요: 'trace my baggage'",
+      "choices": [
+        "짐을 최소한으로 싸다",
+        "수하물 비용을 지불하다",
+        "내 수하물의 위치를 추적하다",
+        "짐을 분실 처리하다"
+      ],
+      "answer_index": 2
+    },
+    {
+      "type": "blank",
+      "question": "다음 스크립트 빈칸에 들어갈 가장 적절한 표현을 고르세요: 'I immediately went to the airline desk to ____ with all my flight details.'",
+      "choices": [
+        "file a report",
+        "catch fresh air",
+        "lock in a booking",
+        "hit a snag"
+      ],
+      "answer_index": 0
+    },
+    {
+      "type": "blank",
+      "question": "다음 스크립트 빈칸에 들어갈 가장 적절한 표현을 고르세요: 'The thing is, I ended up having my luggage lost right after I had to ____ due to a flight delay.'",
+      "choices": [
+        "sample local food",
+        "miss a connection",
+        "pack light",
+        "set off"
+      ],
+      "answer_index": 1
+    },
+    {
+      "type": "synonym",
+      "question": "스크립트의 'deal with the mishap' 대신 바꿔 쓸 수 있는 동의어 표현은?",
+      "choices": [
+        "cope with the setback",
+        "submit a claim",
+        "provide reimbursement",
+        "sort out a problem"
+      ],
+      "answer_index": 0
+    },
+    {
+      "type": "synonym",
+      "question": "스크립트의 'offer compensation' 대신 바꿔 쓸 수 있는 동의어 표현은?",
+      "choices": [
+        "lose a connecting flight",
+        "provide reimbursement",
+        "cope with the setback",
+        "sort out a problem"
+      ],
+      "answer_index": 1
+    }
+  ],
+  "patterns": [
+    {
+      "pattern": "I had to [verb] before [noun/clause].",
+      "meaning": "~하기 전에 내가 [동사]를 해야만 했다.",
+      "usage_today": "I had to deal with the mishap before panic took over.",
+      "extra_example": "I had to check all the emergency exit routes before the storm hit the area."
+    },
+    {
+      "pattern": "To make up for [noun], [subject] even offered [noun].",
+      "meaning": "[명사]에 대해 보상하기 위해, [주어]는 심지어 [명사]를 제공했다.",
+      "usage_today": "To make up for the trouble, the airline even offered compensation in the form of travel vouchers.",
+      "extra_example": "To make up for the flight cancellation, the hotel even offered free accommodation for the night."
+    }
+  ],
+  "review_words": [
+    {
+      "word": "catch fresh air",
+      "learned_date": "2026-08-05",
+      "new_example": "While waiting for my delayed baggage at the airport terminal, I stepped outside to catch fresh air and clear my head."
+    },
+    {
+      "word": "catch up with friends",
+      "learned_date": "2026-08-05",
+      "new_example": "Even when my travel plans went wrong, I managed to catch up with friends online to ask for local travel advice."
+    },
+    {
+      "word": "soak up the sunshine",
+      "learned_date": "2026-08-05",
+      "new_example": "Instead of stressing over the lost luggage, I decided to sit in the hotel courtyard and soak up the sunshine."
+    },
+    {
+      "word": "unplanned picnic",
+      "learned_date": "2026-08-05",
+      "new_example": "Since our hotel check-in was delayed due to the mishap, we ended up having an unplanned picnic in a nearby park."
+    }
+  ],
+  "review_patterns": [],
+  "checklist": [
+    "오늘 핵심/확장 단어를 답변에 4개 이상 활용하여 말했는가?",
+    "과거 시제 및 가상법 표현(would have)이 흔들리지 않고 정확했는가?",
+    "메인 포인트(MP) 발표 후 문제 해결 디테일을 2개 이상 확장했는가?",
+    "돌발 상황 당시의 감정 및 과거 대응과의 비교를 포함했는가?",
+    "마무리 문장에서 경험을 통한 성장을 깔끔하게 마무리했는가?",
+    "필러(you know, well)를 사용하되 3초 이상의 침묵 없이 매끄럽게 연결했는가?"
+  ],
+  "type": "daily",
+  "unit": 4,
+  "unit_title": "설문주제 III — 여행",
+  "topic": "여행 중 겪은 문제와 해결 (트러블 서사)"
+}

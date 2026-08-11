@@ -378,5 +378,25 @@
     "unit": 4,
     "unit_title": "설문주제 III — 여행",
     "topic": "여행 준비 과정"
+  },
+  {
+    "pattern": "I had to [verb] before [noun/clause].",
+    "meaning": "~하기 전에 내가 [동사]를 해야만 했다.",
+    "usage_today": "I had to deal with the mishap before panic took over.",
+    "extra_example": "I had to check all the emergency exit routes before the storm hit the area.",
+    "date": "2026-08-12",
+    "unit": 4,
+    "unit_title": "설문주제 III — 여행",
+    "topic": "여행 중 겪은 문제와 해결 (트러블 서사)"
+  },
+  {
+    "pattern": "To make up for [noun], [subject] even offered [noun].",
+    "meaning": "[명사]에 대해 보상하기 위해, [주어]는 심지어 [명사]를 제공했다.",
+    "usage_today": "To make up for the trouble, the airline even offered compensation in the form of travel vouchers.",
+    "extra_example": "To make up for the flight cancellation, the hotel even offered free accommodation for the night.",
+    "date": "2026-08-12",
+    "unit": 4,
+    "unit_title": "설문주제 III — 여행",
+    "topic": "여행 중 겪은 문제와 해결 (트러블 서사)"
   }
 ]

@@ -3133,5 +3133,170 @@
     "linked_word": "run into a minor hiccup",
     "date": "2026-08-11",
     "topic": "여행 준비 과정"
+  },
+  {
+    "word": "miss a connection",
+    "pos": "verb phrase",
+    "meaning": "연결편을 놓치다",
+    "example": "I ended up having my luggage lost right after I had to miss a connection due to a flight delay.",
+    "collocation": "miss a connection due to delays",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-12",
+    "topic": "여행 중 겪은 문제와 해결 (트러블 서사)"
+  },
+  {
+    "word": "resolve an issue",
+    "pos": "verb phrase",
+    "meaning": "문제를 해결하다",
+    "example": "It took several hours for the airline staff to resolve an issue regarding lost baggage.",
+    "collocation": "resolve an issue promptly",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-12",
+    "topic": "여행 중 겪은 문제와 해결 (트러블 서사)"
+  },
+  {
+    "word": "file a report",
+    "pos": "verb phrase",
+    "meaning": "신고서를 작성·접수하다",
+    "example": "I immediately went to the airline desk to file a report with all my flight details.",
+    "collocation": "file a report at the counter",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-12",
+    "topic": "여행 중 겪은 문제와 해결 (트러블 서사)"
+  },
+  {
+    "word": "trace my baggage",
+    "pos": "verb phrase",
+    "meaning": "내 수하물의 위치를 추적하다",
+    "example": "The staff member used their system to trace my baggage to another transit hub.",
+    "collocation": "trace my baggage through the system",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-12",
+    "topic": "여행 중 겪은 문제와 해결 (트러블 서사)"
+  },
+  {
+    "word": "keep calm under pressure",
+    "pos": "verb phrase",
+    "meaning": "압박감 속에서도 침착함을 유지하다",
+    "example": "When travel plans go wrong, it is crucial to keep calm under pressure.",
+    "collocation": "keep calm under pressure during travel",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-12",
+    "topic": "여행 중 겪은 문제와 해결 (트러블 서사)"
+  },
+  {
+    "word": "deal with the mishap",
+    "pos": "verb phrase",
+    "meaning": "불상사/사고를 처리하다",
+    "example": "I had to deal with the mishap before panic took over.",
+    "collocation": "deal with the mishap effectively",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-12",
+    "topic": "여행 중 겪은 문제와 해결 (트러블 서사)"
+  },
+  {
+    "word": "contact customer support",
+    "pos": "verb phrase",
+    "meaning": "고객 지원팀에 문의하다",
+    "example": "If your room booking is cancelled without notice, contact customer support immediately.",
+    "collocation": "contact customer support right away",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-12",
+    "topic": "여행 중 겪은 문제와 해결 (트러블 서사)"
+  },
+  {
+    "word": "handle the emergency",
+    "pos": "verb phrase",
+    "meaning": "비상 상황에 대처하다",
+    "example": "Travelers should know basic phrases to handle the emergency in a foreign country.",
+    "collocation": "handle the emergency calmly",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-12",
+    "topic": "여행 중 겪은 문제와 해결 (트러블 서사)"
+  },
+  {
+    "word": "offer compensation",
+    "pos": "verb phrase",
+    "meaning": "보상을 제공하다",
+    "example": "To make up for the trouble, the airline even offered compensation in the form of travel vouchers.",
+    "collocation": "offer compensation for inconvenience",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-12",
+    "topic": "여행 중 겪은 문제와 해결 (트러블 서사)"
+  },
+  {
+    "word": "clear up the confusion",
+    "pos": "verb phrase",
+    "meaning": "혼란을 해소하다",
+    "example": "After a tense two-hour wait, they were able to clear up the confusion.",
+    "collocation": "clear up the confusion quickly",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-12",
+    "topic": "여행 중 겪은 문제와 해결 (트러블 서사)"
+  },
+  {
+    "word": "lose a connecting flight",
+    "pos": "verb phrase",
+    "meaning": "연결편 항공기를 놓치다",
+    "example": "Because the first departure was delayed, we were worried we might lose a connecting flight.",
+    "collocation": "lose a connecting flight in Europe",
+    "tier": "extend",
+    "linked_word": "miss a connection",
+    "date": "2026-08-12",
+    "topic": "여행 중 겪은 문제와 해결 (트러블 서사)"
+  },
+  {
+    "word": "sort out a problem",
+    "pos": "verb phrase",
+    "meaning": "문제를 정리하다/해결하다",
+    "example": "The manager stepped in to sort out a problem with our reservation.",
+    "collocation": "sort out a problem peacefully",
+    "tier": "extend",
+    "linked_word": "resolve an issue",
+    "date": "2026-08-12",
+    "topic": "여행 중 겪은 문제와 해결 (트러블 서사)"
+  },
+  {
+    "word": "submit a claim",
+    "pos": "verb phrase",
+    "meaning": "청구서나 신고서를 제출하다",
+    "example": "I had to submit a claim for the missing items before leaving the airport.",
+    "collocation": "submit a claim for lost luggage",
+    "tier": "extend",
+    "linked_word": "file a report",
+    "date": "2026-08-12",
+    "topic": "여행 중 겪은 문제와 해결 (트러블 서사)"
+  },
+  {
+    "word": "cope with the setback",
+    "pos": "verb phrase",
+    "meaning": "차질에 대처하다",
+    "example": "Learning how to cope with the setback made the rest of the journey much smoother.",
+    "collocation": "cope with the setback during a trip",
+    "tier": "extend",
+    "linked_word": "deal with the mishap",
+    "date": "2026-08-12",
+    "topic": "여행 중 겪은 문제와 해결 (트러블 서사)"
+  },
+  {
+    "word": "provide reimbursement",
+    "pos": "verb phrase",
+    "meaning": "환불이나 보상금을 지급하다",
+    "example": "The hotel agreed to provide reimbursement for our extra meal expenses.",
+    "collocation": "provide reimbursement for travel costs",
+    "tier": "extend",
+    "linked_word": "offer compensation",
+    "date": "2026-08-12",
+    "topic": "여행 중 겪은 문제와 해결 (트러블 서사)"
   }
 ]
