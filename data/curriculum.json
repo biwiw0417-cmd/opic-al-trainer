@@ -163,9 +163,9 @@
     "unit": 5,
     "unit_title": "돌발주제 I",
     "topic": "날씨와 계절",
-    "completed": false,
-    "date": null,
-    "briefing_url": null
+    "completed": true,
+    "date": "2026-08-13",
+    "briefing_url": "archive/2026-08-13/"
   },
   {
     "unit": 5,

@@ -398,5 +398,25 @@
     "unit": 4,
     "unit_title": "설문주제 III — 여행",
     "topic": "여행 중 겪은 문제와 해결 (트러블 서사)"
+  },
+  {
+    "pattern": "I fully expected [noun/gerund], but [subject] had other plans.",
+    "meaning": "~을 완전히 예상했지만, ~은 다르게 흘러갔습니다.",
+    "usage_today": "I fully expected a bright, sunny day, but the weather had other plans that afternoon.",
+    "extra_example": "I fully expected a smooth presentation, but the technical equipment had other plans.",
+    "date": "2026-08-13",
+    "unit": 5,
+    "unit_title": "돌발주제 I",
+    "topic": "날씨와 계절"
+  },
+  {
+    "pattern": "Looking back, even though [clause], it turned out to be [noun/adjective].",
+    "meaning": "돌이켜보면, 비록 ~했음에도 불구하고, 결국 ~이 되었습니다.",
+    "usage_today": "Looking back, even though I got totally drenched at the time, it turned out to be a refreshing shift in the weather.",
+    "extra_example": "Looking back, even though we got lost in the woods, it turned out to be a great adventure.",
+    "date": "2026-08-13",
+    "unit": 5,
+    "unit_title": "돌발주제 I",
+    "topic": "날씨와 계절"
   }
 ]

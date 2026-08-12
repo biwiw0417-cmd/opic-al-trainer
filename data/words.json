@@ -3298,5 +3298,170 @@
     "linked_word": "offer compensation",
     "date": "2026-08-12",
     "topic": "여행 중 겪은 문제와 해결 (트러블 서사)"
+  },
+  {
+    "word": "unpredictable weather",
+    "pos": "phrase",
+    "meaning": "예측할 수 없는 날씨, 변덕스러운 날씨",
+    "example": "Korea is known for its unpredictable weather during the seasonal transition.",
+    "collocation": "experience unpredictable weather",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-13",
+    "topic": "날씨와 계절"
+  },
+  {
+    "word": "caught off guard",
+    "pos": "phrase",
+    "meaning": "불시에 당황하다, 방심하다",
+    "example": "I was completely caught off guard by a sudden storm last summer.",
+    "collocation": "be caught off guard by",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-13",
+    "topic": "날씨와 계절"
+  },
+  {
+    "word": "torrential rain",
+    "pos": "noun phrase",
+    "meaning": "억수같이 퍼붓는 비, 폭우",
+    "example": "Out of nowhere, torrential rain started pouring down.",
+    "collocation": "heavy torrential rain",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-13",
+    "topic": "날씨와 계절"
+  },
+  {
+    "word": "heatwave",
+    "pos": "noun",
+    "meaning": "폭염, 가뭄을 동반한 무더위",
+    "example": "Summers here usually bring an intense heatwave.",
+    "collocation": "endure a heatwave",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-13",
+    "topic": "날씨와 계절"
+  },
+  {
+    "word": "oppressive heat",
+    "pos": "noun phrase",
+    "meaning": "숨막히는 더위, 찌는 듯한 더위",
+    "example": "The oppressive heat made it difficult to walk outside for long.",
+    "collocation": "escape the oppressive heat",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-13",
+    "topic": "날씨와 계절"
+  },
+  {
+    "word": "soak through",
+    "pos": "verb phrase",
+    "meaning": "흠뻑 젖다, 푹 젖어들다",
+    "example": "My clothes were totally soaked through in just a few seconds.",
+    "collocation": "get soaked through",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-13",
+    "topic": "날씨와 계절"
+  },
+  {
+    "word": "seek shelter",
+    "pos": "verb phrase",
+    "meaning": "피신하다, 비/더위를 피할 곳을 찾다",
+    "example": "I had to scramble to seek shelter under a small cafe canopy.",
+    "collocation": "seek shelter from the rain",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-13",
+    "topic": "날씨와 계절"
+  },
+  {
+    "word": "brighten up",
+    "pos": "verb phrase",
+    "meaning": "(날씨가) 개다, 맑아지다",
+    "example": "After twenty minutes, the sky began to brighten up.",
+    "collocation": "sky brightens up",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-13",
+    "topic": "날씨와 계절"
+  },
+  {
+    "word": "crisp air",
+    "pos": "noun phrase",
+    "meaning": "상쾌하고 선선한 공기",
+    "example": "The rain left behind this incredibly crisp air.",
+    "collocation": "enjoy the crisp air",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-13",
+    "topic": "날씨와 계절"
+  },
+  {
+    "word": "dress in layers",
+    "pos": "verb phrase",
+    "meaning": "옷을 여러 겹 겹쳐 입다",
+    "example": "I really should have dressed in layers before stepping outside.",
+    "collocation": "dress in layers for unpredictable weather",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-13",
+    "topic": "날씨와 계절"
+  },
+  {
+    "word": "caught unawares",
+    "pos": "phrase",
+    "meaning": "느닷없이 불시에 당하다",
+    "example": "Many pedestrians were caught unawares by the sudden shower.",
+    "collocation": "be caught unawares",
+    "tier": "extend",
+    "linked_word": "caught off guard",
+    "date": "2026-08-13",
+    "topic": "날씨와 계절"
+  },
+  {
+    "word": "torrential downpour",
+    "pos": "noun phrase",
+    "meaning": "억수같이 쏟아지는 폭우",
+    "example": "A torrential downpour hit the region late in the afternoon.",
+    "collocation": "sudden torrential downpour",
+    "tier": "extend",
+    "linked_word": "torrential rain",
+    "date": "2026-08-13",
+    "topic": "날씨와 계절"
+  },
+  {
+    "word": "scorching weather",
+    "pos": "noun phrase",
+    "meaning": "찌는 듯이 무더운 날씨",
+    "example": "We stayed indoors all day to avoid the scorching weather.",
+    "collocation": "beat the scorching weather",
+    "tier": "extend",
+    "linked_word": "oppressive heat",
+    "date": "2026-08-13",
+    "topic": "날씨와 계절"
+  },
+  {
+    "word": "get drenched",
+    "pos": "verb phrase",
+    "meaning": "물/비에 흠뻑 젖다",
+    "example": "Even though I got drenched at the time, it was a fun memory.",
+    "collocation": "get drenched to the skin",
+    "tier": "extend",
+    "linked_word": "soak through",
+    "date": "2026-08-13",
+    "topic": "날씨와 계절"
+  },
+  {
+    "word": "bundle up",
+    "pos": "verb phrase",
+    "meaning": "(추위에 대비해) 따뜻하게 껴입다",
+    "example": "You need to bundle up when going out in freezing weather.",
+    "collocation": "bundle up in warm clothes",
+    "tier": "extend",
+    "linked_word": "dress in layers",
+    "date": "2026-08-13",
+    "topic": "날씨와 계절"
   }
 ]
