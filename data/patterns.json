@@ -418,5 +418,25 @@
     "unit": 5,
     "unit_title": "돌발주제 I",
     "topic": "날씨와 계절"
+  },
+  {
+    "pattern": "Whenever I had to [verb], I had to [verb] forever.",
+    "meaning": "~해야 할 때마다, 한참 동안/끝도 없이 ~해야만 했습니다.",
+    "usage_today": "In the past, whenever I had to open a bank account or apply for a loan, I had to wait in line forever.",
+    "extra_example": "In the past, whenever I had to renew my passport, I had to wait in line forever at the embassy.",
+    "date": "2026-08-14",
+    "unit": 5,
+    "unit_title": "돌발주제 I",
+    "topic": "은행과 금융 업무"
+  },
+  {
+    "pattern": "When it comes to [complex task/issue], I still [action].",
+    "meaning": "~와 같은 복잡한 일/문제에 관해서는, 저는 여전히 ~합니다.",
+    "usage_today": "That being said, when it comes to complex tasks like dealing with an unexpected account freeze, I still visit a physical branch.",
+    "extra_example": "When it comes to major life decisions like buying a home, I still consult with my parents.",
+    "date": "2026-08-14",
+    "unit": 5,
+    "unit_title": "돌발주제 I",
+    "topic": "은행과 금융 업무"
   }
 ]

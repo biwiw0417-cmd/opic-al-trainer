@@ -3463,5 +3463,170 @@
     "linked_word": "dress in layers",
     "date": "2026-08-13",
     "topic": "날씨와 계절"
+  },
+  {
+    "word": "open a bank account",
+    "pos": "phrase",
+    "meaning": "은행 계좌를 개설하다",
+    "example": "In the past, whenever I had to open a bank account, I had to wait in line forever.",
+    "collocation": "open a bank account at a local branch",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-14",
+    "topic": "은행과 금융 업무"
+  },
+  {
+    "word": "apply for a loan",
+    "pos": "phrase",
+    "meaning": "대출을 신청하다",
+    "example": "People usually visit the branch when they need to apply for a loan.",
+    "collocation": "apply for a loan with a low interest rate",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-14",
+    "topic": "은행과 금융 업무"
+  },
+  {
+    "word": "handle financial transactions",
+    "pos": "phrase",
+    "meaning": "금융 거래를 처리하다",
+    "example": "I rarely visit brick-and-mortar branches anymore because I can handle financial transactions right on my smartphone.",
+    "collocation": "handle financial transactions securely",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-14",
+    "topic": "은행과 금융 업무"
+  },
+  {
+    "word": "transfer funds",
+    "pos": "phrase",
+    "meaning": "자금을 이체하다 / 송금하다",
+    "example": "With just a few taps, I can transfer funds between accounts in seconds.",
+    "collocation": "transfer funds instantly",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-14",
+    "topic": "은행과 금융 업무"
+  },
+  {
+    "word": "savings account",
+    "pos": "noun",
+    "meaning": "예금/적금 계좌",
+    "example": "I set up an automated savings account to build up an emergency fund.",
+    "collocation": "high-yield savings account",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-14",
+    "topic": "은행과 금융 업무"
+  },
+  {
+    "word": "track spending habits",
+    "pos": "phrase",
+    "meaning": "소비 습관을 추적하다/기록하다",
+    "example": "Mobile apps make it so easy to track spending habits in real time.",
+    "collocation": "track spending habits diligently",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-14",
+    "topic": "은행과 금융 업무"
+  },
+  {
+    "word": "account freeze",
+    "pos": "noun",
+    "meaning": "계좌 동결/지급 정지",
+    "example": "When it comes to complex tasks like dealing with an unexpected account freeze, I still visit a physical branch.",
+    "collocation": "lift an account freeze",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-14",
+    "topic": "은행과 금융 업무"
+  },
+  {
+    "word": "interest rate",
+    "pos": "noun",
+    "meaning": "금리, 이자율",
+    "example": "Many customers compare interest rates before choosing a fixed deposit.",
+    "collocation": "fluctuating interest rate",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-14",
+    "topic": "은행과 금융 업무"
+  },
+  {
+    "word": "overdraft fee",
+    "pos": "noun",
+    "meaning": "초과 인출 수수료, 마이너스 통장 수수료",
+    "example": "You need to keep a minimum balance to avoid paying an overdraft fee.",
+    "collocation": "incur an overdraft fee",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-14",
+    "topic": "은행과 금융 업무"
+  },
+  {
+    "word": "deposit a check",
+    "pos": "phrase",
+    "meaning": "수표를 입금하다",
+    "example": "Most modern banking apps allow you to deposit a check simply by taking a photo.",
+    "collocation": "deposit a check remotely",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-14",
+    "topic": "은행과 금융 업무"
+  },
+  {
+    "word": "send money",
+    "pos": "verb",
+    "meaning": "돈을 보내다 (transfer funds의 일상적 유의어)",
+    "example": "I use the quick pay feature to send money to my friends without entering account numbers.",
+    "collocation": "send money overseas",
+    "tier": "extend",
+    "linked_word": "transfer funds",
+    "date": "2026-08-14",
+    "topic": "은행과 금융 업무"
+  },
+  {
+    "word": "monitor expenditures",
+    "pos": "phrase",
+    "meaning": "지출을 모니터링하다 (track spending habits의 격식적 유의어)",
+    "example": "Budgeting tools help users monitor expenditures throughout the month.",
+    "collocation": "monitor expenditures closely",
+    "tier": "extend",
+    "linked_word": "track spending habits",
+    "date": "2026-08-14",
+    "topic": "은행과 금융 업무"
+  },
+  {
+    "word": "take out a mortgage",
+    "pos": "phrase",
+    "meaning": "주택 담보 대출을 받다 (apply for a loan의 구체적 연관어)",
+    "example": "They had to take out a mortgage to purchase their first apartment.",
+    "collocation": "take out a mortgage on a house",
+    "tier": "extend",
+    "linked_word": "apply for a loan",
+    "date": "2026-08-14",
+    "topic": "은행과 금융 업무"
+  },
+  {
+    "word": "checking account",
+    "pos": "noun",
+    "meaning": "당좌 계좌, 입출금 자유 계좌 (savings account의 대조/연관어)",
+    "example": "I keep money for daily expenses in my checking account.",
+    "collocation": "link to a checking account",
+    "tier": "extend",
+    "linked_word": "savings account",
+    "date": "2026-08-14",
+    "topic": "은행과 금융 업무"
+  },
+  {
+    "word": "set up an account",
+    "pos": "phrase",
+    "meaning": "계좌를 신설하다/개설하다 (open a bank account의 구어 유의어)",
+    "example": "It took less than five minutes to set up an account through the app.",
+    "collocation": "set up an account online",
+    "tier": "extend",
+    "linked_word": "open a bank account",
+    "date": "2026-08-14",
+    "topic": "은행과 금융 업무"
   }
 ]

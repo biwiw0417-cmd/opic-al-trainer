@@ -1,0 +1,309 @@
+{
+  "date": "2026-08-14",
+  "question": {
+    "english": "People go to banks for various reasons. Tell me about what you typically do when you visit a bank, and describe how banking services have changed compared to the past.",
+    "korean": "사람들은 다양한 이유로 은행에 갑니다. 보통 은행에 갈 때 어떤 업무를 보시는지, 그리고 과거와 비교해 은행 서비스가 어떻게 변했는지 말씀해 주세요.",
+    "combo_context": "돌발주제 '은행' 3단 콤보 중 첫 번째 문항으로, 평소 은행 업무 루틴과 과거 대비 변화상을 함께 묻는 비교/묘사 복합형 질문입니다."
+  },
+  "model_answer": {
+    "script": "Honestly, looking back, visiting a physical bank branch used to be a real chore. In the past, whenever I had to open a bank account or apply for a loan, I had to wait in line forever. But nowadays, banking has changed drastically thanks to mobile banking apps.\n\nThe thing is, I rarely visit brick-and-mortar branches anymore because I can handle financial transactions right on my smartphone. With just a few taps, I can transfer funds between accounts or manage my savings account in seconds. It has truly simplified daily life. On top of that, mobile apps make it so easy to track spending habits in real time, which helps me stay on budget without carrying physical cash around.\n\nThat being said, when it comes to complex tasks like dealing with an unexpected account freeze, I still visit a physical branch. The teller greeted me warmly and helped me resolve the issue swiftly, saving me from a potential financial headache.\n\nAll in all, while mobile banking handles 90 percent of my routine tasks, having professional tellers ready for urgent matters gives me great peace of mind.",
+    "structure_note": "서론(과거 은행 방문의 번거로움과 현재 모바일 뱅킹으로의 전환) → MP(모바일 앱을 통한 금융 거래 및 지출 관리의 편리함) → 디테일 확장(계좌 동결 등 복잡한 문제 시 오프라인 지점 방문 경험) → 감정/생각(기술 편의성과 대면 지원의 안도감) → 마무리(디지털과 대면 서비스의 조화 요약)",
+    "al_points": [
+      "'visiting a physical bank branch used to be... But nowadays...' 구조를 사용해 과거의 불편함과 현재의 편리함을 극명하게 대비했습니다.",
+      "'financial transactions', 'track spending habits', 'account freeze'와 같은 금융 주제 핵심 콜로케이션을 자연스럽게 구사했습니다.",
+      "'The thing is', 'That being said', 'All in all' 등 담화 표지어를 적재적소에 배치해 답변의 논리적 흐름과 유창성을 크게 높였습니다."
+    ]
+  },
+  "vocab": [
+    {
+      "word": "open a bank account",
+      "pos": "phrase",
+      "meaning": "은행 계좌를 개설하다",
+      "example": "In the past, whenever I had to open a bank account, I had to wait in line forever.",
+      "collocation": "open a bank account at a local branch",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "apply for a loan",
+      "pos": "phrase",
+      "meaning": "대출을 신청하다",
+      "example": "People usually visit the branch when they need to apply for a loan.",
+      "collocation": "apply for a loan with a low interest rate",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "handle financial transactions",
+      "pos": "phrase",
+      "meaning": "금융 거래를 처리하다",
+      "example": "I rarely visit brick-and-mortar branches anymore because I can handle financial transactions right on my smartphone.",
+      "collocation": "handle financial transactions securely",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "transfer funds",
+      "pos": "phrase",
+      "meaning": "자금을 이체하다 / 송금하다",
+      "example": "With just a few taps, I can transfer funds between accounts in seconds.",
+      "collocation": "transfer funds instantly",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "savings account",
+      "pos": "noun",
+      "meaning": "예금/적금 계좌",
+      "example": "I set up an automated savings account to build up an emergency fund.",
+      "collocation": "high-yield savings account",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "track spending habits",
+      "pos": "phrase",
+      "meaning": "소비 습관을 추적하다/기록하다",
+      "example": "Mobile apps make it so easy to track spending habits in real time.",
+      "collocation": "track spending habits diligently",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "account freeze",
+      "pos": "noun",
+      "meaning": "계좌 동결/지급 정지",
+      "example": "When it comes to complex tasks like dealing with an unexpected account freeze, I still visit a physical branch.",
+      "collocation": "lift an account freeze",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "interest rate",
+      "pos": "noun",
+      "meaning": "금리, 이자율",
+      "example": "Many customers compare interest rates before choosing a fixed deposit.",
+      "collocation": "fluctuating interest rate",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "overdraft fee",
+      "pos": "noun",
+      "meaning": "초과 인출 수수료, 마이너스 통장 수수료",
+      "example": "You need to keep a minimum balance to avoid paying an overdraft fee.",
+      "collocation": "incur an overdraft fee",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "deposit a check",
+      "pos": "phrase",
+      "meaning": "수표를 입금하다",
+      "example": "Most modern banking apps allow you to deposit a check simply by taking a photo.",
+      "collocation": "deposit a check remotely",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "send money",
+      "pos": "verb",
+      "meaning": "돈을 보내다 (transfer funds의 일상적 유의어)",
+      "example": "I use the quick pay feature to send money to my friends without entering account numbers.",
+      "collocation": "send money overseas",
+      "tier": "extend",
+      "linked_word": "transfer funds"
+    },
+    {
+      "word": "monitor expenditures",
+      "pos": "phrase",
+      "meaning": "지출을 모니터링하다 (track spending habits의 격식적 유의어)",
+      "example": "Budgeting tools help users monitor expenditures throughout the month.",
+      "collocation": "monitor expenditures closely",
+      "tier": "extend",
+      "linked_word": "track spending habits"
+    },
+    {
+      "word": "take out a mortgage",
+      "pos": "phrase",
+      "meaning": "주택 담보 대출을 받다 (apply for a loan의 구체적 연관어)",
+      "example": "They had to take out a mortgage to purchase their first apartment.",
+      "collocation": "take out a mortgage on a house",
+      "tier": "extend",
+      "linked_word": "apply for a loan"
+    },
+    {
+      "word": "checking account",
+      "pos": "noun",
+      "meaning": "당좌 계좌, 입출금 자유 계좌 (savings account의 대조/연관어)",
+      "example": "I keep money for daily expenses in my checking account.",
+      "collocation": "link to a checking account",
+      "tier": "extend",
+      "linked_word": "savings account"
+    },
+    {
+      "word": "set up an account",
+      "pos": "phrase",
+      "meaning": "계좌를 신설하다/개설하다 (open a bank account의 구어 유의어)",
+      "example": "It took less than five minutes to set up an account through the app.",
+      "collocation": "set up an account online",
+      "tier": "extend",
+      "linked_word": "open a bank account"
+    }
+  ],
+  "vocab_quiz": [
+    {
+      "type": "matching",
+      "question": "'handle financial transactions'의 올바른 한국어 뜻은 무엇일까요?",
+      "choices": [
+        "금융 거래를 처리하다",
+        "재정적 파산을 선언하다",
+        "환율 변동을 예측하다",
+        "신용카드를 발급받다"
+      ],
+      "answer_index": 0
+    },
+    {
+      "type": "matching",
+      "question": "'overdraft fee'의 올바른 한국어 뜻은 무엇일까요?",
+      "choices": [
+        "조기 상환 수수료",
+        "초과 인출(마이너스) 수수료",
+        "외화 송금 수수료",
+        "계좌 유지 관리비"
+      ],
+      "answer_index": 1
+    },
+    {
+      "type": "matching",
+      "question": "'track spending habits'의 올바른 한국어 뜻은 무엇일까요?",
+      "choices": [
+        "적금 만기일을 확인하다",
+        "대출 상환 일정을 짜다",
+        "소비 습관을 추적하다/기록하다",
+        "신용 점수를 조회하다"
+      ],
+      "answer_index": 2
+    },
+    {
+      "type": "blank",
+      "question": "With just a few taps, I can ________ between accounts in seconds.",
+      "choices": [
+        "transfer funds",
+        "take a detour",
+        "bundle up",
+        "hunt for deals"
+      ],
+      "answer_index": 0
+    },
+    {
+      "type": "blank",
+      "question": "I had to visit the bank in person to resolve an unexpected ________ on my card.",
+      "choices": [
+        "scenic route",
+        "account freeze",
+        "jet lag",
+        "heatwave"
+      ],
+      "answer_index": 1
+    },
+    {
+      "type": "synonym",
+      "question": "스크립트의 'open a bank account' 대신 구어체로 자연스럽게 바꾸어 쓸 수 있는 표현은?",
+      "choices": [
+        "monitor expenditures",
+        "set up an account",
+        "send money",
+        "take out a mortgage"
+      ],
+      "answer_index": 1
+    },
+    {
+      "type": "synonym",
+      "question": "스크립트의 'track spending habits' 대신 격식 있게 쓸 수 있는 대체 표현은?",
+      "choices": [
+        "monitor expenditures",
+        "deposit a check",
+        "apply for a loan",
+        "cherish the moment"
+      ],
+      "answer_index": 0
+    }
+  ],
+  "patterns": [
+    {
+      "pattern": "Whenever I had to [verb], I had to [verb] forever.",
+      "meaning": "~해야 할 때마다, 한참 동안/끝도 없이 ~해야만 했습니다.",
+      "usage_today": "In the past, whenever I had to open a bank account or apply for a loan, I had to wait in line forever.",
+      "extra_example": "In the past, whenever I had to renew my passport, I had to wait in line forever at the embassy."
+    },
+    {
+      "pattern": "When it comes to [complex task/issue], I still [action].",
+      "meaning": "~와 같은 복잡한 일/문제에 관해서는, 저는 여전히 ~합니다.",
+      "usage_today": "That being said, when it comes to complex tasks like dealing with an unexpected account freeze, I still visit a physical branch.",
+      "extra_example": "When it comes to major life decisions like buying a home, I still consult with my parents."
+    }
+  ],
+  "review_words": [
+    {
+      "word": "map out an itinerary",
+      "learned_date": "2026-08-11",
+      "new_example": "Before visiting foreign banks during my business trip, I mapped out an itinerary to locate nearby currency exchange branches."
+    },
+    {
+      "word": "hunt for deals",
+      "learned_date": "2026-08-11",
+      "new_example": "I regularly hunt for deals on credit card rewards and cashback promotions."
+    },
+    {
+      "word": "lock in a booking",
+      "learned_date": "2026-08-11",
+      "new_example": "I used my mobile banking app to wire the deposit immediately and lock in a booking for the conference hall."
+    },
+    {
+      "word": "pack the essentials",
+      "learned_date": "2026-08-11",
+      "new_example": "When going to the bank for an overseas transfer, make sure to pack the essentials like your ID and proof of income."
+    },
+    {
+      "word": "take a detour",
+      "learned_date": "2026-08-07",
+      "new_example": "I had to take a detour on my way home because the road near the main bank headquarters was closed."
+    },
+    {
+      "word": "stumble upon",
+      "learned_date": "2026-08-07",
+      "new_example": "While browsing the banking app, I stumbled upon a high-yield savings account with great perks."
+    },
+    {
+      "word": "get the hang of",
+      "learned_date": "2026-08-07",
+      "new_example": "My parents finally got the hang of mobile banking after I showed them how to transfer funds."
+    },
+    {
+      "word": "cherish the moment",
+      "learned_date": "2026-08-07",
+      "new_example": "When I paid off my student loan at the bank counter, I really cherished the moment of becoming debt-free."
+    }
+  ],
+  "review_patterns": [
+    {
+      "pattern": "Once [clause/noun], I start to [verb] to ensure [clause].",
+      "learned_date": "2026-08-11",
+      "new_example": "Once my monthly salary is deposited, I start to transfer funds into my savings account to ensure I don't overspend.",
+      "mini_mission": "이 패턴과 오늘 배운 단어 'track spending habits'를 함께 써서 한 문장 말해보기 (예: Once my paycheck arrives, I start to track spending habits to ensure I stay within my budget.)"
+    }
+  ],
+  "checklist": [
+    "오늘 단어(open a bank account, transfer funds 등)를 4개 이상 자연스럽게 썼는가?",
+    "과거(used to, had to wait)와 현재(can handle, make it easy) 시제 대조가 흔들리지 않았는가?",
+    "MP(모바일 뱅킹 편리함) 후 구체적인 디테일(송금, 오프라인 방문 사례)을 2개 이상 확장했는가?",
+    "금융 업무 처리 후 느낀 안도감이나 생각(peace of mind)을 진솔하게 표현했는가?",
+    "전체 답변을 깔끔하게 요약하는 마무리 문장(All in all...)을 완성했는가?",
+    "필러(you know, the thing is)를 활용하여 3초 이상의 어색한 침묵 없이 유창하게 말했는가?"
+  ],
+  "type": "daily",
+  "unit": 5,
+  "unit_title": "돌발주제 I",
+  "topic": "은행과 금융 업무"
+}
