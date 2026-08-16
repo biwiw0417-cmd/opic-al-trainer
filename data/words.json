@@ -3628,5 +3628,170 @@
     "linked_word": "open a bank account",
     "date": "2026-08-14",
     "topic": "은행과 금융 업무"
+  },
+  {
+    "word": "on the blink",
+    "pos": "idiom",
+    "meaning": "고장이 난, 상태가 안 좋은",
+    "example": "When the internet is on the blink, it can be a total nightmare.",
+    "collocation": "go on the blink",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-17",
+    "topic": "인터넷과 기술"
+  },
+  {
+    "word": "technical glitch",
+    "pos": "noun chunk",
+    "meaning": "기술적 결함, 갑작스러운 고장",
+    "example": "I had a major technical glitch while preparing for an important work presentation.",
+    "collocation": "experience a technical glitch",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-17",
+    "topic": "인터넷과 기술"
+  },
+  {
+    "word": "cloud storage",
+    "pos": "noun",
+    "meaning": "클라우드 저장소",
+    "example": "I realized I hadn't synced my latest changes to the cloud storage.",
+    "collocation": "upload to cloud storage",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-17",
+    "topic": "인터넷과 기술"
+  },
+  {
+    "word": "get a move on",
+    "pos": "verb chunk",
+    "meaning": "서두르다, 빨리 시작하다",
+    "example": "I really needed to get a move on to meet the deadline.",
+    "collocation": "need to get a move on",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-17",
+    "topic": "인터넷과 기술"
+  },
+  {
+    "word": "keep track of progress",
+    "pos": "verb chunk",
+    "meaning": "진행 상황을 파악하다/기록하다",
+    "example": "My laptop was also acting up, making it hard to keep track of progress.",
+    "collocation": "carefully keep track of progress",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-17",
+    "topic": "인터넷과 기술"
+  },
+  {
+    "word": "save the day",
+    "pos": "idiom",
+    "meaning": "궁지를 벗어나게 하다, 위기를 구하다",
+    "example": "Using my mobile hotspot really helped save the day.",
+    "collocation": "hero who saves the day",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-17",
+    "topic": "인터넷과 기술"
+  },
+  {
+    "word": "digital footprint",
+    "pos": "noun chunk",
+    "meaning": "디지털 발자국 (온라인 활동 기록)",
+    "example": "We should be careful about the digital footprint we leave online.",
+    "collocation": "erase a digital footprint",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-17",
+    "topic": "인터넷과 기술"
+  },
+  {
+    "word": "high-speed connection",
+    "pos": "noun chunk",
+    "meaning": "고속 인터넷 연결",
+    "example": "It wasn't a high-speed connection, but it was enough to upload the files.",
+    "collocation": "stable high-speed connection",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-17",
+    "topic": "인터넷과 기술"
+  },
+  {
+    "word": "user-friendly interface",
+    "pos": "noun chunk",
+    "meaning": "사용자 친화적인 인터페이스",
+    "example": "Most modern apps prioritize a user-friendly interface for better accessibility.",
+    "collocation": "design a user-friendly interface",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-17",
+    "topic": "인터넷과 기술"
+  },
+  {
+    "word": "at the last minute",
+    "pos": "adverbial chunk",
+    "meaning": "마지막 순간에, 임박해서",
+    "example": "I decided to use my phone as a hotspot at the last minute.",
+    "collocation": "change plans at the last minute",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-17",
+    "topic": "인터넷과 기술"
+  },
+  {
+    "word": "system failure",
+    "pos": "noun",
+    "meaning": "시스템 마비/오작동",
+    "example": "The company faced a total system failure due to a server crash.",
+    "collocation": "prevent system failure",
+    "tier": "extend",
+    "linked_word": "technical glitch",
+    "date": "2026-08-17",
+    "topic": "인터넷과 기술"
+  },
+  {
+    "word": "rescue the situation",
+    "pos": "verb chunk",
+    "meaning": "상황을 수습하다",
+    "example": "His quick thinking helped rescue the situation before the client arrived.",
+    "collocation": "effort to rescue the situation",
+    "tier": "extend",
+    "linked_word": "save the day",
+    "date": "2026-08-17",
+    "topic": "인터넷과 기술"
+  },
+  {
+    "word": "acting up",
+    "pos": "verb chunk",
+    "meaning": "말을 안 듣다, 제대로 작동하지 않다",
+    "example": "My old computer has been acting up lately, so I might need a new one.",
+    "collocation": "start acting up again",
+    "tier": "extend",
+    "linked_word": "on the blink",
+    "date": "2026-08-17",
+    "topic": "인터넷과 기술"
+  },
+  {
+    "word": "speed things up",
+    "pos": "verb chunk",
+    "meaning": "속도를 높이다, 서두르다",
+    "example": "We need to speed things up if we want to finish this project by Friday.",
+    "collocation": "speed things up significantly",
+    "tier": "extend",
+    "linked_word": "get a move on",
+    "date": "2026-08-17",
+    "topic": "인터넷과 기술"
+  },
+  {
+    "word": "in the eleventh hour",
+    "pos": "idiom",
+    "meaning": "마지막 순간에, 최후의 순간에",
+    "example": "The deal was signed in the eleventh hour, just before the deadline.",
+    "collocation": "at the eleventh hour",
+    "tier": "extend",
+    "linked_word": "at the last minute",
+    "date": "2026-08-17",
+    "topic": "인터넷과 기술"
   }
 ]

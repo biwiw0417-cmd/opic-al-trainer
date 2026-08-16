@@ -179,9 +179,9 @@
     "unit": 5,
     "unit_title": "돌발주제 I",
     "topic": "인터넷과 기술",
-    "completed": false,
-    "date": null,
-    "briefing_url": null
+    "completed": true,
+    "date": "2026-08-17",
+    "briefing_url": "archive/2026-08-17/"
   },
   {
     "unit": 5,

@@ -438,5 +438,25 @@
     "unit": 5,
     "unit_title": "돌발주제 I",
     "topic": "은행과 금융 업무"
+  },
+  {
+    "pattern": "Just when I thought [clause], [unexpected event] happened.",
+    "meaning": "마침 ~라고 생각했을 때, [예기치 못한 일]이 일어났습니다.",
+    "usage_today": "Just when I thought I was putting the finishing touches on my slides, my internet connection just died.",
+    "extra_example": "Just when I thought I was ready to leave for the airport, I realized I couldn't find my passport.",
+    "date": "2026-08-17",
+    "unit": 5,
+    "unit_title": "돌발주제 I",
+    "topic": "인터넷과 기술"
+  },
+  {
+    "pattern": "It served as a wake-up call to [verb/noun].",
+    "meaning": "~에 대한 경각심을 일깨워주는 계기가 되었습니다.",
+    "usage_today": "It served as a wake-up call to be better prepared for unexpected tech issues.",
+    "extra_example": "Getting a high electricity bill served as a wake-up call to save energy at home.",
+    "date": "2026-08-17",
+    "unit": 5,
+    "unit_title": "돌발주제 I",
+    "topic": "인터넷과 기술"
   }
 ]
