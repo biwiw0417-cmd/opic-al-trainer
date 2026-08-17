@@ -3793,5 +3793,170 @@
     "linked_word": "at the last minute",
     "date": "2026-08-17",
     "topic": "인터넷과 기술"
+  },
+  {
+    "word": "mandatory regulations",
+    "pos": "noun phrase",
+    "meaning": "의무 규정",
+    "example": "We follow these really mandatory regulations that force us to separate out recyclables.",
+    "collocation": "enforce mandatory regulations",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-18",
+    "topic": "재활용과 환경"
+  },
+  {
+    "word": "separate out recyclables",
+    "pos": "verb phrase",
+    "meaning": "재활용품을 분리하다",
+    "example": "In Korea, it is common to separate out recyclables by material like glass and paper.",
+    "collocation": "carefully separate out recyclables",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-18",
+    "topic": "재활용과 환경"
+  },
+  {
+    "word": "take the initiative",
+    "pos": "idiom",
+    "meaning": "솔선수범하다, 주도권을 잡다",
+    "example": "People really take the initiative because we've become much more eco-conscious.",
+    "collocation": "take the initiative in recycling",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-18",
+    "topic": "재활용과 환경"
+  },
+  {
+    "word": "eco-conscious",
+    "pos": "adjective",
+    "meaning": "환경 의식이 있는",
+    "example": "Being eco-conscious has become a social norm these days.",
+    "collocation": "highly eco-conscious consumer",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-18",
+    "topic": "재활용과 환경"
+  },
+  {
+    "word": "reusable container",
+    "pos": "noun phrase",
+    "meaning": "다회용기",
+    "example": "I personally try to use reusable containers instead of disposable items.",
+    "collocation": "pack food in a reusable container",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-18",
+    "topic": "재활용과 환경"
+  },
+  {
+    "word": "disposable items",
+    "pos": "noun phrase",
+    "meaning": "일회용품",
+    "example": "We should limit the use of disposable items like plastic straws.",
+    "collocation": "ban disposable items",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-18",
+    "topic": "재활용과 환경"
+  },
+  {
+    "word": "reduce one's carbon footprint",
+    "pos": "verb phrase",
+    "meaning": "탄소 발자국을 줄이다",
+    "example": "Recycling is one of the easiest ways to reduce your carbon footprint.",
+    "collocation": "strive to reduce one's carbon footprint",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-18",
+    "topic": "재활용과 환경"
+  },
+  {
+    "word": "zero-waste lifestyle",
+    "pos": "noun phrase",
+    "meaning": "제로 웨이스트 생활",
+    "example": "Many young people are trying to adopt a zero-waste lifestyle.",
+    "collocation": "promote a zero-waste lifestyle",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-18",
+    "topic": "재활용과 환경"
+  },
+  {
+    "word": "biodegradable",
+    "pos": "adjective",
+    "meaning": "생분해성의 (자연 분해되는)",
+    "example": "I prefer using biodegradable packaging whenever possible.",
+    "collocation": "biodegradable plastic bags",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-18",
+    "topic": "재활용과 환경"
+  },
+  {
+    "word": "sort out the trash",
+    "pos": "verb phrase",
+    "meaning": "쓰레기를 분류하다",
+    "example": "It takes about ten minutes to sort out the trash every Sunday night.",
+    "collocation": "manually sort out the trash",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-18",
+    "topic": "재활용과 환경"
+  },
+  {
+    "word": "eco-friendly",
+    "pos": "adjective",
+    "meaning": "친환경적인",
+    "example": "The government is encouraging eco-friendly practices in all industries.",
+    "collocation": "eco-friendly products",
+    "tier": "extend",
+    "linked_word": "eco-conscious",
+    "date": "2026-08-18",
+    "topic": "재활용과 환경"
+  },
+  {
+    "word": "multi-use vessel",
+    "pos": "noun phrase",
+    "meaning": "다회용 그릇/용기",
+    "example": "Bringing your own multi-use vessel to a coffee shop can save you money.",
+    "collocation": "sturdy multi-use vessel",
+    "tier": "extend",
+    "linked_word": "reusable container",
+    "date": "2026-08-18",
+    "topic": "재활용과 환경"
+  },
+  {
+    "word": "compulsory rules",
+    "pos": "noun phrase",
+    "meaning": "강제적인/의무적인 규칙",
+    "example": "There are compulsory rules regarding how to dispose of large appliances.",
+    "collocation": "strictly follow compulsory rules",
+    "tier": "extend",
+    "linked_word": "mandatory regulations",
+    "date": "2026-08-18",
+    "topic": "재활용과 환경"
+  },
+  {
+    "word": "single-use products",
+    "pos": "noun phrase",
+    "meaning": "1회용 제품",
+    "example": "Single-use products are the main cause of ocean pollution.",
+    "collocation": "avoid single-use products",
+    "tier": "extend",
+    "linked_word": "disposable items",
+    "date": "2026-08-18",
+    "topic": "재활용과 환경"
+  },
+  {
+    "word": "sift through",
+    "pos": "phrasal verb",
+    "meaning": "꼼꼼히 분류하다/살피다",
+    "example": "We had to sift through the pile to find items that could be recycled.",
+    "collocation": "sift through the garbage",
+    "tier": "extend",
+    "linked_word": "separate out recyclables",
+    "date": "2026-08-18",
+    "topic": "재활용과 환경"
   }
 ]

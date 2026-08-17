@@ -458,5 +458,25 @@
     "unit": 5,
     "unit_title": "돌발주제 I",
     "topic": "인터넷과 기술"
+  },
+  {
+    "pattern": "It’s a bit of a hassle, you know? But [clause].",
+    "meaning": "있잖아요, 그게 좀 번거롭긴 하거든요. 그런데 [내용].",
+    "usage_today": "It’s a bit of a hassle, you know? But people really take the initiative because we've become much more eco-conscious.",
+    "extra_example": "It’s a bit of a hassle, you know? But I try to exercise every morning to stay healthy.",
+    "date": "2026-08-18",
+    "unit": 5,
+    "unit_title": "돌발주제 I",
+    "topic": "재활용과 환경"
+  },
+  {
+    "pattern": "What’s really interesting is how [clause].",
+    "meaning": "정말로 흥미로운 점은 [내용]하는 방식이에요.",
+    "usage_today": "What’s really interesting is how technology is helping.",
+    "extra_example": "What’s really interesting is how this old building was transformed into a modern cafe.",
+    "date": "2026-08-18",
+    "unit": 5,
+    "unit_title": "돌발주제 I",
+    "topic": "재활용과 환경"
   }
 ]

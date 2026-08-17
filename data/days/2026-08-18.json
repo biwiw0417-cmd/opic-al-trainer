@@ -1,0 +1,282 @@
+{
+  "date": "2026-08-18",
+  "question": {
+    "english": "Recycling is a major part of our daily lives. Can you describe how recycling is done in your country? What are the specific rules and has the way people recycle changed over the years?",
+    "korean": "재활용은 우리 일상에서 큰 부분을 차지합니다. 당신의 나라에서는 재활용이 어떻게 이루어지는지 설명해 주시겠어요? 구체적인 규칙은 무엇이며, 시간이 흐르면서 사람들의 재활용 방식이 어떻게 변했나요?",
+    "combo_context": "이 질문은 '재활용' 콤보의 첫 번째 문항으로, 현재 우리나라의 전반적인 재활용 실태와 과거 대비 변화상을 묘사하도록 요구하는 전형적인 묘사/비교 문제입니다."
+  },
+  "model_answer": {
+    "script": "To be honest, Eva, recycling is a massive part of daily life here in Korea. It's actually quite intense compared to other places. Looking back, about a decade ago, things were a bit more relaxed. But nowadays, we follow these really mandatory regulations that force us to separate out recyclables with extreme precision.\n\nThe thing is, we don't just throw everything in one bin. We have to rinse out plastic bottles, remove the labels, and flatten cardboard boxes. It’s a bit of a hassle, you know? But people really take the initiative because we've become much more eco-conscious as a society. I personally try to use reusable containers instead of disposable items whenever I order takeout, which has become a huge trend lately.\n\nWhat’s really interesting is how technology is helping. Some apartments now have these smart bins for food waste that weigh exactly how much you throw away. It’s mind-blowing! At first, I found all these rules quite overwhelming. But now, I feel a sense of pride when I see my trash properly sorted. \n\nIt makes me feel like I’m doing my part for the planet. All in all, recycling has evolved from a simple chore into a core part of our identity here.",
+    "structure_note": "서론(한국의 엄격한 재활용 문화 소개) → MP(현재의 의무 규정과 정밀한 분류 방식) → 디테일(분리배출 시 헹구기, 라벨 제거 등 구체적 행동 및 과거와의 비교) → 감정/생각(귀찮지만 보람을 느낌, 스마트 수거함에 대한 인상) → 마무리(재활용이 정체성의 일부가 됨)",
+    "al_points": [
+      "과거와 현재를 'Looking back'과 'nowadays'를 사용해 명확하게 대조하며 시제 관리 능력을 보여주었습니다.",
+      "'rinse out', 'remove the labels', 'flatten cardboard boxes'와 같이 재활용 과정을 매우 구체적으로 묘사하여 어휘의 풍부함을 어필했습니다.",
+      "'The thing is', 'Mind-blowing', 'All in all'과 같은 자연스러운 디스코스 마커를 적재적소에 배치하여 원어민스러운 발화 리듬을 형성했습니다."
+    ]
+  },
+  "vocab": [
+    {
+      "word": "mandatory regulations",
+      "pos": "noun phrase",
+      "meaning": "의무 규정",
+      "example": "We follow these really mandatory regulations that force us to separate out recyclables.",
+      "collocation": "enforce mandatory regulations",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "separate out recyclables",
+      "pos": "verb phrase",
+      "meaning": "재활용품을 분리하다",
+      "example": "In Korea, it is common to separate out recyclables by material like glass and paper.",
+      "collocation": "carefully separate out recyclables",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "take the initiative",
+      "pos": "idiom",
+      "meaning": "솔선수범하다, 주도권을 잡다",
+      "example": "People really take the initiative because we've become much more eco-conscious.",
+      "collocation": "take the initiative in recycling",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "eco-conscious",
+      "pos": "adjective",
+      "meaning": "환경 의식이 있는",
+      "example": "Being eco-conscious has become a social norm these days.",
+      "collocation": "highly eco-conscious consumer",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "reusable container",
+      "pos": "noun phrase",
+      "meaning": "다회용기",
+      "example": "I personally try to use reusable containers instead of disposable items.",
+      "collocation": "pack food in a reusable container",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "disposable items",
+      "pos": "noun phrase",
+      "meaning": "일회용품",
+      "example": "We should limit the use of disposable items like plastic straws.",
+      "collocation": "ban disposable items",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "reduce one's carbon footprint",
+      "pos": "verb phrase",
+      "meaning": "탄소 발자국을 줄이다",
+      "example": "Recycling is one of the easiest ways to reduce your carbon footprint.",
+      "collocation": "strive to reduce one's carbon footprint",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "zero-waste lifestyle",
+      "pos": "noun phrase",
+      "meaning": "제로 웨이스트 생활",
+      "example": "Many young people are trying to adopt a zero-waste lifestyle.",
+      "collocation": "promote a zero-waste lifestyle",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "biodegradable",
+      "pos": "adjective",
+      "meaning": "생분해성의 (자연 분해되는)",
+      "example": "I prefer using biodegradable packaging whenever possible.",
+      "collocation": "biodegradable plastic bags",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "sort out the trash",
+      "pos": "verb phrase",
+      "meaning": "쓰레기를 분류하다",
+      "example": "It takes about ten minutes to sort out the trash every Sunday night.",
+      "collocation": "manually sort out the trash",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "eco-friendly",
+      "pos": "adjective",
+      "meaning": "친환경적인",
+      "example": "The government is encouraging eco-friendly practices in all industries.",
+      "collocation": "eco-friendly products",
+      "tier": "extend",
+      "linked_word": "eco-conscious"
+    },
+    {
+      "word": "multi-use vessel",
+      "pos": "noun phrase",
+      "meaning": "다회용 그릇/용기",
+      "example": "Bringing your own multi-use vessel to a coffee shop can save you money.",
+      "collocation": "sturdy multi-use vessel",
+      "tier": "extend",
+      "linked_word": "reusable container"
+    },
+    {
+      "word": "compulsory rules",
+      "pos": "noun phrase",
+      "meaning": "강제적인/의무적인 규칙",
+      "example": "There are compulsory rules regarding how to dispose of large appliances.",
+      "collocation": "strictly follow compulsory rules",
+      "tier": "extend",
+      "linked_word": "mandatory regulations"
+    },
+    {
+      "word": "single-use products",
+      "pos": "noun phrase",
+      "meaning": "1회용 제품",
+      "example": "Single-use products are the main cause of ocean pollution.",
+      "collocation": "avoid single-use products",
+      "tier": "extend",
+      "linked_word": "disposable items"
+    },
+    {
+      "word": "sift through",
+      "pos": "phrasal verb",
+      "meaning": "꼼꼼히 분류하다/살피다",
+      "example": "We had to sift through the pile to find items that could be recycled.",
+      "collocation": "sift through the garbage",
+      "tier": "extend",
+      "linked_word": "separate out recyclables"
+    }
+  ],
+  "vocab_quiz": [
+    {
+      "type": "matching",
+      "question": "다음 중 'mandatory regulations'의 뜻으로 올바른 것은?",
+      "choices": [
+        "선택 사항",
+        "의무 규정",
+        "권장 지침",
+        "임시 방편"
+      ],
+      "answer_index": 1
+    },
+    {
+      "type": "matching",
+      "question": "'eco-conscious'와 의미가 가장 가까운 단어는?",
+      "choices": [
+        "eco-friendly",
+        "economical",
+        "egocentric",
+        "elaborate"
+      ],
+      "answer_index": 0
+    },
+    {
+      "type": "matching",
+      "question": "'disposable items'의 한국어 뜻은?",
+      "choices": [
+        "내구 소비재",
+        "귀중품",
+        "일회용품",
+        "재사용 가능 물품"
+      ],
+      "answer_index": 2
+    },
+    {
+      "type": "blank",
+      "question": "People really ____ because we've become much more eco-conscious as a society.",
+      "choices": [
+        "take the initiative",
+        "take a break",
+        "take a toll",
+        "take for granted"
+      ],
+      "answer_index": 0
+    },
+    {
+      "type": "blank",
+      "question": "I try to use ____ instead of single-use plastic to protect the environment.",
+      "choices": [
+        "disposable items",
+        "reusable containers",
+        "biodegradable waste",
+        "mandatory regulations"
+      ],
+      "answer_index": 1
+    },
+    {
+      "type": "synonym",
+      "question": "스크립트의 'separate out recyclables' 대신 쓸 수 있는 표현은?",
+      "choices": [
+        "sift through recyclables",
+        "throw away recyclables",
+        "buy more recyclables",
+        "ignore recyclables"
+      ],
+      "answer_index": 0
+    },
+    {
+      "type": "synonym",
+      "question": "스크립트의 'disposable items' 대신 쓸 수 있는 표현은?",
+      "choices": [
+        "multi-use vessels",
+        "single-use products",
+        "permanent goods",
+        "eco-friendly tools"
+      ],
+      "answer_index": 1
+    }
+  ],
+  "patterns": [
+    {
+      "pattern": "It’s a bit of a hassle, you know? But [clause].",
+      "meaning": "있잖아요, 그게 좀 번거롭긴 하거든요. 그런데 [내용].",
+      "usage_today": "It’s a bit of a hassle, you know? But people really take the initiative because we've become much more eco-conscious.",
+      "extra_example": "It’s a bit of a hassle, you know? But I try to exercise every morning to stay healthy."
+    },
+    {
+      "pattern": "What’s really interesting is how [clause].",
+      "meaning": "정말로 흥미로운 점은 [내용]하는 방식이에요.",
+      "usage_today": "What’s really interesting is how technology is helping.",
+      "extra_example": "What’s really interesting is how this old building was transformed into a modern cafe."
+    }
+  ],
+  "review_words": [
+    {
+      "word": "map out an itinerary",
+      "learned_date": "2026-08-11",
+      "new_example": "When planning an eco-tour, I always map out an itinerary that includes visits to local recycling centers."
+    },
+    {
+      "word": "hunt for deals",
+      "learned_date": "2026-08-11",
+      "new_example": "I usually hunt for deals on high-quality reusable containers to avoid buying plastic ones."
+    },
+    {
+      "word": "lock in a booking",
+      "learned_date": "2026-08-11",
+      "new_example": "I had to lock in a booking for the environmental seminar before all the seats were taken."
+    },
+    {
+      "word": "pack the essentials",
+      "learned_date": "2026-08-11",
+      "new_example": "Whenever I go hiking, I pack the essentials in a zero-waste kit to leave no trash behind."
+    }
+  ],
+  "review_patterns": [],
+  "checklist": [
+    "오늘 단어를 4개 이상 썼다",
+    "과거 시제가 흔들리지 않았다",
+    "MP 후 디테일을 2개 이상 확장했다",
+    "감정이나 생각을 말했다",
+    "마무리 문장을 했다",
+    "필러 없이 침묵 3초 이상이 없었다"
+  ],
+  "type": "daily",
+  "unit": 5,
+  "unit_title": "돌발주제 I",
+  "topic": "재활용과 환경"
+}
