@@ -478,5 +478,25 @@
     "unit": 5,
     "unit_title": "돌발주제 I",
     "topic": "재활용과 환경"
+  },
+  {
+    "pattern": "Compared to how things used to be, [clause] now.",
+    "meaning": "과거의 모습과 비교했을 때, 지금은 [문장]하다.",
+    "usage_today": "Compared to how things used to be, it is like night and day now.",
+    "extra_example": "Compared to how things used to be, shopping for groceries is so much faster now thanks to delivery apps.",
+    "date": "2026-08-19",
+    "unit": 5,
+    "unit_title": "돌발주제 I",
+    "topic": "교통수단"
+  },
+  {
+    "pattern": "What makes [noun] truly remarkable is [clause].",
+    "meaning": "[명사]를 정말 놀랍게 만드는 점은 [문장]이라는 것이다.",
+    "usage_today": "What makes the current system truly remarkable is how the subway and bus systems are linked.",
+    "extra_example": "What makes this smartphone truly remarkable is its professional-grade camera quality.",
+    "date": "2026-08-19",
+    "unit": 5,
+    "unit_title": "돌발주제 I",
+    "topic": "교통수단"
   }
 ]

@@ -3958,5 +3958,170 @@
     "linked_word": "separate out recyclables",
     "date": "2026-08-18",
     "topic": "재활용과 환경"
+  },
+  {
+    "word": "heavily reliant on",
+    "pos": "adjective phrase",
+    "meaning": "~에 크게 의존하는",
+    "example": "Back in the day, my parents were heavily reliant on physical maps.",
+    "collocation": "heavily reliant on technology",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-19",
+    "topic": "교통수단"
+  },
+  {
+    "word": "maneuver through the city",
+    "pos": "verb phrase",
+    "meaning": "도시를 가로질러 이동하다/길을 찾다",
+    "example": "It used to be much harder to maneuver through the city without GPS.",
+    "collocation": "maneuver through traffic",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-19",
+    "topic": "교통수단"
+  },
+  {
+    "word": "integrated network",
+    "pos": "noun phrase",
+    "meaning": "통합된 네트워크/체계",
+    "example": "The main point is that we have moved to a highly integrated network.",
+    "collocation": "highly integrated network",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-19",
+    "topic": "교통수단"
+  },
+  {
+    "word": "vast improvement",
+    "pos": "noun phrase",
+    "meaning": "엄청난 개선/향상",
+    "example": "Real-time bus tracking has been a vast improvement for commuters.",
+    "collocation": "show a vast improvement",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-19",
+    "topic": "교통수단"
+  },
+  {
+    "word": "reach one's destination",
+    "pos": "verb phrase",
+    "meaning": "목적지에 도착하다",
+    "example": "The smooth transitions help me reach my destination without any stress.",
+    "collocation": "safely reach one's destination",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-19",
+    "topic": "교통수단"
+  },
+  {
+    "word": "top-notch infrastructure",
+    "pos": "noun phrase",
+    "meaning": "최고 수준의 인프라/기반 시설",
+    "example": "Nowadays, we have this top-notch infrastructure that is incredibly efficient.",
+    "collocation": "modern top-notch infrastructure",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-19",
+    "topic": "교통수단"
+  },
+  {
+    "word": "public transit system",
+    "pos": "noun phrase",
+    "meaning": "대중교통 체계",
+    "example": "The public transit system has undergone a total transformation.",
+    "collocation": "reliable public transit system",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-19",
+    "topic": "교통수단"
+  },
+  {
+    "word": "commute to work",
+    "pos": "verb phrase",
+    "meaning": "직장으로 출퇴근하다",
+    "example": "It is much easier to commute to work thanks to the new subway line.",
+    "collocation": "daily commute to work",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-19",
+    "topic": "교통수단"
+  },
+  {
+    "word": "real-time updates",
+    "pos": "noun phrase",
+    "meaning": "실시간 업데이트/정보",
+    "example": "The app provides real-time updates on bus arrival times.",
+    "collocation": "receive real-time updates",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-19",
+    "topic": "교통수단"
+  },
+  {
+    "word": "contactless payment",
+    "pos": "noun phrase",
+    "meaning": "비접촉 결제",
+    "example": "Most buses now support contactless payment via mobile apps.",
+    "collocation": "secure contactless payment",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-19",
+    "topic": "교통수단"
+  },
+  {
+    "word": "highly dependent on",
+    "pos": "adjective phrase",
+    "meaning": "~에 매우 의존적인",
+    "example": "Many commuters are still highly dependent on the subway during rush hour.",
+    "collocation": "highly dependent on data",
+    "tier": "extend",
+    "linked_word": "heavily reliant on",
+    "date": "2026-08-19",
+    "topic": "교통수단"
+  },
+  {
+    "word": "navigate the urban landscape",
+    "pos": "verb phrase",
+    "meaning": "도시 지형(길)을 찾아 이동하다",
+    "example": "Smartphones help visitors navigate the urban landscape easily.",
+    "collocation": "efficiently navigate the urban landscape",
+    "tier": "extend",
+    "linked_word": "maneuver through the city",
+    "date": "2026-08-19",
+    "topic": "교통수단"
+  },
+  {
+    "word": "seamlessly connected system",
+    "pos": "noun phrase",
+    "meaning": "매끄럽게 연결된 체계",
+    "example": "We need a seamlessly connected system between bikes and buses.",
+    "collocation": "provide a seamlessly connected system",
+    "tier": "extend",
+    "linked_word": "integrated network",
+    "date": "2026-08-19",
+    "topic": "교통수단"
+  },
+  {
+    "word": "substantial leap forward",
+    "pos": "noun phrase",
+    "meaning": "실질적인/상당한 도약(발전)",
+    "example": "The introduction of high-speed rail was a substantial leap forward.",
+    "collocation": "represent a substantial leap forward",
+    "tier": "extend",
+    "linked_word": "vast improvement",
+    "date": "2026-08-19",
+    "topic": "교통수단"
+  },
+  {
+    "word": "arrive at one's location",
+    "pos": "verb phrase",
+    "meaning": "장소에 도착하다",
+    "example": "I was able to arrive at my location ten minutes early.",
+    "collocation": "quickly arrive at one's location",
+    "tier": "extend",
+    "linked_word": "reach one's destination",
+    "date": "2026-08-19",
+    "topic": "교통수단"
   }
 ]
