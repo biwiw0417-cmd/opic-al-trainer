@@ -4123,5 +4123,170 @@
     "linked_word": "reach one's destination",
     "date": "2026-08-19",
     "topic": "교통수단"
+  },
+  {
+    "word": "come down with",
+    "pos": "phrase",
+    "meaning": "(질병 등에) 걸리다, 아프기 시작하다",
+    "example": "I actually came down with a severe case of food poisoning.",
+    "collocation": "come down with a cold",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-20",
+    "topic": "건강과 병원"
+  },
+  {
+    "word": "excruciating pain",
+    "pos": "noun phrase",
+    "meaning": "극심한 통증",
+    "example": "I spent the whole night tossing and turning because I was in excruciating pain.",
+    "collocation": "suffer from excruciating pain",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-20",
+    "topic": "건강과 병원"
+  },
+  {
+    "word": "make an appointment",
+    "pos": "phrase",
+    "meaning": "(진료 등을) 예약하다",
+    "example": "I called my local clinic to make an appointment.",
+    "collocation": "make an appointment with a specialist",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-20",
+    "topic": "건강과 병원"
+  },
+  {
+    "word": "get a check-up",
+    "pos": "phrase",
+    "meaning": "검진을 받다",
+    "example": "The doctor had me get a check-up, which included a blood test.",
+    "collocation": "regular medical check-up",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-20",
+    "topic": "건강과 병원"
+  },
+  {
+    "word": "prescribe medication",
+    "pos": "phrase",
+    "meaning": "약을 처방하다",
+    "example": "The doctor prescribed medication and advised me to rest.",
+    "collocation": "prescribe medication for a fever",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-20",
+    "topic": "건강과 병원"
+  },
+  {
+    "word": "make a full recovery",
+    "pos": "phrase",
+    "meaning": "완전히 회복하다",
+    "example": "It took a few days of rest, but I eventually made a full recovery.",
+    "collocation": "expect to make a full recovery",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-20",
+    "topic": "건강과 병원"
+  },
+  {
+    "word": "over-the-counter drug",
+    "pos": "noun phrase",
+    "meaning": "처방전 없이 살 수 있는 일반 의약품",
+    "example": "I tried taking some over-the-counter drugs, but they didn't help.",
+    "collocation": "common over-the-counter drugs",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-20",
+    "topic": "건강과 병원"
+  },
+  {
+    "word": "health insurance coverage",
+    "pos": "noun phrase",
+    "meaning": "건강 보험 보장 (범위)",
+    "example": "I was worried about the hospital bill, but my health insurance coverage was great.",
+    "collocation": "comprehensive health insurance coverage",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-20",
+    "topic": "건강과 병원"
+  },
+  {
+    "word": "suffer from",
+    "pos": "verb phrase",
+    "meaning": "~로 고통받다, (질병을) 앓다",
+    "example": "Many people suffer from seasonal allergies during the spring.",
+    "collocation": "suffer from chronic fatigue",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-20",
+    "topic": "건강과 병원"
+  },
+  {
+    "word": "emergency room",
+    "pos": "noun phrase",
+    "meaning": "응급실 (ER)",
+    "example": "If the pain gets worse, you should head to the emergency room immediately.",
+    "collocation": "rush to the emergency room",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-20",
+    "topic": "건강과 병원"
+  },
+  {
+    "word": "throbbing pain",
+    "pos": "noun phrase",
+    "meaning": "욱신거리는 통증",
+    "example": "I had a throbbing pain in my head that made it hard to concentrate.",
+    "collocation": "constant throbbing pain",
+    "tier": "extend",
+    "linked_word": "excruciating pain",
+    "date": "2026-08-20",
+    "topic": "건강과 병원"
+  },
+  {
+    "word": "schedule a visit",
+    "pos": "phrase",
+    "meaning": "방문 일정을 잡다 (예약하다)",
+    "example": "I had to schedule a visit to the dentist for my toothache.",
+    "collocation": "schedule a visit in advance",
+    "tier": "extend",
+    "linked_word": "make an appointment",
+    "date": "2026-08-20",
+    "topic": "건강과 병원"
+  },
+  {
+    "word": "undergo an examination",
+    "pos": "phrase",
+    "meaning": "검사를 받다",
+    "example": "Patients must undergo an examination before the procedure.",
+    "collocation": "undergo a thorough examination",
+    "tier": "extend",
+    "linked_word": "get a check-up",
+    "date": "2026-08-20",
+    "topic": "건강과 병원"
+  },
+  {
+    "word": "bounce back",
+    "pos": "verb phrase",
+    "meaning": "(병, 어려움에서) 다시 회복하다, 기운을 차리다",
+    "example": "Younger people tend to bounce back from the flu much faster.",
+    "collocation": "bounce back quickly",
+    "tier": "extend",
+    "linked_word": "make a full recovery",
+    "date": "2026-08-20",
+    "topic": "건강과 병원"
+  },
+  {
+    "word": "pick up a bug",
+    "pos": "phrase",
+    "meaning": "(가벼운) 병에 걸리다, 유행성 질환에 걸리다",
+    "example": "I think I picked up a bug while I was traveling last week.",
+    "collocation": "pick up a stomach bug",
+    "tier": "extend",
+    "linked_word": "come down with",
+    "date": "2026-08-20",
+    "topic": "건강과 병원"
   }
 ]

@@ -498,5 +498,25 @@
     "unit": 5,
     "unit_title": "돌발주제 I",
     "topic": "교통수단"
+  },
+  {
+    "pattern": "It wasn't just a regular [noun]; it was [description].",
+    "meaning": "그것은 단순한 [명사]가 아니었습니다; 그것은 [설명]이었습니다.",
+    "usage_today": "It wasn't just a regular stomachache; it was a throbbing pain that wouldn't go away.",
+    "extra_example": "It wasn't just a regular movie; it was a cinematic masterpiece that changed my perspective.",
+    "date": "2026-08-20",
+    "unit": 6,
+    "unit_title": "돌발주제 II",
+    "topic": "건강과 병원"
+  },
+  {
+    "pattern": "Looking back, it was a reminder not to [verb].",
+    "meaning": "돌아보니, 그것은 ~하지 말아야 한다는 깨우침이었습니다.",
+    "usage_today": "Looking back, it was a reminder not to take my health for granted.",
+    "extra_example": "Looking back, it was a reminder not to rush into important decisions.",
+    "date": "2026-08-20",
+    "unit": 6,
+    "unit_title": "돌발주제 II",
+    "topic": "건강과 병원"
   }
 ]
