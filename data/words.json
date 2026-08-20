@@ -4288,5 +4288,170 @@
     "linked_word": "come down with",
     "date": "2026-08-20",
     "topic": "건강과 병원"
+  },
+  {
+    "word": "keep one's word",
+    "pos": "idiom",
+    "meaning": "약속을 지키다",
+    "example": "Actually, I’m the type of person who really tries to keep my word.",
+    "collocation": "always keep one's word",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-21",
+    "topic": "약속 잡기와 지키기"
+  },
+  {
+    "word": "fall through",
+    "pos": "phrasal verb",
+    "meaning": "수틀어지다, 완료되지 못하다",
+    "example": "It taught me to be a bit more flexible when plans fall through.",
+    "collocation": "plans fall through",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-21",
+    "topic": "약속 잡기와 지키기"
+  },
+  {
+    "word": "social commitment",
+    "pos": "noun phrase",
+    "meaning": "사회적 약속, 사교 모임",
+    "example": "I had this big social commitment with one of my best friends.",
+    "collocation": "have a social commitment",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-21",
+    "topic": "약속 잡기와 지키기"
+  },
+  {
+    "word": "unexpected conflict",
+    "pos": "noun phrase",
+    "meaning": "예기치 않은 일정 충돌",
+    "example": "It turns out he had an unexpected conflict at work.",
+    "collocation": "arise an unexpected conflict",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-21",
+    "topic": "약속 잡기와 지키기"
+  },
+  {
+    "word": "double-booked",
+    "pos": "adjective",
+    "meaning": "일정이 중복된",
+    "example": "He was completely double-booked and couldn't attend the meeting.",
+    "collocation": "be heavily double-booked",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-21",
+    "topic": "약속 잡기와 지키기"
+  },
+  {
+    "word": "squeeze someone in",
+    "pos": "phrasal verb",
+    "meaning": "~를 위해 (바쁜 중에) 틈을 내다",
+    "example": "I tried to squeeze someone else in, but everyone was busy.",
+    "collocation": "squeeze in a meeting",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-21",
+    "topic": "약속 잡기와 지키기"
+  },
+  {
+    "word": "rain check",
+    "pos": "noun phrase",
+    "meaning": "다음 기회, 다음을 기약함",
+    "example": "Eventually, my friend suggested we take a rain check.",
+    "collocation": "take a rain check on",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-21",
+    "topic": "약속 잡기와 지키기"
+  },
+  {
+    "word": "show up",
+    "pos": "phrasal verb",
+    "meaning": "나타나다, 약속 장소에 오다",
+    "example": "He didn't show up because he was stuck at the office.",
+    "collocation": "show up on time",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-21",
+    "topic": "약속 잡기와 지키기"
+  },
+  {
+    "word": "reschedule",
+    "pos": "verb",
+    "meaning": "일정을 조정하다",
+    "example": "We ended up rescheduling for the following month.",
+    "collocation": "reschedule an appointment",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-21",
+    "topic": "약속 잡기와 지키기"
+  },
+  {
+    "word": "stand someone up",
+    "pos": "idiom",
+    "meaning": "~를 바람맞히다",
+    "example": "I hate it when people stand me up without any notice.",
+    "collocation": "get stood up",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-21",
+    "topic": "약속 잡기와 지키기"
+  },
+  {
+    "word": "honor a promise",
+    "pos": "verb phrase",
+    "meaning": "약속을 이행하다",
+    "example": "It's important to honor a promise even if it's inconvenient.",
+    "collocation": "fail to honor a promise",
+    "tier": "extend",
+    "linked_word": "keep one's word",
+    "date": "2026-08-21",
+    "topic": "약속 잡기와 지키기"
+  },
+  {
+    "word": "fall apart",
+    "pos": "phrasal verb",
+    "meaning": "결렬되다, 무너지다",
+    "example": "The whole deal fell apart at the last minute.",
+    "collocation": "completely fall apart",
+    "tier": "extend",
+    "linked_word": "fall through",
+    "date": "2026-08-21",
+    "topic": "약속 잡기와 지키기"
+  },
+  {
+    "word": "flake on",
+    "pos": "slang/verb",
+    "meaning": "(약속을) 펑크 내다",
+    "example": "Don't flake on me this time; I've already bought the tickets.",
+    "collocation": "flake on a friend",
+    "tier": "extend",
+    "linked_word": "stand someone up",
+    "date": "2026-08-21",
+    "topic": "약속 잡기와 지키기"
+  },
+  {
+    "word": "prior engagement",
+    "pos": "noun phrase",
+    "meaning": "선약",
+    "example": "I'm afraid I have a prior engagement that evening.",
+    "collocation": "due to a prior engagement",
+    "tier": "extend",
+    "linked_word": "social commitment",
+    "date": "2026-08-21",
+    "topic": "약속 잡기와 지키기"
+  },
+  {
+    "word": "move things around",
+    "pos": "idiom",
+    "meaning": "일정을 이리저리 조정하다",
+    "example": "I'll see if I can move things around to meet you.",
+    "collocation": "move things around in the calendar",
+    "tier": "extend",
+    "linked_word": "reschedule",
+    "date": "2026-08-21",
+    "topic": "약속 잡기와 지키기"
   }
 ]

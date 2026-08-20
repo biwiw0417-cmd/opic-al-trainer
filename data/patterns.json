@@ -518,5 +518,25 @@
     "unit": 6,
     "unit_title": "돌발주제 II",
     "topic": "건강과 병원"
+  },
+  {
+    "pattern": "I was really looking forward to [gerund/noun], but [clause].",
+    "meaning": "[~]을 정말 기대하고 있었는데, [~]하게 되었다.",
+    "usage_today": "I was really looking forward to it, but just a few hours before the show, my friend called me sounding super stressed.",
+    "extra_example": "I was really looking forward to the beach trip, but the heavy rain ruined everything.",
+    "date": "2026-08-21",
+    "unit": 6,
+    "unit_title": "돌발주제 II",
+    "topic": "약속 잡기와 지키기"
+  },
+  {
+    "pattern": "The thing is, I'm usually the type of person who [habit], but [exception].",
+    "meaning": "사실 제가 보통 [~]하는 성격인데, [예외 상황]이었습니다.",
+    "usage_today": "Actually, I’m the type of person who really tries to keep my word, but I remember this one time a few months ago when things just didn’t go as planned.",
+    "extra_example": "The thing is, I'm usually the type of person who plans everything in advance, but this trip was totally spontaneous.",
+    "date": "2026-08-21",
+    "unit": 6,
+    "unit_title": "돌발주제 II",
+    "topic": "약속 잡기와 지키기"
   }
 ]
