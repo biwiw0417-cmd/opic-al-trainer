@@ -1,0 +1,309 @@
+{
+  "date": "2026-08-24",
+  "question": {
+    "english": "Tell me about a traditional holiday in your country. What do people usually do during this time, and what is your personal favorite part about it?",
+    "korean": "당신 나라의 전통 명절에 대해 말해주세요. 사람들은 보통 그때 무엇을 하나요? 당신이 개인적으로 가장 좋아하는 부분은 무엇인가요?",
+    "combo_context": "명절 및 모임 주제의 첫 번째 질문으로, 전반적인 명절의 풍경과 개인적인 선호도를 묻는 기초 문항입니다."
+  },
+  "model_answer": {
+    "script": "Actually, when it comes to traditional holidays in Korea, the biggest one has to be Chuseok, which is often called Korean Thanksgiving. It's a massive red-letter day where the entire country seems to be on the move.\n\nBasically, the core of Chuseok is all about family. People travel from all over to their hometowns, despite the crazy holiday rush, just to gather around with their relatives. The thing is, we have this long-standing tradition of performing ancestral rites. We set up a huge table with various dishes to pay our respects to our ancestors.\n\nBut for me, the absolute best part is the homemade feast. My mother and aunts spend all day preparing traditional food like Songpyeon, which are rice cakes. There’s such a festive atmosphere in the kitchen with everyone talking and laughing at the same time. \n\nLooking back, I used to think it was a bit exhausting to travel so far, but now I realize it's the perfect chance to catch up with family and have some quality time. In our busy lives, we don't get many opportunities to just sit down and talk for hours. \n\nSo yeah, even though the traffic is a nightmare, the warmth of the family gathering makes it all worth it in the end.",
+    "structure_note": "서론(Chuseok 소개) → MP(가족 중심의 명절 특징) → 디테일 확장(제사 관습 및 음식 준비 과정) → 감정/생각(과거와 현재의 생각 변화 및 소중함) → 마무리(교통체증에도 불구하고 가치 있는 시간임)",
+    "al_points": [
+      "현재 시제로 명절의 일반적인 특징을 설명하다가 'Looking back, I used to think'를 사용하여 과거와 현재의 가치관 변화를 자연스럽게 대조했습니다.",
+      "'The thing is', 'Actually', 'Basically'와 같은 디스코스 마커를 적재적소에 배치하여 답변의 흐름을 원어민스럽게 연결했습니다.",
+      "'Red-letter day', 'Holiday rush'와 같은 고득점 어휘를 사용하여 주제 전문성을 높였습니다."
+    ]
+  },
+  "vocab": [
+    {
+      "word": "gather around",
+      "pos": "phrase",
+      "meaning": "모여 앉다, 모이다",
+      "example": "People travel from all over to their hometowns just to gather around with their relatives.",
+      "collocation": "gather around the table",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "pay one's respects",
+      "pos": "phrase",
+      "meaning": "경의를 표하다, 예의를 갖추다",
+      "example": "We set up a huge table with various dishes to pay our respects to our ancestors.",
+      "collocation": "pay one's respects to the deceased",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "festive atmosphere",
+      "pos": "noun phrase",
+      "meaning": "축제 분위기",
+      "example": "There’s such a festive atmosphere in the kitchen with everyone talking and laughing.",
+      "collocation": "create a festive atmosphere",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "quality time",
+      "pos": "noun phrase",
+      "meaning": "소중한 시간, 오붓한 시간",
+      "example": "It's the perfect chance to catch up with family and have some quality time.",
+      "collocation": "spend quality time with",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "catch up with family",
+      "pos": "phrase",
+      "meaning": "가족과 밀린 이야기를 나누다",
+      "example": "I love the chance to catch up with family members I haven't seen in months.",
+      "collocation": "catch up with old friends",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "homemade feast",
+      "pos": "noun phrase",
+      "meaning": "집에서 만든 진수성찬",
+      "example": "The absolute best part of the holiday is the homemade feast my mom prepares.",
+      "collocation": "prepare a homemade feast",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "traditional folk games",
+      "pos": "noun phrase",
+      "meaning": "전통 민속 놀이",
+      "example": "In the past, many people used to play traditional folk games during the holidays.",
+      "collocation": "enjoy traditional folk games",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "ancestral rites",
+      "pos": "noun phrase",
+      "meaning": "제사, 조상에 대한 의례",
+      "example": "Performing ancestral rites is a significant part of Korean traditional holidays.",
+      "collocation": "perform ancestral rites",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "holiday rush",
+      "pos": "noun phrase",
+      "meaning": "명절 대이동, 명절 혼잡",
+      "example": "The holiday rush at the train station was more intense than I expected.",
+      "collocation": "beat the holiday rush",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "red-letter day",
+      "pos": "idiom",
+      "meaning": "기념일, 아주 중요한 날",
+      "example": "Chuseok is a massive red-letter day for most Koreans.",
+      "collocation": "mark a red-letter day",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "reunite with",
+      "pos": "verb",
+      "meaning": "~와 재회하다, 다시 모이다",
+      "example": "Holidays are a time for people to reunite with their long-distance family members.",
+      "collocation": "reunite with loved ones",
+      "tier": "extend",
+      "linked_word": "gather around"
+    },
+    {
+      "word": "bond with",
+      "pos": "verb",
+      "meaning": "~와 유대감을 형성하다",
+      "example": "Cooking together is a great way to bond with your relatives.",
+      "collocation": "bond with each other",
+      "tier": "extend",
+      "linked_word": "quality time"
+    },
+    {
+      "word": "rekindle family ties",
+      "pos": "phrase",
+      "meaning": "가족 간의 유대를 다시 다지다",
+      "example": "It's an opportunity to rekindle family ties that might have weakened over the year.",
+      "collocation": "rekindle family ties through conversation",
+      "tier": "extend",
+      "linked_word": "catch up with family"
+    },
+    {
+      "word": "lavish spread",
+      "pos": "noun phrase",
+      "meaning": "호화로운 식탁, 풍성한 차림",
+      "example": "I was amazed by the lavish spread of food laid out on the dining table.",
+      "collocation": "serve a lavish spread",
+      "tier": "extend",
+      "linked_word": "homemade feast"
+    },
+    {
+      "word": "vibrant mood",
+      "pos": "noun phrase",
+      "meaning": "활기기 넘치는 분위기",
+      "example": "The vibrant mood of the festival made everyone feel energized.",
+      "collocation": "enjoy the vibrant mood",
+      "tier": "extend",
+      "linked_word": "festive atmosphere"
+    }
+  ],
+  "vocab_quiz": [
+    {
+      "type": "matching",
+      "question": "다음 중 '명절 대이동/교통 정체'를 뜻하는 표현은?",
+      "choices": [
+        "holiday rush",
+        "red-letter day",
+        "ancestral rites",
+        "festive atmosphere"
+      ],
+      "answer_index": 0
+    },
+    {
+      "type": "matching",
+      "question": "'quality time'의 한국어 뜻으로 가장 적절한 것은?",
+      "choices": [
+        "바쁜 업무 시간",
+        "대기 시간",
+        "가족과의 소중한 시간",
+        "정해진 시간"
+      ],
+      "answer_index": 2
+    },
+    {
+      "type": "matching",
+      "question": "'ancestral rites'는 무엇을 의미하나요?",
+      "choices": [
+        "민속 놀이",
+        "제사/조상에 대한 의례",
+        "마을 축제",
+        "가족 모임"
+      ],
+      "answer_index": 1
+    },
+    {
+      "type": "blank",
+      "question": "Chuseok is a massive ____ day where the entire country seems to be on the move.",
+      "choices": [
+        "blue-letter",
+        "red-letter",
+        "holiday-letter",
+        "focal-letter"
+      ],
+      "answer_index": 1
+    },
+    {
+      "type": "blank",
+      "question": "There’s such a ____ atmosphere in the kitchen with everyone talking and laughing.",
+      "choices": [
+        "festive",
+        "isolated",
+        "excruciating",
+        "monotonous"
+      ],
+      "answer_index": 0
+    },
+    {
+      "type": "synonym",
+      "question": "스크립트의 'homemade feast' 대신 쓸 수 있는 표현은?",
+      "choices": [
+        "lavish spread",
+        "vibrant mood",
+        "quality time",
+        "ancestral rites"
+      ],
+      "answer_index": 0
+    },
+    {
+      "type": "synonym",
+      "question": "스크립트의 'festive atmosphere'와 교체 가능한 단어는?",
+      "choices": [
+        "vibrant mood",
+        "holiday rush",
+        "traditional folk games",
+        "red-letter day"
+      ],
+      "answer_index": 0
+    }
+  ],
+  "patterns": [
+    {
+      "pattern": "One of the highlights of [noun] is [clause/gerund].",
+      "meaning": "[명사]의 가장 큰 묘미(강점) 중 하나는 [~]이다.",
+      "usage_today": "One of the highlights of Chuseok is having a homemade feast with family.",
+      "extra_example": "One of the highlights of the trip was visiting the hidden local cafes."
+    },
+    {
+      "pattern": "It's a great opportunity to [verb].",
+      "meaning": "그것은 [~]할 수 있는 아주 좋은 기회입니다.",
+      "usage_today": "It's the perfect chance (a great opportunity) to catch up with family and have some quality time.",
+      "extra_example": "It's a great opportunity to expand your network and meet new people."
+    }
+  ],
+  "review_words": [
+    {
+      "word": "keep one's word",
+      "learned_date": "2026-08-21",
+      "new_example": "Even during the busy holidays, it's important to keep your word when you promise to visit your relatives."
+    },
+    {
+      "word": "fall through",
+      "learned_date": "2026-08-21",
+      "new_example": "Our plan to visit Jeju island for the holiday fell through due to the lack of plane tickets."
+    },
+    {
+      "word": "social commitment",
+      "learned_date": "2026-08-21",
+      "new_example": "Holidays can be stressful if you have too many social commitments and no time to rest."
+    },
+    {
+      "word": "unexpected conflict",
+      "learned_date": "2026-08-21",
+      "new_example": "I had to reschedule my trip home because of an unexpected conflict with my work project."
+    },
+    {
+      "word": "on the blink",
+      "learned_date": "2026-08-17",
+      "new_example": "My car was on the blink right before the holiday rush, so I had to take the train instead."
+    },
+    {
+      "word": "technical glitch",
+      "learned_date": "2026-08-17",
+      "new_example": "The ticketing website had a technical glitch because so many people were trying to book seats at once."
+    },
+    {
+      "word": "cloud storage",
+      "learned_date": "2026-08-17",
+      "new_example": "I uploaded all the photos from the family gathering to the cloud storage to share them easily."
+    },
+    {
+      "word": "get a move on",
+      "learned_date": "2026-08-17",
+      "new_example": "We need to get a move on if we want to avoid the worst of the holiday traffic."
+    }
+  ],
+  "review_patterns": [
+    {
+      "pattern": "I was really looking forward to [gerund/noun], but [clause].",
+      "learned_date": "2026-08-21",
+      "new_example": "I was really looking forward to seeing my cousins, but they couldn't come due to personal reasons.",
+      "mini_mission": "이 패턴과 오늘 배운 단어 'holiday rush'를 함께 써서 한 문장 말해보세요: (예: I was really looking forward to driving home, but the holiday rush made it impossible to arrive on time.)"
+    }
+  ],
+  "checklist": [
+    "오늘 단어를 4개 이상 썼다.",
+    "과거 시제가 흔들리지 않았다.",
+    "MP 후 디테일을 2개 이상 확장했다.",
+    "감정이나 생각을 말했다.",
+    "마무리 문장을 했다.",
+    "필러 없이 침묵 3초 이상이 없었다."
+  ],
+  "type": "daily",
+  "unit": 6,
+  "unit_title": "돌발주제 II",
+  "topic": "명절과 모임"
+}

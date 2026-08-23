@@ -538,5 +538,25 @@
     "unit": 6,
     "unit_title": "돌발주제 II",
     "topic": "약속 잡기와 지키기"
+  },
+  {
+    "pattern": "One of the highlights of [noun] is [clause/gerund].",
+    "meaning": "[명사]의 가장 큰 묘미(강점) 중 하나는 [~]이다.",
+    "usage_today": "One of the highlights of Chuseok is having a homemade feast with family.",
+    "extra_example": "One of the highlights of the trip was visiting the hidden local cafes.",
+    "date": "2026-08-24",
+    "unit": 6,
+    "unit_title": "돌발주제 II",
+    "topic": "명절과 모임"
+  },
+  {
+    "pattern": "It's a great opportunity to [verb].",
+    "meaning": "그것은 [~]할 수 있는 아주 좋은 기회입니다.",
+    "usage_today": "It's the perfect chance (a great opportunity) to catch up with family and have some quality time.",
+    "extra_example": "It's a great opportunity to expand your network and meet new people.",
+    "date": "2026-08-24",
+    "unit": 6,
+    "unit_title": "돌발주제 II",
+    "topic": "명절과 모임"
   }
 ]

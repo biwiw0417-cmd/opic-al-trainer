@@ -4453,5 +4453,170 @@
     "linked_word": "reschedule",
     "date": "2026-08-21",
     "topic": "약속 잡기와 지키기"
+  },
+  {
+    "word": "gather around",
+    "pos": "phrase",
+    "meaning": "모여 앉다, 모이다",
+    "example": "People travel from all over to their hometowns just to gather around with their relatives.",
+    "collocation": "gather around the table",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-24",
+    "topic": "명절과 모임"
+  },
+  {
+    "word": "pay one's respects",
+    "pos": "phrase",
+    "meaning": "경의를 표하다, 예의를 갖추다",
+    "example": "We set up a huge table with various dishes to pay our respects to our ancestors.",
+    "collocation": "pay one's respects to the deceased",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-24",
+    "topic": "명절과 모임"
+  },
+  {
+    "word": "festive atmosphere",
+    "pos": "noun phrase",
+    "meaning": "축제 분위기",
+    "example": "There’s such a festive atmosphere in the kitchen with everyone talking and laughing.",
+    "collocation": "create a festive atmosphere",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-24",
+    "topic": "명절과 모임"
+  },
+  {
+    "word": "quality time",
+    "pos": "noun phrase",
+    "meaning": "소중한 시간, 오붓한 시간",
+    "example": "It's the perfect chance to catch up with family and have some quality time.",
+    "collocation": "spend quality time with",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-24",
+    "topic": "명절과 모임"
+  },
+  {
+    "word": "catch up with family",
+    "pos": "phrase",
+    "meaning": "가족과 밀린 이야기를 나누다",
+    "example": "I love the chance to catch up with family members I haven't seen in months.",
+    "collocation": "catch up with old friends",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-24",
+    "topic": "명절과 모임"
+  },
+  {
+    "word": "homemade feast",
+    "pos": "noun phrase",
+    "meaning": "집에서 만든 진수성찬",
+    "example": "The absolute best part of the holiday is the homemade feast my mom prepares.",
+    "collocation": "prepare a homemade feast",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-24",
+    "topic": "명절과 모임"
+  },
+  {
+    "word": "traditional folk games",
+    "pos": "noun phrase",
+    "meaning": "전통 민속 놀이",
+    "example": "In the past, many people used to play traditional folk games during the holidays.",
+    "collocation": "enjoy traditional folk games",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-24",
+    "topic": "명절과 모임"
+  },
+  {
+    "word": "ancestral rites",
+    "pos": "noun phrase",
+    "meaning": "제사, 조상에 대한 의례",
+    "example": "Performing ancestral rites is a significant part of Korean traditional holidays.",
+    "collocation": "perform ancestral rites",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-24",
+    "topic": "명절과 모임"
+  },
+  {
+    "word": "holiday rush",
+    "pos": "noun phrase",
+    "meaning": "명절 대이동, 명절 혼잡",
+    "example": "The holiday rush at the train station was more intense than I expected.",
+    "collocation": "beat the holiday rush",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-24",
+    "topic": "명절과 모임"
+  },
+  {
+    "word": "red-letter day",
+    "pos": "idiom",
+    "meaning": "기념일, 아주 중요한 날",
+    "example": "Chuseok is a massive red-letter day for most Koreans.",
+    "collocation": "mark a red-letter day",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-24",
+    "topic": "명절과 모임"
+  },
+  {
+    "word": "reunite with",
+    "pos": "verb",
+    "meaning": "~와 재회하다, 다시 모이다",
+    "example": "Holidays are a time for people to reunite with their long-distance family members.",
+    "collocation": "reunite with loved ones",
+    "tier": "extend",
+    "linked_word": "gather around",
+    "date": "2026-08-24",
+    "topic": "명절과 모임"
+  },
+  {
+    "word": "bond with",
+    "pos": "verb",
+    "meaning": "~와 유대감을 형성하다",
+    "example": "Cooking together is a great way to bond with your relatives.",
+    "collocation": "bond with each other",
+    "tier": "extend",
+    "linked_word": "quality time",
+    "date": "2026-08-24",
+    "topic": "명절과 모임"
+  },
+  {
+    "word": "rekindle family ties",
+    "pos": "phrase",
+    "meaning": "가족 간의 유대를 다시 다지다",
+    "example": "It's an opportunity to rekindle family ties that might have weakened over the year.",
+    "collocation": "rekindle family ties through conversation",
+    "tier": "extend",
+    "linked_word": "catch up with family",
+    "date": "2026-08-24",
+    "topic": "명절과 모임"
+  },
+  {
+    "word": "lavish spread",
+    "pos": "noun phrase",
+    "meaning": "호화로운 식탁, 풍성한 차림",
+    "example": "I was amazed by the lavish spread of food laid out on the dining table.",
+    "collocation": "serve a lavish spread",
+    "tier": "extend",
+    "linked_word": "homemade feast",
+    "date": "2026-08-24",
+    "topic": "명절과 모임"
+  },
+  {
+    "word": "vibrant mood",
+    "pos": "noun phrase",
+    "meaning": "활기기 넘치는 분위기",
+    "example": "The vibrant mood of the festival made everyone feel energized.",
+    "collocation": "enjoy the vibrant mood",
+    "tier": "extend",
+    "linked_word": "festive atmosphere",
+    "date": "2026-08-24",
+    "topic": "명절과 모임"
   }
 ]
