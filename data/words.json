@@ -4618,5 +4618,170 @@
     "linked_word": "festive atmosphere",
     "date": "2026-08-24",
     "topic": "명절과 모임"
+  },
+  {
+    "word": "fashion-forward",
+    "pos": "adjective",
+    "meaning": "패션에 앞서가는, 유행을 앞서가는",
+    "example": "I wouldn't say I'm some kind of fashion-forward trendsetter.",
+    "collocation": "a fashion-forward designer",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-25",
+    "topic": "패션과 쇼핑"
+  },
+  {
+    "word": "fashion sense",
+    "pos": "noun phrase",
+    "meaning": "패션 감각",
+    "example": "I do take pride in my fashion sense.",
+    "collocation": "have a keen fashion sense",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-25",
+    "topic": "패션과 쇼핑"
+  },
+  {
+    "word": "go-to outfit",
+    "pos": "noun phrase",
+    "meaning": "즐겨 입는 옷, 단골 착장",
+    "example": "My go-to outfit for daily life is definitely smart-casual.",
+    "collocation": "a reliable go-to outfit",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-25",
+    "topic": "패션과 쇼핑"
+  },
+  {
+    "word": "smart-casual",
+    "pos": "adjective/noun",
+    "meaning": "단정하면서도 편안한 차림",
+    "example": "Smart-casual is the perfect balance for office work and social gatherings.",
+    "collocation": "a smart-casual dress code",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-25",
+    "topic": "패션과 쇼핑"
+  },
+  {
+    "word": "mix and match",
+    "pos": "verb phrase",
+    "meaning": "서로 다른 요소를 조합하다",
+    "example": "I love to mix and match different textures.",
+    "collocation": "mix and match patterns",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-25",
+    "topic": "패션과 쇼핑"
+  },
+  {
+    "word": "wardrobe staple",
+    "pos": "noun phrase",
+    "meaning": "옷장의 필수 아이템",
+    "example": "A crisp white shirt is a true wardrobe staple.",
+    "collocation": "an essential wardrobe staple",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-25",
+    "topic": "패션과 쇼핑"
+  },
+  {
+    "word": "dress for the occasion",
+    "pos": "verb phrase",
+    "meaning": "상황/TPO에 맞게 입다",
+    "example": "When I need to dress for the occasion, I always choose formal wear.",
+    "collocation": "properly dress for the occasion",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-25",
+    "topic": "패션과 쇼핑"
+  },
+  {
+    "word": "timeless classic",
+    "pos": "noun phrase",
+    "meaning": "유행을 타지 않는 클래식",
+    "example": "I always lean towards timeless classics for weddings.",
+    "collocation": "remain a timeless classic",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-25",
+    "topic": "패션과 쇼핑"
+  },
+  {
+    "word": "stand out",
+    "pos": "verb phrase",
+    "meaning": "눈에 띄다, 두드러지다",
+    "example": "I don't really try to stand out with flashy colors.",
+    "collocation": "stand out in a crowd",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-25",
+    "topic": "패션과 쇼핑"
+  },
+  {
+    "word": "pull off",
+    "pos": "verb phrase",
+    "meaning": "(어려운 스타일 등을) 소화해내다",
+    "example": "The key is how you pull off the look with confidence.",
+    "collocation": "pull off a difficult style",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-25",
+    "topic": "패션과 쇼핑"
+  },
+  {
+    "word": "personal style",
+    "pos": "noun phrase",
+    "meaning": "개인적인 스타일",
+    "example": "Developing a personal style takes time and experimentation.",
+    "collocation": "define one's personal style",
+    "tier": "extend",
+    "linked_word": "fashion sense",
+    "date": "2026-08-25",
+    "topic": "패션과 쇼핑"
+  },
+  {
+    "word": "versatile pieces",
+    "pos": "noun phrase",
+    "meaning": "다용도의 아이템",
+    "example": "I prefer buying versatile pieces that can be worn in many ways.",
+    "collocation": "highly versatile pieces",
+    "tier": "extend",
+    "linked_word": "wardrobe staple",
+    "date": "2026-08-25",
+    "topic": "패션과 쇼핑"
+  },
+  {
+    "word": "understated elegance",
+    "pos": "noun phrase",
+    "meaning": "절제된 우아함",
+    "example": "I prefer understated elegance over loud and expensive brands.",
+    "collocation": "exude understated elegance",
+    "tier": "extend",
+    "linked_word": "timeless classic",
+    "date": "2026-08-25",
+    "topic": "패션과 쇼핑"
+  },
+  {
+    "word": "look the part",
+    "pos": "verb phrase",
+    "meaning": "상황에 어울리는 모습(복장)을 하다",
+    "example": "If you want to be a professional, you have to look the part.",
+    "collocation": "dress to look the part",
+    "tier": "extend",
+    "linked_word": "dress for the occasion",
+    "date": "2026-08-25",
+    "topic": "패션과 쇼핑"
+  },
+  {
+    "word": "carry it off",
+    "pos": "verb phrase",
+    "meaning": "당당하게 잘 소화하다/해내다",
+    "example": "It was a bold hat, but she managed to carry it off.",
+    "collocation": "carry it off well",
+    "tier": "extend",
+    "linked_word": "pull off",
+    "date": "2026-08-25",
+    "topic": "패션과 쇼핑"
   }
 ]

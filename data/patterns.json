@@ -558,5 +558,25 @@
     "unit": 6,
     "unit_title": "돌발주제 II",
     "topic": "명절과 모임"
+  },
+  {
+    "pattern": "I wouldn't say I'm [noun/adjective], but I do [verb].",
+    "meaning": "제가 ~라고까지는 말 못 하겠지만, ~하기는 합니다.",
+    "usage_today": "I wouldn't say I'm some kind of fashion-forward trendsetter, but I do take pride in my fashion sense.",
+    "extra_example": "I wouldn't say I'm a professional chef, but I do enjoy cooking for my friends.",
+    "date": "2026-08-25",
+    "unit": 6,
+    "unit_title": "돌발주제 II",
+    "topic": "패션과 쇼핑"
+  },
+  {
+    "pattern": "I lean towards [noun/gerund] because [reason].",
+    "meaning": "저는 ~하는 쪽을 선호하는데, 왜냐하면 ~이기 때문입니다.",
+    "usage_today": "I always lean towards timeless classics because I think it's important to look the part.",
+    "extra_example": "I lean towards staying at home on weekends because I need to recharge my batteries.",
+    "date": "2026-08-25",
+    "unit": 6,
+    "unit_title": "돌발주제 II",
+    "topic": "패션과 쇼핑"
   }
 ]
