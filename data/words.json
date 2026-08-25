@@ -4783,5 +4783,170 @@
     "linked_word": "pull off",
     "date": "2026-08-25",
     "topic": "패션과 쇼핑"
+  },
+  {
+    "word": "food scene",
+    "pos": "noun phrase",
+    "meaning": "외식 문화, 음식 트렌드",
+    "example": "You know, the food scene in Korea has undergone a massive transformation over the past decade.",
+    "collocation": "thriving food scene",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-26",
+    "topic": "외식과 음식 문화"
+  },
+  {
+    "word": "diverse culinary options",
+    "pos": "noun phrase",
+    "meaning": "다양한 요리/음식 선택지",
+    "example": "We have access to diverse culinary options right around the corner.",
+    "collocation": "offer diverse culinary options",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-26",
+    "topic": "외식과 음식 문화"
+  },
+  {
+    "word": "satisfy one's craving",
+    "pos": "verb phrase",
+    "meaning": "먹고 싶은 욕구를 충족시키다, 갈증을 해소하다",
+    "example": "Just last weekend, I wanted to satisfy my craving for spicy noodles.",
+    "collocation": "satisfy my craving for food",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-26",
+    "topic": "외식과 음식 문화"
+  },
+  {
+    "word": "hole-in-the-wall restaurant",
+    "pos": "noun phrase",
+    "meaning": "작고 허름하지만 맛있는 숨은 식당",
+    "example": "I decided to grab a bite with a friend at a tiny hole-in-the-wall restaurant.",
+    "collocation": "charming hole-in-the-wall restaurant",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-26",
+    "topic": "외식과 음식 문화"
+  },
+  {
+    "word": "mouth-watering",
+    "pos": "adjective",
+    "meaning": "군침이 도는, 대단히 맛있어 보이는",
+    "example": "Honestly, the aroma alone was mouth-watering, and the dishes were just bursting with flavor.",
+    "collocation": "mouth-watering aroma",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-26",
+    "topic": "외식과 음식 문화"
+  },
+  {
+    "word": "grab a bite",
+    "pos": "verb phrase",
+    "meaning": "간단히 식사하다, 요기하다",
+    "example": "I decided to grab a bite with a friend at a tiny hole-in-the-wall restaurant.",
+    "collocation": "grab a quick bite",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-26",
+    "topic": "외식과 음식 문화"
+  },
+  {
+    "word": "dietary restriction",
+    "pos": "noun phrase",
+    "meaning": "식이 제한, 식단상의 제약",
+    "example": "Modern restaurants cater to people with various dietary restrictions such as veganism.",
+    "collocation": "accommodate dietary restrictions",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-26",
+    "topic": "외식과 음식 문화"
+  },
+  {
+    "word": "food delivery app",
+    "pos": "noun phrase",
+    "meaning": "음식 배달 애플리케이션",
+    "example": "Food delivery apps have completely revolutionized how we order late-night meals.",
+    "collocation": "order via a food delivery app",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-26",
+    "topic": "외식과 음식 문화"
+  },
+  {
+    "word": "culinary preference",
+    "pos": "noun phrase",
+    "meaning": "음식 취향, 입맛",
+    "example": "Everyone in our office has a distinct culinary preference when eating out together.",
+    "collocation": "match one's culinary preference",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-26",
+    "topic": "외식과 음식 문화"
+  },
+  {
+    "word": "fusion cuisine",
+    "pos": "noun phrase",
+    "meaning": "퓨전 요리",
+    "example": "Fusion cuisine combining Korean and Mexican flavors has gained huge popularity.",
+    "collocation": "innovative fusion cuisine",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-26",
+    "topic": "외식과 음식 문화"
+  },
+  {
+    "word": "gastronomic landscape",
+    "pos": "noun phrase",
+    "meaning": "미식 환경, 외식계 전반",
+    "example": "The city's gastronomic landscape has become incredibly dynamic with international influences.",
+    "collocation": "vibrant gastronomic landscape",
+    "tier": "extend",
+    "linked_word": "food scene",
+    "date": "2026-08-26",
+    "topic": "외식과 음식 문화"
+  },
+  {
+    "word": "wide array of dishes",
+    "pos": "noun phrase",
+    "meaning": "다채로운 요리들, 폭넓은 메뉴",
+    "example": "The buffet offered a wide array of dishes from Mediterranean to Asian specialties.",
+    "collocation": "sample a wide array of dishes",
+    "tier": "extend",
+    "linked_word": "diverse culinary options",
+    "date": "2026-08-26",
+    "topic": "외식과 음식 문화"
+  },
+  {
+    "word": "hit the spot",
+    "pos": "idiom / verb phrase",
+    "meaning": "딱 만족스럽다, 식욕을 딱 채워주다",
+    "example": "That hot bowl of soup really hit the spot on such a chilly evening.",
+    "collocation": "really hit the spot",
+    "tier": "extend",
+    "linked_word": "satisfy one's craving",
+    "date": "2026-08-26",
+    "topic": "외식과 음식 문화"
+  },
+  {
+    "word": "hidden eatery",
+    "pos": "noun phrase",
+    "meaning": "숨은 맛집",
+    "example": "We stumbled across a hidden eatery tucked away in the narrow backstreet.",
+    "collocation": "discover a hidden eatery",
+    "tier": "extend",
+    "linked_word": "hole-in-the-wall restaurant",
+    "date": "2026-08-26",
+    "topic": "외식과 음식 문화"
+  },
+  {
+    "word": "appetizing",
+    "pos": "adjective",
+    "meaning": "식욕을 돋우는, 먹음직스러운",
+    "example": "The display case was filled with appetizing desserts that immediately caught my eye.",
+    "collocation": "look very appetizing",
+    "tier": "extend",
+    "linked_word": "mouth-watering",
+    "date": "2026-08-26",
+    "topic": "외식과 음식 문화"
   }
 ]

@@ -578,5 +578,25 @@
     "unit": 6,
     "unit_title": "돌발주제 II",
     "topic": "패션과 쇼핑"
+  },
+  {
+    "pattern": "We have access to [noun phrase] right around the corner.",
+    "meaning": "바로 근처에서 ~을/를 손쉽게 접할 수 있다",
+    "usage_today": "We have access to diverse culinary options right around the corner, from authentic Neapolitan pizzerias to Mexican street tacos.",
+    "extra_example": "Living in downtown means we have access to great cultural facilities right around the corner.",
+    "date": "2026-08-26",
+    "unit": 6,
+    "unit_title": "돌발주제 II",
+    "topic": "외식과 음식 문화"
+  },
+  {
+    "pattern": "Whenever I feel like [gerund/noun], I always make sure to [verb].",
+    "meaning": "~하고 싶을 때마다, 나는 꼭 ~하곤 한다",
+    "usage_today": "Whenever I feel like trying something unique, I always make sure to explore cozy alleyways because that's where you find the best gems.",
+    "extra_example": "Whenever I feel like clearing my head, I always make sure to take a walk along the river.",
+    "date": "2026-08-26",
+    "unit": 6,
+    "unit_title": "돌발주제 II",
+    "topic": "외식과 음식 문화"
   }
 ]
