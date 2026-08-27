@@ -598,5 +598,25 @@
     "unit": 6,
     "unit_title": "돌발주제 II",
     "topic": "외식과 음식 문화"
+  },
+  {
+    "pattern": "I was wondering if you could [verb]...",
+    "meaning": "혹시 ~해주실 수 있는지 궁금합니다 (정중한 요청)",
+    "usage_today": "I was wondering if you could get back to me as soon as possible.",
+    "extra_example": "I was wondering if you could explain the cancellation policy one more time.",
+    "date": "2026-08-27",
+    "unit": 7,
+    "unit_title": "롤플레이 (11~13번 유형)",
+    "topic": "정보 요청 질문하기 (11번)"
+  },
+  {
+    "pattern": "I’m calling to inquire about [noun/gerund]...",
+    "meaning": "~에 대해 문의하려고 전화드렸습니다",
+    "usage_today": "I’m calling to inquire about the Tokyo tour package I saw on your website.",
+    "extra_example": "I'm calling to inquire about signing up for a yoga membership.",
+    "date": "2026-08-27",
+    "unit": 7,
+    "unit_title": "롤플레이 (11~13번 유형)",
+    "topic": "정보 요청 질문하기 (11번)"
   }
 ]

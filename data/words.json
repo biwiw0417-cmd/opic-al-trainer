@@ -4948,5 +4948,170 @@
     "linked_word": "mouth-watering",
     "date": "2026-08-26",
     "topic": "외식과 음식 문화"
+  },
+  {
+    "word": "inquire about",
+    "pos": "verb phrase",
+    "meaning": "~에 대해 문의하다",
+    "example": "I’m calling to inquire about the Tokyo tour package I saw on your website.",
+    "collocation": "inquire about availability",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-27",
+    "topic": "정보 요청 질문하기 (11번)"
+  },
+  {
+    "word": "availability",
+    "pos": "noun",
+    "meaning": "가용성, 예약 가능 여부",
+    "example": "I was wondering about the availability for the third week of September.",
+    "collocation": "check availability",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-27",
+    "topic": "정보 요청 질문하기 (11번)"
+  },
+  {
+    "word": "peak season",
+    "pos": "noun phrase",
+    "meaning": "성수기",
+    "example": "I know that can be a bit of a peak season, so I wanted to make sure there are still spots left.",
+    "collocation": "travel during peak season",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-27",
+    "topic": "정보 요청 질문하기 (11번)"
+  },
+  {
+    "word": "all-inclusive",
+    "pos": "adjective",
+    "meaning": "모든 것이 포함된",
+    "example": "Is the package truly all-inclusive, or do I need to pay for meals?",
+    "collocation": "all-inclusive resort",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-27",
+    "topic": "정보 요청 질문하기 (11번)"
+  },
+  {
+    "word": "additional fees",
+    "pos": "noun phrase",
+    "meaning": "추가 비용",
+    "example": "I'd like to know if there are any additional fees I should be prepared for.",
+    "collocation": "hidden additional fees",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-27",
+    "topic": "정보 요청 질문하기 (11번)"
+  },
+  {
+    "word": "group discount",
+    "pos": "noun phrase",
+    "meaning": "단체 할인",
+    "example": "Since there are four of us, do you happen to offer a group discount?",
+    "collocation": "apply for a group discount",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-27",
+    "topic": "정보 요청 질문하기 (11번)"
+  },
+  {
+    "word": "get a quote",
+    "pos": "verb phrase",
+    "meaning": "견적을 받다",
+    "example": "Could you get a quote for us and email it to my address?",
+    "collocation": "request to get a quote",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-27",
+    "topic": "정보 요청 질문하기 (11번)"
+  },
+  {
+    "word": "sightseeing itinerary",
+    "pos": "noun phrase",
+    "meaning": "관광 일정표",
+    "example": "Could you provide more details on the sightseeing itinerary?",
+    "collocation": "flexible sightseeing itinerary",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-27",
+    "topic": "정보 요청 질문하기 (11번)"
+  },
+  {
+    "word": "lodging",
+    "pos": "noun",
+    "meaning": "숙박",
+    "example": "The price includes both flights and lodging for four nights.",
+    "collocation": "provide lodging",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-27",
+    "topic": "정보 요청 질문하기 (11번)"
+  },
+  {
+    "word": "duration",
+    "pos": "noun",
+    "meaning": "(지속) 기간",
+    "example": "The duration of the flight is approximately ten hours.",
+    "collocation": "total duration",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-27",
+    "topic": "정보 요청 질문하기 (11번)"
+  },
+  {
+    "word": "lodge an inquiry",
+    "pos": "verb phrase",
+    "meaning": "문의를 접수하다(정식으로 묻다)",
+    "example": "I'd like to lodge an inquiry regarding my recent booking status.",
+    "collocation": "lodge an inquiry with the office",
+    "tier": "extend",
+    "linked_word": "inquire about",
+    "date": "2026-08-27",
+    "topic": "정보 요청 질문하기 (11번)"
+  },
+  {
+    "word": "vacant slots",
+    "pos": "noun phrase",
+    "meaning": "비어 있는 자리, 예약 가능한 시간대",
+    "example": "Are there any vacant slots for the morning tour on Friday?",
+    "collocation": "check for vacant slots",
+    "tier": "extend",
+    "linked_word": "availability",
+    "date": "2026-08-27",
+    "topic": "정보 요청 질문하기 (11번)"
+  },
+  {
+    "word": "high season",
+    "pos": "noun phrase",
+    "meaning": "성수기 (peak season과 동의어)",
+    "example": "Flights are usually much more expensive during the high season.",
+    "collocation": "holiday high season",
+    "tier": "extend",
+    "linked_word": "peak season",
+    "date": "2026-08-27",
+    "topic": "정보 요청 질문하기 (11번)"
+  },
+  {
+    "word": "comprehensive",
+    "pos": "adjective",
+    "meaning": "종합적인, 포괄적인",
+    "example": "The agency provided a comprehensive list of all included services.",
+    "collocation": "comprehensive insurance",
+    "tier": "extend",
+    "linked_word": "all-inclusive",
+    "date": "2026-08-27",
+    "topic": "정보 요청 질문하기 (11번)"
+  },
+  {
+    "word": "surplus charges",
+    "pos": "noun phrase",
+    "meaning": "추가 요금, 할증료",
+    "example": "Make sure to check if there are any surplus charges for weekend stays.",
+    "collocation": "avoid surplus charges",
+    "tier": "extend",
+    "linked_word": "additional fees",
+    "date": "2026-08-27",
+    "topic": "정보 요청 질문하기 (11번)"
   }
 ]
