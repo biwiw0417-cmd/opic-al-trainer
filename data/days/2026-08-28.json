@@ -1,0 +1,309 @@
+{
+  "date": "2026-08-28",
+  "question": {
+    "english": "I'm sorry, but there is a problem you need to resolve. You were supposed to go to a concert with a friend tonight, but an urgent matter has suddenly come up, making it impossible for you to attend. Call your friend, explain the situation, and offer two or three alternatives to solve the problem.",
+    "korean": "죄송하지만 해결해야 할 문제가 발생했습니다. 오늘 밤 친구와 함께 콘서트에 가기로 되어 있었지만, 갑작스러운 급한 일로 인해 갈 수 없게 되었습니다. 친구에게 전화를 걸어 상황을 설명하고, 문제를 해결하기 위한 두세 가지 대안을 제시하세요.",
+    "combo_context": "롤플레이 12번 문항으로, 11번에서 콘서트 티켓 예매 정보를 묻는 상황 이후 계획이 틀어지는 전형적인 위기 대응 상황입니다."
+  },
+  "model_answer": {
+    "script": "Hey Sarah, it's me. Listen, I have some bad news regarding our plans for the concert tonight. I’m so sorry to tell you this, but I’m afraid I won’t be able to make it.\n\nSomething urgent has come up at work quite suddenly. My manager just assigned me a last-minute report that needs to be finished by tomorrow morning, so I’m completely tied up until late tonight. I tried to push it off, but leaving the office right now is simply out of the question.\n\nI feel terrible about this, so I’ve thought of a few ways to fix this. First, why don't you reach out to Chloe? I know she really wanted to see this band, and I can transfer my ticket to her phone right away so you don't have to go alone. \n\nIf you'd rather not go without me, we could try to find tickets for their second show this Sunday instead. I'll cover the full cost of the new tickets to compensate for this mess. Also, I’d love to treat you to a nice dinner tomorrow to make up for flaking on you today. \n\nAgain, I’m incredibly sorry for the last-minute change. Let me know what works best for you. I’ll be waiting for your text!",
+    "structure_note": "서론(인사 및 나쁜 소식 예고) → MP(업무상 급한 일로 못 가게 됨) → 디테일(상사 업무 지시로 퇴근 불가능 강조) → 대안 제시(다른 친구와 가기, 다음 공연 예매 및 비용 부담, 저녁 식사 대접) → 마무리(사과 및 답변 요청)",
+    "al_points": [
+      "I'm afraid I won't be able to...와 같은 격식 있고 자연스러운 거절 표현을 사용하여 실제 원어민의 전화 에티켓을 잘 보여주었습니다.",
+      "Out of the question과 같은 강한 부정 표현을 활용하여 상황의 불가피성을 효과적으로 전달하며 어휘력을 증명했습니다.",
+      "상대방의 기분을 고려한 세 가지 구체적인 대안(티켓 양도, 재예매, 보상 식사)을 제시하여 논리적인 문제 해결 능력을 보여주었습니다."
+    ]
+  },
+  "vocab": [
+    {
+      "word": "make it",
+      "pos": "verb phrase",
+      "meaning": "참석하다, (시간 맞춰) 가다",
+      "example": "I’m afraid I won’t be able to make it to the concert tonight.",
+      "collocation": "make it on time",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "something urgent has come up",
+      "pos": "phrase",
+      "meaning": "급한 일이 생겼다",
+      "example": "Something urgent has come up at work quite suddenly.",
+      "collocation": "urgent matter",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "be tied up",
+      "pos": "adjective phrase",
+      "meaning": "매우 바쁘다, 꼼짝 못 하다",
+      "example": "I’m completely tied up until late tonight with this report.",
+      "collocation": "be tied up with work",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "out of the question",
+      "pos": "idiom",
+      "meaning": "불가능한, 논외의",
+      "example": "Leaving the office right now is simply out of the question.",
+      "collocation": "completely out of the question",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "reach out to",
+      "pos": "verb phrase",
+      "meaning": "~에게 연락을 취하다",
+      "example": "Why don't you reach out to Chloe and see if she's free?",
+      "collocation": "reach out to a friend",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "compensate for",
+      "pos": "verb phrase",
+      "meaning": "~에 대해 보상하다",
+      "example": "I'll cover the cost to compensate for the trouble I caused.",
+      "collocation": "compensate for the loss",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "alternative arrangement",
+      "pos": "noun",
+      "meaning": "대안, 대체 방안",
+      "example": "We need to make an alternative arrangement since the concert is canceled.",
+      "collocation": "propose an alternative arrangement",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "meet halfway",
+      "pos": "idiom",
+      "meaning": "타협하다, 절충하다",
+      "example": "I can't go tonight, but let's meet halfway and go this weekend instead.",
+      "collocation": "willing to meet halfway",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "be in a bind",
+      "pos": "idiom",
+      "meaning": "난처한 상황에 처하다",
+      "example": "I'm really in a bind because I promised to help you but I have to work.",
+      "collocation": "in a bit of a bind",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "make amends",
+      "pos": "verb phrase",
+      "meaning": "보상하다, 사죄하다",
+      "example": "I want to make amends by taking you out for a fancy dinner.",
+      "collocation": "make amends for one's mistake",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "show up",
+      "pos": "verb phrase",
+      "meaning": "나타나다, 참석하다",
+      "example": "I'm so sorry that I can't show up for our meeting today.",
+      "collocation": "show up late",
+      "tier": "extend",
+      "linked_word": "make it"
+    },
+    {
+      "word": "emerge",
+      "pos": "verb",
+      "meaning": "발생하다, 드러나다",
+      "example": "An unexpected problem has emerged, so I need to stay late.",
+      "collocation": "suddenly emerge",
+      "tier": "extend",
+      "linked_word": "come up"
+    },
+    {
+      "word": "occupied",
+      "pos": "adjective",
+      "meaning": "바쁜, 사용 중인",
+      "example": "I'll be fully occupied with this project for the rest of the day.",
+      "collocation": "fully occupied",
+      "tier": "extend",
+      "linked_word": "be tied up"
+    },
+    {
+      "word": "impossible",
+      "pos": "adjective",
+      "meaning": "불가능한",
+      "example": "It is practically impossible for me to leave before 9 PM.",
+      "collocation": "virtually impossible",
+      "tier": "extend",
+      "linked_word": "out of the question"
+    },
+    {
+      "word": "make it up to someone",
+      "pos": "idiom",
+      "meaning": "~에게 신세를 갚다, 보상하다",
+      "example": "I'll make it up to you by buying you a drink next time.",
+      "collocation": "make it up to you later",
+      "tier": "extend",
+      "linked_word": "compensate for"
+    }
+  ],
+  "vocab_quiz": [
+    {
+      "type": "matching",
+      "question": "다음 중 'make amends'의 올바른 뜻은 무엇인가요?",
+      "choices": [
+        "수선하다",
+        "사죄의 의미로 보상하다",
+        "돈을 빌리다",
+        "계획을 세우다"
+      ],
+      "answer_index": 1
+    },
+    {
+      "type": "matching",
+      "question": "다음 중 'out of the question'과 의미가 같은 단어는?",
+      "choices": [
+        "Unnecessary",
+        "Doubtful",
+        "Impossible",
+        "Frequent"
+      ],
+      "answer_index": 2
+    },
+    {
+      "type": "matching",
+      "question": "다음 중 'be tied up'의 의미로 가장 적절한 것은?",
+      "choices": [
+        "포장되다",
+        "매우 바쁘다",
+        "결속되다",
+        "지각하다"
+      ],
+      "answer_index": 1
+    },
+    {
+      "type": "blank",
+      "question": "I’m afraid I won’t be able to ____ it to the party tonight.",
+      "choices": [
+        "do",
+        "make",
+        "go",
+        "take"
+      ],
+      "answer_index": 1
+    },
+    {
+      "type": "blank",
+      "question": "Something urgent has ____ up at the office, so I'll be late.",
+      "choices": [
+        "gone",
+        "made",
+        "come",
+        "taken"
+      ],
+      "answer_index": 2
+    },
+    {
+      "type": "synonym",
+      "question": "스크립트의 'compensate for' 대신 쓸 수 있는 자연스러운 구어체 표현은?",
+      "choices": [
+        "make it up to",
+        "get rid of",
+        "look forward to",
+        "keep track of"
+      ],
+      "answer_index": 0
+    },
+    {
+      "type": "synonym",
+      "question": "스크립트의 'tied up' 대신 쓸 수 있는 단어는?",
+      "choices": [
+        "relaxed",
+        "occupied",
+        "distracted",
+        "available"
+      ],
+      "answer_index": 1
+    }
+  ],
+  "patterns": [
+    {
+      "pattern": "I'm afraid I won't be able to [verb]...",
+      "meaning": "유감스럽게도 ~하지 못할 것 같습니다.",
+      "usage_today": "I’m afraid I won’t be able to make it.",
+      "extra_example": "I'm afraid I won't be able to attend the meeting tomorrow morning."
+    },
+    {
+      "pattern": "If you'd rather not [verb], we could always [verb]...",
+      "meaning": "만약 당신이 ~하는 걸 원치 않으신다면, 언제든 ~할 수도 있습니다.",
+      "usage_today": "If you'd rather not go without me, we could try to find tickets for their second show.",
+      "extra_example": "If you'd rather not cook tonight, we could always order some pizza."
+    }
+  ],
+  "review_words": [
+    {
+      "word": "fashion-forward",
+      "learned_date": "2026-08-25",
+      "new_example": "Since you are so fashion-forward, could you help me pick an outfit for the concert?"
+    },
+    {
+      "word": "fashion sense",
+      "learned_date": "2026-08-25",
+      "new_example": "I always admired your fashion sense, so I'm really sorry I'm missing our date."
+    },
+    {
+      "word": "go-to outfit",
+      "learned_date": "2026-08-25",
+      "new_example": "I even had my go-to outfit ready for tonight, which makes this even more frustrating."
+    },
+    {
+      "word": "smart-casual",
+      "learned_date": "2026-08-25",
+      "new_example": "The dress code was smart-casual, and I was really excited to wear my new blazer."
+    },
+    {
+      "word": "keep one's word",
+      "learned_date": "2026-08-21",
+      "new_example": "I always try to keep my word, but this work emergency is unavoidable."
+    },
+    {
+      "word": "fall through",
+      "learned_date": "2026-08-21",
+      "new_example": "I hate it when our plans fall through like this at the last minute."
+    },
+    {
+      "word": "social commitment",
+      "learned_date": "2026-08-21",
+      "new_example": "My job is starting to interfere with every single social commitment I make."
+    },
+    {
+      "word": "unexpected conflict",
+      "learned_date": "2026-08-21",
+      "new_example": "Due to an unexpected conflict in my schedule, I have to cancel our dinner."
+    }
+  ],
+  "review_patterns": [
+    {
+      "pattern": "I wouldn't say I'm [noun/adjective], but I do [verb].",
+      "learned_date": "2026-08-25",
+      "new_example": "I wouldn't say I'm a workaholic, but I do feel responsible for my projects.",
+      "mini_mission": "이 패턴과 오늘 배운 단어 'make amends'를 함께 써서 한 문장 말해보세요. (예: I wouldn't say I'm a perfect friend, but I do want to make amends for tonight.)"
+    }
+  ],
+  "checklist": [
+    "오늘 단어를 4개 이상 썼다",
+    "과거 시제가 흔들리지 않았다",
+    "MP 후 디테일을 2개 이상 확장했다",
+    "감정이나 생각을 말했다",
+    "마무리 문장을 했다",
+    "필러 없이 침묵 3초 이상이 없었다"
+  ],
+  "type": "daily",
+  "unit": 7,
+  "unit_title": "롤플레이 (11~13번 유형)",
+  "topic": "문제 상황 설명하고 대안 제시 (12번)"
+}

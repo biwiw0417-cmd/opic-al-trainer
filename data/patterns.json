@@ -618,5 +618,25 @@
     "unit": 7,
     "unit_title": "롤플레이 (11~13번 유형)",
     "topic": "정보 요청 질문하기 (11번)"
+  },
+  {
+    "pattern": "I'm afraid I won't be able to [verb]...",
+    "meaning": "유감스럽게도 ~하지 못할 것 같습니다.",
+    "usage_today": "I’m afraid I won’t be able to make it.",
+    "extra_example": "I'm afraid I won't be able to attend the meeting tomorrow morning.",
+    "date": "2026-08-28",
+    "unit": 7,
+    "unit_title": "롤플레이 (11~13번 유형)",
+    "topic": "문제 상황 설명하고 대안 제시 (12번)"
+  },
+  {
+    "pattern": "If you'd rather not [verb], we could always [verb]...",
+    "meaning": "만약 당신이 ~하는 걸 원치 않으신다면, 언제든 ~할 수도 있습니다.",
+    "usage_today": "If you'd rather not go without me, we could try to find tickets for their second show.",
+    "extra_example": "If you'd rather not cook tonight, we could always order some pizza.",
+    "date": "2026-08-28",
+    "unit": 7,
+    "unit_title": "롤플레이 (11~13번 유형)",
+    "topic": "문제 상황 설명하고 대안 제시 (12번)"
   }
 ]

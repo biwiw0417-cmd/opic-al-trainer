@@ -5113,5 +5113,159 @@
     "linked_word": "additional fees",
     "date": "2026-08-27",
     "topic": "정보 요청 질문하기 (11번)"
+  },
+  {
+    "word": "make it",
+    "pos": "verb phrase",
+    "meaning": "참석하다, (시간 맞춰) 가다",
+    "example": "I’m afraid I won’t be able to make it to the concert tonight.",
+    "collocation": "make it on time",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-28",
+    "topic": "문제 상황 설명하고 대안 제시 (12번)"
+  },
+  {
+    "word": "something urgent has come up",
+    "pos": "phrase",
+    "meaning": "급한 일이 생겼다",
+    "example": "Something urgent has come up at work quite suddenly.",
+    "collocation": "urgent matter",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-28",
+    "topic": "문제 상황 설명하고 대안 제시 (12번)"
+  },
+  {
+    "word": "be tied up",
+    "pos": "adjective phrase",
+    "meaning": "매우 바쁘다, 꼼짝 못 하다",
+    "example": "I’m completely tied up until late tonight with this report.",
+    "collocation": "be tied up with work",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-28",
+    "topic": "문제 상황 설명하고 대안 제시 (12번)"
+  },
+  {
+    "word": "out of the question",
+    "pos": "idiom",
+    "meaning": "불가능한, 논외의",
+    "example": "Leaving the office right now is simply out of the question.",
+    "collocation": "completely out of the question",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-28",
+    "topic": "문제 상황 설명하고 대안 제시 (12번)"
+  },
+  {
+    "word": "reach out to",
+    "pos": "verb phrase",
+    "meaning": "~에게 연락을 취하다",
+    "example": "Why don't you reach out to Chloe and see if she's free?",
+    "collocation": "reach out to a friend",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-28",
+    "topic": "문제 상황 설명하고 대안 제시 (12번)"
+  },
+  {
+    "word": "compensate for",
+    "pos": "verb phrase",
+    "meaning": "~에 대해 보상하다",
+    "example": "I'll cover the cost to compensate for the trouble I caused.",
+    "collocation": "compensate for the loss",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-28",
+    "topic": "문제 상황 설명하고 대안 제시 (12번)"
+  },
+  {
+    "word": "alternative arrangement",
+    "pos": "noun",
+    "meaning": "대안, 대체 방안",
+    "example": "We need to make an alternative arrangement since the concert is canceled.",
+    "collocation": "propose an alternative arrangement",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-28",
+    "topic": "문제 상황 설명하고 대안 제시 (12번)"
+  },
+  {
+    "word": "meet halfway",
+    "pos": "idiom",
+    "meaning": "타협하다, 절충하다",
+    "example": "I can't go tonight, but let's meet halfway and go this weekend instead.",
+    "collocation": "willing to meet halfway",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-28",
+    "topic": "문제 상황 설명하고 대안 제시 (12번)"
+  },
+  {
+    "word": "be in a bind",
+    "pos": "idiom",
+    "meaning": "난처한 상황에 처하다",
+    "example": "I'm really in a bind because I promised to help you but I have to work.",
+    "collocation": "in a bit of a bind",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-28",
+    "topic": "문제 상황 설명하고 대안 제시 (12번)"
+  },
+  {
+    "word": "make amends",
+    "pos": "verb phrase",
+    "meaning": "보상하다, 사죄하다",
+    "example": "I want to make amends by taking you out for a fancy dinner.",
+    "collocation": "make amends for one's mistake",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-28",
+    "topic": "문제 상황 설명하고 대안 제시 (12번)"
+  },
+  {
+    "word": "emerge",
+    "pos": "verb",
+    "meaning": "발생하다, 드러나다",
+    "example": "An unexpected problem has emerged, so I need to stay late.",
+    "collocation": "suddenly emerge",
+    "tier": "extend",
+    "linked_word": "come up",
+    "date": "2026-08-28",
+    "topic": "문제 상황 설명하고 대안 제시 (12번)"
+  },
+  {
+    "word": "occupied",
+    "pos": "adjective",
+    "meaning": "바쁜, 사용 중인",
+    "example": "I'll be fully occupied with this project for the rest of the day.",
+    "collocation": "fully occupied",
+    "tier": "extend",
+    "linked_word": "be tied up",
+    "date": "2026-08-28",
+    "topic": "문제 상황 설명하고 대안 제시 (12번)"
+  },
+  {
+    "word": "impossible",
+    "pos": "adjective",
+    "meaning": "불가능한",
+    "example": "It is practically impossible for me to leave before 9 PM.",
+    "collocation": "virtually impossible",
+    "tier": "extend",
+    "linked_word": "out of the question",
+    "date": "2026-08-28",
+    "topic": "문제 상황 설명하고 대안 제시 (12번)"
+  },
+  {
+    "word": "make it up to someone",
+    "pos": "idiom",
+    "meaning": "~에게 신세를 갚다, 보상하다",
+    "example": "I'll make it up to you by buying you a drink next time.",
+    "collocation": "make it up to you later",
+    "tier": "extend",
+    "linked_word": "compensate for",
+    "date": "2026-08-28",
+    "topic": "문제 상황 설명하고 대안 제시 (12번)"
   }
 ]
