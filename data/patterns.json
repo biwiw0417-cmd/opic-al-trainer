@@ -638,5 +638,25 @@
     "unit": 7,
     "unit_title": "롤플레이 (11~13번 유형)",
     "topic": "문제 상황 설명하고 대안 제시 (12번)"
+  },
+  {
+    "pattern": "I felt so [adjective] about [noun/gerund], especially since [clause].",
+    "meaning": "~에 대해 정말 [형용사]하게 느꼈어요, 특히 ~해서 더 그랬죠.",
+    "usage_today": "I felt so guilty about the last-minute change, especially since the tickets were quite expensive.",
+    "extra_example": "I felt so anxious about the presentation, especially since my boss was watching me.",
+    "date": "2026-08-31",
+    "unit": 7,
+    "unit_title": "롤플레이 (11~13번 유형)",
+    "topic": "관련된 내 경험 말하기 (13번)"
+  },
+  {
+    "pattern": "Looking back, it taught me how to [verb]...",
+    "meaning": "돌이켜보니, 그것은 저에게 ~하는 법을 가르쳐 주었습니다.",
+    "usage_today": "Looking back, it taught me how to handle these awkward situations with honesty.",
+    "extra_example": "Looking back, it taught me how to manage my time more efficiently.",
+    "date": "2026-08-31",
+    "unit": 7,
+    "unit_title": "롤플레이 (11~13번 유형)",
+    "topic": "관련된 내 경험 말하기 (13번)"
   }
 ]

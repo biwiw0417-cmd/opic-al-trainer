@@ -5267,5 +5267,159 @@
     "linked_word": "compensate for",
     "date": "2026-08-28",
     "topic": "문제 상황 설명하고 대안 제시 (12번)"
+  },
+  {
+    "word": "unexpected turn of events",
+    "pos": "phrase",
+    "meaning": "예상치 못한 상황의 반전(전개)",
+    "example": "It was a total unexpected turn of events when my brother got into an accident.",
+    "collocation": "a sudden unexpected turn of events",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-31",
+    "topic": "관련된 내 경험 말하기 (13번)"
+  },
+  {
+    "word": "prioritize",
+    "pos": "verb",
+    "meaning": "우선순위를 두다",
+    "example": "Obviously, I had to prioritize my family over the concert.",
+    "collocation": "prioritize tasks",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-31",
+    "topic": "관련된 내 경험 말하기 (13번)"
+  },
+  {
+    "word": "last-minute change",
+    "pos": "noun phrase",
+    "meaning": "마지막 순간의 변경",
+    "example": "I felt so guilty about the last-minute change to our plans.",
+    "collocation": "make a last-minute change",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-31",
+    "topic": "관련된 내 경험 말하기 (13번)"
+  },
+  {
+    "word": "sincere apology",
+    "pos": "noun phrase",
+    "meaning": "진심 어린 사과",
+    "example": "I called my friend right away and offered a sincere apology.",
+    "collocation": "accept a sincere apology",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-31",
+    "topic": "관련된 내 경험 말하기 (13번)"
+  },
+  {
+    "word": "unavoidable circumstance",
+    "pos": "noun phrase",
+    "meaning": "어쩔 수 없는 상황(부득이한 사정)",
+    "example": "I explained that it was an unavoidable circumstance.",
+    "collocation": "due to unavoidable circumstances",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-31",
+    "topic": "관련된 내 경험 말하기 (13번)"
+  },
+  {
+    "word": "smooth things over",
+    "pos": "idiom",
+    "meaning": "상황을 잘 수습하다, 화를 누그러뜨리다",
+    "example": "To smooth things over, I promised to buy her dinner.",
+    "collocation": "smooth things over with someone",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-31",
+    "topic": "관련된 내 경험 말하기 (13번)"
+  },
+  {
+    "word": "cancel at the eleventh hour",
+    "pos": "idiom",
+    "meaning": "임박해서 취소하다",
+    "example": "It's rude to cancel at the eleventh hour without a good reason.",
+    "collocation": "cancel a plan at the eleventh hour",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-31",
+    "topic": "관련된 내 경험 말하기 (13번)"
+  },
+  {
+    "word": "unforeseen conflict",
+    "pos": "noun phrase",
+    "meaning": "예측하지 못한 (일정의) 충돌",
+    "example": "When an unforeseen conflict arises, honesty is the best policy.",
+    "collocation": "handle an unforeseen conflict",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-31",
+    "topic": "관련된 내 경험 말하기 (13번)"
+  },
+  {
+    "word": "lose face",
+    "pos": "idiom",
+    "meaning": "체면을 잃다",
+    "example": "I didn't want to lose face by breaking my promise again.",
+    "collocation": "avoid losing face",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-08-31",
+    "topic": "관련된 내 경험 말하기 (13번)"
+  },
+  {
+    "word": "abrupt shift",
+    "pos": "noun phrase",
+    "meaning": "갑작스러운 변화",
+    "example": "The abrupt shift in our schedule confused everyone.",
+    "collocation": "cause an abrupt shift",
+    "tier": "extend",
+    "linked_word": "last-minute change",
+    "date": "2026-08-31",
+    "topic": "관련된 내 경험 말하기 (13번)"
+  },
+  {
+    "word": "patch things up",
+    "pos": "idiom",
+    "meaning": "관계를 회복하다, 수습하다",
+    "example": "They managed to patch things up after the big argument.",
+    "collocation": "patch things up with a friend",
+    "tier": "extend",
+    "linked_word": "smooth things over",
+    "date": "2026-08-31",
+    "topic": "관련된 내 경험 말하기 (13번)"
+  },
+  {
+    "word": "fateful twist",
+    "pos": "noun phrase",
+    "meaning": "운명적인(중대한) 반전",
+    "example": "A fateful twist of events led him to a new career.",
+    "collocation": "a strange fateful twist",
+    "tier": "extend",
+    "linked_word": "unexpected turn of events",
+    "date": "2026-08-31",
+    "topic": "관련된 내 경험 말하기 (13번)"
+  },
+  {
+    "word": "put first",
+    "pos": "phrasal verb",
+    "meaning": "우선시하다",
+    "example": "You should always put your health first.",
+    "collocation": "put family first",
+    "tier": "extend",
+    "linked_word": "prioritize",
+    "date": "2026-08-31",
+    "topic": "관련된 내 경험 말하기 (13번)"
+  },
+  {
+    "word": "inevitable situation",
+    "pos": "noun phrase",
+    "meaning": "피할 수 없는 상황",
+    "example": "Missing the flight was an inevitable situation due to the storm.",
+    "collocation": "face an inevitable situation",
+    "tier": "extend",
+    "linked_word": "unavoidable circumstance",
+    "date": "2026-08-31",
+    "topic": "관련된 내 경험 말하기 (13번)"
   }
 ]
