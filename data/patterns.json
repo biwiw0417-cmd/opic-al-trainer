@@ -658,5 +658,25 @@
     "unit": 7,
     "unit_title": "롤플레이 (11~13번 유형)",
     "topic": "관련된 내 경험 말하기 (13번)"
+  },
+  {
+    "pattern": "I'm calling in regards to [noun phrase]...",
+    "meaning": "~와 관련하여 전화드렸습니다 / ~건으로 문의차 연락드립니다.",
+    "usage_today": "I'm calling in regards to an online order I placed last Thursday.",
+    "extra_example": "I'm calling in regards to the job opening posted on your website.",
+    "date": "2026-09-01",
+    "unit": 7,
+    "unit_title": "롤플레이 (11~13번 유형)",
+    "topic": "전화 상황 표현 총정리"
+  },
+  {
+    "pattern": "Would it be possible for me to [verb]...?",
+    "meaning": "제가 혹시 ~하는 것이 가능할까요? (정중한 요청/문의)",
+    "usage_today": "Would it be possible for me to pick it up in person directly from your branch?",
+    "extra_example": "Would it be possible for me to change my reservation to tomorrow evening?",
+    "date": "2026-09-01",
+    "unit": 7,
+    "unit_title": "롤플레이 (11~13번 유형)",
+    "topic": "전화 상황 표현 총정리"
   }
 ]

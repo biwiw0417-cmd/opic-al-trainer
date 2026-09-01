@@ -5421,5 +5421,170 @@
     "linked_word": "unavoidable circumstance",
     "date": "2026-08-31",
     "topic": "관련된 내 경험 말하기 (13번)"
+  },
+  {
+    "word": "in regards to",
+    "pos": "prep. phr.",
+    "meaning": "~와 관련하여, ~에 관해",
+    "example": "I'm calling in regards to an online order I placed last Thursday.",
+    "collocation": "call in regards to",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-09-01",
+    "topic": "전화 상황 표현 총정리"
+  },
+  {
+    "word": "reference number",
+    "pos": "n. phr.",
+    "meaning": "참조 번호, 주문/접수 번호",
+    "example": "My order reference number is KR-8921.",
+    "collocation": "order reference number",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-09-01",
+    "topic": "전화 상황 표현 총정리"
+  },
+  {
+    "word": "shipping confirmation",
+    "pos": "n. phr.",
+    "meaning": "배송 확인 (안내/메일)",
+    "example": "I haven't received any shipping confirmation yet.",
+    "collocation": "receive a shipping confirmation",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-09-01",
+    "topic": "전화 상황 표현 총정리"
+  },
+  {
+    "word": "out of stock",
+    "pos": "adj. phr.",
+    "meaning": "품절된, 재고가 없는",
+    "example": "Could you let me know if the item is currently out of stock?",
+    "collocation": "be temporarily out of stock",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-09-01",
+    "topic": "전화 상황 표현 총정리"
+  },
+  {
+    "word": "pick it up in person",
+    "pos": "v. phr.",
+    "meaning": "직접 가서 수령하다",
+    "example": "Would it be possible for me to pick it up in person directly from your branch?",
+    "collocation": "pick it up in person at the store",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-09-01",
+    "topic": "전화 상황 표현 총정리"
+  },
+  {
+    "word": "put someone on hold",
+    "pos": "v. phr.",
+    "meaning": "~를 통화 대기 상태로 두다, 기다리게 하다",
+    "example": "If you need to look into the details, please feel free to put me on hold.",
+    "collocation": "put the caller on hold",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-09-01",
+    "topic": "전화 상황 표현 총정리"
+  },
+  {
+    "word": "at your earliest convenience",
+    "pos": "adv. phr.",
+    "meaning": "형편이 닿는 대로 최대한 빨리, 편하실 때",
+    "example": "Please call me back at your earliest convenience.",
+    "collocation": "reply at your earliest convenience",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-09-01",
+    "topic": "전화 상황 표현 총정리"
+  },
+  {
+    "word": "the line is busy",
+    "pos": "phr.",
+    "meaning": "통화 중이다",
+    "example": "I tried calling earlier, but the line was busy.",
+    "collocation": "get a busy signal",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-09-01",
+    "topic": "전화 상황 표현 총정리"
+  },
+  {
+    "word": "look into",
+    "pos": "v. phr.",
+    "meaning": "조사하다, 확인해 보다",
+    "example": "Thank you so much for looking into this!",
+    "collocation": "look into the matter",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-09-01",
+    "topic": "전화 상황 표현 총정리"
+  },
+  {
+    "word": "cut off",
+    "pos": "v. phr.",
+    "meaning": "(전화가) 끊기다, 통화 연결이 두절되다",
+    "example": "Sorry, our connection was bad and we got cut off for a second.",
+    "collocation": "get cut off during a call",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-09-01",
+    "topic": "전화 상황 표현 총정리"
+  },
+  {
+    "word": "with respect to",
+    "pos": "prep. phr.",
+    "meaning": "~에 관하여 (in regards to의 격식 대체어)",
+    "example": "I have a few questions with respect to my pending package.",
+    "collocation": "inquire with respect to",
+    "tier": "extend",
+    "linked_word": "in regards to",
+    "date": "2026-09-01",
+    "topic": "전화 상황 표현 총정리"
+  },
+  {
+    "word": "tracking code",
+    "pos": "n. phr.",
+    "meaning": "배송 추적 번호 (reference number의 유의어)",
+    "example": "Could you provide me with the tracking code for the parcel?",
+    "collocation": "check the tracking code",
+    "tier": "extend",
+    "linked_word": "reference number",
+    "date": "2026-09-01",
+    "topic": "전화 상황 표현 총정리"
+  },
+  {
+    "word": "sold out",
+    "pos": "adj. phr.",
+    "meaning": "다 팔린, 매진된 (out of stock의 일상적 유의어)",
+    "example": "I heard the model was completely sold out nationwide.",
+    "collocation": "be completely sold out",
+    "tier": "extend",
+    "linked_word": "out of stock",
+    "date": "2026-09-01",
+    "topic": "전화 상황 표현 총정리"
+  },
+  {
+    "word": "collect on site",
+    "pos": "v. phr.",
+    "meaning": "현장에서 직접 찾아가다 (pick it up in person의 대체어)",
+    "example": "I'd prefer to collect on site rather than waiting for shipping.",
+    "collocation": "collect the item on site",
+    "tier": "extend",
+    "linked_word": "pick it up in person",
+    "date": "2026-09-01",
+    "topic": "전화 상황 표현 총정리"
+  },
+  {
+    "word": "as soon as possible",
+    "pos": "adv. phr.",
+    "meaning": "가능한 한 빨리 (at your earliest convenience의 기본 표현)",
+    "example": "Please give me an update as soon as possible.",
+    "collocation": "contact as soon as possible",
+    "tier": "extend",
+    "linked_word": "at your earliest convenience",
+    "date": "2026-09-01",
+    "topic": "전화 상황 표현 총정리"
   }
 ]
