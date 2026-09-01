@@ -1,0 +1,282 @@
+{
+  "date": "2026-09-02",
+  "question": {
+    "english": "You may have had a situation where you had a problem with a reservation you made for a trip. Tell me about a time when a reservation didn't go as planned. What was the problem and how did you resolve the situation?",
+    "korean": "여행을 위해 예약했던 중 문제가 생겼던 경험이 있을 것입니다. 예약이 계획대로 되지 않았던 때에 대해 이야기해 주세요. 어떤 문제였으며 그 상황을 어떻게 해결했나요?",
+    "combo_context": "롤플레이 11~13번 콤보 중 마지막 13번 문항으로, 이전 11~12번에서 수행한 롤플레이 상황과 유사한 실제 과거 경험을 요구하는 유형입니다."
+  },
+  "model_answer": {
+    "script": "You know, looking back, I’ve had my fair share of travel mishaps, but one that really stands out happened last summer. I had booked a boutique hotel in Jeju and was really looking forward to it. The thing is, when I arrived after a long flight, the receptionist told me they were fully booked and had no record of my stay. It was a total unforeseen mix-up.\n\nI was exhausted and didn't want any last-minute hassle, so I stayed calm and showed them my confirmation email on my phone. Even then, they insisted there was nothing in the system. I had to stand my ground because I knew I had paid in full and had the receipt. After about 30 minutes of searching and making phone calls, they realized there was a clerical error on their end—they had entered my name incorrectly.\n\nThe manager was extremely apologetic and tried to rectify the situation immediately. Since they actually were out of standard rooms due to the high season, they upgraded me to a suite for free and even provided a voucher for their rooftop bar. \n\nLooking back, it was a stressful start, but it ended up being a blessing in disguise because of the room upgrade. Now, I always make sure to double-check the details and even call the property a few days before I arrive just to be safe.",
+    "structure_note": "서론(제주 여행 중 발생한 호텔 예약 문제 언급) → MP(도착했으나 예약 내역이 없다는 통보를 받음) → 디테일 확장(확인 메일을 보여주며 정당하게 요구하고, 결국 이름 입력 오류라는 것을 밝혀냄) → 감정/결과(매니저의 사과와 룸 업그레이드 보상) → 마무리(이후 생긴 습관과 교훈)",
+    "al_points": [
+      "과거 완료(I had booked)와 과거 진행(searching and making) 등 시제를 다양하고 정확하게 사용하여 서사의 시간대를 입체적으로 표현했습니다.",
+      "unforeseen mix-up, stand my ground, clerical error와 같은 고득점용 어휘를 구어체 문장 안에 자연스럽게 배치했습니다.",
+      "The thing is, Looking back과 같은 디스코스 마커를 사용해 문장 간 연결성을 높이고 답변의 흐름을 원어민스럽게 구성했습니다."
+    ]
+  },
+  "vocab": [
+    {
+      "word": "unforeseen mix-up",
+      "pos": "noun phrase",
+      "meaning": "예기치 못한 혼선/착오",
+      "example": "When I arrived, the receptionist told me it was a total unforeseen mix-up.",
+      "collocation": "cause an unforeseen mix-up",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "last-minute hassle",
+      "pos": "noun phrase",
+      "meaning": "막판의 번거로운 일",
+      "example": "I was exhausted and didn't want any last-minute hassle on my vacation.",
+      "collocation": "avoid last-minute hassle",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "stand one's ground",
+      "pos": "idiom",
+      "meaning": "자기 주장을 고수하다, 물러나지 않다",
+      "example": "I had to stand my ground because I knew I had paid in full.",
+      "collocation": "firmly stand one's ground",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "clerical error",
+      "pos": "noun phrase",
+      "meaning": "사무적인 실수, 기재상의 오류",
+      "example": "They realized there was a clerical error on their end.",
+      "collocation": "due to a clerical error",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "rectify the situation",
+      "pos": "verb phrase",
+      "meaning": "상황을 바로잡다/해결하다",
+      "example": "The manager tried to rectify the situation immediately by offering an upgrade.",
+      "collocation": "steps to rectify the situation",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "be fully booked",
+      "pos": "adjective phrase",
+      "meaning": "예약이 꽉 차다",
+      "example": "The hotel was fully booked, so there were no spare rooms available.",
+      "collocation": "be fully booked for the weekend",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "double-check the details",
+      "pos": "verb phrase",
+      "meaning": "세부 사항을 재확인하다",
+      "example": "Now, I always make sure to double-check the details before my trip.",
+      "collocation": "double-check the details twice",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "confirmation email",
+      "pos": "noun phrase",
+      "meaning": "확약 이메일",
+      "example": "I showed them my confirmation email on my phone as proof.",
+      "collocation": "receive a confirmation email",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "apologetic",
+      "pos": "adjective",
+      "meaning": "사과하는, 미안해하는",
+      "example": "The staff members were extremely apologetic about the mistake.",
+      "collocation": "in an apologetic tone",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "provide a voucher",
+      "pos": "verb phrase",
+      "meaning": "상품권/바우처를 제공하다",
+      "example": "They provided a voucher for the restaurant as a form of compensation.",
+      "collocation": "provide a voucher for future use",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "unexpected complication",
+      "pos": "noun phrase",
+      "meaning": "예상치 못한 복잡한 문제",
+      "example": "The reservation issue was an unexpected complication I hadn't prepared for.",
+      "collocation": "face an unexpected complication",
+      "tier": "extend",
+      "linked_word": "unforeseen mix-up"
+    },
+    {
+      "word": "administrative oversight",
+      "pos": "noun phrase",
+      "meaning": "행정상의 실수/간과",
+      "example": "The missing reservation was simply an administrative oversight by the staff.",
+      "collocation": "result from an administrative oversight",
+      "tier": "extend",
+      "linked_word": "clerical error"
+    },
+    {
+      "word": "remedy the problem",
+      "pos": "verb phrase",
+      "meaning": "문제를 해결하다/치유하다",
+      "example": "We are working hard to remedy the problem as quickly as possible.",
+      "collocation": "remedy the problem immediately",
+      "tier": "extend",
+      "linked_word": "rectify the situation"
+    },
+    {
+      "word": "at maximum capacity",
+      "pos": "adjective phrase",
+      "meaning": "수용 인원이 꽉 찬",
+      "example": "During the peak season, most hotels are at maximum capacity.",
+      "collocation": "operate at maximum capacity",
+      "tier": "extend",
+      "linked_word": "be fully booked"
+    },
+    {
+      "word": "remorseful",
+      "pos": "adjective",
+      "meaning": "후회하는, 뉘우치는",
+      "example": "The manager sounded truly remorseful for the inconvenience caused.",
+      "collocation": "deeply remorseful",
+      "tier": "extend",
+      "linked_word": "apologetic"
+    }
+  ],
+  "vocab_quiz": [
+    {
+      "type": "matching",
+      "question": "Which of the following means '사무적인 실수'?",
+      "choices": [
+        "clerical error",
+        "last-minute hassle",
+        "confirmation email",
+        "unexpected complication"
+      ],
+      "answer_index": 0
+    },
+    {
+      "type": "matching",
+      "question": "Which word describes someone who is expressing regret or saying sorry?",
+      "choices": [
+        "remorseful",
+        "versatile",
+        "visionary",
+        "indifferent"
+      ],
+      "answer_index": 0
+    },
+    {
+      "type": "matching",
+      "question": "What is the meaning of 'be fully booked'?",
+      "choices": [
+        "책을 많이 읽다",
+        "예약이 꽉 차다",
+        "이동 중이다",
+        "일정이 취소되다"
+      ],
+      "answer_index": 1
+    },
+    {
+      "type": "blank",
+      "question": "I always make sure to ____ the details before I leave for the airport.",
+      "choices": [
+        "double-check",
+        "rectify",
+        "stand my ground",
+        "provide"
+      ],
+      "answer_index": 0
+    },
+    {
+      "type": "blank",
+      "question": "I showed the receptionist my ____ to prove that I had a valid booking.",
+      "choices": [
+        "clerical error",
+        "confirmation email",
+        "last-minute hassle",
+        "voucher"
+      ],
+      "answer_index": 1
+    },
+    {
+      "type": "synonym",
+      "question": "Which phrase can replace 'rectify the situation' in the script?",
+      "choices": [
+        "remedy the problem",
+        "complicate the issue",
+        "ignore the facts",
+        "accept the fate"
+      ],
+      "answer_index": 0
+    },
+    {
+      "type": "synonym",
+      "question": "Which word is a synonym for 'unforeseen mix-up'?",
+      "choices": [
+        "administrative oversight",
+        "unexpected complication",
+        "last-minute hassle",
+        "planned event"
+      ],
+      "answer_index": 1
+    }
+  ],
+  "patterns": [
+    {
+      "pattern": "It turned out there was a [noun] on [someone's] end.",
+      "meaning": "~쪽의 실수/오류임이 밝혀졌다.",
+      "usage_today": "After about 30 minutes of searching, they realized there was a clerical error on their end.",
+      "extra_example": "It turned out there was a communication breakdown on the shipping company's end."
+    },
+    {
+      "pattern": "I had to [verb] because I knew [clause].",
+      "meaning": "~인 것을 알고 있었기에 ~해야만 했다.",
+      "usage_today": "I had to stand my ground because I knew I had paid in full.",
+      "extra_example": "I had to call them again because I knew the deadline was approaching."
+    }
+  ],
+  "review_words": [
+    {
+      "word": "food scene",
+      "learned_date": "2026-08-26",
+      "new_example": "The local food scene in Jeju is incredibly vibrant, so I was eager to explore it after checking in."
+    },
+    {
+      "word": "diverse culinary options",
+      "learned_date": "2026-08-26",
+      "new_example": "The hotel was surrounded by diverse culinary options, ranging from fresh seafood to traditional pork dishes."
+    },
+    {
+      "word": "satisfy one's craving",
+      "learned_date": "2026-08-26",
+      "new_example": "I couldn't wait to satisfy my craving for black pork belly once the room issue was resolved."
+    },
+    {
+      "word": "hole-in-the-wall restaurant",
+      "learned_date": "2026-08-26",
+      "new_example": "While waiting for the manager, I looked up a famous hole-in-the-wall restaurant nearby to grab a quick bite."
+    }
+  ],
+  "review_patterns": [],
+  "checklist": [
+    "오늘 단어를 4개 이상 썼다",
+    "과거 시제가 흔들리지 않았다",
+    "MP 후 디테일을 2개 이상 확장했다",
+    "감정이나 생각을 말했다",
+    "마무리 문장을 했다",
+    "필러 없이 침묵 3초 이상이 없었다"
+  ],
+  "type": "daily",
+  "unit": 7,
+  "unit_title": "롤플레이 (11~13번 유형)",
+  "topic": "롤플레이 콤보 통합 연습"
+}

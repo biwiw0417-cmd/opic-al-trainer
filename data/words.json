@@ -5586,5 +5586,170 @@
     "linked_word": "at your earliest convenience",
     "date": "2026-09-01",
     "topic": "전화 상황 표현 총정리"
+  },
+  {
+    "word": "unforeseen mix-up",
+    "pos": "noun phrase",
+    "meaning": "예기치 못한 혼선/착오",
+    "example": "When I arrived, the receptionist told me it was a total unforeseen mix-up.",
+    "collocation": "cause an unforeseen mix-up",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-09-02",
+    "topic": "롤플레이 콤보 통합 연습"
+  },
+  {
+    "word": "last-minute hassle",
+    "pos": "noun phrase",
+    "meaning": "막판의 번거로운 일",
+    "example": "I was exhausted and didn't want any last-minute hassle on my vacation.",
+    "collocation": "avoid last-minute hassle",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-09-02",
+    "topic": "롤플레이 콤보 통합 연습"
+  },
+  {
+    "word": "stand one's ground",
+    "pos": "idiom",
+    "meaning": "자기 주장을 고수하다, 물러나지 않다",
+    "example": "I had to stand my ground because I knew I had paid in full.",
+    "collocation": "firmly stand one's ground",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-09-02",
+    "topic": "롤플레이 콤보 통합 연습"
+  },
+  {
+    "word": "clerical error",
+    "pos": "noun phrase",
+    "meaning": "사무적인 실수, 기재상의 오류",
+    "example": "They realized there was a clerical error on their end.",
+    "collocation": "due to a clerical error",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-09-02",
+    "topic": "롤플레이 콤보 통합 연습"
+  },
+  {
+    "word": "rectify the situation",
+    "pos": "verb phrase",
+    "meaning": "상황을 바로잡다/해결하다",
+    "example": "The manager tried to rectify the situation immediately by offering an upgrade.",
+    "collocation": "steps to rectify the situation",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-09-02",
+    "topic": "롤플레이 콤보 통합 연습"
+  },
+  {
+    "word": "be fully booked",
+    "pos": "adjective phrase",
+    "meaning": "예약이 꽉 차다",
+    "example": "The hotel was fully booked, so there were no spare rooms available.",
+    "collocation": "be fully booked for the weekend",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-09-02",
+    "topic": "롤플레이 콤보 통합 연습"
+  },
+  {
+    "word": "double-check the details",
+    "pos": "verb phrase",
+    "meaning": "세부 사항을 재확인하다",
+    "example": "Now, I always make sure to double-check the details before my trip.",
+    "collocation": "double-check the details twice",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-09-02",
+    "topic": "롤플레이 콤보 통합 연습"
+  },
+  {
+    "word": "confirmation email",
+    "pos": "noun phrase",
+    "meaning": "확약 이메일",
+    "example": "I showed them my confirmation email on my phone as proof.",
+    "collocation": "receive a confirmation email",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-09-02",
+    "topic": "롤플레이 콤보 통합 연습"
+  },
+  {
+    "word": "apologetic",
+    "pos": "adjective",
+    "meaning": "사과하는, 미안해하는",
+    "example": "The staff members were extremely apologetic about the mistake.",
+    "collocation": "in an apologetic tone",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-09-02",
+    "topic": "롤플레이 콤보 통합 연습"
+  },
+  {
+    "word": "provide a voucher",
+    "pos": "verb phrase",
+    "meaning": "상품권/바우처를 제공하다",
+    "example": "They provided a voucher for the restaurant as a form of compensation.",
+    "collocation": "provide a voucher for future use",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-09-02",
+    "topic": "롤플레이 콤보 통합 연습"
+  },
+  {
+    "word": "unexpected complication",
+    "pos": "noun phrase",
+    "meaning": "예상치 못한 복잡한 문제",
+    "example": "The reservation issue was an unexpected complication I hadn't prepared for.",
+    "collocation": "face an unexpected complication",
+    "tier": "extend",
+    "linked_word": "unforeseen mix-up",
+    "date": "2026-09-02",
+    "topic": "롤플레이 콤보 통합 연습"
+  },
+  {
+    "word": "administrative oversight",
+    "pos": "noun phrase",
+    "meaning": "행정상의 실수/간과",
+    "example": "The missing reservation was simply an administrative oversight by the staff.",
+    "collocation": "result from an administrative oversight",
+    "tier": "extend",
+    "linked_word": "clerical error",
+    "date": "2026-09-02",
+    "topic": "롤플레이 콤보 통합 연습"
+  },
+  {
+    "word": "remedy the problem",
+    "pos": "verb phrase",
+    "meaning": "문제를 해결하다/치유하다",
+    "example": "We are working hard to remedy the problem as quickly as possible.",
+    "collocation": "remedy the problem immediately",
+    "tier": "extend",
+    "linked_word": "rectify the situation",
+    "date": "2026-09-02",
+    "topic": "롤플레이 콤보 통합 연습"
+  },
+  {
+    "word": "at maximum capacity",
+    "pos": "adjective phrase",
+    "meaning": "수용 인원이 꽉 찬",
+    "example": "During the peak season, most hotels are at maximum capacity.",
+    "collocation": "operate at maximum capacity",
+    "tier": "extend",
+    "linked_word": "be fully booked",
+    "date": "2026-09-02",
+    "topic": "롤플레이 콤보 통합 연습"
+  },
+  {
+    "word": "remorseful",
+    "pos": "adjective",
+    "meaning": "후회하는, 뉘우치는",
+    "example": "The manager sounded truly remorseful for the inconvenience caused.",
+    "collocation": "deeply remorseful",
+    "tier": "extend",
+    "linked_word": "apologetic",
+    "date": "2026-09-02",
+    "topic": "롤플레이 콤보 통합 연습"
   }
 ]

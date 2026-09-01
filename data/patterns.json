@@ -678,5 +678,25 @@
     "unit": 7,
     "unit_title": "롤플레이 (11~13번 유형)",
     "topic": "전화 상황 표현 총정리"
+  },
+  {
+    "pattern": "It turned out there was a [noun] on [someone's] end.",
+    "meaning": "~쪽의 실수/오류임이 밝혀졌다.",
+    "usage_today": "After about 30 minutes of searching, they realized there was a clerical error on their end.",
+    "extra_example": "It turned out there was a communication breakdown on the shipping company's end.",
+    "date": "2026-09-02",
+    "unit": 7,
+    "unit_title": "롤플레이 (11~13번 유형)",
+    "topic": "롤플레이 콤보 통합 연습"
+  },
+  {
+    "pattern": "I had to [verb] because I knew [clause].",
+    "meaning": "~인 것을 알고 있었기에 ~해야만 했다.",
+    "usage_today": "I had to stand my ground because I knew I had paid in full.",
+    "extra_example": "I had to call them again because I knew the deadline was approaching.",
+    "date": "2026-09-02",
+    "unit": 7,
+    "unit_title": "롤플레이 (11~13번 유형)",
+    "topic": "롤플레이 콤보 통합 연습"
   }
 ]
