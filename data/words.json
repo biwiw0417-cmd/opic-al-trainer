@@ -5751,5 +5751,170 @@
     "linked_word": "apologetic",
     "date": "2026-09-02",
     "topic": "롤플레이 콤보 통합 연습"
+  },
+  {
+    "word": "patch of dirt",
+    "pos": "noun phrase",
+    "meaning": "흙바닥, 풀밭",
+    "example": "Back in the day, it was really just a simple patch of dirt with a couple of rusted benches.",
+    "collocation": "bare patch of dirt",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-09-03",
+    "topic": "과거와 현재의 변화 논하기"
+  },
+  {
+    "word": "neglected and desolate",
+    "pos": "adjective phrase",
+    "meaning": "방치되어 황량한",
+    "example": "The place felt kind of neglected and desolate before the renovation.",
+    "collocation": "look neglected and desolate",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-09-03",
+    "topic": "과거와 현재의 변화 논하기"
+  },
+  {
+    "word": "revamp the area",
+    "pos": "verb phrase",
+    "meaning": "지역을 전면 개보수하다",
+    "example": "The local government completely revamped the area a few years ago.",
+    "collocation": "completely revamp the area",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-09-03",
+    "topic": "과거와 현재의 변화 논하기"
+  },
+  {
+    "word": "breathes life into",
+    "pos": "verb phrase",
+    "meaning": "~에 활력을 불어넣다",
+    "example": "Lush green landscaping really breathes life into the neighborhood.",
+    "collocation": "breathe new life into",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-09-03",
+    "topic": "과거와 현재의 변화 논하기"
+  },
+  {
+    "word": "night-and-day contrast",
+    "pos": "noun phrase",
+    "meaning": "하늘과 땅 차이, 극명한 대비",
+    "example": "The atmosphere has undergone a night-and-day contrast compared to the past.",
+    "collocation": "show a night-and-day contrast",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-09-03",
+    "topic": "과거와 현재의 변화 논하기"
+  },
+  {
+    "word": "bustling with",
+    "pos": "adjective phrase",
+    "meaning": "~로 붐비는, 활기찬",
+    "example": "Now it's constantly bustling with families and young professionals.",
+    "collocation": "bustling with activity",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-09-03",
+    "topic": "과거와 현재의 변화 논하기"
+  },
+  {
+    "word": "redevelopment",
+    "pos": "noun",
+    "meaning": "재개발, 재건축",
+    "example": "The city announced a major redevelopment plan for the old industrial district.",
+    "collocation": "urban redevelopment",
+    "tier": "extend",
+    "linked_word": "revamp the area",
+    "date": "2026-09-03",
+    "topic": "과거와 현재의 변화 논하기"
+  },
+  {
+    "word": "barren",
+    "pos": "adjective",
+    "meaning": "황량한, 척박한",
+    "example": "The courtyard used to be a barren piece of land before we planted trees.",
+    "collocation": "barren landscape",
+    "tier": "extend",
+    "linked_word": "neglected and desolate",
+    "date": "2026-09-03",
+    "topic": "과거와 현재의 변화 논하기"
+  },
+  {
+    "word": "vitality",
+    "pos": "noun",
+    "meaning": "활력, 생기",
+    "example": "The new community center brought new vitality to the quiet town.",
+    "collocation": "inject vitality into",
+    "tier": "extend",
+    "linked_word": "breathes life into",
+    "date": "2026-09-03",
+    "topic": "과거와 현재의 변화 논하기"
+  },
+  {
+    "word": "stark difference",
+    "pos": "noun phrase",
+    "meaning": "뚜렷한 차이",
+    "example": "There is a stark difference between my hometown now and twenty years ago.",
+    "collocation": "notice a stark difference",
+    "tier": "extend",
+    "linked_word": "night-and-day contrast",
+    "date": "2026-09-03",
+    "topic": "과거와 현재의 변화 논하기"
+  },
+  {
+    "word": "teeming with",
+    "pos": "adjective phrase",
+    "meaning": "~로 바글거리는, 가득한",
+    "example": "On weekends, the shopping district is teeming with shoppers looking for discounts.",
+    "collocation": "teeming with life",
+    "tier": "extend",
+    "linked_word": "bustling with",
+    "date": "2026-09-03",
+    "topic": "과거와 현재의 변화 논하기"
+  },
+  {
+    "word": "transform a space",
+    "pos": "verb phrase",
+    "meaning": "공간을 탈바꿈시키다",
+    "example": "Architects worked hard to transform a space into a modern cultural center.",
+    "collocation": "completely transform a space",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-09-03",
+    "topic": "과거와 현재의 변화 논하기"
+  },
+  {
+    "word": "smart infrastructure",
+    "pos": "noun phrase",
+    "meaning": "스마트 기반 시설",
+    "example": "The city invested heavily in smart infrastructure to improve citizen convenience.",
+    "collocation": "upgrade smart infrastructure",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-09-03",
+    "topic": "과거와 현재의 변화 논하기"
+  },
+  {
+    "word": "quality of living",
+    "pos": "noun phrase",
+    "meaning": "삶의 질",
+    "example": "Better public facilities contribute greatly to our overall quality of living.",
+    "collocation": "enhance quality of living",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-09-03",
+    "topic": "과거와 현재의 변화 논하기"
+  },
+  {
+    "word": "urban renewal",
+    "pos": "noun phrase",
+    "meaning": "도시 재생",
+    "example": "Urban renewal projects often help preserve old historical neighborhoods while modernizing them.",
+    "collocation": "successful urban renewal",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-09-03",
+    "topic": "과거와 현재의 변화 논하기"
   }
 ]

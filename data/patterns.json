@@ -698,5 +698,25 @@
     "unit": 7,
     "unit_title": "롤플레이 (11~13번 유형)",
     "topic": "롤플레이 콤보 통합 연습"
+  },
+  {
+    "pattern": "Looking back, the main point is that [subject] completely [verb] [object]...",
+    "meaning": "돌이켜보면, 핵심은 [주어]가 완전히 [동사]했다는 점입니다...",
+    "usage_today": "Looking back, the main point is that the local government completely revamped the area a few years ago.",
+    "extra_example": "Looking back, the main point is that our team completely overhauled the project workflow last year.",
+    "date": "2026-09-03",
+    "unit": 8,
+    "unit_title": "고난도 마무리 (14~15번 + 실전)",
+    "topic": "과거와 현재의 변화 논하기"
+  },
+  {
+    "pattern": "It used to be [adjective] and [adjective] at night, but now it's constantly bustling with [noun]...",
+    "meaning": "예전에는 밤에 [형용사]하고 [형용사]했는데, 지금은 [명사]로 끊임없이 붐비네요...",
+    "usage_today": "It used to be eerily quiet and dark at night, but now it's constantly bustling with families, seniors, and young professionals.",
+    "extra_example": "It used to be quiet and empty at night, but now it's constantly bustling with local residents.",
+    "date": "2026-09-03",
+    "unit": 8,
+    "unit_title": "고난도 마무리 (14~15번 + 실전)",
+    "topic": "과거와 현재의 변화 논하기"
   }
 ]
