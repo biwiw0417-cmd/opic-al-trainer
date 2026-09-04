@@ -5916,5 +5916,159 @@
     "linked_word": null,
     "date": "2026-09-03",
     "topic": "과거와 현재의 변화 논하기"
+  },
+  {
+    "word": "skyrocketing",
+    "pos": "adjective",
+    "meaning": "치솟는, 급등하는",
+    "example": "Basically, housing prices have been skyrocketing over the past few years.",
+    "collocation": "skyrocketing prices",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-09-04",
+    "topic": "사회적 이슈에 의견 말하기"
+  },
+  {
+    "word": "out of reach",
+    "pos": "idiom",
+    "meaning": "손이 닿지 않는, 얻기 힘든",
+    "example": "Buying an apartment in a decent area feels almost out of reach.",
+    "collocation": "stay out of reach",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-09-04",
+    "topic": "사회적 이슈에 의견 말하기"
+  },
+  {
+    "word": "grapple with",
+    "pos": "verb phrase",
+    "meaning": "~을 해결하려고 노력하다, ~와 씨름하다",
+    "example": "Many young adults grapple with high monthly rents.",
+    "collocation": "grapple with a problem",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-09-04",
+    "topic": "사회적 이슈에 의견 말하기"
+  },
+  {
+    "word": "step up",
+    "pos": "verb phrase",
+    "meaning": "강화하다, (조치를) 취하다",
+    "example": "I think it’s high time for policy-makers to step up.",
+    "collocation": "step up efforts",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-09-04",
+    "topic": "사회적 이슈에 의견 말하기"
+  },
+  {
+    "word": "real estate bubble",
+    "pos": "noun phrase",
+    "meaning": "부동산 거품",
+    "example": "There's this huge real estate bubble that hasn't really popped yet.",
+    "collocation": "burst the real estate bubble",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-09-04",
+    "topic": "사회적 이슈에 의견 말하기"
+  },
+  {
+    "word": "gentrification",
+    "pos": "noun",
+    "meaning": "젠트리피케이션 (낙후 지역이 고급화되며 원주민이 쫓겨나는 현상)",
+    "example": "Gentrification is pushing small business owners out of the neighborhood.",
+    "collocation": "urban gentrification",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-09-04",
+    "topic": "사회적 이슈에 의견 말하기"
+  },
+  {
+    "word": "rental market",
+    "pos": "noun phrase",
+    "meaning": "임대 시장",
+    "example": "Policy-makers need to focus on stabilizing the rental market.",
+    "collocation": "fluctuations in the rental market",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-09-04",
+    "topic": "사회적 이슈에 의견 말하기"
+  },
+  {
+    "word": "housing shortage",
+    "pos": "noun phrase",
+    "meaning": "주택 부족",
+    "example": "The housing shortage in the city is a major concern for the government.",
+    "collocation": "alleviate housing shortage",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-09-04",
+    "topic": "사회적 이슈에 의견 말하기"
+  },
+  {
+    "word": "policy-makers",
+    "pos": "noun",
+    "meaning": "정책 입안자",
+    "example": "Policy-makers are debating the new tax laws.",
+    "collocation": "government policy-makers",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-09-04",
+    "topic": "사회적 이슈에 의견 말하기"
+  },
+  {
+    "word": "soaring",
+    "pos": "adjective",
+    "meaning": "급등하는, 날아오르는",
+    "example": "The soaring inflation is affecting the cost of daily necessities.",
+    "collocation": "soaring demand",
+    "tier": "extend",
+    "linked_word": "skyrocketing",
+    "date": "2026-09-04",
+    "topic": "사회적 이슈에 의견 말하기"
+  },
+  {
+    "word": "unattainable",
+    "pos": "adjective",
+    "meaning": "도달 불가능한, 얻을 수 없는",
+    "example": "For many, home ownership has become an unattainable dream.",
+    "collocation": "unattainable goal",
+    "tier": "extend",
+    "linked_word": "out of reach",
+    "date": "2026-09-04",
+    "topic": "사회적 이슈에 의견 말하기"
+  },
+  {
+    "word": "struggle with",
+    "pos": "verb phrase",
+    "meaning": "~로 고심하다, 어려움을 겪다",
+    "example": "Small businesses struggle with high interest rates.",
+    "collocation": "struggle with debt",
+    "tier": "extend",
+    "linked_word": "grapple with",
+    "date": "2026-09-04",
+    "topic": "사회적 이슈에 의견 말하기"
+  },
+  {
+    "word": "give precedence to",
+    "pos": "verb phrase",
+    "meaning": "~에 우선권을 주다, ~을 우선하다",
+    "example": "The committee decided to give precedence to environmental issues.",
+    "collocation": "give precedence over something",
+    "tier": "extend",
+    "linked_word": "prioritize",
+    "date": "2026-09-04",
+    "topic": "사회적 이슈에 의견 말하기"
+  },
+  {
+    "word": "take action",
+    "pos": "verb phrase",
+    "meaning": "조치를 취하다, 행동에 나서다",
+    "example": "We need to take action before the situation gets out of hand.",
+    "collocation": "take immediate action",
+    "tier": "extend",
+    "linked_word": "step up",
+    "date": "2026-09-04",
+    "topic": "사회적 이슈에 의견 말하기"
   }
 ]

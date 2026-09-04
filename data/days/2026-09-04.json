@@ -1,0 +1,309 @@
+{
+  "date": "2026-09-04",
+  "question": {
+    "english": "Let’s talk about the housing market in your country. Many people, especially young adults, are finding it difficult to find affordable homes in big cities. What are the major challenges people face today regarding housing, and what do you think about this issue?",
+    "korean": "당신 나라의 주택 시장에 대해 이야기해 봅시다. 많은 사람들, 특히 청년층이 대도시에서 감당 가능한 집을 찾는 데 어려움을 겪고 있습니다. 오늘날 사람들이 주택과 관련하여 직면한 주요 어려움은 무엇이며, 이 문제에 대해 어떻게 생각하시나요?",
+    "combo_context": "OPIc 14~15번 고난도 유형으로, 특정 사회적 이슈에 대한 현황 설명과 본인의 견해를 묻는 콤보의 마지막 질문입니다."
+  },
+  "model_answer": {
+    "script": "To be honest, the housing issue is probably one of the most talked-about topics in Korea right now. The thing is, the cost of living in major cities like Seoul is becoming a serious concern for many. It’s not just a minor inconvenience; it’s a real crisis for the younger generation.\n\nBasically, housing prices have been skyrocketing over the past few years. Even if you work a stable job and save up, buying an apartment in a decent area feels almost out of reach. This has led to a situation where many young adults grapple with high monthly rents, which makes it nearly impossible to save for the future. Looking back, it wasn't this extreme a decade ago, but now there's this huge real estate bubble that hasn't really popped yet.\n\nIn my opinion, this housing shortage and the high prices are discouraging people from getting married or having children. It's a domino effect. I feel quite frustrated when I see my friends struggling just to find a tiny studio that they can afford. \n\nI think it’s high time for policy-makers to step up and create more practical solutions. They should prioritize increasing the supply of public housing and stabilizing the rental market. Without these changes, the gap between the rich and the poor will only get wider. So yeah, that’s my take on the current housing situation in Korea.",
+    "structure_note": "서론(주택 문제가 한국의 뜨거운 감자임을 언급) → MP(서울 등 대도시의 치솟는 주거비가 심각한 문제임을 명시) → 디테일 1(치솟는 집값과 'out of reach'한 현실 묘사) → 디테일 2(청년층이 겪는 고충과 사회적 여파 설명) → 생각/감정(친구들의 사례와 느낀 좌절감) → 마무리(정책적 해결 촉구 및 요약)",
+    "al_points": [
+      "'The thing is...'와 'It’s high time for...' 같은 고득점 구어체 디스코스 마커와 패턴을 사용하여 논리적 흐름을 잡았습니다.",
+      "'skyrocketing', 'out of reach', 'grapple with' 등 단순한 단어보다는 구체적인 상태와 동작을 묘사하는 표현을 사용하여 AL 어휘력을 보여줍니다.",
+      "과거와 현재의 상황을 비교(a decade ago vs now)하고, 개인의 의견에서 사회적 영향(domino effect)으로 시야를 확장하는 디테일 전개 방식이 돋보입니다."
+    ]
+  },
+  "vocab": [
+    {
+      "word": "skyrocketing",
+      "pos": "adjective",
+      "meaning": "치솟는, 급등하는",
+      "example": "Basically, housing prices have been skyrocketing over the past few years.",
+      "collocation": "skyrocketing prices",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "out of reach",
+      "pos": "idiom",
+      "meaning": "손이 닿지 않는, 얻기 힘든",
+      "example": "Buying an apartment in a decent area feels almost out of reach.",
+      "collocation": "stay out of reach",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "grapple with",
+      "pos": "verb phrase",
+      "meaning": "~을 해결하려고 노력하다, ~와 씨름하다",
+      "example": "Many young adults grapple with high monthly rents.",
+      "collocation": "grapple with a problem",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "prioritize",
+      "pos": "verb",
+      "meaning": "우선순위를 두다",
+      "example": "They should prioritize increasing the supply of public housing.",
+      "collocation": "prioritize tasks",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "step up",
+      "pos": "verb phrase",
+      "meaning": "강화하다, (조치를) 취하다",
+      "example": "I think it’s high time for policy-makers to step up.",
+      "collocation": "step up efforts",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "real estate bubble",
+      "pos": "noun phrase",
+      "meaning": "부동산 거품",
+      "example": "There's this huge real estate bubble that hasn't really popped yet.",
+      "collocation": "burst the real estate bubble",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "gentrification",
+      "pos": "noun",
+      "meaning": "젠트리피케이션 (낙후 지역이 고급화되며 원주민이 쫓겨나는 현상)",
+      "example": "Gentrification is pushing small business owners out of the neighborhood.",
+      "collocation": "urban gentrification",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "rental market",
+      "pos": "noun phrase",
+      "meaning": "임대 시장",
+      "example": "Policy-makers need to focus on stabilizing the rental market.",
+      "collocation": "fluctuations in the rental market",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "housing shortage",
+      "pos": "noun phrase",
+      "meaning": "주택 부족",
+      "example": "The housing shortage in the city is a major concern for the government.",
+      "collocation": "alleviate housing shortage",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "policy-makers",
+      "pos": "noun",
+      "meaning": "정책 입안자",
+      "example": "Policy-makers are debating the new tax laws.",
+      "collocation": "government policy-makers",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "soaring",
+      "pos": "adjective",
+      "meaning": "급등하는, 날아오르는",
+      "example": "The soaring inflation is affecting the cost of daily necessities.",
+      "collocation": "soaring demand",
+      "tier": "extend",
+      "linked_word": "skyrocketing"
+    },
+    {
+      "word": "unattainable",
+      "pos": "adjective",
+      "meaning": "도달 불가능한, 얻을 수 없는",
+      "example": "For many, home ownership has become an unattainable dream.",
+      "collocation": "unattainable goal",
+      "tier": "extend",
+      "linked_word": "out of reach"
+    },
+    {
+      "word": "struggle with",
+      "pos": "verb phrase",
+      "meaning": "~로 고심하다, 어려움을 겪다",
+      "example": "Small businesses struggle with high interest rates.",
+      "collocation": "struggle with debt",
+      "tier": "extend",
+      "linked_word": "grapple with"
+    },
+    {
+      "word": "give precedence to",
+      "pos": "verb phrase",
+      "meaning": "~에 우선권을 주다, ~을 우선하다",
+      "example": "The committee decided to give precedence to environmental issues.",
+      "collocation": "give precedence over something",
+      "tier": "extend",
+      "linked_word": "prioritize"
+    },
+    {
+      "word": "take action",
+      "pos": "verb phrase",
+      "meaning": "조치를 취하다, 행동에 나서다",
+      "example": "We need to take action before the situation gets out of hand.",
+      "collocation": "take immediate action",
+      "tier": "extend",
+      "linked_word": "step up"
+    }
+  ],
+  "vocab_quiz": [
+    {
+      "type": "matching",
+      "question": "다음 중 'grapple with'의 뜻으로 가장 적절한 것은?",
+      "choices": [
+        "어떤 것을 포기하다",
+        "문제를 해결하려 씨름하다",
+        "다른 사람과 협상하다",
+        "규칙을 어기다"
+      ],
+      "answer_index": 1
+    },
+    {
+      "type": "matching",
+      "question": "다음 중 'prioritize'의 뜻으로 가장 적절한 것은?",
+      "choices": [
+        "무작위로 고르다",
+        "일의 순서를 미루다",
+        "우선순위를 정하다",
+        "전부 거부하다"
+      ],
+      "answer_index": 2
+    },
+    {
+      "type": "matching",
+      "question": "다음 중 '정책 입안자'를 뜻하는 단어는?",
+      "choices": [
+        "law-breakers",
+        "policy-makers",
+        "home-owners",
+        "stake-holders"
+      ],
+      "answer_index": 1
+    },
+    {
+      "type": "blank",
+      "question": "Housing prices have been ____ over the past few years, making it hard for buyers.",
+      "choices": [
+        "plummeting",
+        "stagnating",
+        "skyrocketing",
+        "stabilizing"
+      ],
+      "answer_index": 2
+    },
+    {
+      "type": "blank",
+      "question": "The government needs to ____ to resolve the housing shortage immediately.",
+      "choices": [
+        "step down",
+        "step up",
+        "back up",
+        "back out"
+      ],
+      "answer_index": 1
+    },
+    {
+      "type": "synonym",
+      "question": "스크립트의 'skyrocketing' 대신 쓸 수 있는 말은?",
+      "choices": [
+        "soaring",
+        "shrinking",
+        "dropping",
+        "fluctuating"
+      ],
+      "answer_index": 0
+    },
+    {
+      "type": "synonym",
+      "question": "스크립트의 'out of reach' 대신 쓸 수 있는 말은?",
+      "choices": [
+        "within grasp",
+        "affordable",
+        "unattainable",
+        "accessible"
+      ],
+      "answer_index": 2
+    }
+  ],
+  "patterns": [
+    {
+      "pattern": "The thing is, [clause] is becoming a serious concern for many.",
+      "meaning": "문제는, [절]이 많은 이들에게 심각한 우려 사항이 되고 있다는 것입니다.",
+      "usage_today": "The thing is, the cost of living in major cities like Seoul is becoming a serious concern for many.",
+      "extra_example": "The thing is, job security in the tech industry is becoming a serious concern for many young professionals."
+    },
+    {
+      "pattern": "It’s high time for [someone] to [verb]...",
+      "meaning": "[누구]가 이제는 정말로 [무엇]을 해야 할 때입니다.",
+      "usage_today": "I think it’s high time for policy-makers to step up and create more practical solutions.",
+      "extra_example": "It’s high time for the company to reconsider its remote work policy."
+    }
+  ],
+  "review_words": [
+    {
+      "word": "in regards to",
+      "learned_date": "2026-09-01",
+      "new_example": "In regards to the housing crisis, the government is planning a new subsidy program."
+    },
+    {
+      "word": "reference number",
+      "learned_date": "2026-09-01",
+      "new_example": "If you are inquiring about the property listing, please provide the reference number."
+    },
+    {
+      "word": "shipping confirmation",
+      "learned_date": "2026-09-01",
+      "new_example": "I'm still waiting for the shipping confirmation for the furniture I bought for my new flat."
+    },
+    {
+      "word": "out of stock",
+      "learned_date": "2026-09-01",
+      "new_example": "Most of the affordable studio apartments are currently out of stock on the app."
+    },
+    {
+      "word": "make it",
+      "learned_date": "2026-08-28",
+      "new_example": "I don't think I can make it to the open house viewing tomorrow."
+    },
+    {
+      "word": "something urgent has come up",
+      "learned_date": "2026-08-28",
+      "new_example": "I'm sorry I can't discuss the contract now; something urgent has come up at work."
+    },
+    {
+      "word": "be tied up",
+      "learned_date": "2026-08-28",
+      "new_example": "The real estate agent is tied up with another client at the moment."
+    },
+    {
+      "word": "out of the question",
+      "learned_date": "2026-08-28",
+      "new_example": "Buying a house in Gangnam is completely out of the question for me right now."
+    }
+  ],
+  "review_patterns": [
+    {
+      "pattern": "I'm calling in regards to [noun phrase]...",
+      "learned_date": "2026-09-01",
+      "new_example": "I'm calling in regards to the new housing policy mentioned in the news today.",
+      "mini_mission": "이 패턴과 오늘 배운 단어 'policy-makers'를 함께 써서 한 문장 말해보세요: \"I'm calling in regards to the statement made by the policy-makers yesterday.\""
+    }
+  ],
+  "checklist": [
+    "오늘 단어를 4개 이상 썼다",
+    "과거 시제가 흔들리지 않았다",
+    "MP 후 디테일을 2개 이상 확장했다",
+    "감정이나 생각을 말했다",
+    "마무리 문장을 했다",
+    "필러 없이 침묵 3초 이상이 없었다"
+  ],
+  "type": "daily",
+  "unit": 8,
+  "unit_title": "고난도 마무리 (14~15번 + 실전)",
+  "topic": "사회적 이슈에 의견 말하기"
+}
