@@ -6235,5 +6235,159 @@
     "linked_word": "implement a policy",
     "date": "2026-09-07",
     "topic": "뉴스나 기사 내용 설명하기"
+  },
+  {
+    "word": "rely heavily on",
+    "pos": "verb phrase",
+    "meaning": "~에 크게 의존하다",
+    "example": "In the past, people had to rely heavily on newspaper ads to find homes.",
+    "collocation": "rely heavily on technology",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-09-08",
+    "topic": "예상 콤보 세트 실전 모의 1"
+  },
+  {
+    "word": "reputable agent",
+    "pos": "noun phrase",
+    "meaning": "평판이 좋은 중개인",
+    "example": "Finding a reputable agent is still important, even with all the apps available.",
+    "collocation": "consult a reputable agent",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-09-08",
+    "topic": "예상 콤보 세트 실전 모의 1"
+  },
+  {
+    "word": "at the touch of a button",
+    "pos": "idiom",
+    "meaning": "버튼 하나로, 아주 쉽게",
+    "example": "You can check market prices at the touch of a button.",
+    "collocation": "available at the touch of a button",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-09-08",
+    "topic": "예상 콤보 세트 실전 모의 1"
+  },
+  {
+    "word": "virtual tour",
+    "pos": "noun phrase",
+    "meaning": "가상 투어 (VR 등을 이용한 구경)",
+    "example": "A virtual tour helps you see the layout without visiting the site.",
+    "collocation": "take a virtual tour",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-09-08",
+    "topic": "예상 콤보 세트 실전 모의 1"
+  },
+  {
+    "word": "narrow down",
+    "pos": "verb phrase",
+    "meaning": "(범위를) 좁히다",
+    "example": "The filter function helps me narrow down my choices to just three houses.",
+    "collocation": "narrow down the options",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-09-08",
+    "topic": "예상 콤보 세트 실전 모의 1"
+  },
+  {
+    "word": "market trends",
+    "pos": "noun phrase",
+    "meaning": "시장 동향",
+    "example": "I use financial apps to keep track of the latest market trends in real estate.",
+    "collocation": "analyze market trends",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-09-08",
+    "topic": "예상 콤보 세트 실전 모의 1"
+  },
+  {
+    "word": "mortgage rates",
+    "pos": "noun phrase",
+    "meaning": "주택 담보 대출 금리",
+    "example": "Homebuyers are very sensitive to fluctuations in mortgage rates.",
+    "collocation": "fixed mortgage rates",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-09-08",
+    "topic": "예상 콤보 세트 실전 모의 1"
+  },
+  {
+    "word": "legwork",
+    "pos": "noun",
+    "meaning": "발품, 실무적인 발로 뛰는 일",
+    "example": "Back then, finding a good apartment required a lot of legwork.",
+    "collocation": "do the legwork",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-09-08",
+    "topic": "예상 콤보 세트 실전 모의 1"
+  },
+  {
+    "word": "high-resolution photos",
+    "pos": "noun phrase",
+    "meaning": "고해상도 사진",
+    "example": "High-resolution photos are essential for online real estate listings.",
+    "collocation": "provide high-resolution photos",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-09-08",
+    "topic": "예상 콤보 세트 실전 모의 1"
+  },
+  {
+    "word": "depend primarily on",
+    "pos": "verb phrase",
+    "meaning": "주로 ~에 의존하다",
+    "example": "Many buyers depend primarily on mobile apps for their initial search.",
+    "collocation": "depend primarily on feedback",
+    "tier": "extend",
+    "linked_word": "rely heavily on",
+    "date": "2026-09-08",
+    "topic": "예상 콤보 세트 실전 모의 1"
+  },
+  {
+    "word": "filter out",
+    "pos": "verb phrase",
+    "meaning": "걸러내다",
+    "example": "I used the app to filter out properties that were too expensive.",
+    "collocation": "filter out unnecessary information",
+    "tier": "extend",
+    "linked_word": "sift through",
+    "date": "2026-09-08",
+    "topic": "예상 콤보 세트 실전 모의 1"
+  },
+  {
+    "word": "reliable realtor",
+    "pos": "noun phrase",
+    "meaning": "믿을 만한 공인중개사",
+    "example": "A reliable realtor will tell you the pros and cons of each area.",
+    "collocation": "work with a reliable realtor",
+    "tier": "extend",
+    "linked_word": "reputable agent",
+    "date": "2026-09-08",
+    "topic": "예상 콤보 세트 실전 모의 1"
+  },
+  {
+    "word": "360-degree walkthrough",
+    "pos": "noun phrase",
+    "meaning": "360도 둘러보기",
+    "example": "The website offers a 360-degree walkthrough of every room.",
+    "collocation": "interactive 360-degree walkthrough",
+    "tier": "extend",
+    "linked_word": "virtual tour",
+    "date": "2026-09-08",
+    "topic": "예상 콤보 세트 실전 모의 1"
+  },
+  {
+    "word": "whittle down",
+    "pos": "verb phrase",
+    "meaning": "(수를) 서서히 줄이다",
+    "example": "I managed to whittle down the list of apartments to just two.",
+    "collocation": "whittle down a list",
+    "tier": "extend",
+    "linked_word": "narrow down",
+    "date": "2026-09-08",
+    "topic": "예상 콤보 세트 실전 모의 1"
   }
 ]
