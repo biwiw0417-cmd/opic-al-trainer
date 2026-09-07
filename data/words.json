@@ -6070,5 +6070,170 @@
     "linked_word": "step up",
     "date": "2026-09-04",
     "topic": "사회적 이슈에 의견 말하기"
+  },
+  {
+    "word": "stay informed",
+    "pos": "verb phrase",
+    "meaning": "뉴스를 계속 접하다, 정보를 계속 파악하다",
+    "example": "I try to stay informed by checking news apps every morning.",
+    "collocation": "stay informed about current events",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-09-07",
+    "topic": "뉴스나 기사 내용 설명하기"
+  },
+  {
+    "word": "make headlines",
+    "pos": "verb phrase",
+    "meaning": "대서특필되다, 뉴스 헤드라인을 장식하다",
+    "example": "The 'lonely death' crisis among the younger generation has made headlines recently.",
+    "collocation": "make headlines worldwide",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-09-07",
+    "topic": "뉴스나 기사 내용 설명하기"
+  },
+  {
+    "word": "be on everyone's lips",
+    "pos": "idiom",
+    "meaning": "모두의 입에 오르내리다, 화제가 되다",
+    "example": "This issue has been on everyone's lips lately because it's so heartbreaking.",
+    "collocation": "be on everyone's lips these days",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-09-07",
+    "topic": "뉴스나 기사 내용 설명하기"
+  },
+  {
+    "word": "spark a debate",
+    "pos": "verb phrase",
+    "meaning": "논쟁을 불러일으키다",
+    "example": "This whole situation has sparked a debate about our society's safety net.",
+    "collocation": "spark a debate over a new law",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-09-07",
+    "topic": "뉴스나 기사 내용 설명하기"
+  },
+  {
+    "word": "take a toll on",
+    "pos": "verb phrase",
+    "meaning": "~에 타격을 주다, ~을 상하게 하다",
+    "example": "The high cost of living is taking a toll on the mental health of many.",
+    "collocation": "take a heavy toll on one's health",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-09-07",
+    "topic": "뉴스나 기사 내용 설명하기"
+  },
+  {
+    "word": "vicious cycle",
+    "pos": "noun phrase",
+    "meaning": "악순환",
+    "example": "It feels like a vicious cycle where financial struggle leads to social withdrawal.",
+    "collocation": "break the vicious cycle",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-09-07",
+    "topic": "뉴스나 기사 내용 설명하기"
+  },
+  {
+    "word": "public outcry",
+    "pos": "noun phrase",
+    "meaning": "대중의 강력한 항의, 격분",
+    "example": "There has been a huge public outcry for better government policies.",
+    "collocation": "cause a massive public outcry",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-09-07",
+    "topic": "뉴스나 기사 내용 설명하기"
+  },
+  {
+    "word": "at an alarming rate",
+    "pos": "adverb phrase",
+    "meaning": "놀라울 정도로 빠르게, 우려스러운 속도로",
+    "example": "The number of young adults living in isolation is increasing at an alarming rate.",
+    "collocation": "growing at an alarming rate",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-09-07",
+    "topic": "뉴스나 기사 내용 설명하기"
+  },
+  {
+    "word": "implement a policy",
+    "pos": "verb phrase",
+    "meaning": "정책을 시행하다",
+    "example": "The government needs to implement a policy that actually works.",
+    "collocation": "implement a strict policy",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-09-07",
+    "topic": "뉴스나 기사 내용 설명하기"
+  },
+  {
+    "word": "address the root cause",
+    "pos": "verb phrase",
+    "meaning": "근본 원인을 해결하다",
+    "example": "We need to address the root cause of this problem rather than temporary fixes.",
+    "collocation": "fail to address the root cause",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-09-07",
+    "topic": "뉴스나 기사 내용 설명하기"
+  },
+  {
+    "word": "get a grasp of",
+    "pos": "verb phrase",
+    "meaning": "~을 파악하다, 이해하다",
+    "example": "I read several articles to get a grasp of the current economic situation.",
+    "collocation": "get a firm grasp of the facts",
+    "tier": "extend",
+    "linked_word": "stay informed",
+    "date": "2026-09-07",
+    "topic": "뉴스나 기사 내용 설명하기"
+  },
+  {
+    "word": "be the talk of the town",
+    "pos": "idiom",
+    "meaning": "마을의 화제가 되다, 세간의 주목을 받다",
+    "example": "The new housing regulation is the talk of the town among young couples.",
+    "collocation": "become the talk of the town",
+    "tier": "extend",
+    "linked_word": "be on everyone's lips",
+    "date": "2026-09-07",
+    "topic": "뉴스나 기사 내용 설명하기"
+  },
+  {
+    "word": "gain traction",
+    "pos": "verb phrase",
+    "meaning": "지지를 얻다, 호응을 얻다",
+    "example": "The idea of a shorter work week is starting to gain traction in the news.",
+    "collocation": "gain traction among the public",
+    "tier": "extend",
+    "linked_word": "spark a debate",
+    "date": "2026-09-07",
+    "topic": "뉴스나 기사 내용 설명하기"
+  },
+  {
+    "word": "detrimental effect",
+    "pos": "noun phrase",
+    "meaning": "해로운 영향",
+    "example": "Social isolation can have a detrimental effect on one's well-being.",
+    "collocation": "have a detrimental effect on the economy",
+    "tier": "extend",
+    "linked_word": "take a toll on",
+    "date": "2026-09-07",
+    "topic": "뉴스나 기사 내용 설명하기"
+  },
+  {
+    "word": "impose a regulation",
+    "pos": "verb phrase",
+    "meaning": "규제를 도입/부과하다",
+    "example": "The authorities decided to impose a regulation to stabilize the market.",
+    "collocation": "impose a strict regulation on exports",
+    "tier": "extend",
+    "linked_word": "implement a policy",
+    "date": "2026-09-07",
+    "topic": "뉴스나 기사 내용 설명하기"
   }
 ]
