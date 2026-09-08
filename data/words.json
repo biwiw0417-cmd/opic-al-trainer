@@ -6389,5 +6389,170 @@
     "linked_word": "narrow down",
     "date": "2026-09-08",
     "topic": "예상 콤보 세트 실전 모의 1"
+  },
+  {
+    "word": "take the plunge",
+    "pos": "idiom",
+    "meaning": "결단을 내리다, 과감히 뛰어들다",
+    "example": "I decided to take the plunge and backpack across Jeju Island completely on my own.",
+    "collocation": "finally take the plunge",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-09-09",
+    "topic": "예상 콤보 세트 실전 모의 2 + 최종 전략 점검"
+  },
+  {
+    "word": "step out of one's comfort zone",
+    "pos": "phrase",
+    "meaning": "익숙하고 편안한 안전지대를 벗어나다",
+    "example": "Stepping out of my comfort zone was downright terrifying.",
+    "collocation": "dare to step out of one's comfort zone",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-09-09",
+    "topic": "예상 콤보 세트 실전 모의 2 + 최종 전략 점검"
+  },
+  {
+    "word": "leap of faith",
+    "pos": "noun phrase",
+    "meaning": "맹신, 큰 결단, 불확실성을 안고 내딛는 용기 있는 도약",
+    "example": "The main point is that it was a huge leap of faith for me.",
+    "collocation": "take a leap of faith",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-09-09",
+    "topic": "예상 콤보 세트 실전 모의 2 + 최종 전략 점검"
+  },
+  {
+    "word": "think on one's feet",
+    "pos": "idiom",
+    "meaning": "순발력을 발휘하다, 즉석에서 빠르게 대처하다",
+    "example": "Without GPS, I had to think on my feet and rely on physical trail markers.",
+    "collocation": "ability to think on one's feet",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-09-09",
+    "topic": "예상 콤보 세트 실전 모의 2 + 최종 전략 점검"
+  },
+  {
+    "word": "sense of accomplishment",
+    "pos": "noun phrase",
+    "meaning": "성취감",
+    "example": "Finding my way back gave me an unbelievable sense of accomplishment.",
+    "collocation": "feel a profound sense of accomplishment",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-09-09",
+    "topic": "예상 콤보 세트 실전 모의 2 + 최종 전략 점검"
+  },
+  {
+    "word": "rite of passage",
+    "pos": "noun phrase",
+    "meaning": "통과의례, 성인식",
+    "example": "That whole experience served as a rite of passage for me.",
+    "collocation": "an essential rite of passage",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-09-09",
+    "topic": "예상 콤보 세트 실전 모의 2 + 최종 전략 점검"
+  },
+  {
+    "word": "foster one's independence",
+    "pos": "verb phrase",
+    "meaning": "자립심/독립성을 기르다",
+    "example": "That first solo trip truly fostered my independence.",
+    "collocation": "foster personal independence",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-09-09",
+    "topic": "예상 콤보 세트 실전 모의 2 + 최종 전략 점검"
+  },
+  {
+    "word": "unforgettable milestone",
+    "pos": "noun phrase",
+    "meaning": "잊을 수 없는 중대한 이정표",
+    "example": "It remains an unforgettable milestone in my life.",
+    "collocation": "mark an unforgettable milestone",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-09-09",
+    "topic": "예상 콤보 세트 실전 모의 2 + 최종 전략 점검"
+  },
+  {
+    "word": "under the wing of",
+    "pos": "idiom",
+    "meaning": "~의 보호 아래, ~의 그늘 아래",
+    "example": "Up until that point, I had always traveled under the wing of my parents.",
+    "collocation": "stay under the wing of someone",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-09-09",
+    "topic": "예상 콤보 세트 실전 모의 2 + 최종 전략 점검"
+  },
+  {
+    "word": "instill confidence",
+    "pos": "verb phrase",
+    "meaning": "자신감을 심어주다",
+    "example": "It completely reshaped my perspective and instilled confidence in me.",
+    "collocation": "instill strong confidence",
+    "tier": "core",
+    "linked_word": null,
+    "date": "2026-09-09",
+    "topic": "예상 콤보 세트 실전 모의 2 + 최종 전략 점검"
+  },
+  {
+    "word": "bite the bullet",
+    "pos": "idiom",
+    "meaning": "이를 악물고 결단을 내리다, 고통을 참고 감행하다",
+    "example": "I had to bite the bullet and book the solo flight tickets right away.",
+    "collocation": "bite the bullet and go",
+    "tier": "extend",
+    "linked_word": "take the plunge",
+    "date": "2026-09-09",
+    "topic": "예상 콤보 세트 실전 모의 2 + 최종 전략 점검"
+  },
+  {
+    "word": "push past boundaries",
+    "pos": "verb phrase",
+    "meaning": "자신의 한계를 뛰어넘다",
+    "example": "Traveling alone really forced me to push past boundaries.",
+    "collocation": "push past one's own boundaries",
+    "tier": "extend",
+    "linked_word": "step out of one's comfort zone",
+    "date": "2026-09-09",
+    "topic": "예상 콤보 세트 실전 모의 2 + 최종 전략 점검"
+  },
+  {
+    "word": "gamble on the unknown",
+    "pos": "verb phrase",
+    "meaning": "미지의 것에 모험을 걸다",
+    "example": "Embarking on that solo journey felt like a true gamble on the unknown.",
+    "collocation": "take a gamble on the unknown",
+    "tier": "extend",
+    "linked_word": "leap of faith",
+    "date": "2026-09-09",
+    "topic": "예상 콤보 세트 실전 모의 2 + 최종 전략 점검"
+  },
+  {
+    "word": "improvise on the spot",
+    "pos": "verb phrase",
+    "meaning": "즉석에서 임기응변하다",
+    "example": "When things went sideways, I had no choice but to improvise on the spot.",
+    "collocation": "improvise on the spot quickly",
+    "tier": "extend",
+    "linked_word": "think on one's feet",
+    "date": "2026-09-09",
+    "topic": "예상 콤보 세트 실전 모의 2 + 최종 전략 점검"
+  },
+  {
+    "word": "feeling of fulfillment",
+    "pos": "noun phrase",
+    "meaning": "보람, 성취감",
+    "example": "Overcoming that crisis gave me an immense feeling of fulfillment.",
+    "collocation": "deep feeling of fulfillment",
+    "tier": "extend",
+    "linked_word": "sense of accomplishment",
+    "date": "2026-09-09",
+    "topic": "예상 콤보 세트 실전 모의 2 + 최종 전략 점검"
   }
 ]

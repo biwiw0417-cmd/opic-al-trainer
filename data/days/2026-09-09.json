@@ -1,0 +1,282 @@
+{
+  "date": "2026-09-09",
+  "question": {
+    "english": "You indicated in the survey that you like to travel. Think about the very first trip you took by yourself without your family. Where did you go, what happened, and why was it so memorable? Tell me everything from start to finish.",
+    "korean": "설문에서 여행을 좋아한다고 표시하셨습니다. 가족 없이 혼자 떠났던 생애 첫 여행에 대해 생각해 보세요. 어디로 갔고, 무슨 일이 있었으며, 왜 그 여행이 그토록 기억에 남았나요? 처음부터 끝까지 자세히 이야기해 주세요.",
+    "combo_context": "OPIc 6-6 난이도 여행 콤보 3연속 세트(11번 롤플레이 질문, 12번 문제 해결에 이어지는 13번 또는 14~15번 심층 서사 세트) 중 '과거 잊을 수 없는 첫 경험'을 묻는 3번째 완결 질문입니다."
+  },
+  "model_answer": {
+    "script": "Well, Eva, talking about my very first solo trip brings back so many vivid memories. Looking back, it was right after graduating from college when I decided to take the plunge and backpack across Jeju Island completely on my own.\n\nTo be honest, the main point is that it was a huge leap of faith for me. Up until that point, I had always traveled under the wing of my parents, so stepping out of my comfort zone was downright terrifying. When I arrived, the weather was gloomy and I felt totally overwhelmed by the sheer thought of navigating everything solo.\n\nActually, the real challenge started on day two. I got lost while hiking along the coastal trail because my phone battery died. Without GPS, I had to think on my feet and rely on physical trail markers and ask local villagers for directions. The thing is, what started as a panic turned into something truly magical. The locals were so warm-hearted, and finding my way back gave me an unbelievable sense of accomplishment.\n\nThat whole experience served as a rite of passage for me. It completely reshaped my perspective and instilled confidence that I could handle any unpredictable challenge life throws at me.\n\nSo yeah, that first solo trip wasn't just a vacation; it truly fostered my independence and remains an unforgettable milestone in my life.",
+    "structure_note": "서론(생애 첫 나홀로 제주 여행 회상) → MP(부모 그늘 벗어나 안전지대를 깨는 도약이었음) → 디테일 확장(핸드폰 방전으로 조난 위기, 기지를 발휘해 현지인에게 길 묻고 극복) → 감정/생각(진정한 성인식 같았고 시각을 재정립하며 자신감 부여) → 마무리(단순 휴가가 아닌 자립심을 길러준 인생의 이정표).",
+    "al_points": [
+      "과거 시제 서사에서 'Up until that point, I had always traveled...'와 같은 대과거(과거완료)를 자연스럽게 활용하여 시점 간의 선후 관계를 완벽히 통제했습니다.",
+      "'take the plunge', 'stepping out of my comfort zone', 'think on my feet', 'sense of accomplishment' 등 고득점 이디엄과 콜로케이션을 스토리 전개 속에 억지스럽지 않게 매끄럽게 녹여냈습니다.",
+      "단순한 일정 나열에 그치지 않고 'What started as A turned into B' 구조를 통해 사건의 극적 반전과 내면의 성장을 대비시키는 고차원적 스토리텔링을 구현했습니다."
+    ]
+  },
+  "vocab": [
+    {
+      "word": "take the plunge",
+      "pos": "idiom",
+      "meaning": "결단을 내리다, 과감히 뛰어들다",
+      "example": "I decided to take the plunge and backpack across Jeju Island completely on my own.",
+      "collocation": "finally take the plunge",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "step out of one's comfort zone",
+      "pos": "phrase",
+      "meaning": "익숙하고 편안한 안전지대를 벗어나다",
+      "example": "Stepping out of my comfort zone was downright terrifying.",
+      "collocation": "dare to step out of one's comfort zone",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "leap of faith",
+      "pos": "noun phrase",
+      "meaning": "맹신, 큰 결단, 불확실성을 안고 내딛는 용기 있는 도약",
+      "example": "The main point is that it was a huge leap of faith for me.",
+      "collocation": "take a leap of faith",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "think on one's feet",
+      "pos": "idiom",
+      "meaning": "순발력을 발휘하다, 즉석에서 빠르게 대처하다",
+      "example": "Without GPS, I had to think on my feet and rely on physical trail markers.",
+      "collocation": "ability to think on one's feet",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "sense of accomplishment",
+      "pos": "noun phrase",
+      "meaning": "성취감",
+      "example": "Finding my way back gave me an unbelievable sense of accomplishment.",
+      "collocation": "feel a profound sense of accomplishment",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "rite of passage",
+      "pos": "noun phrase",
+      "meaning": "통과의례, 성인식",
+      "example": "That whole experience served as a rite of passage for me.",
+      "collocation": "an essential rite of passage",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "foster one's independence",
+      "pos": "verb phrase",
+      "meaning": "자립심/독립성을 기르다",
+      "example": "That first solo trip truly fostered my independence.",
+      "collocation": "foster personal independence",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "unforgettable milestone",
+      "pos": "noun phrase",
+      "meaning": "잊을 수 없는 중대한 이정표",
+      "example": "It remains an unforgettable milestone in my life.",
+      "collocation": "mark an unforgettable milestone",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "under the wing of",
+      "pos": "idiom",
+      "meaning": "~의 보호 아래, ~의 그늘 아래",
+      "example": "Up until that point, I had always traveled under the wing of my parents.",
+      "collocation": "stay under the wing of someone",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "instill confidence",
+      "pos": "verb phrase",
+      "meaning": "자신감을 심어주다",
+      "example": "It completely reshaped my perspective and instilled confidence in me.",
+      "collocation": "instill strong confidence",
+      "tier": "core",
+      "linked_word": null
+    },
+    {
+      "word": "bite the bullet",
+      "pos": "idiom",
+      "meaning": "이를 악물고 결단을 내리다, 고통을 참고 감행하다",
+      "example": "I had to bite the bullet and book the solo flight tickets right away.",
+      "collocation": "bite the bullet and go",
+      "tier": "extend",
+      "linked_word": "take the plunge"
+    },
+    {
+      "word": "push past boundaries",
+      "pos": "verb phrase",
+      "meaning": "자신의 한계를 뛰어넘다",
+      "example": "Traveling alone really forced me to push past boundaries.",
+      "collocation": "push past one's own boundaries",
+      "tier": "extend",
+      "linked_word": "step out of one's comfort zone"
+    },
+    {
+      "word": "gamble on the unknown",
+      "pos": "verb phrase",
+      "meaning": "미지의 것에 모험을 걸다",
+      "example": "Embarking on that solo journey felt like a true gamble on the unknown.",
+      "collocation": "take a gamble on the unknown",
+      "tier": "extend",
+      "linked_word": "leap of faith"
+    },
+    {
+      "word": "improvise on the spot",
+      "pos": "verb phrase",
+      "meaning": "즉석에서 임기응변하다",
+      "example": "When things went sideways, I had no choice but to improvise on the spot.",
+      "collocation": "improvise on the spot quickly",
+      "tier": "extend",
+      "linked_word": "think on one's feet"
+    },
+    {
+      "word": "feeling of fulfillment",
+      "pos": "noun phrase",
+      "meaning": "보람, 성취감",
+      "example": "Overcoming that crisis gave me an immense feeling of fulfillment.",
+      "collocation": "deep feeling of fulfillment",
+      "tier": "extend",
+      "linked_word": "sense of accomplishment"
+    }
+  ],
+  "vocab_quiz": [
+    {
+      "type": "matching",
+      "question": "'take the plunge'의 가장 알맞은 한국어 의미는 무엇일까요?",
+      "choices": [
+        "과감히 결단을 내리다",
+        "갑작스럽게 계획을 취소하다",
+        "위험을 피해 뒤로 물러서다",
+        "깊은 슬픔에 잠기다"
+      ],
+      "answer_index": 0
+    },
+    {
+      "type": "matching",
+      "question": "'think on one's feet'의 올바른 뜻은 무엇일까요?",
+      "choices": [
+        "오랜 시간 서서 고민하다",
+        "발걸음을 재촉하여 도망치다",
+        "순발력을 발휘해 즉석에서 대처하다",
+        "남의 조언에 맹목적으로 따르다"
+      ],
+      "answer_index": 2
+    },
+    {
+      "type": "matching",
+      "question": "'rite of passage'의 알맞은 의미는 무엇일까요?",
+      "choices": [
+        "비상 탈출 경로",
+        "통과의례 (성인식)",
+        "통행 허가증",
+        "우회 도로 안내"
+      ],
+      "answer_index": 1
+    },
+    {
+      "type": "blank",
+      "question": "다음 빈칸에 들어갈 단어로 가장 적절한 것은? 'Without GPS, I had to ____ and rely on physical trail markers.'",
+      "choices": [
+        "lose face",
+        "think on my feet",
+        "stand my ground",
+        "fall through"
+      ],
+      "answer_index": 1
+    },
+    {
+      "type": "blank",
+      "question": "다음 빈칸에 들어갈 표현은? 'Finding my way back gave me an unbelievable ____.'",
+      "choices": [
+        "sense of dread",
+        "night-and-day contrast",
+        "clerical error",
+        "sense of accomplishment"
+      ],
+      "answer_index": 3
+    },
+    {
+      "type": "synonym",
+      "question": "스크립트의 'take the plunge'를 대체하여 '어려움을 감수하고 결단을 내리다'라는 뉘앙스로 바꿔 쓰기에 가장 적절한 표현은?",
+      "choices": [
+        "bite the bullet",
+        "sift through",
+        "narrow down",
+        "fall through"
+      ],
+      "answer_index": 0
+    },
+    {
+      "type": "synonym",
+      "question": "스크립트의 'sense of accomplishment' 대신 쓸 수 있는 유의어는?",
+      "choices": [
+        "feeling of fulfillment",
+        "clerical error",
+        "last-minute hassle",
+        "unforeseen mix-up"
+      ],
+      "answer_index": 0
+    }
+  ],
+  "patterns": [
+    {
+      "pattern": "The main point is that it was a huge [noun phrase] for me.",
+      "meaning": "요점은 그것이 제게 엄청난 [명사구]였다는 것입니다.",
+      "usage_today": "To be honest, the main point is that it was a huge leap of faith for me.",
+      "extra_example": "The main point is that it was a huge wake-up call for me to take my health seriously."
+    },
+    {
+      "pattern": "What started as [noun/clause] turned into [noun phrase].",
+      "meaning": "[명사]로 시작했던 것이 [명사구]로 바뀌었습니다 / 전화위복되었습니다.",
+      "usage_today": "The thing is, what started as a panic turned into something truly magical.",
+      "extra_example": "What started as an awkward conversation turned into a lifelong friendship."
+    }
+  ],
+  "review_words": [
+    {
+      "word": "unforeseen mix-up",
+      "learned_date": "2026-09-02",
+      "new_example": "During my first solo trip, an unforeseen mix-up at the guesthouse left me without a room for the night."
+    },
+    {
+      "word": "last-minute hassle",
+      "learned_date": "2026-09-02",
+      "new_example": "Having to rebook my ferry ticket turned out to be a stressful last-minute hassle."
+    },
+    {
+      "word": "stand one's ground",
+      "learned_date": "2026-09-02",
+      "new_example": "When the cab driver tried to overcharge me, I learned to stand my ground firmly."
+    },
+    {
+      "word": "clerical error",
+      "learned_date": "2026-09-02",
+      "new_example": "It turned out my bus ticket had the wrong date due to a minor clerical error."
+    }
+  ],
+  "review_patterns": [],
+  "checklist": [
+    "오늘 단어를 4개 이상 썼다",
+    "과거 시제가 흔들리지 않았다",
+    "MP 후 디테일을 2개 이상 확장했다",
+    "감정이나 생각을 말했다",
+    "마무리 문장을 했다",
+    "필러 없이 침묵 3초 이상이 없었다"
+  ],
+  "type": "daily",
+  "unit": 8,
+  "unit_title": "고난도 마무리 (14~15번 + 실전)",
+  "topic": "예상 콤보 세트 실전 모의 2 + 최종 전략 점검"
+}
